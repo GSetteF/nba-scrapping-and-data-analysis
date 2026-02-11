@@ -1,11 +1,12 @@
 📊 Projeto – Análise Exploratória de Dados da NBA
+
 📚 Introdução à Ciência de Dados
 
 👥 Integrantes do Grupo
 
-[Gabriel Sette de Figueirêdo - 20250114544]
+Gabriel Sette de Figueirêdo - 20250114544
 
-[Jocyneide Bernardo da Silva - 20230103230]
+Jocyneide Bernardo da Silva - 20230103230
 
 🏀 Tema do Projeto
 
