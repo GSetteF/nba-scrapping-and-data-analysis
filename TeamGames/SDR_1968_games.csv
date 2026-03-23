@@ -1,0 +1,83 @@
+G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Opponent,Unnamed: 6,Unnamed: 7,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Sat, Oct 14, 1967",,Box Score,,St. Louis Hawks,L,,98,99,0,1,L 1,,,,False,SDR,1968
+2,"Tue, Oct 17, 1967",,Box Score,,St. Louis Hawks,L,,105,123,0,2,L 2,,,,False,SDR,1968
+3,"Fri, Oct 20, 1967",,Box Score,@,Seattle SuperSonics,W,,121,114,1,2,W 1,,,,False,SDR,1968
+4,"Sat, Oct 21, 1967",,Box Score,,Seattle SuperSonics,L,OT,110,117,1,3,L 1,,,,False,SDR,1968
+5,"Sun, Oct 22, 1967",,Box Score,@,San Francisco Warriors,L,,126,137,1,4,L 2,,,,False,SDR,1968
+6,"Wed, Oct 25, 1967",,Box Score,,Baltimore Bullets,L,,109,125,1,5,L 3,,,,False,SDR,1968
+7,"Fri, Oct 27, 1967",,Box Score,,Cincinnati Royals,L,,113,116,1,6,L 4,,,,False,SDR,1968
+8,"Sun, Oct 29, 1967",,Box Score,,Cincinnati Royals,L,,99,108,1,7,L 5,,,,False,SDR,1968
+9,"Wed, Nov 1, 1967",,Box Score,N,Seattle SuperSonics,W,,139,125,2,7,W 1,,,"at Portland, OR",False,SDR,1968
+10,"Sat, Nov 4, 1967",,Box Score,,New York Knicks,L,,121,125,2,8,L 1,,,,False,SDR,1968
+11,"Sun, Nov 5, 1967",,Box Score,,New York Knicks,L,,107,115,2,9,L 2,,,,False,SDR,1968
+12,"Tue, Nov 7, 1967",,Box Score,,Philadelphia 76ers,L,,105,130,2,10,L 3,,,,False,SDR,1968
+13,"Wed, Nov 8, 1967",,Box Score,,Philadelphia 76ers,L,,114,129,2,11,L 4,,,,False,SDR,1968
+14,"Sat, Nov 11, 1967",,Box Score,@,Cincinnati Royals,L,,108,109,2,12,L 5,,,,False,SDR,1968
+15,"Sun, Nov 12, 1967",,Box Score,@,St. Louis Hawks,L,,105,116,2,13,L 6,,,,False,SDR,1968
+16,"Tue, Nov 14, 1967",,Box Score,@,New York Knicks,L,,109,122,2,14,L 7,,,,False,SDR,1968
+17,"Wed, Nov 15, 1967",,Box Score,N,New York Knicks,W,,122,108,3,14,W 1,,,"at Boston, MA",False,SDR,1968
+18,"Thu, Nov 16, 1967",,Box Score,,Chicago Bulls,W,,99,91,4,14,W 2,,,,False,SDR,1968
+19,"Fri, Nov 17, 1967",,Box Score,@,Seattle SuperSonics,L,,124,130,4,15,L 1,,,,False,SDR,1968
+20,"Sat, Nov 18, 1967",,Box Score,,San Francisco Warriors,L,,124,142,4,16,L 2,,,,False,SDR,1968
+21,"Tue, Nov 21, 1967",,Box Score,N,Boston Celtics,L,,114,121,4,17,L 3,8734,,"at New York, NY",False,SDR,1968
+22,"Wed, Nov 22, 1967",,Box Score,@,Boston Celtics,L,,110,124,4,18,L 4,10194,,,False,SDR,1968
+23,"Thu, Nov 23, 1967",,Box Score,@,Philadelphia 76ers,L,,117,128,4,19,L 5,,,,False,SDR,1968
+24,"Fri, Nov 24, 1967",,Box Score,@,Detroit Pistons,L,,122,130,4,20,L 6,,,,False,SDR,1968
+25,"Sat, Nov 25, 1967",,Box Score,@,St. Louis Hawks,L,,109,110,4,21,L 7,,,,False,SDR,1968
+26,"Thu, Nov 30, 1967",,Box Score,,St. Louis Hawks,L,,87,129,4,22,L 8,,,,False,SDR,1968
+27,"Sat, Dec 2, 1967",,Box Score,,San Francisco Warriors,W,,127,103,5,22,W 1,,,,False,SDR,1968
+28,"Tue, Dec 5, 1967",,Box Score,N,Detroit Pistons,L,,110,111,5,23,L 1,,,"at New York, NY",False,SDR,1968
+29,"Thu, Dec 7, 1967",,Box Score,@,Chicago Bulls,W,,118,108,6,23,W 1,,,,False,SDR,1968
+30,"Fri, Dec 8, 1967",,Box Score,@,San Francisco Warriors,W,,137,107,7,23,W 2,,,"at Oakland, CA",False,SDR,1968
+31,"Sat, Dec 9, 1967",,Box Score,,Los Angeles Lakers,L,,109,127,7,24,L 1,,,,False,SDR,1968
+32,"Tue, Dec 12, 1967",,Box Score,,Chicago Bulls,W,,118,104,8,24,W 1,,,,False,SDR,1968
+33,"Fri, Dec 15, 1967",,Box Score,N,Boston Celtics,L,,101,114,8,25,L 1,6421,,"at Philadelphia, PA",False,SDR,1968
+34,"Sat, Dec 16, 1967",,Box Score,@,New York Knicks,L,,102,126,8,26,L 2,,,,False,SDR,1968
+35,"Sun, Dec 17, 1967",,Box Score,,Detroit Pistons,W,,117,115,9,26,W 1,,,,False,SDR,1968
+36,"Wed, Dec 20, 1967",,Box Score,,Boston Celtics,L,,116,126,9,27,L 1,9224,,,False,SDR,1968
+37,"Fri, Dec 22, 1967",,Box Score,@,San Francisco Warriors,L,,97,103,9,28,L 2,,,,False,SDR,1968
+38,"Sat, Dec 23, 1967",,Box Score,,Detroit Pistons,L,,119,123,9,29,L 3,,,,False,SDR,1968
+39,"Mon, Dec 25, 1967",,Box Score,,Los Angeles Lakers,W,,104,101,10,29,W 1,,,,False,SDR,1968
+40,"Thu, Dec 28, 1967",,Box Score,@,Seattle SuperSonics,W,,143,125,11,29,W 2,,,,False,SDR,1968
+41,"Sun, Dec 31, 1967",,Box Score,@,Los Angeles Lakers,L,,118,147,11,30,L 1,,,,False,SDR,1968
+42,"Wed, Jan 3, 1968",,Box Score,,St. Louis Hawks,W,2OT,126,124,12,30,W 1,,,,False,SDR,1968
+43,"Sat, Jan 6, 1968",,Box Score,,Seattle SuperSonics,L,,104,122,12,31,L 1,,,,False,SDR,1968
+44,"Tue, Jan 9, 1968",,Box Score,,New York Knicks,L,,105,118,12,32,L 2,,,,False,SDR,1968
+45,"Wed, Jan 10, 1968",,Box Score,,Detroit Pistons,W,,122,118,13,32,W 1,,,,False,SDR,1968
+46,"Fri, Jan 12, 1968",,Box Score,@,St. Louis Hawks,L,,89,111,13,33,L 1,,,,False,SDR,1968
+47,"Sat, Jan 13, 1968",,Box Score,@,Cincinnati Royals,L,,116,122,13,34,L 2,,,,False,SDR,1968
+48,"Tue, Jan 16, 1968",,Box Score,@,Chicago Bulls,L,,110,123,13,35,L 3,,,,False,SDR,1968
+49,"Wed, Jan 17, 1968",,Box Score,N,Chicago Bulls,W,,110,104,14,35,W 1,,,"at Baltimore, MD",False,SDR,1968
+50,"Thu, Jan 18, 1968",,Box Score,N,Cincinnati Royals,L,,126,129,14,36,L 1,,,"at Cleveland, OH",False,SDR,1968
+51,"Sun, Jan 21, 1968",,Box Score,@,Boston Celtics,L,,112,139,14,37,L 2,7006,,,False,SDR,1968
+52,"Thu, Jan 25, 1968",,Box Score,,Baltimore Bullets,L,,113,127,14,38,L 3,,,,False,SDR,1968
+53,"Sat, Jan 27, 1968",,Box Score,,Baltimore Bullets,L,,122,123,14,39,L 4,,,,False,SDR,1968
+54,"Thu, Feb 1, 1968",,Box Score,,San Francisco Warriors,L,,114,128,14,40,L 5,,,,False,SDR,1968
+55,"Fri, Feb 2, 1968",,Box Score,@,San Francisco Warriors,L,,121,127,14,41,L 6,,,"at Oakland, CA",False,SDR,1968
+56,"Sat, Feb 3, 1968",,Box Score,@,Los Angeles Lakers,L,,122,133,14,42,L 7,,,,False,SDR,1968
+57,"Mon, Feb 5, 1968",,Box Score,N,Baltimore Bullets,L,,108,121,14,43,L 8,,,"at Winston-Salem, NC",False,SDR,1968
+58,"Tue, Feb 6, 1968",,Box Score,N,Detroit Pistons,L,,93,120,14,44,L 9,,,"at New York, NY",False,SDR,1968
+59,"Wed, Feb 7, 1968",,Box Score,N,Philadelphia 76ers,L,,103,125,14,45,L 10,,,"at Boston, MA",False,SDR,1968
+60,"Thu, Feb 8, 1968",,Box Score,N,Baltimore Bullets,L,,102,106,14,46,L 11,,,"at Chicago, IL",False,SDR,1968
+61,"Sat, Feb 10, 1968",,Box Score,,Cincinnati Royals,L,,99,101,14,47,L 12,,,,False,SDR,1968
+62,"Sun, Feb 11, 1968",,Box Score,@,Baltimore Bullets,L,,116,136,14,48,L 13,,,,False,SDR,1968
+63,"Tue, Feb 13, 1968",,Box Score,@,Chicago Bulls,L,,102,114,14,49,L 14,,,,False,SDR,1968
+64,"Wed, Feb 14, 1968",,Box Score,@,New York Knicks,L,,102,114,14,50,L 15,,,,False,SDR,1968
+65,"Thu, Feb 15, 1968",,Box Score,,San Francisco Warriors,L,,114,134,14,51,L 16,,,,False,SDR,1968
+66,"Fri, Feb 16, 1968",,Box Score,,Philadelphia 76ers,L,,108,124,14,52,L 17,,,,False,SDR,1968
+67,"Sun, Feb 18, 1968",,Box Score,,Philadelphia 76ers,W,,111,106,15,52,W 1,,,,False,SDR,1968
+68,"Fri, Feb 23, 1968",,Box Score,,Seattle SuperSonics,L,,122,127,15,53,L 1,,,,False,SDR,1968
+69,"Sun, Feb 25, 1968",,Box Score,,Los Angeles Lakers,L,,112,127,15,54,L 2,,,,False,SDR,1968
+70,"Mon, Feb 26, 1968",,Box Score,,Boston Celtics,L,,110,118,15,55,L 3,4694,,,False,SDR,1968
+71,"Thu, Feb 29, 1968",,Box Score,,Cincinnati Royals,L,,114,120,15,56,L 4,,,,False,SDR,1968
+72,"Fri, Mar 1, 1968",,Box Score,,Baltimore Bullets,L,,114,156,15,57,L 5,,,,False,SDR,1968
+73,"Sun, Mar 3, 1968",,Box Score,@,St. Louis Hawks,L,,104,106,15,58,L 6,,,,False,SDR,1968
+74,"Tue, Mar 5, 1968",,Box Score,@,Philadelphia 76ers,L,,103,134,15,59,L 7,,,,False,SDR,1968
+75,"Wed, Mar 6, 1968",,Box Score,@,Detroit Pistons,L,,118,140,15,60,L 8,,,,False,SDR,1968
+76,"Thu, Mar 7, 1968",,Box Score,,Los Angeles Lakers,L,,102,119,15,61,L 9,,,,False,SDR,1968
+77,"Fri, Mar 8, 1968",,Box Score,@,Los Angeles Lakers,L,,122,130,15,62,L 10,,,,False,SDR,1968
+78,"Sat, Mar 9, 1968",,Box Score,,Seattle SuperSonics,L,,111,115,15,63,L 11,,,,False,SDR,1968
+79,"Wed, Mar 13, 1968",,Box Score,,Boston Celtics,L,,118,144,15,64,L 12,5569,,,False,SDR,1968
+80,"Sun, Mar 17, 1968",,Box Score,,Chicago Bulls,L,,121,129,15,65,L 13,,,,False,SDR,1968
+81,"Tue, Mar 19, 1968",,Box Score,@,Los Angeles Lakers,L,,109,121,15,66,L 14,,,,False,SDR,1968
+82,"Wed, Mar 20, 1968",,Box Score,,Chicago Bulls,L,,112,121,15,67,L 15,,,,False,SDR,1968

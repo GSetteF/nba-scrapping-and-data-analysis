@@ -1,0 +1,94 @@
+G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Opponent,Unnamed: 6,Unnamed: 7,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Wed, Oct 16, 1968",,Box Score,,Cincinnati Royals,L,,110,125,0,1,L 1,,,,False,ATL,1969
+2,"Sat, Oct 19, 1968",,Box Score,,Milwaukee Bucks,W,,125,107,1,1,W 1,,,,False,ATL,1969
+3,"Wed, Oct 23, 1968",,Box Score,,Chicago Bulls,W,,106,91,2,1,W 2,,,,False,ATL,1969
+4,"Fri, Oct 25, 1968",,Box Score,@,Seattle SuperSonics,L,,112,123,2,2,L 1,,,,False,ATL,1969
+5,"Sun, Oct 27, 1968",,Box Score,@,Phoenix Suns,W,,123,100,3,2,W 1,,,,False,ATL,1969
+6,"Tue, Oct 29, 1968",,Box Score,@,Los Angeles Lakers,L,,124,125,3,3,L 1,,,,False,ATL,1969
+7,"Wed, Oct 30, 1968",,Box Score,@,San Diego Rockets,L,,116,127,3,4,L 2,,,,False,ATL,1969
+8,"Fri, Nov 1, 1968",,Box Score,,San Francisco Warriors,W,,109,105,4,4,W 1,,,,False,ATL,1969
+9,"Sun, Nov 3, 1968",,Box Score,,Boston Celtics,L,,103,123,4,5,L 1,5248,,,False,ATL,1969
+10,"Wed, Nov 6, 1968",,Box Score,@,Baltimore Bullets,L,,119,140,4,6,L 2,,,,False,ATL,1969
+11,"Fri, Nov 8, 1968",,Box Score,,San Diego Rockets,W,,114,101,5,6,W 1,,,,False,ATL,1969
+12,"Sat, Nov 9, 1968",,Box Score,,San Francisco Warriors,W,,113,106,6,6,W 2,,,,False,ATL,1969
+13,"Tue, Nov 12, 1968",,Box Score,@,San Francisco Warriors,L,,108,123,6,7,L 1,,,,False,ATL,1969
+14,"Wed, Nov 13, 1968",,Box Score,@,Seattle SuperSonics,W,,142,113,7,7,W 1,,,,False,ATL,1969
+15,"Fri, Nov 15, 1968",,Box Score,,Philadelphia 76ers,L,,115,116,7,8,L 1,,,,False,ATL,1969
+16,"Sat, Nov 16, 1968",,Box Score,@,Cincinnati Royals,L,,125,130,7,9,L 2,,,,False,ATL,1969
+17,"Tue, Nov 19, 1968",,Box Score,@,Milwaukee Bucks,L,,98,119,7,10,L 3,,,,False,ATL,1969
+18,"Wed, Nov 20, 1968",,Box Score,,New York Knicks,W,,111,106,8,10,W 1,,,,False,ATL,1969
+19,"Thu, Nov 21, 1968",,Box Score,@,Detroit Pistons,W,,129,121,9,10,W 2,,,,False,ATL,1969
+20,"Sat, Nov 23, 1968",,Box Score,@,Chicago Bulls,W,,114,96,10,10,W 3,,,,False,ATL,1969
+21,"Sun, Nov 24, 1968",,Box Score,,Baltimore Bullets,L,,111,118,10,11,L 1,,,,False,ATL,1969
+22,"Tue, Nov 26, 1968",,Box Score,@,Baltimore Bullets,L,,99,102,10,12,L 2,,,,False,ATL,1969
+23,"Wed, Nov 27, 1968",,Box Score,,Cincinnati Royals,W,,94,91,11,12,W 1,,,,False,ATL,1969
+24,"Sat, Nov 30, 1968",,Box Score,@,Cincinnati Royals,W,,126,109,12,12,W 2,,,,False,ATL,1969
+25,"Tue, Dec 3, 1968",,Box Score,@,New York Knicks,L,,93,126,12,13,L 1,,,,False,ATL,1969
+26,"Wed, Dec 4, 1968",,Box Score,,New York Knicks,L,,113,121,12,14,L 2,,,,False,ATL,1969
+27,"Fri, Dec 6, 1968",,Box Score,,Los Angeles Lakers,L,,94,99,12,15,L 3,,,,False,ATL,1969
+28,"Sun, Dec 8, 1968",,Box Score,@,Phoenix Suns,W,,121,99,13,15,W 1,,,,False,ATL,1969
+29,"Tue, Dec 10, 1968",,Box Score,@,San Francisco Warriors,W,,111,100,14,15,W 2,,,,False,ATL,1969
+30,"Thu, Dec 12, 1968",,Box Score,@,Seattle SuperSonics,W,,93,91,15,15,W 3,,,,False,ATL,1969
+31,"Fri, Dec 13, 1968",,Box Score,@,Los Angeles Lakers,W,,105,103,16,15,W 4,,,,False,ATL,1969
+32,"Tue, Dec 17, 1968",,Box Score,@,Chicago Bulls,W,,87,83,17,15,W 5,,,,False,ATL,1969
+33,"Wed, Dec 18, 1968",,Box Score,,Milwaukee Bucks,W,,122,116,18,15,W 6,,,,False,ATL,1969
+34,"Sat, Dec 21, 1968",,Box Score,,Detroit Pistons,W,,120,110,19,15,W 7,,,,False,ATL,1969
+35,"Thu, Dec 26, 1968",,Box Score,,Seattle SuperSonics,W,,126,96,20,15,W 8,,,,False,ATL,1969
+36,"Sat, Dec 28, 1968",,Box Score,,Boston Celtics,W,,110,97,21,15,W 9,6555,,,False,ATL,1969
+37,"Sun, Dec 29, 1968",,Box Score,,Baltimore Bullets,W,,101,99,22,15,W 10,,,,False,ATL,1969
+38,"Thu, Jan 2, 1969",,Box Score,@,Chicago Bulls,W,,106,88,23,15,W 11,,,,False,ATL,1969
+39,"Fri, Jan 3, 1969",,Box Score,@,Detroit Pistons,W,,128,106,24,15,W 12,,,,False,ATL,1969
+40,"Sat, Jan 4, 1969",,Box Score,,Los Angeles Lakers,L,,111,121,24,16,L 1,,,,False,ATL,1969
+41,"Sun, Jan 5, 1969",,Box Score,,Phoenix Suns,W,,97,96,25,16,W 1,,,,False,ATL,1969
+42,"Wed, Jan 8, 1969",,Box Score,@,Philadelphia 76ers,L,,111,112,25,17,L 1,,,,False,ATL,1969
+43,"Fri, Jan 10, 1969",,Box Score,,Detroit Pistons,W,,104,101,26,17,W 1,,,,False,ATL,1969
+44,"Sat, Jan 11, 1969",,Box Score,,Los Angeles Lakers,W,,104,100,27,17,W 2,,,,False,ATL,1969
+45,"Thu, Jan 16, 1969",,Box Score,N,Phoenix Suns,W,,112,107,28,17,W 3,,,"at Columbia, SC",False,ATL,1969
+46,"Fri, Jan 17, 1969",,Box Score,,Phoenix Suns,W,,112,107,29,17,W 4,,,,False,ATL,1969
+47,"Sun, Jan 19, 1969",,Box Score,,New York Knicks,W,,100,96,30,17,W 5,,,,False,ATL,1969
+48,"Tue, Jan 21, 1969",,Box Score,@,San Diego Rockets,L,,113,124,30,18,L 1,,,,False,ATL,1969
+49,"Wed, Jan 22, 1969",,Box Score,@,Phoenix Suns,W,,125,107,31,18,W 1,,,,False,ATL,1969
+50,"Fri, Jan 24, 1969",,Box Score,,Los Angeles Lakers,W,,110,106,32,18,W 2,,,,False,ATL,1969
+51,"Sat, Jan 25, 1969",,Box Score,@,Baltimore Bullets,W,,112,109,33,18,W 3,,,,False,ATL,1969
+52,"Sun, Jan 26, 1969",,Box Score,,Philadelphia 76ers,L,,115,119,33,19,L 1,,,,False,ATL,1969
+53,"Tue, Jan 28, 1969",,Box Score,@,Boston Celtics,L,,96,108,33,20,L 2,8465,,,False,ATL,1969
+54,"Wed, Jan 29, 1969",,Box Score,@,Philadelphia 76ers,L,,96,119,33,21,L 3,,,,False,ATL,1969
+55,"Fri, Jan 31, 1969",,Box Score,,Seattle SuperSonics,L,,112,119,33,22,L 4,,,,False,ATL,1969
+56,"Sat, Feb 1, 1969",,Box Score,,Detroit Pistons,W,,119,99,34,22,W 1,,,,False,ATL,1969
+57,"Sun, Feb 2, 1969",,Box Score,,San Diego Rockets,W,,115,103,35,22,W 2,,,,False,ATL,1969
+58,"Tue, Feb 4, 1969",,Box Score,@,New York Knicks,L,,97,122,35,23,L 1,,,,False,ATL,1969
+59,"Fri, Feb 7, 1969",,Box Score,@,Boston Celtics,W,,109,107,36,23,W 1,8037,,,False,ATL,1969
+60,"Sat, Feb 8, 1969",,Box Score,,Chicago Bulls,W,,106,97,37,23,W 2,,,,False,ATL,1969
+61,"Sun, Feb 9, 1969",,Box Score,,Baltimore Bullets,L,,101,102,37,24,L 1,,,,False,ATL,1969
+62,"Tue, Feb 11, 1969",,Box Score,,San Francisco Warriors,L,,87,92,37,25,L 2,,,,False,ATL,1969
+63,"Wed, Feb 12, 1969",,Box Score,@,Milwaukee Bucks,W,,113,106,38,25,W 1,,,,False,ATL,1969
+64,"Fri, Feb 14, 1969",,Box Score,,Boston Celtics,W,OT,104,101,39,25,W 2,6402,,,False,ATL,1969
+65,"Sun, Feb 16, 1969",,Box Score,,San Francisco Warriors,L,,106,113,39,26,L 1,,,,False,ATL,1969
+66,"Mon, Feb 17, 1969",,Box Score,N,Milwaukee Bucks,L,,111,123,39,27,L 2,,,"at Baltimore, MD",False,ATL,1969
+67,"Tue, Feb 18, 1969",,Box Score,N,Cincinnati Royals,W,,124,123,40,27,W 1,,,"at Cleveland, OH",False,ATL,1969
+68,"Thu, Feb 20, 1969",,Box Score,@,Detroit Pistons,W,,97,87,41,27,W 2,,,,False,ATL,1969
+69,"Sun, Feb 23, 1969",,Box Score,,San Diego Rockets,W,,124,92,42,27,W 3,,,,False,ATL,1969
+70,"Tue, Feb 25, 1969",,Box Score,@,New York Knicks,L,,101,122,42,28,L 1,,,,False,ATL,1969
+71,"Fri, Feb 28, 1969",,Box Score,@,Boston Celtics,L,,120,122,42,29,L 2,9103,,,False,ATL,1969
+72,"Sun, Mar 2, 1969",,Box Score,,Milwaukee Bucks,W,,112,108,43,29,W 1,,,,False,ATL,1969
+73,"Thu, Mar 6, 1969",,Box Score,,Philadelphia 76ers,W,,138,99,44,29,W 2,,,,False,ATL,1969
+74,"Sun, Mar 9, 1969",,Box Score,,Cincinnati Royals,W,,134,107,45,29,W 3,,,,False,ATL,1969
+75,"Tue, Mar 11, 1969",,Box Score,@,Chicago Bulls,L,,90,102,45,30,L 1,,,,False,ATL,1969
+76,"Wed, Mar 12, 1969",,Box Score,,Chicago Bulls,W,,109,90,46,30,W 1,,,,False,ATL,1969
+77,"Sat, Mar 15, 1969",,Box Score,@,Philadelphia 76ers,L,,120,122,46,31,L 1,,,,False,ATL,1969
+78,"Sun, Mar 16, 1969",,Box Score,,Seattle SuperSonics,W,OT,131,127,47,31,W 1,,,,False,ATL,1969
+79,"Tue, Mar 18, 1969",,Box Score,@,San Francisco Warriors,W,,128,115,48,31,W 2,,,,False,ATL,1969
+80,"Thu, Mar 20, 1969",,Box Score,@,San Diego Rockets,L,,97,115,48,32,L 1,,,,False,ATL,1969
+81,"Fri, Mar 21, 1969",,Box Score,@,Los Angeles Lakers,L,,103,116,48,33,L 2,,,,False,ATL,1969
+82,"Sun, Mar 23, 1969",,Box Score,@,San Diego Rockets,L,,121,128,48,34,L 3,,,,False,ATL,1969
+1,"Thu, Mar 27, 1969",,Box Score,,San Diego Rockets,W,,107,98,1,0,W 1,,,,True,ATL,1969
+2,"Sat, Mar 29, 1969",,Box Score,,San Diego Rockets,W,,116,114,2,0,W 2,,,,True,ATL,1969
+3,"Tue, Apr 1, 1969",,Box Score,@,San Diego Rockets,L,,97,104,2,1,L 1,,,,True,ATL,1969
+4,"Fri, Apr 4, 1969",,Box Score,@,San Diego Rockets,L,,112,114,2,2,L 2,,,,True,ATL,1969
+5,"Sun, Apr 6, 1969",,Box Score,,San Diego Rockets,W,,112,101,3,2,W 1,,,,True,ATL,1969
+6,"Mon, Apr 7, 1969",,Box Score,@,San Diego Rockets,W,,108,106,4,2,W 2,,,,True,ATL,1969
+7,"Fri, Apr 11, 1969",,Box Score,@,Los Angeles Lakers,L,,93,95,4,3,L 1,,,,True,ATL,1969
+8,"Sun, Apr 13, 1969",,Box Score,@,Los Angeles Lakers,L,,102,104,4,4,L 2,,,,True,ATL,1969
+9,"Tue, Apr 15, 1969",,Box Score,,Los Angeles Lakers,W,,99,86,5,4,W 1,,,,True,ATL,1969
+10,"Thu, Apr 17, 1969",,Box Score,,Los Angeles Lakers,L,,85,100,5,5,L 1,,,,True,ATL,1969
+11,"Sun, Apr 20, 1969",,Box Score,@,Los Angeles Lakers,L,,96,104,5,6,L 2,,,,True,ATL,1969

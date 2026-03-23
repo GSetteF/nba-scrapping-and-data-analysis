@@ -1,0 +1,85 @@
+G,Date,Start (ET),Unnamed: 3,Unnamed: 4,Unnamed: 5,Opponent,Unnamed: 7,Unnamed: 8,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Fri, Oct 29, 1982",7:40p,,Box Score,,Chicago Bulls,W,,114,102,1,0,W 1,11042,2:06,,False,NJN,1983
+2,"Sat, Oct 30, 1982",,,Box Score,@,Philadelphia 76ers,L,,99,110,1,1,L 1,18482,1:57,,False,NJN,1983
+3,"Tue, Nov 2, 1982",7:42p,,Box Score,,San Diego Clippers,W,,110,100,2,1,W 1,10220,2:05,,False,NJN,1983
+4,"Wed, Nov 3, 1982",,,Box Score,@,Washington Bullets,L,,85,104,2,2,L 1,14872,,,False,NJN,1983
+5,"Fri, Nov 5, 1982",,,Box Score,@,Cleveland Cavaliers,W,,99,91,3,2,W 1,2981,,,False,NJN,1983
+6,"Sun, Nov 7, 1982",7:16p,,Box Score,,Boston Celtics,L,,100,102,3,3,L 1,15550,2:08,,False,NJN,1983
+7,"Tue, Nov 9, 1982",,,Box Score,@,New York Knicks,W,,84,82,4,3,W 1,14128,,,False,NJN,1983
+8,"Wed, Nov 10, 1982",7:42p,,Box Score,,New York Knicks,W,,99,90,5,3,W 2,14076,2:01,,False,NJN,1983
+9,"Fri, Nov 12, 1982",,,Box Score,@,Chicago Bulls,L,,105,113,5,4,L 1,5828,,,False,NJN,1983
+10,"Sat, Nov 13, 1982",7:43p,,Box Score,,Philadelphia 76ers,L,,100,110,5,5,L 2,18805,2:10,,False,NJN,1983
+11,"Wed, Nov 17, 1982",,,Box Score,@,Utah Jazz,L,,97,101,5,6,L 3,7627,,,False,NJN,1983
+12,"Fri, Nov 19, 1982",,,Box Score,@,Portland Trail Blazers,L,,108,118,5,7,L 4,12666,,,False,NJN,1983
+13,"Sun, Nov 21, 1982",,,Box Score,@,Seattle SuperSonics,W,,111,91,6,7,W 1,13353,,,False,NJN,1983
+14,"Tue, Nov 23, 1982",,,Box Score,@,Golden State Warriors,W,,110,103,7,7,W 2,9200,,,False,NJN,1983
+15,"Wed, Nov 24, 1982",,,Box Score,@,San Diego Clippers,L,,109,114,7,8,L 1,3064,,,False,NJN,1983
+16,"Fri, Nov 26, 1982",,,Box Score,@,Phoenix Suns,L,,99,110,7,9,L 2,11678,,,False,NJN,1983
+17,"Tue, Nov 30, 1982",7:42p,,Box Score,,Kansas City Kings,W,,112,103,8,9,W 1,9662,2:13,,False,NJN,1983
+18,"Wed, Dec 1, 1982",,,Box Score,@,Washington Bullets,W,,105,99,9,9,W 2,7291,,,False,NJN,1983
+19,"Fri, Dec 3, 1982",,,Box Score,@,Atlanta Hawks,W,,107,99,10,9,W 3,6884,,,False,NJN,1983
+20,"Sun, Dec 5, 1982",7:41p,,Box Score,,Milwaukee Bucks,W,,108,103,11,9,W 4,11016,2:08,,False,NJN,1983
+21,"Wed, Dec 8, 1982",7:42p,,Box Score,,Washington Bullets,W,,98,95,12,9,W 5,9082,2:00,,False,NJN,1983
+22,"Fri, Dec 10, 1982",7:45p,,Box Score,,San Antonio Spurs,L,,102,114,12,10,L 1,11686,1:55,,False,NJN,1983
+23,"Wed, Dec 15, 1982",,,Box Score,@,Kansas City Kings,L,,118,119,12,11,L 2,7440,,,False,NJN,1983
+24,"Fri, Dec 17, 1982",,,Box Score,@,Los Angeles Lakers,L,,106,117,12,12,L 3,15786,,,False,NJN,1983
+25,"Sat, Dec 18, 1982",,,Box Score,@,Denver Nuggets,W,,123,114,13,12,W 1,13121,,,False,NJN,1983
+26,"Tue, Dec 21, 1982",7:42p,,Box Score,,Detroit Pistons,L,,97,102,13,13,L 1,12081,2:03,,False,NJN,1983
+27,"Thu, Dec 23, 1982",8:10p,,Box Score,,Washington Bullets,W,,97,90,14,13,W 1,11610,2:05,,False,NJN,1983
+28,"Sat, Dec 25, 1982",,,Box Score,@,New York Knicks,W,OT,112,110,15,13,W 2,11752,,,False,NJN,1983
+29,"Mon, Dec 27, 1982",7:42p,,Box Score,,Cleveland Cavaliers,W,,94,82,16,13,W 3,11035,1:54,,False,NJN,1983
+30,"Wed, Dec 29, 1982",7:42p,,Box Score,,Atlanta Hawks,W,,104,99,17,13,W 4,13119,1:57,,False,NJN,1983
+31,"Sat, Jan 1, 1983",7:40p,,Box Score,,Dallas Mavericks,W,,111,105,18,13,W 5,10157,2:00,,False,NJN,1983
+32,"Tue, Jan 4, 1983",,,Box Score,@,Milwaukee Bucks,W,,102,95,19,13,W 6,9950,,,False,NJN,1983
+33,"Thu, Jan 6, 1983",7:41p,,Box Score,,Phoenix Suns,W,,94,93,20,13,W 7,10673,1:58,,False,NJN,1983
+34,"Fri, Jan 7, 1983",,,Box Score,@,Chicago Bulls,W,,111,98,21,13,W 8,5682,,,False,NJN,1983
+35,"Sun, Jan 9, 1983",7:09p,,Box Score,,Detroit Pistons,W,,110,102,22,13,W 9,10256,2:09,,False,NJN,1983
+36,"Tue, Jan 11, 1983",7:45p,,Box Score,,Los Angeles Lakers,W,,110,96,23,13,W 10,20149,1:54,,False,NJN,1983
+37,"Wed, Jan 12, 1983",,,Box Score,@,Indiana Pacers,W,,120,114,24,13,W 11,3050,,,False,NJN,1983
+38,"Fri, Jan 14, 1983",,,Box Score,@,Boston Celtics,L,,108,133,24,14,L 1,15320,2:00,,False,NJN,1983
+39,"Sat, Jan 15, 1983",8:11p,,Box Score,,New York Knicks,W,,100,96,25,14,W 1,15187,2:14,,False,NJN,1983
+40,"Mon, Jan 17, 1983",7:39p,,Box Score,,Atlanta Hawks,L,,96,102,25,15,L 1,10156,2:00,,False,NJN,1983
+41,"Fri, Jan 21, 1983",7:42p,,Box Score,,Cleveland Cavaliers,W,,105,99,26,15,W 1,10729,2:06,,False,NJN,1983
+42,"Sun, Jan 23, 1983",7:45p,,Box Score,,Seattle SuperSonics,W,,105,102,27,15,W 2,13276,2:05,,False,NJN,1983
+43,"Tue, Jan 25, 1983",,,Box Score,@,Houston Rockets,L,,111,114,27,16,L 1,7097,,,False,NJN,1983
+44,"Fri, Jan 28, 1983",,,Box Score,@,Dallas Mavericks,W,,115,110,28,16,W 1,14371,,,False,NJN,1983
+45,"Sat, Jan 29, 1983",,,Box Score,@,San Antonio Spurs,L,,109,120,28,17,L 1,11945,,,False,NJN,1983
+46,"Tue, Feb 1, 1983",7:42p,,Box Score,,Indiana Pacers,W,,120,111,29,17,W 1,9163,2:03,,False,NJN,1983
+47,"Wed, Feb 2, 1983",,,Box Score,@,Cleveland Cavaliers,W,,118,105,30,17,W 2,2071,,,False,NJN,1983
+48,"Fri, Feb 4, 1983",7:40p,,Box Score,,Chicago Bulls,W,,120,98,31,17,W 3,14548,1:59,,False,NJN,1983
+49,"Sat, Feb 5, 1983",,,Box Score,@,Detroit Pistons,L,,101,111,31,18,L 1,17398,,,False,NJN,1983
+50,"Tue, Feb 8, 1983",,,Box Score,@,Atlanta Hawks,W,,115,109,32,18,W 1,6187,,,False,NJN,1983
+51,"Wed, Feb 9, 1983",7:41p,,Box Score,,Indiana Pacers,W,,105,90,33,18,W 2,12664,2:07,,False,NJN,1983
+52,"Thu, Feb 17, 1983",7:42p,,Box Score,,Denver Nuggets,L,,108,117,33,19,L 1,12037,2:09,,False,NJN,1983
+53,"Sun, Feb 20, 1983",,,Box Score,@,Milwaukee Bucks,L,,108,109,33,20,L 2,11052,,,False,NJN,1983
+54,"Tue, Feb 22, 1983",,,Box Score,@,Indiana Pacers,W,,110,108,34,20,W 1,2993,,,False,NJN,1983
+55,"Wed, Feb 23, 1983",7:43p,,Box Score,,Chicago Bulls,W,,119,86,35,20,W 2,10046,2:13,,False,NJN,1983
+56,"Fri, Feb 25, 1983",7:42p,,Box Score,,Golden State Warriors,W,,115,107,36,20,W 3,12458,1:56,,False,NJN,1983
+57,"Sat, Feb 26, 1983",,,Box Score,@,Atlanta Hawks,L,,88,95,36,21,L 1,10451,,,False,NJN,1983
+58,"Wed, Mar 2, 1983",7:43p,,Box Score,,Houston Rockets,W,,124,85,37,21,W 1,10173,1:51,,False,NJN,1983
+59,"Fri, Mar 4, 1983",,,Box Score,@,Chicago Bulls,L,,119,124,37,22,L 1,6387,,,False,NJN,1983
+60,"Sun, Mar 6, 1983",12:06p,,Box Score,,Philadelphia 76ers,W,,112,106,38,22,W 1,20149,2:27,,False,NJN,1983
+61,"Mon, Mar 7, 1983",,,Box Score,@,Boston Celtics,L,,114,121,38,23,L 1,15165,2:21,"at Hartford, CT",False,NJN,1983
+62,"Wed, Mar 9, 1983",7:40p,,Box Score,,New York Knicks,L,,92,103,38,24,L 2,19347,1:59,,False,NJN,1983
+63,"Fri, Mar 11, 1983",7:40p,,Box Score,,Boston Celtics,W,,98,93,39,24,W 1,20149,2:05,,False,NJN,1983
+64,"Sun, Mar 13, 1983",7:11p,,Box Score,,Portland Trail Blazers,W,,109,94,40,24,W 2,12576,1:58,,False,NJN,1983
+65,"Tue, Mar 15, 1983",7:43p,,Box Score,,Detroit Pistons,W,,109,90,41,24,W 3,12133,1:59,,False,NJN,1983
+66,"Wed, Mar 16, 1983",,,Box Score,@,Cleveland Cavaliers,W,,96,90,42,24,W 4,1814,,,False,NJN,1983
+67,"Fri, Mar 18, 1983",,,Box Score,@,Boston Celtics,L,,103,116,42,25,L 1,15320,2:09,,False,NJN,1983
+68,"Sun, Mar 20, 1983",,,Box Score,@,Milwaukee Bucks,L,,92,107,42,26,L 2,9565,,,False,NJN,1983
+69,"Wed, Mar 23, 1983",7:40p,,Box Score,,Utah Jazz,W,,124,104,43,26,W 1,11457,1:56,,False,NJN,1983
+70,"Fri, Mar 25, 1983",,,Box Score,@,Philadelphia 76ers,W,,101,92,44,26,W 2,17311,2:01,,False,NJN,1983
+71,"Sat, Mar 26, 1983",7:41p,,Box Score,,Atlanta Hawks,W,,102,81,45,26,W 3,15281,2:03,,False,NJN,1983
+72,"Wed, Mar 30, 1983",7:40p,,Box Score,,Washington Bullets,L,,97,100,45,27,L 1,12162,1:58,,False,NJN,1983
+73,"Fri, Apr 1, 1983",,,Box Score,@,Philadelphia 76ers,W,,111,104,46,27,W 1,18482,2:13,,False,NJN,1983
+74,"Sat, Apr 2, 1983",7:40p,,Box Score,,Milwaukee Bucks,L,,103,105,46,28,L 1,14187,2:11,,False,NJN,1983
+75,"Tue, Apr 5, 1983",,,Box Score,@,Washington Bullets,L,,89,95,46,29,L 2,7162,,,False,NJN,1983
+76,"Wed, Apr 6, 1983",7:42p,,Box Score,,Indiana Pacers,W,,121,110,47,29,W 1,9160,2:02,,False,NJN,1983
+77,"Fri, Apr 8, 1983",,,Box Score,@,Detroit Pistons,L,,92,102,47,30,L 1,8779,,,False,NJN,1983
+78,"Sat, Apr 9, 1983",7:42p,,Box Score,,Cleveland Cavaliers,W,,115,105,48,30,W 1,9610,2:00,,False,NJN,1983
+79,"Tue, Apr 12, 1983",7:40p,,Box Score,,Boston Celtics,L,,93,99,48,31,L 1,17087,2:03,,False,NJN,1983
+80,"Wed, Apr 13, 1983",,,Box Score,@,New York Knicks,L,,100,108,48,32,L 2,14470,,,False,NJN,1983
+81,"Fri, Apr 15, 1983",7:45p,,Box Score,,Philadelphia 76ers,L,,98,100,48,33,L 3,16847,2:04,,False,NJN,1983
+82,"Sun, Apr 17, 1983",,,Box Score,@,Indiana Pacers,W,,112,99,49,33,W 1,5111,,,False,NJN,1983
+1,"Wed, Apr 20, 1983",8:11p,,Box Score,,New York Knicks,L,,107,118,0,1,L 1,15672,2:06,,True,NJN,1983
+2,"Thu, Apr 21, 1983",,,Box Score,@,New York Knicks,L,,99,105,0,2,L 2,19591,,,True,NJN,1983

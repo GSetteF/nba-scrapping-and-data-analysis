@@ -1,0 +1,85 @@
+G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Opponent,Unnamed: 6,Unnamed: 7,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Sat, Oct 27, 1956",,Box Score,,Minneapolis Lakers,W,,97,75,1,0,W 1,,,,False,STL,1957
+2,"Sat, Nov 3, 1956",,Box Score,N,Syracuse Nationals,L,,73,75,1,1,L 1,,,"at Buffalo, NY",False,STL,1957
+3,"Sun, Nov 4, 1956",,Box Score,@,Syracuse Nationals,W,,78,76,2,1,W 1,,,,False,STL,1957
+4,"Wed, Nov 7, 1956",,Box Score,,New York Knicks,W,,107,101,3,1,W 2,,,,False,STL,1957
+5,"Sat, Nov 10, 1956",,Box Score,,Fort Wayne Pistons,W,,86,79,4,1,W 3,,,,False,STL,1957
+6,"Sun, Nov 11, 1956",,Box Score,@,Fort Wayne Pistons,L,,81,96,4,2,L 1,,,,False,STL,1957
+7,"Tue, Nov 13, 1956",,Box Score,,Rochester Royals,W,,118,105,5,2,W 1,,,,False,STL,1957
+8,"Sat, Nov 17, 1956",,Box Score,,Fort Wayne Pistons,W,,92,87,6,2,W 2,,,,False,STL,1957
+9,"Sun, Nov 18, 1956",,Box Score,@,New York Knicks,L,,69,102,6,3,L 1,,,,False,STL,1957
+10,"Tue, Nov 20, 1956",,Box Score,,Syracuse Nationals,W,,104,81,7,3,W 1,,,,False,STL,1957
+11,"Wed, Nov 21, 1956",,Box Score,@,Rochester Royals,L,,76,85,7,4,L 1,,,,False,STL,1957
+12,"Sat, Nov 24, 1956",,Box Score,,Minneapolis Lakers,L,OT,102,104,7,5,L 2,,,,False,STL,1957
+13,"Sun, Nov 25, 1956",,Box Score,@,Minneapolis Lakers,W,,95,94,8,5,W 1,,,,False,STL,1957
+14,"Tue, Nov 27, 1956",,Box Score,,Boston Celtics,L,,90,102,8,6,L 1,6822,,,False,STL,1957
+15,"Sat, Dec 1, 1956",,Box Score,,Philadelphia Warriors,L,,95,107,8,7,L 2,,,,False,STL,1957
+16,"Tue, Dec 4, 1956",,Box Score,N,Boston Celtics,L,,107,108,8,8,L 3,9558,,"at New York, NY",False,STL,1957
+17,"Thu, Dec 6, 1956",,Box Score,N,Minneapolis Lakers,L,,96,103,8,9,L 4,,,"at Philadelphia, PA",False,STL,1957
+18,"Fri, Dec 7, 1956",,Box Score,,New York Knicks,L,,101,107,8,10,L 5,,,,False,STL,1957
+19,"Sat, Dec 8, 1956",,Box Score,N,New York Knicks,L,,104,109,8,11,L 6,,,"at Milwaukee, WI",False,STL,1957
+20,"Tue, Dec 11, 1956",,Box Score,@,New York Knicks,W,,137,128,9,11,W 1,,,,False,STL,1957
+21,"Wed, Dec 12, 1956",,Box Score,@,Philadelphia Warriors,L,,99,115,9,12,L 1,,,,False,STL,1957
+22,"Sat, Dec 15, 1956",,Box Score,@,Boston Celtics,L,,99,102,9,13,L 2,9811,,,False,STL,1957
+23,"Sun, Dec 16, 1956",,Box Score,@,Syracuse Nationals,L,,91,101,9,14,L 3,,,,False,STL,1957
+24,"Tue, Dec 18, 1956",,Box Score,N,Fort Wayne Pistons,W,,95,84,10,14,W 1,,,"at New York, NY",False,STL,1957
+25,"Sat, Dec 22, 1956",,Box Score,@,Boston Celtics,L,,93,95,10,15,L 1,11052,,,False,STL,1957
+26,"Tue, Dec 25, 1956",,Box Score,@,New York Knicks,W,OT,107,105,11,15,W 1,,,,False,STL,1957
+27,"Thu, Dec 27, 1956",,Box Score,,Syracuse Nationals,W,,102,95,12,15,W 2,,,,False,STL,1957
+28,"Sat, Dec 29, 1956",,Box Score,@,Minneapolis Lakers,W,,95,92,13,15,W 3,,,,False,STL,1957
+29,"Sun, Dec 30, 1956",,Box Score,,Minneapolis Lakers,W,,100,93,14,15,W 4,,,,False,STL,1957
+30,"Tue, Jan 1, 1957",,Box Score,@,Rochester Royals,L,OT,101,102,14,16,L 1,,,,False,STL,1957
+31,"Thu, Jan 3, 1957",,Box Score,N,Philadelphia Warriors,L,,81,82,14,17,L 2,,,"at New York, NY",False,STL,1957
+32,"Fri, Jan 4, 1957",,Box Score,@,Philadelphia Warriors,L,,92,96,14,18,L 3,,,,False,STL,1957
+33,"Sun, Jan 6, 1957",,Box Score,,Rochester Royals,L,,86,93,14,19,L 4,,,,False,STL,1957
+34,"Thu, Jan 10, 1957",,Box Score,N,New York Knicks,L,OT,84,89,14,20,L 5,,,"at Philadelphia, PA",False,STL,1957
+35,"Sat, Jan 12, 1957",,Box Score,,Boston Celtics,W,,100,98,15,20,W 1,14326,,,False,STL,1957
+36,"Sun, Jan 13, 1957",,Box Score,@,Fort Wayne Pistons,L,,89,91,15,21,L 1,,,,False,STL,1957
+37,"Wed, Jan 16, 1957",,Box Score,@,Rochester Royals,W,OT,108,106,16,21,W 1,,,,False,STL,1957
+38,"Thu, Jan 17, 1957",,Box Score,N,Fort Wayne Pistons,W,,106,82,17,21,W 2,,,"at Philadelphia, PA",False,STL,1957
+39,"Fri, Jan 18, 1957",,Box Score,@,Boston Celtics,L,,117,126,17,22,L 1,11763,,,False,STL,1957
+40,"Sat, Jan 19, 1957",,Box Score,@,Syracuse Nationals,W,,104,96,18,22,W 1,,,,False,STL,1957
+41,"Sun, Jan 20, 1957",,Box Score,,Philadelphia Warriors,W,OT,104,102,19,22,W 2,,,,False,STL,1957
+42,"Tue, Jan 22, 1957",,Box Score,@,Fort Wayne Pistons,L,,87,97,19,23,L 1,,,,False,STL,1957
+43,"Wed, Jan 23, 1957",,Box Score,N,Fort Wayne Pistons,W,,101,78,20,23,W 1,,,"at Charlotte, NC",False,STL,1957
+44,"Thu, Jan 24, 1957",,Box Score,@,Philadelphia Warriors,L,,96,107,20,24,L 1,,,,False,STL,1957
+45,"Fri, Jan 25, 1957",,Box Score,N,Rochester Royals,W,,100,99,21,24,W 1,,,"at Boston, MA",False,STL,1957
+46,"Sun, Jan 27, 1957",,Box Score,,Rochester Royals,W,,107,83,22,24,W 2,,,,False,STL,1957
+47,"Tue, Jan 29, 1957",,Box Score,,Fort Wayne Pistons,L,,85,91,22,25,L 1,,,,False,STL,1957
+48,"Sat, Feb 2, 1957",,Box Score,@,Minneapolis Lakers,W,,106,97,23,25,W 1,,,,False,STL,1957
+49,"Sun, Feb 3, 1957",,Box Score,,Minneapolis Lakers,W,,102,85,24,25,W 2,,,,False,STL,1957
+50,"Tue, Feb 5, 1957",,Box Score,,Philadelphia Warriors,L,,87,101,24,26,L 1,,,,False,STL,1957
+51,"Wed, Feb 6, 1957",,Box Score,@,Rochester Royals,L,,100,103,24,27,L 2,,,,False,STL,1957
+52,"Thu, Feb 7, 1957",,Box Score,@,Syracuse Nationals,L,,110,112,24,28,L 3,,,,False,STL,1957
+53,"Fri, Feb 8, 1957",,Box Score,@,Philadelphia Warriors,L,,90,93,24,29,L 4,,,,False,STL,1957
+54,"Sun, Feb 10, 1957",,Box Score,,Rochester Royals,W,,117,93,25,29,W 1,,,,False,STL,1957
+55,"Mon, Feb 11, 1957",,Box Score,N,Syracuse Nationals,W,,107,101,26,29,W 2,,,"at Houston, TX",False,STL,1957
+56,"Tue, Feb 12, 1957",,Box Score,N,Minneapolis Lakers,L,,105,110,26,30,L 1,,,"at Kansas City, MO",False,STL,1957
+57,"Fri, Feb 15, 1957",,Box Score,,Boston Celtics,L,2OT,116,123,26,31,L 2,6328,,,False,STL,1957
+58,"Sun, Feb 17, 1957",,Box Score,@,Minneapolis Lakers,W,OT,118,115,27,31,W 1,,,,False,STL,1957
+59,"Tue, Feb 19, 1957",,Box Score,,Fort Wayne Pistons,W,,96,83,28,31,W 2,,,,False,STL,1957
+60,"Thu, Feb 21, 1957",,Box Score,@,Boston Celtics,L,,112,125,28,32,L 1,10616,,,False,STL,1957
+61,"Sat, Feb 23, 1957",,Box Score,@,Rochester Royals,L,,86,101,28,33,L 2,,,,False,STL,1957
+62,"Sun, Feb 24, 1957",,Box Score,,Philadelphia Warriors,W,,113,112,29,33,W 1,,,,False,STL,1957
+63,"Mon, Feb 25, 1957",,Box Score,N,Minneapolis Lakers,W,,110,94,30,33,W 2,,,"at Fort Wayne, IN",False,STL,1957
+64,"Tue, Feb 26, 1957",,Box Score,@,New York Knicks,L,,76,107,30,34,L 1,,,,False,STL,1957
+65,"Wed, Feb 27, 1957",,Box Score,N,Syracuse Nationals,L,,93,108,30,35,L 2,,,"at Rochester, NY",False,STL,1957
+66,"Sat, Mar 2, 1957",,Box Score,,New York Knicks,L,,94,97,30,36,L 3,,,,False,STL,1957
+67,"Sun, Mar 3, 1957",,Box Score,@,Fort Wayne Pistons,W,,112,102,31,36,W 1,,,,False,STL,1957
+68,"Tue, Mar 5, 1957",,Box Score,,Boston Celtics,W,,104,102,32,36,W 2,6223,,,False,STL,1957
+69,"Fri, Mar 8, 1957",,Box Score,N,Rochester Royals,W,,100,92,33,36,W 3,,,"at Fort Wayne, IN",False,STL,1957
+70,"Sat, Mar 9, 1957",,Box Score,,Fort Wayne Pistons,W,,97,96,34,36,W 4,,,,False,STL,1957
+71,"Sun, Mar 10, 1957",,Box Score,@,Minneapolis Lakers,L,,104,117,34,37,L 1,,,,False,STL,1957
+72,"Wed, Mar 13, 1957",,Box Score,N,Rochester Royals,L,,99,104,34,38,L 2,,,"at Milwaukee, WI",False,STL,1957
+73,"Thu, Mar 14, 1957",,Box Score,,Fort Wayne Pistons,W,,115,103,35,38,W 1,,,Tiebreaker,False,STL,1957
+74,"Sat, Mar 16, 1957",,Box Score,,Minneapolis Lakers,W,OT,114,111,36,38,W 2,,,Tiebreaker,False,STL,1957
+1,"Thu, Mar 21, 1957",,Box Score,,Minneapolis Lakers,W,,118,109,1,0,W 1,,,,True,STL,1957
+2,"Sun, Mar 24, 1957",,Box Score,,Minneapolis Lakers,W,,106,104,2,0,W 2,,,,True,STL,1957
+3,"Mon, Mar 25, 1957",,Box Score,@,Minneapolis Lakers,W,2OT,143,135,3,0,W 3,,,,True,STL,1957
+4,"Sat, Mar 30, 1957",,Box Score,@,Boston Celtics,W,2OT,125,123,4,0,W 4,5976,,,True,STL,1957
+5,"Sun, Mar 31, 1957",,Box Score,@,Boston Celtics,L,,99,119,4,1,L 1,13909,,,True,STL,1957
+6,"Sat, Apr 6, 1957",,Box Score,,Boston Celtics,W,,100,98,5,1,W 1,10048,,,True,STL,1957
+7,"Sun, Apr 7, 1957",,Box Score,,Boston Celtics,L,,118,123,5,2,L 1,10035,,,True,STL,1957
+8,"Tue, Apr 9, 1957",,Box Score,@,Boston Celtics,L,,109,124,5,3,L 2,13909,,,True,STL,1957
+9,"Thu, Apr 11, 1957",,Box Score,,Boston Celtics,W,,96,94,6,3,W 1,10053,,,True,STL,1957
+10,"Sat, Apr 13, 1957",,Box Score,@,Boston Celtics,L,2OT,123,125,6,4,L 1,13909,,,True,STL,1957

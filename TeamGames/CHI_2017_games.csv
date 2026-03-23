@@ -1,0 +1,89 @@
+G,Date,Start (ET),Unnamed: 3,Unnamed: 4,Unnamed: 5,Opponent,Unnamed: 7,Unnamed: 8,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Thu, Oct 27, 2016",8:00p,,Box Score,,Boston Celtics,W,,105,99,1,0,W 1,21501,2:31,,False,CHI,2017
+2,"Sat, Oct 29, 2016",8:00p,,Box Score,,Indiana Pacers,W,,118,101,2,0,W 2,21373,2:00,,False,CHI,2017
+3,"Mon, Oct 31, 2016",7:30p,,Box Score,@,Brooklyn Nets,W,,118,88,3,0,W 3,15842,2:02,,False,CHI,2017
+4,"Wed, Nov 2, 2016",8:00p,,Box Score,@,Boston Celtics,L,,100,107,3,1,L 1,18624,2:27,,False,CHI,2017
+5,"Fri, Nov 4, 2016",8:00p,,Box Score,,New York Knicks,L,,104,117,3,2,L 2,22376,2:22,,False,CHI,2017
+6,"Sat, Nov 5, 2016",7:00p,,Box Score,@,Indiana Pacers,L,,94,111,3,3,L 3,17020,2:04,,False,CHI,2017
+7,"Mon, Nov 7, 2016",8:00p,,Box Score,,Orlando Magic,W,,112,80,4,3,W 1,21320,2:04,,False,CHI,2017
+8,"Wed, Nov 9, 2016",7:30p,,Box Score,@,Atlanta Hawks,L,,107,115,4,4,L 1,16354,2:24,,False,CHI,2017
+9,"Thu, Nov 10, 2016",8:00p,,Box Score,@,Miami Heat,W,,98,95,5,4,W 1,19600,2:25,,False,CHI,2017
+10,"Sat, Nov 12, 2016",8:00p,,Box Score,,Washington Wizards,W,,106,95,6,4,W 2,21962,2:11,,False,CHI,2017
+11,"Tue, Nov 15, 2016",10:00p,,Box Score,@,Portland Trail Blazers,W,,113,88,7,4,W 3,19393,2:04,,False,CHI,2017
+12,"Thu, Nov 17, 2016",10:30p,,Box Score,@,Utah Jazz,W,,85,77,8,4,W 4,19911,2:14,,False,CHI,2017
+13,"Sat, Nov 19, 2016",10:30p,,Box Score,@,Los Angeles Clippers,L,,95,102,8,5,L 1,19060,2:22,,False,CHI,2017
+14,"Sun, Nov 20, 2016",9:30p,,Box Score,@,Los Angeles Lakers,W,,118,110,9,5,W 1,18997,2:16,,False,CHI,2017
+15,"Tue, Nov 22, 2016",9:00p,,Box Score,@,Denver Nuggets,L,,107,110,9,6,L 1,14328,2:17,,False,CHI,2017
+16,"Fri, Nov 25, 2016",7:30p,,Box Score,@,Philadelphia 76ers,W,,105,89,10,6,W 1,18234,2:06,,False,CHI,2017
+17,"Wed, Nov 30, 2016",8:00p,,Box Score,,Los Angeles Lakers,L,,90,96,10,7,L 1,21773,2:30,,False,CHI,2017
+18,"Fri, Dec 2, 2016",8:00p,,Box Score,,Cleveland Cavaliers,W,,111,105,11,7,W 1,21775,2:10,,False,CHI,2017
+19,"Sat, Dec 3, 2016",8:30p,,Box Score,@,Dallas Mavericks,L,,82,107,11,8,L 1,19857,2:10,,False,CHI,2017
+20,"Mon, Dec 5, 2016",8:00p,,Box Score,,Portland Trail Blazers,L,,110,112,11,9,L 2,21351,2:23,,False,CHI,2017
+21,"Tue, Dec 6, 2016",7:30p,,Box Score,@,Detroit Pistons,L,,91,102,11,10,L 3,14305,2:13,,False,CHI,2017
+22,"Thu, Dec 8, 2016",9:30p,,Box Score,,San Antonio Spurs,W,,95,91,12,10,W 1,21489,2:17,,False,CHI,2017
+23,"Sat, Dec 10, 2016",8:00p,,Box Score,,Miami Heat,W,,105,100,13,10,W 2,21450,2:13,,False,CHI,2017
+24,"Tue, Dec 13, 2016",8:00p,,Box Score,,Minnesota Timberwolves,L,,94,99,13,11,L 1,21146,2:15,,False,CHI,2017
+25,"Thu, Dec 15, 2016",8:00p,,Box Score,@,Milwaukee Bucks,L,,97,108,13,12,L 2,16704,2:16,,False,CHI,2017
+26,"Fri, Dec 16, 2016",8:00p,,Box Score,,Milwaukee Bucks,L,,69,95,13,13,L 3,21324,1:57,,False,CHI,2017
+27,"Mon, Dec 19, 2016",8:00p,,Box Score,,Detroit Pistons,W,,113,82,14,13,W 1,21400,1:53,,False,CHI,2017
+28,"Wed, Dec 21, 2016",8:00p,,Box Score,,Washington Wizards,L,,97,107,14,14,L 1,21358,2:13,,False,CHI,2017
+29,"Fri, Dec 23, 2016",7:00p,,Box Score,@,Charlotte Hornets,L,,91,103,14,15,L 2,19249,2:08,,False,CHI,2017
+30,"Sun, Dec 25, 2016",5:00p,,Box Score,@,San Antonio Spurs,L,,100,119,14,16,L 3,18428,2:15,,False,CHI,2017
+31,"Mon, Dec 26, 2016",8:00p,,Box Score,,Indiana Pacers,W,,90,85,15,16,W 1,21922,2:11,,False,CHI,2017
+32,"Wed, Dec 28, 2016",8:00p,,Box Score,,Brooklyn Nets,W,,101,99,16,16,W 2,21957,2:19,,False,CHI,2017
+33,"Fri, Dec 30, 2016",4:00p,,Box Score,@,Indiana Pacers,L,,101,111,16,17,L 1,17923,2:19,,False,CHI,2017
+34,"Sat, Dec 31, 2016",7:00p,,Box Score,,Milwaukee Bucks,L,,96,116,16,18,L 2,21838,2:11,,False,CHI,2017
+35,"Mon, Jan 2, 2017",8:00p,,Box Score,,Charlotte Hornets,W,,118,111,17,18,W 1,21612,2:17,,False,CHI,2017
+36,"Wed, Jan 4, 2017",8:00p,,Box Score,@,Cleveland Cavaliers,W,,106,94,18,18,W 2,20562,2:18,,False,CHI,2017
+37,"Sat, Jan 7, 2017",8:00p,,Box Score,,Toronto Raptors,W,OT,123,118,19,18,W 3,21195,2:45,,False,CHI,2017
+38,"Mon, Jan 9, 2017",8:00p,,Box Score,,Oklahoma City Thunder,L,,94,109,19,19,L 1,21923,1:58,,False,CHI,2017
+39,"Tue, Jan 10, 2017",7:00p,,Box Score,@,Washington Wizards,L,,99,101,19,20,L 2,14361,2:14,,False,CHI,2017
+40,"Thu, Jan 12, 2017",8:00p,,Box Score,@,New York Knicks,L,,89,104,19,21,L 3,19812,2:13,,False,CHI,2017
+41,"Sat, Jan 14, 2017",5:00p,,Box Score,,New Orleans Pelicans,W,,107,99,20,21,W 1,21916,2:08,,False,CHI,2017
+42,"Sun, Jan 15, 2017",9:00p,,Box Score,@,Memphis Grizzlies,W,,108,104,21,21,W 2,18119,2:19,,False,CHI,2017
+43,"Tue, Jan 17, 2017",8:00p,,Box Score,,Dallas Mavericks,L,,98,99,21,22,L 1,21294,2:15,,False,CHI,2017
+44,"Fri, Jan 20, 2017",8:00p,,Box Score,@,Atlanta Hawks,L,,93,102,21,23,L 2,16328,2:09,,False,CHI,2017
+45,"Sat, Jan 21, 2017",9:00p,,Box Score,,Sacramento Kings,W,,102,99,22,23,W 1,21606,2:18,,False,CHI,2017
+46,"Tue, Jan 24, 2017",7:00p,,Box Score,@,Orlando Magic,W,,100,92,23,23,W 2,18846,2:11,,False,CHI,2017
+47,"Wed, Jan 25, 2017",8:00p,,Box Score,,Atlanta Hawks,L,,114,119,23,24,L 1,21445,2:14,,False,CHI,2017
+48,"Fri, Jan 27, 2017",8:00p,,Box Score,,Miami Heat,L,,88,100,23,25,L 2,22082,2:01,,False,CHI,2017
+49,"Sun, Jan 29, 2017",7:00p,,Box Score,,Philadelphia 76ers,W,,121,108,24,25,W 1,21606,2:11,,False,CHI,2017
+50,"Wed, Feb 1, 2017",9:30p,,Box Score,@,Oklahoma City Thunder,W,,128,100,25,25,W 2,18203,2:15,,False,CHI,2017
+51,"Fri, Feb 3, 2017",8:00p,,Box Score,@,Houston Rockets,L,OT,117,121,25,26,L 1,18055,2:50,,False,CHI,2017
+52,"Mon, Feb 6, 2017",10:30p,,Box Score,@,Sacramento Kings,W,,112,107,26,26,W 1,17608,2:13,,False,CHI,2017
+53,"Wed, Feb 8, 2017",10:30p,,Box Score,@,Golden State Warriors,L,,92,123,26,27,L 1,19596,2:12,,False,CHI,2017
+54,"Fri, Feb 10, 2017",10:30p,,Box Score,@,Phoenix Suns,L,,97,115,26,28,L 2,18055,2:12,,False,CHI,2017
+55,"Sun, Feb 12, 2017",3:30p,,Box Score,@,Minnesota Timberwolves,L,,89,117,26,29,L 3,19356,2:02,,False,CHI,2017
+56,"Tue, Feb 14, 2017",8:00p,,Box Score,,Toronto Raptors,W,,105,94,27,29,W 1,21220,2:17,,False,CHI,2017
+57,"Thu, Feb 16, 2017",8:00p,,Box Score,,Boston Celtics,W,,104,103,28,29,W 2,21866,2:21,,False,CHI,2017
+58,"Fri, Feb 24, 2017",8:00p,,Box Score,,Phoenix Suns,W,OT,128,121,29,29,W 3,21641,2:31,,False,CHI,2017
+59,"Sat, Feb 25, 2017",8:30p,,Box Score,@,Cleveland Cavaliers,W,,117,99,30,29,W 4,20562,2:11,,False,CHI,2017
+60,"Tue, Feb 28, 2017",8:00p,,Box Score,,Denver Nuggets,L,,107,125,30,30,L 1,21015,1:59,,False,CHI,2017
+61,"Thu, Mar 2, 2017",8:00p,,Box Score,,Golden State Warriors,W,,94,87,31,30,W 1,22253,2:17,,False,CHI,2017
+62,"Sat, Mar 4, 2017",8:30p,,Box Score,,Los Angeles Clippers,L,,91,101,31,31,L 1,22807,2:13,,False,CHI,2017
+63,"Mon, Mar 6, 2017",7:30p,,Box Score,@,Detroit Pistons,L,,95,109,31,32,L 2,16039,2:12,,False,CHI,2017
+64,"Wed, Mar 8, 2017",7:00p,,Box Score,@,Orlando Magic,L,,91,98,31,33,L 3,16063,2:06,,False,CHI,2017
+65,"Fri, Mar 10, 2017",8:00p,,Box Score,,Houston Rockets,L,,94,115,31,34,L 4,21995,2:06,,False,CHI,2017
+66,"Sun, Mar 12, 2017",3:30p,,Box Score,@,Boston Celtics,L,,80,100,31,35,L 5,18624,2:03,,False,CHI,2017
+67,"Mon, Mar 13, 2017",7:00p,,Box Score,@,Charlotte Hornets,W,,115,109,32,35,W 1,16489,2:14,,False,CHI,2017
+68,"Wed, Mar 15, 2017",8:00p,,Box Score,,Memphis Grizzlies,L,,91,98,32,36,L 1,21583,2:05,,False,CHI,2017
+69,"Fri, Mar 17, 2017",7:00p,,Box Score,@,Washington Wizards,L,,107,112,32,37,L 2,20356,2:07,,False,CHI,2017
+70,"Sat, Mar 18, 2017",9:00p,,Box Score,,Utah Jazz,W,,95,86,33,37,W 1,21953,2:08,,False,CHI,2017
+71,"Tue, Mar 21, 2017",7:00p,,Box Score,@,Toronto Raptors,L,OT,120,122,33,38,L 1,19800,2:59,,False,CHI,2017
+72,"Wed, Mar 22, 2017",8:00p,,Box Score,,Detroit Pistons,W,,117,95,34,38,W 1,21503,2:00,,False,CHI,2017
+73,"Fri, Mar 24, 2017",8:00p,,Box Score,,Philadelphia 76ers,L,,107,117,34,39,L 1,21558,2:13,,False,CHI,2017
+74,"Sun, Mar 26, 2017",3:30p,,Box Score,@,Milwaukee Bucks,W,,109,94,35,39,W 1,17669,2:02,,False,CHI,2017
+75,"Thu, Mar 30, 2017",8:00p,,Box Score,,Cleveland Cavaliers,W,,99,93,36,39,W 2,22282,2:16,,False,CHI,2017
+76,"Sat, Apr 1, 2017",5:00p,,Box Score,,Atlanta Hawks,W,,106,104,37,39,W 3,22019,2:11,,False,CHI,2017
+77,"Sun, Apr 2, 2017",6:00p,,Box Score,@,New Orleans Pelicans,W,,117,110,38,39,W 4,18306,2:13,,False,CHI,2017
+78,"Tue, Apr 4, 2017",8:00p,,Box Score,@,New York Knicks,L,,91,100,38,40,L 1,19812,2:09,,False,CHI,2017
+79,"Thu, Apr 6, 2017",7:00p,,Box Score,@,Philadelphia 76ers,W,,102,90,39,40,W 1,15177,2:03,,False,CHI,2017
+80,"Sat, Apr 8, 2017",5:00p,,Box Score,@,Brooklyn Nets,L,,106,107,39,41,L 1,17732,2:06,,False,CHI,2017
+81,"Mon, Apr 10, 2017",8:00p,,Box Score,,Orlando Magic,W,,122,75,40,41,W 1,21545,1:59,,False,CHI,2017
+82,"Wed, Apr 12, 2017",8:00p,,Box Score,,Brooklyn Nets,W,,112,73,41,41,W 2,21648,2:00,,False,CHI,2017
+1,"Sun, Apr 16, 2017",6:30p,,Box Score,@,Boston Celtics,W,,106,102,1,0,W 1,18624,2:34,,True,CHI,2017
+2,"Tue, Apr 18, 2017",8:00p,,Box Score,@,Boston Celtics,W,,111,97,2,0,W 2,18624,2:14,,True,CHI,2017
+3,"Fri, Apr 21, 2017",7:00p,,Box Score,,Boston Celtics,L,,87,104,2,1,L 1,21293,2:11,,True,CHI,2017
+4,"Sun, Apr 23, 2017",6:30p,,Box Score,,Boston Celtics,L,,95,104,2,2,L 2,21863,2:29,,True,CHI,2017
+5,"Wed, Apr 26, 2017",8:30p,,Box Score,@,Boston Celtics,L,,97,108,2,3,L 3,18624,2:20,,True,CHI,2017
+6,"Fri, Apr 28, 2017",8:00p,,Box Score,,Boston Celtics,L,,83,105,2,4,L 4,21682,2:13,,True,CHI,2017

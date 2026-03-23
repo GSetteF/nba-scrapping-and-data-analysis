@@ -1,0 +1,79 @@
+G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Opponent,Unnamed: 6,Unnamed: 7,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Sat, Oct 31, 1953",,Box Score,N,Baltimore Bullets,W,,72,68,1,0,W 1,,,"at New York, NY",False,ROC,1954
+2,"Sun, Nov 1, 1953",,Box Score,@,Baltimore Bullets,W,,80,72,2,0,W 2,,,,False,ROC,1954
+3,"Sat, Nov 7, 1953",,Box Score,,Fort Wayne Pistons,W,,91,76,3,0,W 3,,,,False,ROC,1954
+4,"Sun, Nov 8, 1953",,Box Score,@,Syracuse Nationals,L,,66,85,3,1,L 1,,,,False,ROC,1954
+5,"Tue, Nov 10, 1953",,Box Score,,Philadelphia Warriors,L,,64,66,3,2,L 2,,,,False,ROC,1954
+6,"Sat, Nov 14, 1953",,Box Score,,Minneapolis Lakers,W,3OT,98,91,4,2,W 1,,,,False,ROC,1954
+7,"Sun, Nov 15, 1953",,Box Score,@,Fort Wayne Pistons,L,,65,68,4,3,L 1,,,,False,ROC,1954
+8,"Tue, Nov 17, 1953",,Box Score,N,Boston Celtics,W,,92,73,5,3,W 1,6200,,"at Buffalo, NY",False,ROC,1954
+9,"Thu, Nov 19, 1953",,Box Score,N,Milwaukee Hawks,W,,79,69,6,3,W 2,,,"at Syracuse, NY",False,ROC,1954
+10,"Fri, Nov 20, 1953",,Box Score,@,Milwaukee Hawks,W,,81,63,7,3,W 3,,,,False,ROC,1954
+11,"Sat, Nov 21, 1953",,Box Score,@,Minneapolis Lakers,L,,70,76,7,4,L 1,,,,False,ROC,1954
+12,"Sun, Nov 22, 1953",,Box Score,@,Fort Wayne Pistons,L,,82,83,7,5,L 2,,,,False,ROC,1954
+13,"Tue, Nov 24, 1953",,Box Score,,Syracuse Nationals,L,,80,89,7,6,L 3,,,,False,ROC,1954
+14,"Thu, Nov 26, 1953",,Box Score,@,Baltimore Bullets,W,OT,80,75,8,6,W 1,,,,False,ROC,1954
+15,"Sat, Nov 28, 1953",,Box Score,@,New York Knicks,L,OT,90,95,8,7,L 1,,,,False,ROC,1954
+16,"Sun, Nov 29, 1953",,Box Score,,New York Knicks,L,,64,69,8,8,L 2,,,,False,ROC,1954
+17,"Tue, Dec 1, 1953",,Box Score,,Fort Wayne Pistons,W,,92,69,9,8,W 1,,,,False,ROC,1954
+18,"Sat, Dec 5, 1953",,Box Score,,Baltimore Bullets,W,,72,65,10,8,W 2,,,,False,ROC,1954
+19,"Tue, Dec 8, 1953",,Box Score,,Boston Celtics,W,,97,79,11,8,W 3,1282,,,False,ROC,1954
+20,"Sat, Dec 12, 1953",,Box Score,,Syracuse Nationals,W,,90,85,12,8,W 4,,,,False,ROC,1954
+21,"Sun, Dec 13, 1953",,Box Score,N,Minneapolis Lakers,W,,87,70,13,8,W 5,,,"at Fort Wayne, IN",False,ROC,1954
+22,"Tue, Dec 15, 1953",,Box Score,,Milwaukee Hawks,W,,76,64,14,8,W 6,,,,False,ROC,1954
+23,"Thu, Dec 17, 1953",,Box Score,N,Philadelphia Warriors,W,,91,79,15,8,W 7,,,"at Cleveland, OH",False,ROC,1954
+24,"Sat, Dec 19, 1953",,Box Score,,Minneapolis Lakers,L,,78,91,15,9,L 1,,,,False,ROC,1954
+25,"Fri, Dec 25, 1953",,Box Score,@,Philadelphia Warriors,W,,73,65,16,9,W 1,,,,False,ROC,1954
+26,"Sat, Dec 26, 1953",,Box Score,,New York Knicks,L,,77,78,16,10,L 1,,,,False,ROC,1954
+27,"Sun, Dec 27, 1953",,Box Score,@,Boston Celtics,L,,72,98,16,11,L 2,5491,,,False,ROC,1954
+28,"Tue, Dec 29, 1953",,Box Score,,Baltimore Bullets,W,,96,77,17,11,W 1,,,,False,ROC,1954
+29,"Thu, Dec 31, 1953",,Box Score,@,Syracuse Nationals,L,,81,86,17,12,L 1,,,,False,ROC,1954
+30,"Fri, Jan 1, 1954",,Box Score,,Philadelphia Warriors,W,,79,76,18,12,W 1,,,,False,ROC,1954
+31,"Sat, Jan 2, 1954",,Box Score,,Fort Wayne Pistons,W,OT,77,76,19,12,W 2,,,,False,ROC,1954
+32,"Mon, Jan 4, 1954",,Box Score,N,Minneapolis Lakers,W,,85,84,20,12,W 3,,,"at Chicago, IL",False,ROC,1954
+33,"Thu, Jan 7, 1954",,Box Score,@,Minneapolis Lakers,L,,71,89,20,13,L 1,,,,False,ROC,1954
+34,"Sat, Jan 9, 1954",,Box Score,,New York Knicks,L,,87,88,20,14,L 2,,,,False,ROC,1954
+35,"Sun, Jan 10, 1954",,Box Score,@,New York Knicks,L,,69,81,20,15,L 3,,,,False,ROC,1954
+36,"Tue, Jan 12, 1954",,Box Score,,Milwaukee Hawks,W,,78,73,21,15,W 1,,,,False,ROC,1954
+37,"Sat, Jan 16, 1954",,Box Score,,Syracuse Nationals,L,3OT,93,95,21,16,L 1,,,,False,ROC,1954
+38,"Sun, Jan 17, 1954",,Box Score,@,Syracuse Nationals,L,,81,84,21,17,L 2,,,,False,ROC,1954
+39,"Tue, Jan 19, 1954",,Box Score,N,Fort Wayne Pistons,W,,73,67,22,17,W 1,,,"at Milwaukee, WI",False,ROC,1954
+40,"Sat, Jan 23, 1954",,Box Score,,Philadelphia Warriors,W,,71,61,23,17,W 2,,,,False,ROC,1954
+41,"Sun, Jan 24, 1954",,Box Score,@,Boston Celtics,W,,93,85,24,17,W 3,6093,,,False,ROC,1954
+42,"Tue, Jan 26, 1954",,Box Score,N,New York Knicks,L,,71,74,24,18,L 1,,,"at Buffalo, NY",False,ROC,1954
+43,"Thu, Jan 28, 1954",,Box Score,@,Philadelphia Warriors,W,OT,82,79,25,18,W 1,,,,False,ROC,1954
+44,"Sat, Jan 30, 1954",,Box Score,,Fort Wayne Pistons,W,,95,70,26,18,W 2,,,,False,ROC,1954
+45,"Sun, Jan 31, 1954",,Box Score,@,Fort Wayne Pistons,L,,69,83,26,19,L 1,,,,False,ROC,1954
+46,"Tue, Feb 2, 1954",,Box Score,,Minneapolis Lakers,L,,78,87,26,20,L 2,,,,False,ROC,1954
+47,"Wed, Feb 3, 1954",,Box Score,@,Boston Celtics,L,,81,88,26,21,L 3,8487,,,False,ROC,1954
+48,"Fri, Feb 5, 1954",,Box Score,N,Fort Wayne Pistons,W,,89,70,27,21,W 1,,,"at Milwaukee, WI",False,ROC,1954
+49,"Sat, Feb 6, 1954",,Box Score,,Boston Celtics,L,,81,104,27,22,L 1,3095,,,False,ROC,1954
+50,"Sun, Feb 7, 1954",,Box Score,@,Baltimore Bullets,L,,73,75,27,23,L 2,,,,False,ROC,1954
+51,"Tue, Feb 9, 1954",,Box Score,,Milwaukee Hawks,W,,81,70,28,23,W 1,,,,False,ROC,1954
+52,"Wed, Feb 10, 1954",,Box Score,@,Milwaukee Hawks,W,,62,61,29,23,W 2,,,,False,ROC,1954
+53,"Thu, Feb 11, 1954",,Box Score,N,Milwaukee Hawks,W,,79,68,30,23,W 3,,,"at Minneapolis, MN",False,ROC,1954
+54,"Sat, Feb 13, 1954",,Box Score,,Syracuse Nationals,W,,81,78,31,23,W 4,,,,False,ROC,1954
+55,"Sun, Feb 14, 1954",,Box Score,@,Minneapolis Lakers,L,,77,105,31,24,L 1,,,,False,ROC,1954
+56,"Tue, Feb 16, 1954",,Box Score,N,Minneapolis Lakers,L,,79,85,31,25,L 2,,,"at Hibbing, MN",False,ROC,1954
+57,"Sat, Feb 20, 1954",,Box Score,,Milwaukee Hawks,W,,66,64,32,25,W 1,,,,False,ROC,1954
+58,"Tue, Feb 23, 1954",,Box Score,N,Boston Celtics,W,,93,77,33,25,W 2,16923,,"at New York, NY",False,ROC,1954
+59,"Wed, Feb 24, 1954",,Box Score,@,Baltimore Bullets,W,,79,64,34,25,W 3,,,,False,ROC,1954
+60,"Thu, Feb 25, 1954",,Box Score,N,Baltimore Bullets,W,,102,86,35,25,W 4,,,"at Philadelphia, PA",False,ROC,1954
+61,"Sat, Feb 27, 1954",,Box Score,,Boston Celtics,L,,74,75,35,26,L 1,3110,,,False,ROC,1954
+62,"Sun, Feb 28, 1954",,Box Score,@,Syracuse Nationals,W,,91,85,36,26,W 1,,,,False,ROC,1954
+63,"Tue, Mar 2, 1954",,Box Score,N,Fort Wayne Pistons,W,,71,64,37,26,W 2,,,"at New York, NY",False,ROC,1954
+64,"Thu, Mar 4, 1954",,Box Score,@,Philadelphia Warriors,W,,85,78,38,26,W 3,,,,False,ROC,1954
+65,"Fri, Mar 5, 1954",,Box Score,N,New York Knicks,L,,66,70,38,27,L 1,,,"at Boston, MA",False,ROC,1954
+66,"Sat, Mar 6, 1954",,Box Score,,Minneapolis Lakers,W,,74,59,39,27,W 1,,,,False,ROC,1954
+67,"Sun, Mar 7, 1954",,Box Score,@,New York Knicks,W,,91,88,40,27,W 2,,,,False,ROC,1954
+68,"Tue, Mar 9, 1954",,Box Score,N,Minneapolis Lakers,W,,70,61,41,27,W 3,,,"at Indianapolis, IN",False,ROC,1954
+69,"Wed, Mar 10, 1954",,Box Score,N,Milwaukee Hawks,W,,84,69,42,27,W 4,,,"at Omaha, NE",False,ROC,1954
+70,"Thu, Mar 11, 1954",,Box Score,@,Fort Wayne Pistons,W,,95,80,43,27,W 5,,,,False,ROC,1954
+71,"Sat, Mar 13, 1954",,Box Score,,Philadelphia Warriors,W,,77,76,44,27,W 6,,,,False,ROC,1954
+72,"Sun, Mar 14, 1954",,Box Score,@,Milwaukee Hawks,L,,53,91,44,28,L 1,,,,False,ROC,1954
+1,"Tue, Mar 16, 1954",,Box Score,,Fort Wayne Pistons,W,,82,75,1,0,W 1,,,Round Robin,True,ROC,1954
+2,"Wed, Mar 17, 1954",,Box Score,@,Minneapolis Lakers,L,,88,109,1,1,L 1,,,Round Robin,True,ROC,1954
+3,"Sun, Mar 21, 1954",,Box Score,@,Fort Wayne Pistons,W,,89,71,2,1,W 1,,,Round Robin,True,ROC,1954
+4,"Wed, Mar 24, 1954",,Box Score,@,Minneapolis Lakers,L,,76,89,2,2,L 1,,,,True,ROC,1954
+5,"Sat, Mar 27, 1954",,Box Score,,Minneapolis Lakers,W,,74,73,3,2,W 1,,,,True,ROC,1954
+6,"Sun, Mar 28, 1954",,Box Score,@,Minneapolis Lakers,L,,72,82,3,3,L 1,,,,True,ROC,1954

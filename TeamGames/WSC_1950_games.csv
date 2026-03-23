@@ -1,0 +1,71 @@
+G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Opponent,Unnamed: 6,Unnamed: 7,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Wed, Nov 2, 1949",,Box Score,,Baltimore Bullets,W,,66,61,1,0,W 1,,,,False,WSC,1950
+2,"Sat, Nov 5, 1949",,Box Score,,St. Louis Bombers,W,,81,69,2,0,W 2,,,,False,WSC,1950
+3,"Tue, Nov 8, 1949",,Box Score,,Minneapolis Lakers,L,,66,68,2,1,L 1,,,,False,WSC,1950
+4,"Wed, Nov 9, 1949",,Box Score,@,Philadelphia Warriors,W,,84,69,3,1,W 1,,,,False,WSC,1950
+5,"Thu, Nov 10, 1949",,Box Score,@,Baltimore Bullets,W,,88,72,4,1,W 2,,,,False,WSC,1950
+6,"Sat, Nov 12, 1949",,Box Score,,Boston Celtics,L,,68,76,4,2,L 1,3191,,,False,WSC,1950
+7,"Tue, Nov 15, 1949",,Box Score,N,Chicago Stags,L,,63,77,4,3,L 2,,,"at New York, NY",False,WSC,1950
+8,"Wed, Nov 16, 1949",,Box Score,,Denver Nuggets,W,,99,90,5,3,W 1,,,,False,WSC,1950
+9,"Sat, Nov 19, 1949",,Box Score,,Chicago Stags,W,,85,69,6,3,W 2,,,,False,WSC,1950
+10,"Tue, Nov 22, 1949",,Box Score,,New York Knicks,L,,74,89,6,4,L 1,,,,False,WSC,1950
+11,"Wed, Nov 23, 1949",,Box Score,@,New York Knicks,L,,67,87,6,5,L 2,,,,False,WSC,1950
+12,"Sat, Nov 26, 1949",,Box Score,,Fort Wayne Pistons,W,,93,76,7,5,W 1,,,,False,WSC,1950
+13,"Wed, Nov 30, 1949",,Box Score,,Rochester Royals,L,,84,86,7,6,L 1,,,,False,WSC,1950
+14,"Sat, Dec 3, 1949",,Box Score,,Philadelphia Warriors,W,,79,63,8,6,W 1,,,,False,WSC,1950
+15,"Sun, Dec 4, 1949",,Box Score,@,Fort Wayne Pistons,L,,68,72,8,7,L 1,,,,False,WSC,1950
+16,"Tue, Dec 6, 1949",,Box Score,@,Chicago Stags,L,,55,75,8,8,L 2,,,,False,WSC,1950
+17,"Wed, Dec 7, 1949",,Box Score,@,Minneapolis Lakers,L,,76,93,8,9,L 3,,,,False,WSC,1950
+18,"Sat, Dec 10, 1949",,Box Score,,Fort Wayne Pistons,W,,75,69,9,9,W 1,,,,False,WSC,1950
+19,"Wed, Dec 14, 1949",,Box Score,,St. Louis Bombers,W,,79,61,10,9,W 2,,,,False,WSC,1950
+20,"Sat, Dec 17, 1949",,Box Score,,Baltimore Bullets,L,,72,89,10,10,L 1,,,,False,WSC,1950
+21,"Wed, Dec 21, 1949",,Box Score,,Minneapolis Lakers,L,,61,75,10,11,L 2,,,,False,WSC,1950
+22,"Thu, Dec 22, 1949",,Box Score,@,Baltimore Bullets,L,,82,86,10,12,L 3,,,,False,WSC,1950
+23,"Fri, Dec 23, 1949",,Box Score,,Boston Celtics,W,,86,73,11,12,W 1,991,,,False,WSC,1950
+24,"Sun, Dec 25, 1949",,Box Score,@,St. Louis Bombers,W,,81,68,12,12,W 2,,,,False,WSC,1950
+25,"Mon, Dec 26, 1949",,Box Score,@,Anderson Packers,L,,73,80,12,13,L 1,,,,False,WSC,1950
+26,"Tue, Dec 27, 1949",,Box Score,@,Rochester Royals,L,,72,96,12,14,L 2,,,,False,WSC,1950
+27,"Wed, Dec 28, 1949",,Box Score,,Syracuse Nationals,W,,87,85,13,14,W 1,,,,False,WSC,1950
+28,"Sat, Dec 31, 1949",,Box Score,,New York Knicks,W,,70,64,14,14,W 2,,,,False,WSC,1950
+29,"Sun, Jan 1, 1950",,Box Score,@,Syracuse Nationals,L,,73,79,14,15,L 1,,,,False,WSC,1950
+30,"Tue, Jan 3, 1950",,Box Score,@,Rochester Royals,L,,79,83,14,16,L 2,,,,False,WSC,1950
+31,"Wed, Jan 4, 1950",,Box Score,,Rochester Royals,L,,63,72,14,17,L 3,,,,False,WSC,1950
+32,"Sat, Jan 7, 1950",,Box Score,,Waterloo Hawks,W,,101,83,15,17,W 1,,,,False,WSC,1950
+33,"Tue, Jan 10, 1950",,Box Score,,Chicago Stags,W,,86,71,16,17,W 2,,,,False,WSC,1950
+34,"Wed, Jan 11, 1950",,Box Score,@,New York Knicks,L,,72,73,16,18,L 1,,,,False,WSC,1950
+35,"Fri, Jan 13, 1950",,Box Score,@,Philadelphia Warriors,W,,77,67,17,18,W 1,,,,False,WSC,1950
+36,"Sat, Jan 14, 1950",,Box Score,,Philadelphia Warriors,W,,78,70,18,18,W 2,,,,False,WSC,1950
+37,"Wed, Jan 18, 1950",,Box Score,,Minneapolis Lakers,L,,68,76,18,19,L 1,,,,False,WSC,1950
+38,"Thu, Jan 19, 1950",,Box Score,@,Baltimore Bullets,W,,81,68,19,19,W 1,,,,False,WSC,1950
+39,"Sat, Jan 21, 1950",,Box Score,,Sheboygan Red Skins,L,,82,88,19,20,L 1,,,,False,WSC,1950
+40,"Sun, Jan 22, 1950",,Box Score,@,Fort Wayne Pistons,L,,70,82,19,21,L 2,,,,False,WSC,1950
+41,"Tue, Jan 24, 1950",,Box Score,N,St. Louis Bombers,W,,75,67,20,21,W 1,,,"at Chicago, IL",False,WSC,1950
+42,"Wed, Jan 25, 1950",,Box Score,@,Tri-Cities Blackhawks,W,,65,62,21,21,W 2,,,,False,WSC,1950
+43,"Thu, Jan 26, 1950",,Box Score,@,St. Louis Bombers,W,,82,71,22,21,W 3,,,,False,WSC,1950
+44,"Sun, Jan 29, 1950",,Box Score,@,Minneapolis Lakers,L,,60,88,22,22,L 1,,,,False,WSC,1950
+45,"Tue, Jan 31, 1950",,Box Score,@,Denver Nuggets,W,,88,78,23,22,W 1,,,,False,WSC,1950
+46,"Thu, Feb 2, 1950",,Box Score,@,Sheboygan Red Skins,L,,65,68,23,23,L 1,,,,False,WSC,1950
+47,"Sat, Feb 4, 1950",,Box Score,,New York Knicks,L,,71,76,23,24,L 2,,,,False,WSC,1950
+48,"Tue, Feb 7, 1950",,Box Score,@,Indianapolis Olympians,L,,81,88,23,25,L 3,,,,False,WSC,1950
+49,"Wed, Feb 8, 1950",,Box Score,@,Waterloo Hawks,L,,70,77,23,26,L 4,,,,False,WSC,1950
+50,"Thu, Feb 9, 1950",,Box Score,@,Minneapolis Lakers,L,,59,71,23,27,L 5,,,,False,WSC,1950
+51,"Sat, Feb 11, 1950",,Box Score,,Anderson Packers,W,,81,69,24,27,W 1,,,,False,WSC,1950
+52,"Wed, Feb 15, 1950",,Box Score,,Tri-Cities Blackhawks,L,,81,85,24,28,L 1,,,,False,WSC,1950
+53,"Sat, Feb 18, 1950",,Box Score,,Indianapolis Olympians,W,,81,79,25,28,W 1,,,,False,WSC,1950
+54,"Tue, Feb 21, 1950",,Box Score,@,Rochester Royals,L,,76,84,25,29,L 1,,,,False,WSC,1950
+55,"Wed, Feb 22, 1950",,Box Score,@,New York Knicks,L,,81,89,25,30,L 2,,,,False,WSC,1950
+56,"Fri, Feb 24, 1950",,Box Score,@,Boston Celtics,L,,74,89,25,31,L 3,2152,,,False,WSC,1950
+57,"Sat, Feb 25, 1950",,Box Score,,Philadelphia Warriors,L,,80,92,25,32,L 4,,,,False,WSC,1950
+58,"Sun, Feb 26, 1950",,Box Score,@,Fort Wayne Pistons,W,,81,78,26,32,W 1,,,,False,WSC,1950
+59,"Wed, Mar 1, 1950",,Box Score,N,Chicago Stags,L,,75,76,26,33,L 1,,,"at Raleigh, NC",False,WSC,1950
+60,"Thu, Mar 2, 1950",,Box Score,,Chicago Stags,W,,91,88,27,33,W 1,,,,False,WSC,1950
+61,"Sat, Mar 4, 1950",,Box Score,,Boston Celtics,W,,95,75,28,33,W 2,1025,,,False,WSC,1950
+62,"Tue, Mar 7, 1950",,Box Score,N,Boston Celtics,L,,64,75,28,34,L 1,6177,,"at Providence, RI",False,WSC,1950
+63,"Wed, Mar 8, 1950",,Box Score,,Baltimore Bullets,W,,88,80,29,34,W 1,,,,False,WSC,1950
+64,"Fri, Mar 10, 1950",,Box Score,@,Boston Celtics,W,,76,66,30,34,W 2,1827,,,False,WSC,1950
+65,"Sat, Mar 11, 1950",,Box Score,,St. Louis Bombers,W,,92,90,31,34,W 3,,,,False,WSC,1950
+66,"Wed, Mar 15, 1950",,Box Score,,Rochester Royals,L,,64,93,31,35,L 1,,,,False,WSC,1950
+67,"Fri, Mar 17, 1950",,Box Score,@,Philadelphia Warriors,L,,59,85,31,36,L 2,,,,False,WSC,1950
+68,"Sat, Mar 18, 1950",,Box Score,,Fort Wayne Pistons,W,,82,76,32,36,W 1,,,,False,WSC,1950
+1,"Tue, Mar 21, 1950",,Box Score,,New York Knicks,L,,87,90,0,1,L 1,,,,True,WSC,1950
+2,"Wed, Mar 22, 1950",,Box Score,@,New York Knicks,L,,83,103,0,2,L 2,,,,True,WSC,1950

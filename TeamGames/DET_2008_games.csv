@@ -1,0 +1,100 @@
+G,Date,Start (ET),Unnamed: 3,Unnamed: 4,Unnamed: 5,Opponent,Unnamed: 7,Unnamed: 8,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Thu, Nov 1, 2007",8:00p,,Box Score,@,Miami Heat,W,,91,80,1,0,W 1,19600,2:31,,False,DET,2008
+2,"Fri, Nov 2, 2007",7:00p,,Box Score,@,Orlando Magic,W,,116,92,2,0,W 2,17519,2:18,,False,DET,2008
+3,"Sun, Nov 4, 2007",7:30p,,Box Score,,Atlanta Hawks,W,,92,91,3,0,W 3,22076,2:20,,False,DET,2008
+4,"Thu, Nov 8, 2007",8:00p,,Box Score,@,Chicago Bulls,L,,93,97,3,1,L 1,21797,2:32,,False,DET,2008
+5,"Fri, Nov 9, 2007",8:00p,,Box Score,,Los Angeles Clippers,W,,103,79,4,1,W 1,22076,2:17,,False,DET,2008
+6,"Sun, Nov 11, 2007",9:00p,,Box Score,@,Seattle SuperSonics,W,,107,103,5,1,W 2,16379,,,False,DET,2008
+7,"Tue, Nov 13, 2007",10:00p,,Box Score,@,Portland Trail Blazers,L,,94,102,5,2,L 1,19980,2:05,,False,DET,2008
+8,"Wed, Nov 14, 2007",10:30p,,Box Score,@,Golden State Warriors,W,,111,104,6,2,W 1,18923,2:13,,False,DET,2008
+9,"Fri, Nov 16, 2007",10:30p,,Box Score,@,Los Angeles Lakers,L,,91,103,6,3,L 1,18997,2:25,,False,DET,2008
+10,"Sun, Nov 18, 2007",9:00p,,Box Score,@,Sacramento Kings,L,,95,105,6,4,L 2,12978,2:28,,False,DET,2008
+11,"Wed, Nov 21, 2007",8:00p,,Box Score,,New York Knicks,W,,98,86,7,4,W 1,22076,2:09,,False,DET,2008
+12,"Fri, Nov 23, 2007",8:00p,,Box Score,,Philadelphia 76ers,W,,83,78,8,4,W 2,22076,2:17,,False,DET,2008
+13,"Sun, Nov 25, 2007",1:00p,,Box Score,,Utah Jazz,L,,93,103,8,5,L 1,22076,2:19,,False,DET,2008
+14,"Wed, Nov 28, 2007",7:30p,,Box Score,,Cleveland Cavaliers,W,,109,74,9,5,W 1,22076,2:14,,False,DET,2008
+15,"Sat, Dec 1, 2007",8:30p,,Box Score,@,Milwaukee Bucks,W,,117,91,10,5,W 2,17326,2:12,,False,DET,2008
+16,"Sun, Dec 2, 2007",6:00p,,Box Score,,New Jersey Nets,W,,118,95,11,5,W 3,22076,2:15,,False,DET,2008
+17,"Tue, Dec 4, 2007",7:00p,,Box Score,@,Atlanta Hawks,W,,106,95,12,5,W 4,12754,2:22,,False,DET,2008
+18,"Wed, Dec 5, 2007",8:00p,,Box Score,@,New Orleans Hornets,W,,91,76,13,5,W 5,10312,2:10,,False,DET,2008
+19,"Fri, Dec 7, 2007",7:00p,,Box Score,,Chicago Bulls,L,,91,98,13,6,L 1,22076,2:29,,False,DET,2008
+20,"Sun, Dec 9, 2007",6:00p,,Box Score,,Charlotte Bobcats,W,,104,85,14,6,W 1,22076,2:15,,False,DET,2008
+21,"Tue, Dec 11, 2007",8:00p,,Box Score,@,Memphis Grizzlies,W,,113,103,15,6,W 2,11962,2:15,,False,DET,2008
+22,"Wed, Dec 12, 2007",8:00p,,Box Score,@,Houston Rockets,L,,77,80,15,7,L 1,17453,2:29,,False,DET,2008
+23,"Fri, Dec 14, 2007",8:00p,,Box Score,,Atlanta Hawks,W,,91,81,16,7,W 1,22076,2:22,,False,DET,2008
+24,"Sun, Dec 16, 2007",12:30p,,Box Score,,Golden State Warriors,W,,109,87,17,7,W 2,22076,2:10,,False,DET,2008
+25,"Wed, Dec 19, 2007",7:00p,,Box Score,@,Boston Celtics,W,,87,85,18,7,W 3,18624,2:29,,False,DET,2008
+26,"Fri, Dec 21, 2007",8:00p,,Box Score,,Memphis Grizzlies,W,,94,67,19,7,W 4,22076,2:13,,False,DET,2008
+27,"Sun, Dec 23, 2007",6:00p,,Box Score,,Houston Rockets,W,,94,82,20,7,W 5,22076,2:16,,False,DET,2008
+28,"Wed, Dec 26, 2007",7:30p,,Box Score,@,New Jersey Nets,W,,101,83,21,7,W 6,18055,2:04,,False,DET,2008
+29,"Fri, Dec 28, 2007",8:00p,,Box Score,,Indiana Pacers,W,,114,101,22,7,W 7,22076,2:12,,False,DET,2008
+30,"Sat, Dec 29, 2007",7:00p,,Box Score,@,Indiana Pacers,W,,98,92,23,7,W 8,14960,2:18,,False,DET,2008
+31,"Mon, Dec 31, 2007",3:30p,,Box Score,,Milwaukee Bucks,W,,114,69,24,7,W 9,22076,2:11,,False,DET,2008
+32,"Wed, Jan 2, 2008",7:00p,,Box Score,@,Washington Wizards,W,,106,93,25,7,W 10,15763,2:09,,False,DET,2008
+33,"Fri, Jan 4, 2008",7:00p,,Box Score,@,Toronto Raptors,W,,101,85,26,7,W 11,19800,2:20,,False,DET,2008
+34,"Sat, Jan 5, 2008",7:30p,,Box Score,,Boston Celtics,L,,85,92,26,8,L 1,22076,2:29,,False,DET,2008
+35,"Wed, Jan 9, 2008",9:00p,,Box Score,@,Dallas Mavericks,L,,86,102,26,9,L 2,20362,2:15,,False,DET,2008
+36,"Thu, Jan 10, 2008",8:00p,,Box Score,@,San Antonio Spurs,W,,90,80,27,9,W 1,18797,2:26,,False,DET,2008
+37,"Sat, Jan 12, 2008",7:00p,,Box Score,@,Charlotte Bobcats,W,OT,103,100,28,9,W 2,19091,2:36,,False,DET,2008
+38,"Sun, Jan 13, 2008",7:00p,,Box Score,@,New York Knicks,L,,65,89,28,10,L 1,17620,2:15,,False,DET,2008
+39,"Tue, Jan 15, 2008",7:30p,,Box Score,,Toronto Raptors,W,,103,89,29,10,W 1,22076,2:11,,False,DET,2008
+40,"Fri, Jan 18, 2008",8:00p,,Box Score,,Sacramento Kings,L,,93,100,29,11,L 1,22076,2:19,,False,DET,2008
+41,"Sat, Jan 19, 2008",8:30p,,Box Score,@,Chicago Bulls,L,,81,97,29,12,L 2,22657,2:19,,False,DET,2008
+42,"Mon, Jan 21, 2008",7:00p,,Box Score,@,Orlando Magic,L,,100,102,29,13,L 3,17519,2:29,,False,DET,2008
+43,"Wed, Jan 23, 2008",7:00p,,Box Score,@,Philadelphia 76ers,W,,86,78,30,13,W 1,13878,2:11,,False,DET,2008
+44,"Fri, Jan 25, 2008",7:00p,,Box Score,,Orlando Magic,W,,101,93,31,13,W 2,22076,2:22,,False,DET,2008
+45,"Tue, Jan 29, 2008",7:00p,,Box Score,@,Indiana Pacers,W,,110,104,32,13,W 3,12572,2:14,,False,DET,2008
+46,"Thu, Jan 31, 2008",7:30p,,Box Score,,Los Angeles Lakers,W,,90,89,33,13,W 4,22076,2:26,,False,DET,2008
+47,"Sun, Feb 3, 2008",2:30p,,Box Score,,Dallas Mavericks,W,,90,67,34,13,W 5,22076,2:24,,False,DET,2008
+48,"Wed, Feb 6, 2008",7:30p,,Box Score,,Miami Heat,W,,100,95,35,13,W 6,22076,2:22,,False,DET,2008
+49,"Fri, Feb 8, 2008",8:00p,,Box Score,,Portland Trail Blazers,W,,91,82,36,13,W 7,22076,2:04,,False,DET,2008
+50,"Sun, Feb 10, 2008",6:00p,,Box Score,,Charlotte Bobcats,W,,113,87,37,13,W 8,22076,2:18,,False,DET,2008
+51,"Tue, Feb 12, 2008",7:00p,,Box Score,@,Atlanta Hawks,W,,94,90,38,13,W 9,18227,2:19,,False,DET,2008
+52,"Wed, Feb 13, 2008",7:30p,,Box Score,,Indiana Pacers,W,,96,80,39,13,W 10,22076,2:18,,False,DET,2008
+53,"Tue, Feb 19, 2008",7:30p,,Box Score,,Orlando Magic,L,,85,103,39,14,L 1,22076,2:13,,False,DET,2008
+54,"Wed, Feb 20, 2008",8:00p,,Box Score,@,Milwaukee Bucks,L,,98,103,39,15,L 2,14211,2:23,,False,DET,2008
+55,"Fri, Feb 22, 2008",8:00p,,Box Score,,Milwaukee Bucks,W,,127,100,40,15,W 1,22076,2:21,,False,DET,2008
+56,"Sun, Feb 24, 2008",2:30p,,Box Score,@,Phoenix Suns,W,,116,86,41,15,W 2,18422,2:24,,False,DET,2008
+57,"Mon, Feb 25, 2008",9:00p,,Box Score,@,Denver Nuggets,W,,98,93,42,15,W 3,17901,2:14,,False,DET,2008
+58,"Wed, Feb 27, 2008",9:00p,,Box Score,@,Utah Jazz,L,,95,103,42,16,L 1,19911,2:14,,False,DET,2008
+59,"Sat, Mar 1, 2008",10:30p,,Box Score,@,Los Angeles Clippers,W,,103,73,43,16,W 1,19271,2:08,,False,DET,2008
+60,"Tue, Mar 4, 2008",7:30p,,Box Score,,Seattle SuperSonics,W,,100,97,44,16,W 2,22076,2:28,,False,DET,2008
+61,"Wed, Mar 5, 2008",7:30p,,Box Score,@,Boston Celtics,L,,78,90,44,17,L 1,18624,2:19,,False,DET,2008
+62,"Fri, Mar 7, 2008",7:30p,,Box Score,@,New York Knicks,W,,101,97,45,17,W 1,19763,2:27,,False,DET,2008
+63,"Sun, Mar 9, 2008",8:00p,,Box Score,,Chicago Bulls,W,,116,109,46,17,W 2,22076,2:38,,False,DET,2008
+64,"Wed, Mar 12, 2008",7:30p,,Box Score,,Philadelphia 76ers,L,,82,83,46,18,L 1,22076,2:23,,False,DET,2008
+65,"Fri, Mar 14, 2008",8:00p,,Box Score,,San Antonio Spurs,W,,84,80,47,18,W 1,22076,2:14,,False,DET,2008
+66,"Sun, Mar 16, 2008",1:00p,,Box Score,,New Orleans Hornets,W,,105,84,48,18,W 2,22076,2:15,,False,DET,2008
+67,"Tue, Mar 18, 2008",7:30p,,Box Score,,Denver Nuggets,W,,136,120,49,18,W 3,22076,2:12,,False,DET,2008
+68,"Wed, Mar 19, 2008",8:00p,,Box Score,@,Cleveland Cavaliers,L,,73,89,49,19,L 1,20562,2:17,,False,DET,2008
+69,"Sun, Mar 23, 2008",8:00p,,Box Score,@,Washington Wizards,L,,83,95,49,20,L 2,20173,2:22,,False,DET,2008
+70,"Mon, Mar 24, 2008",7:30p,,Box Score,,Phoenix Suns,W,OT,110,105,50,20,W 1,22076,2:34,,False,DET,2008
+71,"Wed, Mar 26, 2008",7:00p,,Box Score,@,Toronto Raptors,L,,82,89,50,21,L 1,19800,2:06,,False,DET,2008
+72,"Thu, Mar 27, 2008",8:00p,,Box Score,,Miami Heat,W,,85,69,51,21,W 1,22076,2:13,,False,DET,2008
+73,"Sat, Mar 29, 2008",7:30p,,Box Score,,Cleveland Cavaliers,W,,85,71,52,21,W 2,22076,2:20,,False,DET,2008
+74,"Tue, Apr 1, 2008",8:00p,,Box Score,@,Minnesota Timberwolves,W,,94,90,53,21,W 3,15119,2:20,,False,DET,2008
+75,"Fri, Apr 4, 2008",8:00p,,Box Score,,New Jersey Nets,W,,106,87,54,21,W 4,22076,2:10,,False,DET,2008
+76,"Sun, Apr 6, 2008",6:00p,,Box Score,@,Miami Heat,W,,91,75,55,21,W 5,19141,2:06,,False,DET,2008
+77,"Tue, Apr 8, 2008",8:00p,,Box Score,,New York Knicks,L,,94,98,55,22,L 1,22076,2:10,,False,DET,2008
+78,"Wed, Apr 9, 2008",7:00p,,Box Score,@,Philadelphia 76ers,L,,94,101,55,23,L 2,18945,2:14,,False,DET,2008
+79,"Fri, Apr 11, 2008",8:00p,,Box Score,,Washington Wizards,W,,102,74,56,23,W 1,22076,2:11,,False,DET,2008
+80,"Sun, Apr 13, 2008",1:00p,,Box Score,,Toronto Raptors,W,,91,84,57,23,W 2,22076,2:18,,False,DET,2008
+81,"Tue, Apr 15, 2008",7:30p,,Box Score,,Minnesota Timberwolves,W,,115,103,58,23,W 3,22076,2:18,,False,DET,2008
+82,"Wed, Apr 16, 2008",7:00p,,Box Score,@,Cleveland Cavaliers,W,,84,74,59,23,W 4,20562,2:10,,False,DET,2008
+1,"Sun, Apr 20, 2008",6:00p,,Box Score,,Philadelphia 76ers,L,,86,90,0,1,L 1,22076,2:38,,True,DET,2008
+2,"Wed, Apr 23, 2008",7:30p,,Box Score,,Philadelphia 76ers,W,,105,88,1,1,W 1,22076,2:16,,True,DET,2008
+3,"Fri, Apr 25, 2008",7:00p,,Box Score,@,Philadelphia 76ers,L,,75,95,1,2,L 1,18805,2:35,,True,DET,2008
+4,"Sun, Apr 27, 2008",7:00p,,Box Score,@,Philadelphia 76ers,W,,93,84,2,2,W 1,18347,2:32,,True,DET,2008
+5,"Tue, Apr 29, 2008",7:00p,,Box Score,,Philadelphia 76ers,W,,98,81,3,2,W 2,22076,2:17,,True,DET,2008
+6,"Thu, May 1, 2008",8:00p,,Box Score,@,Philadelphia 76ers,W,,100,77,4,2,W 3,14130,2:24,,True,DET,2008
+7,"Sat, May 3, 2008",7:30p,,Box Score,,Orlando Magic,W,,91,72,5,2,W 4,22076,2:23,,True,DET,2008
+8,"Mon, May 5, 2008",7:00p,,Box Score,,Orlando Magic,W,,100,93,6,2,W 5,22076,2:46,,True,DET,2008
+9,"Wed, May 7, 2008",8:00p,,Box Score,@,Orlando Magic,L,,86,111,6,3,L 1,17519,2:26,,True,DET,2008
+10,"Sat, May 10, 2008",5:00p,,Box Score,@,Orlando Magic,W,,90,89,7,3,W 1,17519,2:34,,True,DET,2008
+11,"Tue, May 13, 2008",7:00p,,Box Score,,Orlando Magic,W,,91,86,8,3,W 2,22076,2:42,,True,DET,2008
+12,"Tue, May 20, 2008",8:30p,,Box Score,@,Boston Celtics,L,,79,88,8,4,L 1,18624,2:30,,True,DET,2008
+13,"Thu, May 22, 2008",8:30p,,Box Score,@,Boston Celtics,W,,103,97,9,4,W 1,18624,2:47,,True,DET,2008
+14,"Sat, May 24, 2008",8:30p,,Box Score,,Boston Celtics,L,,80,94,9,5,L 1,22076,2:41,,True,DET,2008
+15,"Mon, May 26, 2008",8:30p,,Box Score,,Boston Celtics,W,,94,75,10,5,W 1,22076,2:49,,True,DET,2008
+16,"Wed, May 28, 2008",8:30p,,Box Score,@,Boston Celtics,L,,102,106,10,6,L 1,18624,3:04,,True,DET,2008
+17,"Fri, May 30, 2008",8:30p,,Box Score,,Boston Celtics,L,,81,89,10,7,L 2,22076,2:40,,True,DET,2008

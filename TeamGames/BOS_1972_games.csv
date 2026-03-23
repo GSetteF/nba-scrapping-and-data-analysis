@@ -1,0 +1,94 @@
+G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Opponent,Unnamed: 6,Unnamed: 7,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Fri, Oct 15, 1971",,Box Score,,Golden State Warriors,L,,75,97,0,1,L 1,9097,,,False,BOS,1972
+2,"Tue, Oct 19, 1971",,Box Score,,Baltimore Bullets,W,,134,114,1,1,W 1,4216,,,False,BOS,1972
+3,"Fri, Oct 22, 1971",,Box Score,@,Atlanta Hawks,W,,115,108,2,1,W 2,4880,,,False,BOS,1972
+4,"Sat, Oct 23, 1971",,Box Score,@,Buffalo Braves,W,,103,98,3,1,W 3,8413,,,False,BOS,1972
+5,"Mon, Oct 25, 1971",,Box Score,,Atlanta Hawks,W,,136,116,4,1,W 4,10311,,,False,BOS,1972
+6,"Tue, Oct 26, 1971",,Box Score,@,New York Knicks,L,,101,106,4,2,L 1,16856,,,False,BOS,1972
+7,"Wed, Oct 27, 1971",,Box Score,,Houston Rockets,W,,108,97,5,2,W 1,2967,,,False,BOS,1972
+8,"Fri, Oct 29, 1971",,Box Score,,Milwaukee Bucks,W,,125,114,6,2,W 2,12452,,,False,BOS,1972
+9,"Fri, Nov 5, 1971",,Box Score,,Detroit Pistons,W,,103,102,7,2,W 3,10543,,,False,BOS,1972
+10,"Sat, Nov 6, 1971",,Box Score,,Portland Trail Blazers,W,,124,109,8,2,W 4,7196,,,False,BOS,1972
+11,"Mon, Nov 8, 1971",,Box Score,N,Cincinnati Royals,W,,120,109,9,2,W 5,6035,,"at Omaha, NE",False,BOS,1972
+12,"Wed, Nov 10, 1971",,Box Score,@,Houston Rockets,W,,142,103,10,2,W 6,4260,,,False,BOS,1972
+13,"Fri, Nov 12, 1971",,Box Score,@,Phoenix Suns,L,,119,128,10,3,L 1,9470,,,False,BOS,1972
+14,"Sat, Nov 13, 1971",,Box Score,@,Seattle SuperSonics,L,,112,116,10,4,L 2,12738,,,False,BOS,1972
+15,"Sun, Nov 14, 1971",,Box Score,@,Los Angeles Lakers,L,,115,128,10,5,L 3,17505,,,False,BOS,1972
+16,"Wed, Nov 17, 1971",,Box Score,,Phoenix Suns,W,,140,121,11,5,W 1,9440,,,False,BOS,1972
+17,"Fri, Nov 19, 1971",,Box Score,,Cincinnati Royals,L,,106,110,11,6,L 1,9415,,,False,BOS,1972
+18,"Sat, Nov 20, 1971",,Box Score,@,Chicago Bulls,L,,106,123,11,7,L 2,12410,,,False,BOS,1972
+19,"Sun, Nov 21, 1971",,Box Score,@,Cleveland Cavaliers,W,,128,105,12,7,W 1,4075,,,False,BOS,1972
+20,"Wed, Nov 24, 1971",,Box Score,,Buffalo Braves,W,,108,100,13,7,W 2,3995,,,False,BOS,1972
+21,"Fri, Nov 26, 1971",,Box Score,,New York Knicks,L,,89,104,13,8,L 1,15315,,,False,BOS,1972
+22,"Sat, Nov 27, 1971",,Box Score,N,Baltimore Bullets,L,,120,125,13,9,L 2,5894,,"at College Park, MD",False,BOS,1972
+23,"Sun, Nov 28, 1971",,Box Score,,Atlanta Hawks,W,,130,108,14,9,W 1,6427,,,False,BOS,1972
+24,"Wed, Dec 1, 1971",,Box Score,,Los Angeles Lakers,L,,111,124,14,10,L 1,8584,,,False,BOS,1972
+25,"Sat, Dec 4, 1971",,Box Score,,Houston Rockets,W,,117,107,15,10,W 1,5042,,,False,BOS,1972
+26,"Tue, Dec 7, 1971",,Box Score,@,New York Knicks,W,,105,97,16,10,W 2,19588,,,False,BOS,1972
+27,"Wed, Dec 8, 1971",,Box Score,,Cleveland Cavaliers,W,,126,107,17,10,W 3,3346,,,False,BOS,1972
+28,"Fri, Dec 10, 1971",,Box Score,@,Milwaukee Bucks,L,,104,120,17,11,L 1,10746,,,False,BOS,1972
+29,"Sat, Dec 11, 1971",,Box Score,,Chicago Bulls,L,,99,115,17,12,L 2,5523,,,False,BOS,1972
+30,"Sun, Dec 12, 1971",,Box Score,@,Cincinnati Royals,W,,96,83,18,12,W 1,1885,,,False,BOS,1972
+31,"Tue, Dec 14, 1971",,Box Score,@,Chicago Bulls,W,,116,108,19,12,W 2,9554,,,False,BOS,1972
+32,"Wed, Dec 15, 1971",,Box Score,,Seattle SuperSonics,W,,112,100,20,12,W 3,9225,,,False,BOS,1972
+33,"Fri, Dec 17, 1971",,Box Score,@,Cleveland Cavaliers,W,,115,109,21,12,W 4,3081,,,False,BOS,1972
+34,"Sat, Dec 18, 1971",,Box Score,,Buffalo Braves,W,,124,91,22,12,W 5,4775,,,False,BOS,1972
+35,"Wed, Dec 22, 1971",,Box Score,N,Milwaukee Bucks,W,,104,98,23,12,W 6,9035,,"at Madison, WI",False,BOS,1972
+36,"Sat, Dec 25, 1971",,Box Score,@,Cincinnati Royals,W,,99,94,24,12,W 7,3321,,,False,BOS,1972
+37,"Mon, Dec 27, 1971",,Box Score,,Golden State Warriors,W,,99,97,25,12,W 8,13697,,,False,BOS,1972
+38,"Tue, Dec 28, 1971",,Box Score,@,Philadelphia 76ers,W,,120,116,26,12,W 9,12717,,,False,BOS,1972
+39,"Fri, Dec 31, 1971",,Box Score,,Philadelphia 76ers,W,,131,119,27,12,W 10,10513,,,False,BOS,1972
+40,"Sat, Jan 1, 1972",,Box Score,@,Phoenix Suns,L,,104,114,27,13,L 1,8056,,,False,BOS,1972
+41,"Sun, Jan 2, 1972",,Box Score,@,Los Angeles Lakers,L,,113,122,27,14,L 2,17505,,,False,BOS,1972
+42,"Wed, Jan 5, 1972",,Box Score,@,Houston Rockets,W,,113,105,28,14,W 1,5185,,,False,BOS,1972
+43,"Fri, Jan 7, 1972",,Box Score,@,Portland Trail Blazers,W,,120,114,29,14,W 2,6667,,,False,BOS,1972
+44,"Sat, Jan 8, 1972",,Box Score,@,Golden State Warriors,L,,106,128,29,15,L 1,11016,,"at Oakland, CA",False,BOS,1972
+45,"Sun, Jan 9, 1972",,Box Score,@,Seattle SuperSonics,L,,119,125,29,16,L 2,11108,,,False,BOS,1972
+46,"Wed, Jan 12, 1972",,Box Score,,Chicago Bulls,W,,113,112,30,16,W 1,6839,,,False,BOS,1972
+47,"Fri, Jan 14, 1972",,Box Score,,Detroit Pistons,W,,108,94,31,16,W 2,8863,,,False,BOS,1972
+48,"Sat, Jan 15, 1972",,Box Score,@,Atlanta Hawks,W,,122,106,32,16,W 3,6042,,,False,BOS,1972
+49,"Fri, Jan 21, 1972",,Box Score,,Houston Rockets,W,,110,105,33,16,W 4,7273,,,False,BOS,1972
+50,"Sun, Jan 23, 1972",,Box Score,,Portland Trail Blazers,W,,115,105,34,16,W 5,4508,,,False,BOS,1972
+51,"Tue, Jan 25, 1972",,Box Score,@,New York Knicks,L,,106,109,34,17,L 1,19588,,,False,BOS,1972
+52,"Wed, Jan 26, 1972",,Box Score,,Cleveland Cavaliers,L,,108,112,34,18,L 2,3016,,,False,BOS,1972
+53,"Fri, Jan 28, 1972",,Box Score,,New York Knicks,W,OT,122,116,35,18,W 1,15315,,,False,BOS,1972
+54,"Sat, Jan 29, 1972",,Box Score,@,Detroit Pistons,W,,124,112,36,18,W 2,5845,,,False,BOS,1972
+55,"Sun, Jan 30, 1972",,Box Score,,Philadelphia 76ers,W,,130,114,37,18,W 3,9793,,,False,BOS,1972
+56,"Tue, Feb 1, 1972",,Box Score,@,Baltimore Bullets,W,,115,108,38,18,W 4,5404,,,False,BOS,1972
+57,"Wed, Feb 2, 1972",,Box Score,,Chicago Bulls,W,,124,100,39,18,W 5,5081,,,False,BOS,1972
+58,"Fri, Feb 4, 1972",,Box Score,,Cincinnati Royals,W,,122,109,40,18,W 6,7608,,,False,BOS,1972
+59,"Sun, Feb 6, 1972",,Box Score,,Seattle SuperSonics,W,,128,123,41,18,W 7,7246,,,False,BOS,1972
+60,"Wed, Feb 9, 1972",,Box Score,,Buffalo Braves,W,,139,112,42,18,W 8,3759,,,False,BOS,1972
+61,"Fri, Feb 11, 1972",,Box Score,,Los Angeles Lakers,W,,121,108,43,18,W 9,15315,,,False,BOS,1972
+62,"Sun, Feb 13, 1972",,Box Score,,Milwaukee Bucks,L,,109,117,43,19,L 1,15315,,,False,BOS,1972
+63,"Tue, Feb 15, 1972",,Box Score,@,Portland Trail Blazers,W,,111,104,44,19,W 1,6471,,,False,BOS,1972
+64,"Wed, Feb 16, 1972",,Box Score,@,Seattle SuperSonics,L,,112,113,44,20,L 1,12120,,,False,BOS,1972
+65,"Fri, Feb 18, 1972",,Box Score,@,Phoenix Suns,L,,115,126,44,21,L 2,12005,,,False,BOS,1972
+66,"Sat, Feb 19, 1972",,Box Score,@,Golden State Warriors,L,,111,115,44,22,L 3,10184,,"at Oakland, CA",False,BOS,1972
+67,"Sun, Feb 20, 1972",,Box Score,@,Los Angeles Lakers,L,,113,132,44,23,L 4,17505,,,False,BOS,1972
+68,"Tue, Feb 22, 1972",,Box Score,,Phoenix Suns,W,,114,103,45,23,W 1,8106,,,False,BOS,1972
+69,"Wed, Feb 23, 1972",,Box Score,@,Cleveland Cavaliers,W,,113,111,46,23,W 2,4437,,,False,BOS,1972
+70,"Fri, Feb 25, 1972",,Box Score,@,Buffalo Braves,W,,117,115,47,23,W 3,8258,,,False,BOS,1972
+71,"Wed, Mar 1, 1972",,Box Score,,Cleveland Cavaliers,W,,115,105,48,23,W 4,5611,,,False,BOS,1972
+72,"Fri, Mar 3, 1972",,Box Score,@,Detroit Pistons,W,,125,96,49,23,W 5,4574,,,False,BOS,1972
+73,"Sun, Mar 5, 1972",,Box Score,,Cincinnati Royals,L,,114,125,49,24,L 1,5630,,,False,BOS,1972
+74,"Mon, Mar 6, 1972",,Box Score,@,Milwaukee Bucks,L,OT,127,132,49,25,L 2,10746,,,False,BOS,1972
+75,"Sun, Mar 12, 1972",,Box Score,,New York Knicks,W,,112,109,50,25,W 1,15315,,,False,BOS,1972
+76,"Tue, Mar 14, 1972",,Box Score,,Golden State Warriors,W,,124,110,51,25,W 2,7114,,,False,BOS,1972
+77,"Wed, Mar 15, 1972",,Box Score,@,Philadelphia 76ers,W,,120,115,52,25,W 3,9024,,,False,BOS,1972
+78,"Fri, Mar 17, 1972",,Box Score,N,Philadelphia 76ers,W,,127,111,53,25,W 4,8016,,"at Hershey, PA",False,BOS,1972
+79,"Sun, Mar 19, 1972",,Box Score,,Baltimore Bullets,L,,112,125,53,26,L 1,10226,,,False,BOS,1972
+80,"Wed, Mar 22, 1972",,Box Score,,Philadelphia 76ers,W,,113,106,54,26,W 1,13851,,,False,BOS,1972
+81,"Sat, Mar 25, 1972",,Box Score,@,Buffalo Braves,W,,121,116,55,26,W 2,13069,,,False,BOS,1972
+82,"Sun, Mar 26, 1972",,Box Score,,Detroit Pistons,W,,133,120,56,26,W 3,8838,,,False,BOS,1972
+1,"Wed, Mar 29, 1972",,Box Score,,Atlanta Hawks,W,,126,108,1,0,W 1,12815,,,True,BOS,1972
+2,"Fri, Mar 31, 1972",,Box Score,@,Atlanta Hawks,L,,104,113,1,1,L 1,,,,True,BOS,1972
+3,"Sun, Apr 2, 1972",,Box Score,,Atlanta Hawks,W,,136,113,2,1,W 1,12094,,,True,BOS,1972
+4,"Tue, Apr 4, 1972",,Box Score,@,Atlanta Hawks,L,,110,112,2,2,L 1,,,,True,BOS,1972
+5,"Fri, Apr 7, 1972",,Box Score,,Atlanta Hawks,W,,124,114,3,2,W 1,15315,,,True,BOS,1972
+6,"Sun, Apr 9, 1972",,Box Score,@,Atlanta Hawks,W,,127,118,4,2,W 2,,,,True,BOS,1972
+7,"Thu, Apr 13, 1972",,Box Score,,New York Knicks,L,,94,116,4,3,L 1,14292,,,True,BOS,1972
+8,"Sun, Apr 16, 1972",,Box Score,@,New York Knicks,L,,105,106,4,4,L 2,,,,True,BOS,1972
+9,"Wed, Apr 19, 1972",,Box Score,,New York Knicks,W,,115,109,5,4,W 1,15315,,,True,BOS,1972
+10,"Fri, Apr 21, 1972",,Box Score,@,New York Knicks,L,,98,116,5,5,L 1,,,,True,BOS,1972
+11,"Sun, Apr 23, 1972",,Box Score,,New York Knicks,L,,103,111,5,6,L 2,15315,,,True,BOS,1972

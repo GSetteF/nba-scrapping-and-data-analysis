@@ -1,0 +1,92 @@
+G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Opponent,Unnamed: 6,Unnamed: 7,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Sat, Oct 20, 1962",,Box Score,,Detroit Pistons,W,,120,111,1,0,W 1,,,,False,STL,1963
+2,"Tue, Oct 23, 1962",,Box Score,N,Chicago Zephyrs,W,,110,109,2,0,W 2,,,"at New York, NY",False,STL,1963
+3,"Wed, Oct 24, 1962",,Box Score,,Cincinnati Royals,W,,121,114,3,0,W 3,,,,False,STL,1963
+4,"Fri, Oct 26, 1962",,Box Score,@,Cincinnati Royals,L,,102,118,3,1,L 1,,,,False,STL,1963
+5,"Sat, Oct 27, 1962",,Box Score,,New York Knicks,W,,115,109,4,1,W 1,,,,False,STL,1963
+6,"Tue, Oct 30, 1962",,Box Score,,Boston Celtics,W,,98,97,5,1,W 2,7158,,,False,STL,1963
+7,"Wed, Oct 31, 1962",,Box Score,N,Syracuse Nationals,L,,108,126,5,2,L 1,,,"at Baltimore, MD",False,STL,1963
+8,"Sat, Nov 3, 1962",,Box Score,,Chicago Zephyrs,W,,114,109,6,2,W 1,,,,False,STL,1963
+9,"Wed, Nov 7, 1962",,Box Score,,New York Knicks,L,,112,122,6,3,L 1,,,,False,STL,1963
+10,"Fri, Nov 9, 1962",,Box Score,@,Syracuse Nationals,L,,93,101,6,4,L 2,,,,False,STL,1963
+11,"Sat, Nov 10, 1962",,Box Score,,Los Angeles Lakers,W,,97,96,7,4,W 1,,,,False,STL,1963
+12,"Sun, Nov 11, 1962",,Box Score,,Detroit Pistons,W,,117,100,8,4,W 2,,,,False,STL,1963
+13,"Tue, Nov 13, 1962",,Box Score,,San Francisco Warriors,W,,132,100,9,4,W 3,,,,False,STL,1963
+14,"Fri, Nov 16, 1962",,Box Score,@,Cincinnati Royals,L,,111,120,9,5,L 1,,,,False,STL,1963
+15,"Sat, Nov 17, 1962",,Box Score,,Syracuse Nationals,W,,113,107,10,5,W 1,,,,False,STL,1963
+16,"Tue, Nov 20, 1962",,Box Score,@,New York Knicks,L,,95,103,10,6,L 1,,,,False,STL,1963
+17,"Wed, Nov 21, 1962",,Box Score,@,Boston Celtics,L,,106,115,10,7,L 2,7511,,,False,STL,1963
+18,"Thu, Nov 22, 1962",,Box Score,,Detroit Pistons,W,,106,91,11,7,W 1,,,,False,STL,1963
+19,"Fri, Nov 23, 1962",,Box Score,@,Detroit Pistons,W,,121,93,12,7,W 2,,,,False,STL,1963
+20,"Sat, Nov 24, 1962",,Box Score,,Boston Celtics,W,,97,95,13,7,W 3,10612,,,False,STL,1963
+21,"Tue, Nov 27, 1962",,Box Score,,Syracuse Nationals,W,,120,105,14,7,W 4,,,,False,STL,1963
+22,"Wed, Nov 28, 1962",,Box Score,@,Los Angeles Lakers,L,,110,116,14,8,L 1,,,,False,STL,1963
+23,"Thu, Nov 29, 1962",,Box Score,@,San Francisco Warriors,W,,128,121,15,8,W 1,,,,False,STL,1963
+24,"Sat, Dec 1, 1962",,Box Score,@,Los Angeles Lakers,L,,97,110,15,9,L 1,,,,False,STL,1963
+25,"Sun, Dec 2, 1962",,Box Score,@,San Francisco Warriors,W,,122,116,16,9,W 1,,,,False,STL,1963
+26,"Tue, Dec 4, 1962",,Box Score,,Chicago Zephyrs,W,,104,102,17,9,W 2,,,,False,STL,1963
+27,"Thu, Dec 6, 1962",,Box Score,@,Chicago Zephyrs,L,,93,106,17,10,L 1,,,,False,STL,1963
+28,"Sat, Dec 8, 1962",,Box Score,,San Francisco Warriors,W,,145,129,18,10,W 1,,,,False,STL,1963
+29,"Sun, Dec 9, 1962",,Box Score,N,Detroit Pistons,L,,119,123,18,11,L 1,,,"at Fort Wayne, IN",False,STL,1963
+30,"Wed, Dec 12, 1962",,Box Score,@,Boston Celtics,L,,98,111,18,12,L 2,4894,,,False,STL,1963
+31,"Sat, Dec 15, 1962",,Box Score,@,Detroit Pistons,W,,112,94,19,12,W 1,,,,False,STL,1963
+32,"Sun, Dec 16, 1962",,Box Score,,New York Knicks,W,,115,108,20,12,W 2,,,,False,STL,1963
+33,"Tue, Dec 18, 1962",,Box Score,@,San Francisco Warriors,L,,110,130,20,13,L 1,,,,False,STL,1963
+34,"Wed, Dec 19, 1962",,Box Score,@,Los Angeles Lakers,L,,106,135,20,14,L 2,,,,False,STL,1963
+35,"Fri, Dec 21, 1962",,Box Score,@,Los Angeles Lakers,W,,105,100,21,14,W 1,,,,False,STL,1963
+36,"Tue, Dec 25, 1962",,Box Score,N,San Francisco Warriors,L,,91,94,21,15,L 1,,,"at New York, NY",False,STL,1963
+37,"Wed, Dec 26, 1962",,Box Score,,Los Angeles Lakers,W,,106,104,22,15,W 1,,,,False,STL,1963
+38,"Sat, Dec 29, 1962",,Box Score,,Boston Celtics,W,,102,100,23,15,W 2,10017,,,False,STL,1963
+39,"Sun, Dec 30, 1962",,Box Score,@,Chicago Zephyrs,W,,107,100,24,15,W 3,,,,False,STL,1963
+40,"Wed, Jan 2, 1963",,Box Score,@,Syracuse Nationals,L,,95,120,24,16,L 1,,,,False,STL,1963
+41,"Fri, Jan 4, 1963",,Box Score,N,Detroit Pistons,W,,121,100,25,16,W 1,,,"at New York, NY",False,STL,1963
+42,"Sat, Jan 5, 1963",,Box Score,@,Detroit Pistons,L,,90,92,25,17,L 1,,,,False,STL,1963
+43,"Sun, Jan 6, 1963",,Box Score,,San Francisco Warriors,W,,114,103,26,17,W 1,,,,False,STL,1963
+44,"Tue, Jan 8, 1963",,Box Score,,Los Angeles Lakers,L,,96,99,26,18,L 1,,,,False,STL,1963
+45,"Wed, Jan 9, 1963",,Box Score,N,New York Knicks,W,,110,95,27,18,W 1,,,"at Detroit, MI",False,STL,1963
+46,"Sat, Jan 12, 1963",,Box Score,,Cincinnati Royals,W,,115,109,28,18,W 2,,,,False,STL,1963
+47,"Sun, Jan 13, 1963",,Box Score,@,Cincinnati Royals,W,,105,104,29,18,W 3,,,,False,STL,1963
+48,"Sat, Jan 19, 1963",,Box Score,,San Francisco Warriors,W,,116,114,30,18,W 4,,,,False,STL,1963
+49,"Sun, Jan 20, 1963",,Box Score,,San Francisco Warriors,W,,116,115,31,18,W 5,,,,False,STL,1963
+50,"Tue, Jan 22, 1963",,Box Score,N,Syracuse Nationals,W,,113,93,32,18,W 6,,,"at New York, NY",False,STL,1963
+51,"Thu, Jan 24, 1963",,Box Score,N,Boston Celtics,L,,109,111,32,19,L 1,7238,,"at Providence, RI",False,STL,1963
+52,"Fri, Jan 25, 1963",,Box Score,@,Boston Celtics,L,,98,113,32,20,L 2,7814,,,False,STL,1963
+53,"Sun, Jan 27, 1963",,Box Score,,Los Angeles Lakers,L,,101,105,32,21,L 3,,,,False,STL,1963
+54,"Tue, Jan 29, 1963",,Box Score,,Syracuse Nationals,W,,123,105,33,21,W 1,,,,False,STL,1963
+55,"Thu, Jan 31, 1963",,Box Score,@,Syracuse Nationals,L,,100,112,33,22,L 1,,,,False,STL,1963
+56,"Fri, Feb 1, 1963",,Box Score,@,Chicago Zephyrs,W,,119,111,34,22,W 1,,,,False,STL,1963
+57,"Sat, Feb 2, 1963",,Box Score,,Los Angeles Lakers,L,,97,103,34,23,L 1,,,,False,STL,1963
+58,"Tue, Feb 5, 1963",,Box Score,N,Detroit Pistons,W,,120,105,35,23,W 1,,,"at New York, NY",False,STL,1963
+59,"Fri, Feb 8, 1963",,Box Score,,Cincinnati Royals,L,,112,116,35,24,L 1,,,,False,STL,1963
+60,"Sun, Feb 10, 1963",,Box Score,,Detroit Pistons,L,,95,102,35,25,L 2,,,,False,STL,1963
+61,"Tue, Feb 12, 1963",,Box Score,,Syracuse Nationals,W,,128,100,36,25,W 1,,,,False,STL,1963
+62,"Wed, Feb 13, 1963",,Box Score,@,New York Knicks,W,,103,102,37,25,W 2,,,,False,STL,1963
+63,"Thu, Feb 14, 1963",,Box Score,N,New York Knicks,L,,113,123,37,26,L 1,,,"at Syracuse, NY",False,STL,1963
+64,"Fri, Feb 15, 1963",,Box Score,@,Cincinnati Royals,W,,99,96,38,26,W 1,,,,False,STL,1963
+65,"Sat, Feb 16, 1963",,Box Score,,Boston Celtics,L,,94,114,38,27,L 1,11006,,,False,STL,1963
+66,"Fri, Feb 22, 1963",,Box Score,,Chicago Zephyrs,W,,115,98,39,27,W 1,,,,False,STL,1963
+67,"Sun, Feb 24, 1963",,Box Score,,San Francisco Warriors,W,,127,106,40,27,W 2,,,,False,STL,1963
+68,"Tue, Feb 26, 1963",,Box Score,,Cincinnati Royals,W,,114,107,41,27,W 3,,,,False,STL,1963
+69,"Wed, Feb 27, 1963",,Box Score,@,Chicago Zephyrs,L,,93,98,41,28,L 1,,,,False,STL,1963
+70,"Fri, Mar 1, 1963",,Box Score,N,Detroit Pistons,L,,113,115,41,29,L 2,,,"at Toledo, OH",False,STL,1963
+71,"Sun, Mar 3, 1963",,Box Score,,Chicago Zephyrs,W,,104,97,42,29,W 1,,,,False,STL,1963
+72,"Tue, Mar 5, 1963",,Box Score,@,Chicago Zephyrs,L,,93,116,42,30,L 1,,,,False,STL,1963
+73,"Fri, Mar 8, 1963",,Box Score,@,New York Knicks,W,,129,124,43,30,W 1,,,,False,STL,1963
+74,"Sat, Mar 9, 1963",,Box Score,,Los Angeles Lakers,W,,117,101,44,30,W 2,,,,False,STL,1963
+75,"Sun, Mar 10, 1963",,Box Score,,New York Knicks,W,,132,120,45,30,W 3,,,,False,STL,1963
+76,"Mon, Mar 11, 1963",,Box Score,@,Los Angeles Lakers,L,,96,109,45,31,L 1,,,,False,STL,1963
+77,"Wed, Mar 13, 1963",,Box Score,@,Los Angeles Lakers,W,,112,98,46,31,W 1,,,,False,STL,1963
+78,"Thu, Mar 14, 1963",,Box Score,@,San Francisco Warriors,W,,114,109,47,31,W 2,,,,False,STL,1963
+79,"Fri, Mar 15, 1963",,Box Score,N,San Francisco Warriors,L,,108,119,47,32,L 1,,,"at Oakland, CA",False,STL,1963
+80,"Sun, Mar 17, 1963",,Box Score,,Detroit Pistons,W,,119,105,48,32,W 1,,,,False,STL,1963
+1,"Wed, Mar 20, 1963",,Box Score,,Detroit Pistons,W,,118,99,1,0,W 1,,,,True,STL,1963
+2,"Fri, Mar 22, 1963",,Box Score,,Detroit Pistons,W,,122,108,2,0,W 2,,,,True,STL,1963
+3,"Sun, Mar 24, 1963",,Box Score,@,Detroit Pistons,L,,103,107,2,1,L 1,,,,True,STL,1963
+4,"Tue, Mar 26, 1963",,Box Score,@,Detroit Pistons,W,,104,100,3,1,W 1,,,,True,STL,1963
+5,"Sun, Mar 31, 1963",,Box Score,@,Los Angeles Lakers,L,,104,112,3,2,L 1,,,,True,STL,1963
+6,"Tue, Apr 2, 1963",,Box Score,@,Los Angeles Lakers,L,,99,101,3,3,L 2,,,,True,STL,1963
+7,"Thu, Apr 4, 1963",,Box Score,,Los Angeles Lakers,W,,125,112,4,3,W 1,,,,True,STL,1963
+8,"Sat, Apr 6, 1963",,Box Score,,Los Angeles Lakers,W,,124,114,5,3,W 2,,,,True,STL,1963
+9,"Sun, Apr 7, 1963",,Box Score,@,Los Angeles Lakers,L,,96,123,5,4,L 1,,,,True,STL,1963
+10,"Tue, Apr 9, 1963",,Box Score,,Los Angeles Lakers,W,,121,113,6,4,W 1,,,,True,STL,1963
+11,"Thu, Apr 11, 1963",,Box Score,@,Los Angeles Lakers,L,,100,115,6,5,L 1,,,,True,STL,1963

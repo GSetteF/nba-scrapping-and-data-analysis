@@ -1,0 +1,83 @@
+G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Opponent,Unnamed: 6,Unnamed: 7,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Fri, Oct 31, 1997",,Box Score,,Washington Wizards,W,,92,79,1,0,W 1,22076,,,False,DET,1998
+2,"Sun, Nov 2, 1997",,Box Score,@,New York Knicks,W,,94,86,2,0,W 2,19763,,,False,DET,1998
+3,"Tue, Nov 4, 1997",,Box Score,@,Atlanta Hawks,L,,71,82,2,1,L 1,13961,,,False,DET,1998
+4,"Wed, Nov 5, 1997",,Box Score,,Indiana Pacers,L,,87,99,2,2,L 2,18241,,,False,DET,1998
+5,"Fri, Nov 7, 1997",,Box Score,,Orlando Magic,L,,84,89,2,3,L 3,22076,,,False,DET,1998
+6,"Sun, Nov 9, 1997",,Box Score,@,Vancouver Grizzlies,L,OT,96,104,2,4,L 4,14925,,,False,DET,1998
+7,"Mon, Nov 10, 1997",,Box Score,@,Portland Trail Blazers,L,,82,86,2,5,L 5,20411,,,False,DET,1998
+8,"Wed, Nov 12, 1997",,Box Score,@,Golden State Warriors,W,,102,71,3,5,W 1,10629,,,False,DET,1998
+9,"Thu, Nov 13, 1997",,Box Score,@,Seattle SuperSonics,L,,89,95,3,6,L 1,17072,,,False,DET,1998
+10,"Sat, Nov 15, 1997",,Box Score,,New Jersey Nets,W,OT,96,88,4,6,W 1,19191,,,False,DET,1998
+11,"Tue, Nov 18, 1997",,Box Score,@,Milwaukee Bucks,L,,79,87,4,7,L 1,13065,,,False,DET,1998
+12,"Thu, Nov 20, 1997",,Box Score,,Portland Trail Blazers,L,,87,93,4,8,L 2,16205,,,False,DET,1998
+13,"Sat, Nov 22, 1997",,Box Score,,Atlanta Hawks,W,,87,85,5,8,W 1,18481,,,False,DET,1998
+14,"Sun, Nov 23, 1997",,Box Score,@,Boston Celtics,L,,86,90,5,9,L 1,17070,2:21,,False,DET,1998
+15,"Tue, Nov 25, 1997",,Box Score,@,Charlotte Hornets,L,,85,90,5,10,L 2,22617,,,False,DET,1998
+16,"Fri, Nov 28, 1997",,Box Score,,New York Knicks,W,,86,78,6,10,W 1,22076,,,False,DET,1998
+17,"Sun, Nov 30, 1997",,Box Score,,Vancouver Grizzlies,L,,95,97,6,11,L 1,16030,,,False,DET,1998
+18,"Wed, Dec 3, 1997",,Box Score,,Phoenix Suns,W,3OT,108,103,7,11,W 1,15548,,,False,DET,1998
+19,"Fri, Dec 5, 1997",,Box Score,,Seattle SuperSonics,L,,89,94,7,12,L 1,18424,,,False,DET,1998
+20,"Sun, Dec 7, 1997",,Box Score,@,Toronto Raptors,W,,93,83,8,12,W 1,16829,,,False,DET,1998
+21,"Tue, Dec 9, 1997",,Box Score,,Denver Nuggets,W,,92,83,9,12,W 2,14856,,,False,DET,1998
+22,"Thu, Dec 11, 1997",,Box Score,,New Jersey Nets,W,,103,99,10,12,W 3,14365,,,False,DET,1998
+23,"Sat, Dec 13, 1997",,Box Score,,Boston Celtics,W,,93,77,11,12,W 4,22076,1:55,,False,DET,1998
+24,"Tue, Dec 16, 1997",,Box Score,@,New York Knicks,L,,78,83,11,13,L 1,19763,,,False,DET,1998
+25,"Wed, Dec 17, 1997",,Box Score,@,New Jersey Nets,L,,101,105,11,14,L 2,16028,,,False,DET,1998
+26,"Fri, Dec 19, 1997",,Box Score,@,Indiana Pacers,L,,90,98,11,15,L 3,14743,,,False,DET,1998
+27,"Sat, Dec 20, 1997",,Box Score,,Philadelphia 76ers,W,,115,78,12,15,W 1,22076,,,False,DET,1998
+28,"Mon, Dec 22, 1997",,Box Score,@,Philadelphia 76ers,W,,96,92,13,15,W 2,16798,,,False,DET,1998
+29,"Fri, Dec 26, 1997",,Box Score,,Miami Heat,L,,74,88,13,16,L 1,22076,,,False,DET,1998
+30,"Sun, Dec 28, 1997",,Box Score,,Minnesota Timberwolves,L,,89,93,13,17,L 2,19450,,,False,DET,1998
+31,"Tue, Dec 30, 1997",,Box Score,,Toronto Raptors,W,,100,95,14,17,W 1,19087,,,False,DET,1998
+32,"Fri, Jan 2, 1998",,Box Score,@,Toronto Raptors,W,,91,88,15,17,W 2,17292,,,False,DET,1998
+33,"Sat, Jan 3, 1998",,Box Score,,Chicago Bulls,L,,96,105,15,18,L 1,22076,,,False,DET,1998
+34,"Fri, Jan 9, 1998",,Box Score,,Golden State Warriors,W,,101,72,16,18,W 1,18366,,,False,DET,1998
+35,"Sun, Jan 11, 1998",,Box Score,,Los Angeles Clippers,W,,113,85,17,18,W 2,17696,,,False,DET,1998
+36,"Wed, Jan 14, 1998",,Box Score,@,Indiana Pacers,L,,93,100,17,19,L 1,15826,,,False,DET,1998
+37,"Thu, Jan 15, 1998",,Box Score,,Charlotte Hornets,W,OT,95,94,18,19,W 1,16716,,,False,DET,1998
+38,"Mon, Jan 19, 1998",,Box Score,@,Utah Jazz,L,,89,98,18,20,L 1,19911,,,False,DET,1998
+39,"Wed, Jan 21, 1998",,Box Score,@,Denver Nuggets,W,,87,67,19,20,W 1,10821,,,False,DET,1998
+40,"Thu, Jan 22, 1998",,Box Score,@,Los Angeles Clippers,W,,94,76,20,20,W 2,12677,,"at Anaheim, CA",False,DET,1998
+41,"Sat, Jan 24, 1998",,Box Score,,New York Knicks,L,,92,99,20,21,L 1,22076,,,False,DET,1998
+42,"Tue, Jan 27, 1998",,Box Score,@,Milwaukee Bucks,L,,81,83,20,22,L 2,13389,,,False,DET,1998
+43,"Wed, Jan 28, 1998",,Box Score,,Orlando Magic,W,,91,86,21,22,W 1,17473,,,False,DET,1998
+44,"Fri, Jan 30, 1998",,Box Score,,Washington Wizards,L,,95,102,21,23,L 1,22076,,,False,DET,1998
+45,"Sat, Jan 31, 1998",,Box Score,@,Cleveland Cavaliers,L,,88,90,21,24,L 2,20562,,,False,DET,1998
+46,"Mon, Feb 2, 1998",,Box Score,@,Washington Wizards,L,,101,113,21,25,L 3,20124,,,False,DET,1998
+47,"Thu, Feb 5, 1998",,Box Score,,Houston Rockets,W,,104,92,22,25,W 1,17534,,,False,DET,1998
+48,"Wed, Feb 11, 1998",,Box Score,,Milwaukee Bucks,W,,95,83,23,25,W 2,16220,,,False,DET,1998
+49,"Fri, Feb 13, 1998",,Box Score,@,Miami Heat,L,,86,100,23,26,L 1,15200,,,False,DET,1998
+50,"Sun, Feb 15, 1998",,Box Score,@,Chicago Bulls,L,,90,99,23,27,L 2,24139,,,False,DET,1998
+51,"Tue, Feb 17, 1998",,Box Score,@,San Antonio Spurs,L,,94,95,23,28,L 3,14474,,,False,DET,1998
+52,"Thu, Feb 19, 1998",,Box Score,@,Houston Rockets,L,,90,100,23,29,L 4,16285,,,False,DET,1998
+53,"Sat, Feb 21, 1998",,Box Score,@,Dallas Mavericks,W,,94,82,24,29,W 1,18042,,,False,DET,1998
+54,"Mon, Feb 23, 1998",,Box Score,,Sacramento Kings,W,,111,85,25,29,W 2,16228,,,False,DET,1998
+55,"Wed, Feb 25, 1998",,Box Score,,Charlotte Hornets,L,,88,98,25,30,L 1,17477,,,False,DET,1998
+56,"Fri, Feb 27, 1998",,Box Score,,Cleveland Cavaliers,W,,90,87,26,30,W 1,22076,,,False,DET,1998
+57,"Sun, Mar 1, 1998",,Box Score,@,Minnesota Timberwolves,L,2OT,113,115,26,31,L 1,18651,,,False,DET,1998
+58,"Mon, Mar 2, 1998",,Box Score,,Dallas Mavericks,W,,100,94,27,31,W 1,15682,,,False,DET,1998
+59,"Wed, Mar 4, 1998",,Box Score,@,Sacramento Kings,L,,89,109,27,32,L 1,14772,,,False,DET,1998
+60,"Thu, Mar 5, 1998",,Box Score,@,Phoenix Suns,L,,93,102,27,33,L 2,19023,,,False,DET,1998
+61,"Sun, Mar 8, 1998",,Box Score,@,Los Angeles Lakers,L,,89,96,27,34,L 3,17505,,,False,DET,1998
+62,"Wed, Mar 11, 1998",,Box Score,,Indiana Pacers,W,,122,91,28,34,W 1,20987,,,False,DET,1998
+63,"Fri, Mar 13, 1998",,Box Score,@,Boston Celtics,W,,96,92,29,34,W 2,18624,2:23,,False,DET,1998
+64,"Sun, Mar 15, 1998",,Box Score,,Utah Jazz,L,,98,109,29,35,L 1,22076,,,False,DET,1998
+65,"Mon, Mar 16, 1998",,Box Score,@,Miami Heat,W,,103,90,30,35,W 1,14783,,,False,DET,1998
+66,"Wed, Mar 18, 1998",,Box Score,,Philadelphia 76ers,L,,96,104,30,36,L 1,18310,,,False,DET,1998
+67,"Fri, Mar 20, 1998",,Box Score,,Toronto Raptors,W,,105,99,31,36,W 1,22076,,,False,DET,1998
+68,"Sun, Mar 22, 1998",,Box Score,,Atlanta Hawks,W,,105,98,32,36,W 2,22076,,,False,DET,1998
+69,"Mon, Mar 23, 1998",,Box Score,@,Philadelphia 76ers,W,,94,79,33,36,W 3,14294,,,False,DET,1998
+70,"Wed, Mar 25, 1998",,Box Score,,San Antonio Spurs,W,,103,94,34,36,W 4,18862,,,False,DET,1998
+71,"Fri, Mar 27, 1998",,Box Score,@,Cleveland Cavaliers,L,OT,87,88,34,37,L 1,19105,,,False,DET,1998
+72,"Sun, Mar 29, 1998",,Box Score,@,Atlanta Hawks,L,,95,118,34,38,L 2,24693,,,False,DET,1998
+73,"Tue, Mar 31, 1998",,Box Score,@,Chicago Bulls,L,OT,101,106,34,39,L 3,23942,,,False,DET,1998
+74,"Wed, Apr 1, 1998",,Box Score,,Cleveland Cavaliers,L,,90,92,34,40,L 4,17846,,,False,DET,1998
+75,"Fri, Apr 3, 1998",,Box Score,,Boston Celtics,L,,100,101,34,41,L 5,22076,2:05,,False,DET,1998
+76,"Sun, Apr 5, 1998",,Box Score,,Los Angeles Lakers,L,OT,103,105,34,42,L 6,22076,,,False,DET,1998
+77,"Wed, Apr 8, 1998",,Box Score,@,Orlando Magic,L,,87,95,34,43,L 7,17248,,,False,DET,1998
+78,"Thu, Apr 9, 1998",,Box Score,@,Washington Wizards,W,,102,83,35,43,W 1,20674,,,False,DET,1998
+79,"Sun, Apr 12, 1998",,Box Score,@,Charlotte Hornets,L,,86,88,35,44,L 1,24042,,,False,DET,1998
+80,"Wed, Apr 15, 1998",,Box Score,,Chicago Bulls,W,,87,79,36,44,W 1,22076,,,False,DET,1998
+81,"Fri, Apr 17, 1998",,Box Score,,Milwaukee Bucks,W,,108,102,37,44,W 2,22076,,,False,DET,1998
+82,"Sun, Apr 19, 1998",,Box Score,@,New Jersey Nets,L,,101,114,37,45,L 1,20049,,,False,DET,1998

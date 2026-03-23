@@ -1,0 +1,103 @@
+G,Date,Start (ET),Unnamed: 3,Unnamed: 4,Unnamed: 5,Opponent,Unnamed: 7,Unnamed: 8,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Wed, Oct 30, 2002",8:00p,,Box Score,@,Memphis Grizzlies,W,,119,108,1,0,W 1,16638,,,False,DAL,2003
+2,"Sat, Nov 2, 2002",8:30p,,Box Score,,Phoenix Suns,W,,97,83,2,0,W 2,19783,,,False,DAL,2003
+3,"Mon, Nov 4, 2002",8:30p,,Box Score,,Golden State Warriors,W,,107,100,3,0,W 3,19368,,,False,DAL,2003
+4,"Wed, Nov 6, 2002",7:00p,,Box Score,@,Toronto Raptors,W,,106,92,4,0,W 4,19800,,,False,DAL,2003
+5,"Fri, Nov 8, 2002",8:30p,,Box Score,@,Chicago Bulls,W,,114,87,5,0,W 5,21028,,,False,DAL,2003
+6,"Sat, Nov 9, 2002",8:30p,,Box Score,,Detroit Pistons,W,,114,75,6,0,W 6,19644,,,False,DAL,2003
+7,"Mon, Nov 11, 2002",8:30p,,Box Score,,Portland Trail Blazers,W,,82,73,7,0,W 7,19548,,,False,DAL,2003
+8,"Wed, Nov 13, 2002",7:00p,,Box Score,@,Cleveland Cavaliers,W,,103,99,8,0,W 8,12764,,,False,DAL,2003
+9,"Fri, Nov 15, 2002",8:00p,,Box Score,@,Boston Celtics,W,,97,86,9,0,W 9,18624,2:09,,False,DAL,2003
+10,"Sat, Nov 16, 2002",7:30p,,Box Score,@,New Jersey Nets,W,,96,88,10,0,W 10,16634,,,False,DAL,2003
+11,"Tue, Nov 19, 2002",8:30p,,Box Score,,Los Angeles Lakers,W,,98,72,11,0,W 11,20096,,,False,DAL,2003
+12,"Thu, Nov 21, 2002",7:30p,,Box Score,,Houston Rockets,W,,103,90,12,0,W 12,19853,,,False,DAL,2003
+13,"Sat, Nov 23, 2002",8:30p,,Box Score,,Seattle SuperSonics,W,,115,105,13,0,W 13,20011,,,False,DAL,2003
+14,"Wed, Nov 27, 2002",7:30p,,Box Score,@,Detroit Pistons,W,,102,82,14,0,W 14,22076,,,False,DAL,2003
+15,"Thu, Nov 28, 2002",7:30p,,Box Score,@,Indiana Pacers,L,,98,110,14,1,L 1,17948,,,False,DAL,2003
+16,"Sat, Nov 30, 2002",8:30p,,Box Score,,Chicago Bulls,W,,103,90,15,1,W 1,19940,,,False,DAL,2003
+17,"Mon, Dec 2, 2002",8:30p,,Box Score,,Toronto Raptors,W,,113,102,16,1,W 2,19696,,,False,DAL,2003
+18,"Wed, Dec 4, 2002",10:00p,,Box Score,@,Portland Trail Blazers,W,,103,88,17,1,W 3,18452,,,False,DAL,2003
+19,"Fri, Dec 6, 2002",10:30p,,Box Score,@,Los Angeles Lakers,L,,103,105,17,2,L 1,18997,,,False,DAL,2003
+20,"Sat, Dec 7, 2002",10:30p,,Box Score,@,Golden State Warriors,W,,121,116,18,2,W 1,16355,,,False,DAL,2003
+21,"Tue, Dec 10, 2002",8:30p,,Box Score,,Los Angeles Clippers,W,,122,95,19,2,W 2,19715,,,False,DAL,2003
+22,"Wed, Dec 11, 2002",9:30p,,Box Score,@,San Antonio Spurs,L,,104,111,19,3,L 1,17632,,,False,DAL,2003
+23,"Sat, Dec 14, 2002",8:30p,,Box Score,,Memphis Grizzlies,W,,104,87,20,3,W 1,19732,,,False,DAL,2003
+24,"Tue, Dec 17, 2002",8:30p,,Box Score,,Indiana Pacers,W,,118,97,21,3,W 2,19954,,,False,DAL,2003
+25,"Wed, Dec 18, 2002",9:00p,,Box Score,@,Denver Nuggets,W,,80,75,22,3,W 3,13183,,,False,DAL,2003
+26,"Fri, Dec 20, 2002",8:30p,,Box Score,,Utah Jazz,L,,81,93,22,4,L 1,19826,,,False,DAL,2003
+27,"Mon, Dec 23, 2002",8:30p,,Box Score,,Washington Wizards,W,,92,86,23,4,W 1,20119,,,False,DAL,2003
+28,"Thu, Dec 26, 2002",8:30p,,Box Score,@,New Orleans Hornets,W,,83,81,24,4,W 2,18015,,,False,DAL,2003
+29,"Sat, Dec 28, 2002",8:30p,,Box Score,,New York Knicks,W,,107,82,25,4,W 3,20060,,,False,DAL,2003
+30,"Mon, Dec 30, 2002",8:30p,,Box Score,,Milwaukee Bucks,L,,107,110,25,5,L 1,19939,,,False,DAL,2003
+31,"Thu, Jan 2, 2003",8:30p,,Box Score,,Los Angeles Clippers,W,,102,92,26,5,W 1,19884,,,False,DAL,2003
+32,"Sat, Jan 4, 2003",1:30p,,Box Score,,Philadelphia 76ers,W,,102,83,27,5,W 2,20124,,,False,DAL,2003
+33,"Mon, Jan 6, 2003",8:30p,,Box Score,,Denver Nuggets,W,,86,71,28,5,W 3,19773,,,False,DAL,2003
+34,"Wed, Jan 8, 2003",7:30p,,Box Score,@,Atlanta Hawks,W,,117,99,29,5,W 4,10997,,,False,DAL,2003
+35,"Fri, Jan 10, 2003",8:00p,,Box Score,,Boston Celtics,W,,103,78,30,5,W 5,20032,2:14,,False,DAL,2003
+36,"Sun, Jan 12, 2003",3:30p,,Box Score,@,Los Angeles Clippers,W,,96,90,31,5,W 6,18216,,,False,DAL,2003
+37,"Wed, Jan 15, 2003",9:00p,,Box Score,@,Sacramento Kings,L,,94,123,31,6,L 1,17317,,,False,DAL,2003
+38,"Fri, Jan 17, 2003",9:00p,,Box Score,@,Phoenix Suns,L,,106,111,31,7,L 2,19023,,,False,DAL,2003
+39,"Sun, Jan 19, 2003",9:00p,,Box Score,@,Seattle SuperSonics,L,,81,85,31,8,L 3,16359,,,False,DAL,2003
+40,"Tue, Jan 21, 2003",8:30p,,Box Score,,Houston Rockets,W,,107,86,32,8,W 1,20104,,,False,DAL,2003
+41,"Thu, Jan 23, 2003",7:30p,,Box Score,@,Philadelphia 76ers,W,,107,94,33,8,W 2,20027,,,False,DAL,2003
+42,"Fri, Jan 24, 2003",7:30p,,Box Score,@,New York Knicks,W,,101,90,34,8,W 3,19763,,,False,DAL,2003
+43,"Sun, Jan 26, 2003",2:00p,,Box Score,,Portland Trail Blazers,L,,93,100,34,9,L 1,19765,,,False,DAL,2003
+44,"Wed, Jan 29, 2003",9:00p,,Box Score,@,Houston Rockets,W,,104,81,35,9,W 1,16285,,,False,DAL,2003
+45,"Thu, Jan 30, 2003",7:30p,,Box Score,,Minnesota Timberwolves,W,,112,109,36,9,W 2,19874,,,False,DAL,2003
+46,"Sat, Feb 1, 2003",8:30p,,Box Score,,Denver Nuggets,W,,122,100,37,9,W 3,19889,,,False,DAL,2003
+47,"Mon, Feb 3, 2003",9:00p,,Box Score,@,Utah Jazz,W,,92,90,38,9,W 4,19130,,,False,DAL,2003
+48,"Tue, Feb 4, 2003",8:30p,,Box Score,,Sacramento Kings,L,,109,110,38,10,L 1,20102,,,False,DAL,2003
+49,"Tue, Feb 11, 2003",8:00p,,Box Score,@,Minnesota Timberwolves,L,,98,100,38,11,L 2,15145,,,False,DAL,2003
+50,"Wed, Feb 12, 2003",9:00p,,Box Score,@,Milwaukee Bucks,L,,114,120,38,12,L 3,15886,,,False,DAL,2003
+51,"Fri, Feb 14, 2003",8:00p,,Box Score,@,Memphis Grizzlies,W,,110,103,39,12,W 1,15924,,,False,DAL,2003
+52,"Sat, Feb 15, 2003",8:30p,,Box Score,,Miami Heat,W,,98,92,40,12,W 2,20003,,,False,DAL,2003
+53,"Tue, Feb 18, 2003",8:30p,,Box Score,,Atlanta Hawks,W,,105,79,41,12,W 3,19783,,,False,DAL,2003
+54,"Thu, Feb 20, 2003",8:30p,,Box Score,,San Antonio Spurs,W,,95,87,42,12,W 4,20036,,,False,DAL,2003
+55,"Fri, Feb 21, 2003",8:00p,,Box Score,@,Houston Rockets,W,,100,85,43,12,W 5,16285,,,False,DAL,2003
+56,"Sun, Feb 23, 2003",12:30p,,Box Score,@,Washington Wizards,W,OT,106,101,44,12,W 6,20173,,,False,DAL,2003
+57,"Tue, Feb 25, 2003",7:00p,,Box Score,@,Orlando Magic,L,,93,98,44,13,L 1,16009,,,False,DAL,2003
+58,"Thu, Feb 27, 2003",9:30p,,Box Score,,Sacramento Kings,L,OT,124,126,44,14,L 2,20059,,,False,DAL,2003
+59,"Sat, Mar 1, 2003",8:30p,,Box Score,,Memphis Grizzlies,W,,114,87,45,14,W 1,19828,,,False,DAL,2003
+60,"Tue, Mar 4, 2003",8:30p,,Box Score,,New Jersey Nets,W,,88,79,46,14,W 2,19920,,,False,DAL,2003
+61,"Fri, Mar 7, 2003",8:00p,,Box Score,@,Miami Heat,W,,91,89,47,14,W 3,16500,,,False,DAL,2003
+62,"Sat, Mar 8, 2003",8:30p,,Box Score,,Utah Jazz,W,,101,77,48,14,W 4,20123,,,False,DAL,2003
+63,"Mon, Mar 10, 2003",8:30p,,Box Score,,Minnesota Timberwolves,L,,83,92,48,15,L 1,20049,,,False,DAL,2003
+64,"Thu, Mar 13, 2003",10:00p,,Box Score,@,Seattle SuperSonics,L,,100,107,48,16,L 2,14621,,,False,DAL,2003
+65,"Fri, Mar 14, 2003",10:30p,,Box Score,@,Golden State Warriors,W,,116,114,49,16,W 1,19787,,,False,DAL,2003
+66,"Sun, Mar 16, 2003",3:30p,,Box Score,@,Sacramento Kings,W,OT,129,123,50,16,W 2,17317,,,False,DAL,2003
+67,"Tue, Mar 18, 2003",8:30p,,Box Score,,Cleveland Cavaliers,W,,114,93,51,16,W 3,19952,,,False,DAL,2003
+68,"Thu, Mar 20, 2003",8:30p,,Box Score,,San Antonio Spurs,L,OT,110,112,51,17,L 1,20110,,,False,DAL,2003
+69,"Sat, Mar 22, 2003",8:30p,,Box Score,,Phoenix Suns,W,,102,95,52,17,W 1,20087,,,False,DAL,2003
+70,"Mon, Mar 24, 2003",9:00p,,Box Score,@,Denver Nuggets,W,,108,96,53,17,W 2,14714,,,False,DAL,2003
+71,"Wed, Mar 26, 2003",10:30p,,Box Score,@,Los Angeles Clippers,W,,114,107,54,17,W 3,19595,,,False,DAL,2003
+72,"Fri, Mar 28, 2003",10:30p,,Box Score,@,Portland Trail Blazers,L,,95,112,54,18,L 1,20580,,,False,DAL,2003
+73,"Sun, Mar 30, 2003",1:30p,,Box Score,@,Minnesota Timberwolves,W,,119,95,55,18,W 1,19304,,,False,DAL,2003
+74,"Tue, Apr 1, 2003",8:30p,,Box Score,,New Orleans Hornets,W,,95,86,56,18,W 2,19859,,,False,DAL,2003
+75,"Thu, Apr 3, 2003",9:30p,,Box Score,,Los Angeles Lakers,L,,89,100,56,19,L 1,20129,,,False,DAL,2003
+76,"Sat, Apr 5, 2003",8:30p,,Box Score,,Orlando Magic,W,,108,90,57,19,W 1,19800,,,False,DAL,2003
+77,"Tue, Apr 8, 2003",10:30p,,Box Score,@,Los Angeles Lakers,L,,99,108,57,20,L 1,18997,,,False,DAL,2003
+78,"Wed, Apr 9, 2003",10:00p,,Box Score,@,Phoenix Suns,L,,89,112,57,21,L 2,17136,,,False,DAL,2003
+79,"Fri, Apr 11, 2003",9:00p,,Box Score,@,Utah Jazz,L,,92,95,57,22,L 3,19896,,,False,DAL,2003
+80,"Sat, Apr 12, 2003",8:30p,,Box Score,,Golden State Warriors,W,,117,108,58,22,W 1,19980,,,False,DAL,2003
+81,"Mon, Apr 14, 2003",8:30p,,Box Score,,Seattle SuperSonics,W,,109,106,59,22,W 2,19880,,,False,DAL,2003
+82,"Wed, Apr 16, 2003",8:30p,,Box Score,@,San Antonio Spurs,W,,93,72,60,22,W 3,19217,,,False,DAL,2003
+1,"Sat, Apr 19, 2003",8:00p,,Box Score,,Portland Trail Blazers,W,,96,86,1,0,W 1,20336,,,True,DAL,2003
+2,"Wed, Apr 23, 2003",9:30p,,Box Score,,Portland Trail Blazers,W,,103,99,2,0,W 2,20356,,,True,DAL,2003
+3,"Fri, Apr 25, 2003",10:30p,,Box Score,@,Portland Trail Blazers,W,,115,103,3,0,W 3,19980,,,True,DAL,2003
+4,"Sun, Apr 27, 2003",8:00p,,Box Score,@,Portland Trail Blazers,L,,79,98,3,1,L 1,19980,,,True,DAL,2003
+5,"Wed, Apr 30, 2003",8:30p,,Box Score,,Portland Trail Blazers,L,,99,103,3,2,L 2,20438,,,True,DAL,2003
+6,"Fri, May 2, 2003",10:30p,,Box Score,@,Portland Trail Blazers,L,,103,125,3,3,L 3,20602,,,True,DAL,2003
+7,"Sun, May 4, 2003",3:30p,,Box Score,,Portland Trail Blazers,W,,107,95,4,3,W 1,20281,,,True,DAL,2003
+8,"Tue, May 6, 2003",9:00p,,Box Score,,Sacramento Kings,L,,113,124,4,4,L 1,20525,,,True,DAL,2003
+9,"Thu, May 8, 2003",9:30p,,Box Score,,Sacramento Kings,W,,132,110,5,4,W 1,20491,,,True,DAL,2003
+10,"Sat, May 10, 2003",9:30p,,Box Score,@,Sacramento Kings,W,2OT,141,137,6,4,W 2,17317,,,True,DAL,2003
+11,"Sun, May 11, 2003",10:30p,,Box Score,@,Sacramento Kings,L,,83,99,6,5,L 1,17317,,,True,DAL,2003
+12,"Tue, May 13, 2003",7:00p,,Box Score,,Sacramento Kings,W,,112,93,7,5,W 1,20556,,,True,DAL,2003
+13,"Thu, May 15, 2003",10:30p,,Box Score,@,Sacramento Kings,L,,109,115,7,6,L 1,17317,,,True,DAL,2003
+14,"Sat, May 17, 2003",8:00p,,Box Score,,Sacramento Kings,W,,112,99,8,6,W 1,20595,,,True,DAL,2003
+15,"Mon, May 19, 2003",9:30p,,Box Score,@,San Antonio Spurs,W,,113,110,9,6,W 2,18797,,,True,DAL,2003
+16,"Wed, May 21, 2003",8:30p,,Box Score,@,San Antonio Spurs,L,,106,119,9,7,L 1,18797,,,True,DAL,2003
+17,"Fri, May 23, 2003",9:00p,,Box Score,,San Antonio Spurs,L,,83,96,9,8,L 2,20695,,,True,DAL,2003
+18,"Sun, May 25, 2003",8:30p,,Box Score,,San Antonio Spurs,L,,95,102,9,9,L 3,20561,,,True,DAL,2003
+19,"Tue, May 27, 2003",9:00p,,Box Score,@,San Antonio Spurs,W,,103,91,10,9,W 1,18797,,,True,DAL,2003
+20,"Thu, May 29, 2003",9:00p,,Box Score,,San Antonio Spurs,L,,78,90,10,10,L 1,20812,,,True,DAL,2003

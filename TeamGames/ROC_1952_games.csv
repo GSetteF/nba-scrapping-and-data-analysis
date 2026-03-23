@@ -1,0 +1,73 @@
+G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Opponent,Unnamed: 6,Unnamed: 7,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Thu, Nov 1, 1951",,Box Score,,Baltimore Bullets,W,,101,97,1,0,W 1,,,,False,ROC,1952
+2,"Sat, Nov 3, 1951",,Box Score,,Minneapolis Lakers,L,,74,93,1,1,L 1,,,,False,ROC,1952
+3,"Sat, Nov 10, 1951",,Box Score,,Indianapolis Olympians,W,,100,89,2,1,W 1,,,,False,ROC,1952
+4,"Sun, Nov 11, 1951",,Box Score,,New York Knicks,W,,80,78,3,1,W 2,,,,False,ROC,1952
+5,"Tue, Nov 13, 1951",,Box Score,@,Milwaukee Hawks,W,,91,75,4,1,W 3,,,,False,ROC,1952
+6,"Sat, Nov 17, 1951",,Box Score,,Philadelphia Warriors,W,,86,72,5,1,W 4,,,,False,ROC,1952
+7,"Sun, Nov 18, 1951",,Box Score,@,Fort Wayne Pistons,W,OT,76,71,6,1,W 5,,,,False,ROC,1952
+8,"Tue, Nov 20, 1951",,Box Score,@,Indianapolis Olympians,L,2OT,65,69,6,2,L 1,,,,False,ROC,1952
+9,"Thu, Nov 22, 1951",,Box Score,@,Minneapolis Lakers,L,2OT,65,70,6,3,L 2,,,,False,ROC,1952
+10,"Sat, Nov 24, 1951",,Box Score,,Fort Wayne Pistons,W,,74,63,7,3,W 1,,,,False,ROC,1952
+11,"Sun, Nov 25, 1951",,Box Score,@,Milwaukee Hawks,L,,73,75,7,4,L 1,,,,False,ROC,1952
+12,"Tue, Nov 27, 1951",,Box Score,,Milwaukee Hawks,W,,77,73,8,4,W 1,,,,False,ROC,1952
+13,"Thu, Nov 29, 1951",,Box Score,@,New York Knicks,W,,78,74,9,4,W 2,,,,False,ROC,1952
+14,"Sat, Dec 1, 1951",,Box Score,,Milwaukee Hawks,W,,71,66,10,4,W 3,,,,False,ROC,1952
+15,"Sun, Dec 2, 1951",,Box Score,@,Syracuse Nationals,W,,81,79,11,4,W 4,,,,False,ROC,1952
+16,"Mon, Dec 3, 1951",,Box Score,@,Baltimore Bullets,W,,77,70,12,4,W 5,,,,False,ROC,1952
+17,"Tue, Dec 4, 1951",,Box Score,@,Philadelphia Warriors,L,,80,96,12,5,L 1,,,,False,ROC,1952
+18,"Sat, Dec 8, 1951",,Box Score,,Syracuse Nationals,L,,75,95,12,6,L 2,,,,False,ROC,1952
+19,"Sun, Dec 9, 1951",,Box Score,@,Fort Wayne Pistons,L,,84,86,12,7,L 3,,,,False,ROC,1952
+20,"Sat, Dec 15, 1951",,Box Score,,Indianapolis Olympians,W,,75,66,13,7,W 1,,,,False,ROC,1952
+21,"Sun, Dec 16, 1951",,Box Score,,Baltimore Bullets,W,,99,95,14,7,W 2,,,,False,ROC,1952
+22,"Tue, Dec 18, 1951",,Box Score,@,Milwaukee Hawks,W,,94,68,15,7,W 3,,,,False,ROC,1952
+23,"Thu, Dec 20, 1951",,Box Score,@,Fort Wayne Pistons,W,,69,54,16,7,W 4,,,,False,ROC,1952
+24,"Sat, Dec 22, 1951",,Box Score,,Philadelphia Warriors,W,,105,89,17,7,W 5,,,,False,ROC,1952
+25,"Tue, Dec 25, 1951",,Box Score,,Indianapolis Olympians,W,,87,78,18,7,W 6,,,,False,ROC,1952
+26,"Thu, Dec 27, 1951",,Box Score,,New York Knicks,W,,98,85,19,7,W 7,,,,False,ROC,1952
+27,"Sat, Dec 29, 1951",,Box Score,,Fort Wayne Pistons,W,,75,61,20,7,W 8,,,,False,ROC,1952
+28,"Mon, Dec 31, 1951",,Box Score,N,Indianapolis Olympians,L,,73,77,20,8,L 1,,,"at New York, NY",False,ROC,1952
+29,"Tue, Jan 1, 1952",,Box Score,,Boston Celtics,W,,106,91,21,8,W 1,3328,,,False,ROC,1952
+30,"Sat, Jan 5, 1952",,Box Score,,Philadelphia Warriors,W,,103,94,22,8,W 2,,,,False,ROC,1952
+31,"Sun, Jan 6, 1952",,Box Score,@,Boston Celtics,L,,80,91,22,9,L 1,6883,,,False,ROC,1952
+32,"Tue, Jan 8, 1952",,Box Score,@,New York Knicks,L,,74,107,22,10,L 2,,,,False,ROC,1952
+33,"Fri, Jan 11, 1952",,Box Score,@,Philadelphia Warriors,L,,83,85,22,11,L 3,,,,False,ROC,1952
+34,"Sat, Jan 12, 1952",,Box Score,,Fort Wayne Pistons,L,,76,88,22,12,L 4,,,,False,ROC,1952
+35,"Sun, Jan 13, 1952",,Box Score,,New York Knicks,W,,97,70,23,12,W 1,,,,False,ROC,1952
+36,"Sat, Jan 19, 1952",,Box Score,,Minneapolis Lakers,W,,96,85,24,12,W 2,,,,False,ROC,1952
+37,"Sun, Jan 20, 1952",,Box Score,@,Minneapolis Lakers,L,2OT,81,91,24,13,L 1,,,,False,ROC,1952
+38,"Mon, Jan 21, 1952",,Box Score,N,Milwaukee Hawks,W,,78,76,25,13,W 1,,,"at Moline, IL",False,ROC,1952
+39,"Tue, Jan 22, 1952",,Box Score,@,Indianapolis Olympians,L,,65,68,25,14,L 1,,,,False,ROC,1952
+40,"Thu, Jan 24, 1952",,Box Score,@,Fort Wayne Pistons,L,,90,94,25,15,L 2,,,,False,ROC,1952
+41,"Sat, Jan 26, 1952",,Box Score,,Fort Wayne Pistons,W,,104,71,26,15,W 1,,,,False,ROC,1952
+42,"Sun, Jan 27, 1952",,Box Score,,Indianapolis Olympians,W,,102,95,27,15,W 2,,,,False,ROC,1952
+43,"Sat, Feb 2, 1952",,Box Score,,Milwaukee Hawks,W,,100,79,28,15,W 3,,,,False,ROC,1952
+44,"Sun, Feb 3, 1952",,Box Score,@,Minneapolis Lakers,L,,75,77,28,16,L 1,,,,False,ROC,1952
+45,"Thu, Feb 7, 1952",,Box Score,@,Minneapolis Lakers,L,,75,86,28,17,L 2,,,,False,ROC,1952
+46,"Sat, Feb 9, 1952",,Box Score,,Boston Celtics,W,,104,100,29,17,W 1,3366,,,False,ROC,1952
+47,"Sun, Feb 10, 1952",,Box Score,@,Boston Celtics,W,,111,97,30,17,W 2,5622,,,False,ROC,1952
+48,"Tue, Feb 12, 1952",,Box Score,@,Philadelphia Warriors,W,,86,75,31,17,W 3,,,,False,ROC,1952
+49,"Wed, Feb 13, 1952",,Box Score,@,Baltimore Bullets,L,,91,96,31,18,L 1,,,,False,ROC,1952
+50,"Thu, Feb 14, 1952",,Box Score,@,Syracuse Nationals,W,,78,76,32,18,W 1,,,,False,ROC,1952
+51,"Sat, Feb 16, 1952",,Box Score,,Syracuse Nationals,W,,92,84,33,18,W 2,,,,False,ROC,1952
+52,"Sun, Feb 17, 1952",,Box Score,,Indianapolis Olympians,W,,100,92,34,18,W 3,,,,False,ROC,1952
+53,"Sat, Feb 23, 1952",,Box Score,,Minneapolis Lakers,L,,73,83,34,19,L 1,,,,False,ROC,1952
+54,"Sun, Feb 24, 1952",,Box Score,,Baltimore Bullets,W,,124,100,35,19,W 1,,,,False,ROC,1952
+55,"Tue, Feb 26, 1952",,Box Score,,Milwaukee Hawks,W,,99,67,36,19,W 2,,,,False,ROC,1952
+56,"Thu, Feb 28, 1952",,Box Score,N,Boston Celtics,L,,72,91,36,20,L 1,12400,,"at Raleigh, NC",False,ROC,1952
+57,"Sat, Mar 1, 1952",,Box Score,,Syracuse Nationals,W,,98,83,37,20,W 1,,,,False,ROC,1952
+58,"Sun, Mar 2, 1952",,Box Score,@,Syracuse Nationals,L,,72,76,37,21,L 1,,,,False,ROC,1952
+59,"Mon, Mar 3, 1952",,Box Score,@,Baltimore Bullets,L,,96,99,37,22,L 2,,,,False,ROC,1952
+60,"Tue, Mar 4, 1952",,Box Score,@,New York Knicks,L,OT,90,92,37,23,L 3,,,,False,ROC,1952
+61,"Thu, Mar 6, 1952",,Box Score,,Milwaukee Hawks,W,,77,74,38,23,W 1,,,,False,ROC,1952
+62,"Sat, Mar 8, 1952",,Box Score,,Minneapolis Lakers,W,OT,94,92,39,23,W 2,,,,False,ROC,1952
+63,"Sun, Mar 9, 1952",,Box Score,@,Minneapolis Lakers,L,,90,96,39,24,L 1,,,,False,ROC,1952
+64,"Tue, Mar 11, 1952",,Box Score,@,Indianapolis Olympians,W,,82,81,40,24,W 1,,,,False,ROC,1952
+65,"Thu, Mar 13, 1952",,Box Score,@,Fort Wayne Pistons,W,,86,84,41,24,W 2,,,,False,ROC,1952
+66,"Sat, Mar 15, 1952",,Box Score,,Boston Celtics,L,,106,118,41,25,L 1,4040,,,False,ROC,1952
+1,"Tue, Mar 18, 1952",,Box Score,,Fort Wayne Pistons,W,,95,78,1,0,W 1,,,,True,ROC,1952
+2,"Thu, Mar 20, 1952",,Box Score,@,Fort Wayne Pistons,W,,92,86,2,0,W 2,,,,True,ROC,1952
+3,"Sat, Mar 29, 1952",,Box Score,,Minneapolis Lakers,W,,88,78,3,0,W 3,,,,True,ROC,1952
+4,"Sun, Mar 30, 1952",,Box Score,,Minneapolis Lakers,L,OT,78,83,3,1,L 1,,,,True,ROC,1952
+5,"Sat, Apr 5, 1952",,Box Score,@,Minneapolis Lakers,L,,67,77,3,2,L 2,,,,True,ROC,1952
+6,"Sun, Apr 6, 1952",,Box Score,@,Minneapolis Lakers,L,,80,82,3,3,L 3,,,,True,ROC,1952

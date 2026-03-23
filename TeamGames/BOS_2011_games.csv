@@ -1,0 +1,92 @@
+G,Date,Start (ET),Unnamed: 3,Unnamed: 4,Unnamed: 5,Opponent,Unnamed: 7,Unnamed: 8,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Tue, Oct 26, 2010",7:30p,,Box Score,,Miami Heat,W,,88,80,1,0,W 1,18624,2:37,,False,BOS,2011
+2,"Wed, Oct 27, 2010",7:00p,,Box Score,@,Cleveland Cavaliers,L,,87,95,1,1,L 1,20562,2:28,,False,BOS,2011
+3,"Fri, Oct 29, 2010",7:30p,,Box Score,,New York Knicks,W,,105,101,2,1,W 1,18624,2:21,,False,BOS,2011
+4,"Tue, Nov 2, 2010",7:30p,,Box Score,@,Detroit Pistons,W,,109,86,3,1,W 2,15313,2:12,,False,BOS,2011
+5,"Wed, Nov 3, 2010",8:00p,,Box Score,,Milwaukee Bucks,W,OT,105,102,4,1,W 3,18624,2:58,,False,BOS,2011
+6,"Fri, Nov 5, 2010",8:00p,,Box Score,,Chicago Bulls,W,OT,110,105,5,1,W 4,18624,2:48,,False,BOS,2011
+7,"Sun, Nov 7, 2010",7:00p,,Box Score,@,Oklahoma City Thunder,W,,92,83,6,1,W 5,18203,2:10,,False,BOS,2011
+8,"Mon, Nov 8, 2010",8:30p,,Box Score,@,Dallas Mavericks,L,,87,89,6,2,L 1,20194,2:10,,False,BOS,2011
+9,"Thu, Nov 11, 2010",8:00p,,Box Score,@,Miami Heat,W,,112,107,7,2,W 1,19650,2:46,,False,BOS,2011
+10,"Sat, Nov 13, 2010",8:00p,,Box Score,@,Memphis Grizzlies,W,OT,116,110,8,2,W 2,18119,2:45,,False,BOS,2011
+11,"Wed, Nov 17, 2010",7:30p,,Box Score,,Washington Wizards,W,,114,83,9,2,W 3,18624,2:08,,False,BOS,2011
+12,"Fri, Nov 19, 2010",7:00p,,Box Score,,Oklahoma City Thunder,L,,84,89,9,3,L 1,18624,2:38,,False,BOS,2011
+13,"Sun, Nov 21, 2010",1:00p,,Box Score,@,Toronto Raptors,L,,101,102,9,4,L 2,17707,2:33,,False,BOS,2011
+14,"Mon, Nov 22, 2010",7:00p,,Box Score,@,Atlanta Hawks,W,,99,76,10,4,W 1,14476,2:09,,False,BOS,2011
+15,"Wed, Nov 24, 2010",7:30p,,Box Score,,New Jersey Nets,W,,89,83,11,4,W 2,18624,2:16,,False,BOS,2011
+16,"Fri, Nov 26, 2010",7:30p,,Box Score,,Toronto Raptors,W,,110,101,12,4,W 3,18624,2:18,,False,BOS,2011
+17,"Tue, Nov 30, 2010",7:00p,,Box Score,@,Cleveland Cavaliers,W,,106,87,13,4,W 4,20562,2:11,,False,BOS,2011
+18,"Wed, Dec 1, 2010",7:30p,,Box Score,,Portland Trail Blazers,W,,99,95,14,4,W 5,18624,2:21,,False,BOS,2011
+19,"Fri, Dec 3, 2010",8:00p,,Box Score,,Chicago Bulls,W,,104,92,15,4,W 6,18624,2:30,,False,BOS,2011
+20,"Sun, Dec 5, 2010",1:00p,,Box Score,@,New Jersey Nets,W,,100,75,16,4,W 7,16196,2:11,,False,BOS,2011
+21,"Wed, Dec 8, 2010",7:00p,,Box Score,,Denver Nuggets,W,,105,89,17,4,W 8,18624,2:23,,False,BOS,2011
+22,"Thu, Dec 9, 2010",8:00p,,Box Score,@,Philadelphia 76ers,W,,102,101,18,4,W 9,17948,2:26,,False,BOS,2011
+23,"Sat, Dec 11, 2010",7:00p,,Box Score,@,Charlotte Bobcats,W,,93,62,19,4,W 10,19603,2:10,,False,BOS,2011
+24,"Wed, Dec 15, 2010",7:00p,,Box Score,@,New York Knicks,W,,118,116,20,4,W 11,19763,2:34,,False,BOS,2011
+25,"Thu, Dec 16, 2010",8:00p,,Box Score,,Atlanta Hawks,W,,102,90,21,4,W 12,18624,2:18,,False,BOS,2011
+26,"Sun, Dec 19, 2010",1:00p,,Box Score,,Indiana Pacers,W,,99,88,22,4,W 13,18624,2:15,,False,BOS,2011
+27,"Wed, Dec 22, 2010",7:30p,,Box Score,,Philadelphia 76ers,W,,84,80,23,4,W 14,18624,2:23,,False,BOS,2011
+28,"Sat, Dec 25, 2010",2:30p,,Box Score,@,Orlando Magic,L,,78,86,23,5,L 1,19013,2:38,,False,BOS,2011
+29,"Tue, Dec 28, 2010",7:00p,,Box Score,@,Indiana Pacers,W,,95,83,24,5,W 1,18165,2:15,,False,BOS,2011
+30,"Wed, Dec 29, 2010",7:30p,,Box Score,@,Detroit Pistons,L,,92,104,24,6,L 1,22076,2:17,,False,BOS,2011
+31,"Fri, Dec 31, 2010",3:00p,,Box Score,,New Orleans Hornets,L,,81,83,24,7,L 2,18624,2:18,,False,BOS,2011
+32,"Sun, Jan 2, 2011",6:00p,,Box Score,@,Toronto Raptors,W,,93,79,25,7,W 1,19986,2:12,,False,BOS,2011
+33,"Mon, Jan 3, 2011",7:30p,,Box Score,,Minnesota Timberwolves,W,,96,93,26,7,W 2,18624,2:22,,False,BOS,2011
+34,"Wed, Jan 5, 2011",7:30p,,Box Score,,San Antonio Spurs,W,,105,103,27,7,W 3,18624,2:16,,False,BOS,2011
+35,"Fri, Jan 7, 2011",7:30p,,Box Score,,Toronto Raptors,W,,122,102,28,7,W 4,18624,2:09,,False,BOS,2011
+36,"Sat, Jan 8, 2011",8:00p,,Box Score,@,Chicago Bulls,L,,79,90,28,8,L 1,22663,2:18,,False,BOS,2011
+37,"Mon, Jan 10, 2011",7:30p,,Box Score,,Houston Rockets,L,,102,108,28,9,L 2,18624,2:20,,False,BOS,2011
+38,"Wed, Jan 12, 2011",7:30p,,Box Score,,Sacramento Kings,W,,119,95,29,9,W 1,18624,2:21,,False,BOS,2011
+39,"Fri, Jan 14, 2011",7:30p,,Box Score,,Charlotte Bobcats,W,,99,94,30,9,W 2,18624,2:17,,False,BOS,2011
+40,"Mon, Jan 17, 2011",8:00p,,Box Score,,Orlando Magic,W,,109,106,31,9,W 3,18624,2:35,,False,BOS,2011
+41,"Wed, Jan 19, 2011",7:30p,,Box Score,,Detroit Pistons,W,,86,82,32,9,W 4,18624,2:21,,False,BOS,2011
+42,"Fri, Jan 21, 2011",7:30p,,Box Score,,Utah Jazz,W,,110,86,33,9,W 5,18624,2:15,,False,BOS,2011
+43,"Sat, Jan 22, 2011",7:00p,,Box Score,@,Washington Wizards,L,,83,85,33,10,L 1,20278,2:20,,False,BOS,2011
+44,"Tue, Jan 25, 2011",7:30p,,Box Score,,Cleveland Cavaliers,W,,112,95,34,10,W 1,18624,2:09,,False,BOS,2011
+45,"Thu, Jan 27, 2011",10:30p,,Box Score,@,Portland Trail Blazers,W,,88,78,35,10,W 2,20706,2:27,,False,BOS,2011
+46,"Fri, Jan 28, 2011",10:30p,,Box Score,@,Phoenix Suns,L,,71,88,35,11,L 1,18422,2:34,,False,BOS,2011
+47,"Sun, Jan 30, 2011",3:30p,,Box Score,@,Los Angeles Lakers,W,,109,96,36,11,W 1,18997,2:31,,False,BOS,2011
+48,"Tue, Feb 1, 2011",10:00p,,Box Score,@,Sacramento Kings,W,,95,90,37,11,W 2,16482,2:18,,False,BOS,2011
+49,"Fri, Feb 4, 2011",8:00p,,Box Score,,Dallas Mavericks,L,,97,101,37,12,L 1,18624,2:27,,False,BOS,2011
+50,"Sun, Feb 6, 2011",2:30p,,Box Score,,Orlando Magic,W,,91,80,38,12,W 1,18624,2:38,,False,BOS,2011
+51,"Mon, Feb 7, 2011",7:00p,,Box Score,@,Charlotte Bobcats,L,,89,94,38,13,L 1,19081,2:19,,False,BOS,2011
+52,"Thu, Feb 10, 2011",8:00p,,Box Score,,Los Angeles Lakers,L,,86,92,38,14,L 2,18624,2:30,,False,BOS,2011
+53,"Sun, Feb 13, 2011",1:00p,,Box Score,,Miami Heat,W,,85,82,39,14,W 1,18624,2:37,,False,BOS,2011
+54,"Wed, Feb 16, 2011",7:30p,,Box Score,,New Jersey Nets,W,,94,80,40,14,W 2,18624,2:22,,False,BOS,2011
+55,"Tue, Feb 22, 2011",10:30p,,Box Score,@,Golden State Warriors,W,,115,93,41,14,W 3,19738,2:09,,False,BOS,2011
+56,"Thu, Feb 24, 2011",10:30p,,Box Score,@,Denver Nuggets,L,,75,89,41,15,L 1,18524,2:22,,False,BOS,2011
+57,"Sat, Feb 26, 2011",10:30p,,Box Score,@,Los Angeles Clippers,W,,99,92,42,15,W 1,19513,2:26,,False,BOS,2011
+58,"Mon, Feb 28, 2011",9:00p,,Box Score,@,Utah Jazz,W,,107,102,43,15,W 2,19911,2:18,,False,BOS,2011
+59,"Wed, Mar 2, 2011",7:30p,,Box Score,,Phoenix Suns,W,,115,103,44,15,W 3,18624,2:29,,False,BOS,2011
+60,"Fri, Mar 4, 2011",7:30p,,Box Score,,Golden State Warriors,W,,107,103,45,15,W 4,18624,2:17,,False,BOS,2011
+61,"Sun, Mar 6, 2011",9:00p,,Box Score,@,Milwaukee Bucks,W,,89,83,46,15,W 5,16110,2:21,,False,BOS,2011
+62,"Wed, Mar 9, 2011",7:30p,,Box Score,,Los Angeles Clippers,L,,103,108,46,16,L 1,18624,2:22,,False,BOS,2011
+63,"Fri, Mar 11, 2011",7:00p,,Box Score,@,Philadelphia 76ers,L,,86,89,46,17,L 2,20614,2:07,,False,BOS,2011
+64,"Sun, Mar 13, 2011",6:00p,,Box Score,,Milwaukee Bucks,W,,87,56,47,17,W 1,18624,2:04,,False,BOS,2011
+65,"Mon, Mar 14, 2011",7:00p,,Box Score,@,New Jersey Nets,L,,79,88,47,18,L 1,18711,2:05,,False,BOS,2011
+66,"Wed, Mar 16, 2011",7:30p,,Box Score,,Indiana Pacers,W,,92,80,48,18,W 1,18624,2:16,,False,BOS,2011
+67,"Fri, Mar 18, 2011",8:30p,,Box Score,@,Houston Rockets,L,,77,93,48,19,L 1,18412,2:12,,False,BOS,2011
+68,"Sat, Mar 19, 2011",8:00p,,Box Score,@,New Orleans Hornets,W,,89,85,49,19,W 1,18018,2:22,,False,BOS,2011
+69,"Mon, Mar 21, 2011",7:30p,,Box Score,@,New York Knicks,W,,96,86,50,19,W 2,19763,2:20,,False,BOS,2011
+70,"Wed, Mar 23, 2011",7:30p,,Box Score,,Memphis Grizzlies,L,,87,90,50,20,L 1,18624,2:15,,False,BOS,2011
+71,"Fri, Mar 25, 2011",7:30p,,Box Score,,Charlotte Bobcats,L,,81,83,50,21,L 2,18624,2:21,,False,BOS,2011
+72,"Sun, Mar 27, 2011",7:00p,,Box Score,@,Minnesota Timberwolves,W,,85,82,51,21,W 1,19178,2:19,,False,BOS,2011
+73,"Mon, Mar 28, 2011",7:00p,,Box Score,@,Indiana Pacers,L,,100,107,51,22,L 1,15932,2:25,,False,BOS,2011
+74,"Thu, Mar 31, 2011",8:00p,,Box Score,@,San Antonio Spurs,W,,107,97,52,22,W 1,18583,2:15,,False,BOS,2011
+75,"Fri, Apr 1, 2011",8:00p,,Box Score,@,Atlanta Hawks,L,,83,88,52,23,L 1,19763,2:32,,False,BOS,2011
+76,"Sun, Apr 3, 2011",6:00p,,Box Score,,Detroit Pistons,W,,101,90,53,23,W 1,18624,2:11,,False,BOS,2011
+77,"Tue, Apr 5, 2011",7:30p,,Box Score,,Philadelphia 76ers,W,,99,82,54,23,W 2,18624,2:06,,False,BOS,2011
+78,"Thu, Apr 7, 2011",8:00p,,Box Score,@,Chicago Bulls,L,,81,97,54,24,L 1,23067,2:18,,False,BOS,2011
+79,"Fri, Apr 8, 2011",7:30p,,Box Score,,Washington Wizards,W,,104,88,55,24,W 1,18624,2:16,,False,BOS,2011
+80,"Sun, Apr 10, 2011",3:30p,,Box Score,@,Miami Heat,L,,77,100,55,25,L 1,19766,2:32,,False,BOS,2011
+81,"Mon, Apr 11, 2011",7:00p,,Box Score,@,Washington Wizards,L,OT,94,95,55,26,L 2,17787,2:51,,False,BOS,2011
+82,"Wed, Apr 13, 2011",8:00p,,Box Score,,New York Knicks,W,,112,102,56,26,W 1,18624,2:04,,False,BOS,2011
+1,"Sun, Apr 17, 2011",7:00p,,Box Score,,New York Knicks,W,,87,85,1,0,W 1,18624,2:27,,True,BOS,2011
+2,"Tue, Apr 19, 2011",7:00p,,Box Score,,New York Knicks,W,,96,93,2,0,W 2,18624,2:33,,True,BOS,2011
+3,"Fri, Apr 22, 2011",7:00p,,Box Score,@,New York Knicks,W,,113,96,3,0,W 3,19763,2:25,,True,BOS,2011
+4,"Sun, Apr 24, 2011",3:30p,,Box Score,@,New York Knicks,W,,101,89,4,0,W 4,19763,2:34,,True,BOS,2011
+5,"Sun, May 1, 2011",3:30p,,Box Score,@,Miami Heat,L,,90,99,4,1,L 1,20021,2:37,,True,BOS,2011
+6,"Tue, May 3, 2011",7:00p,,Box Score,@,Miami Heat,L,,91,102,4,2,L 2,20104,2:34,,True,BOS,2011
+7,"Sat, May 7, 2011",8:00p,,Box Score,,Miami Heat,W,,97,81,5,2,W 1,18624,2:28,,True,BOS,2011
+8,"Mon, May 9, 2011",7:00p,,Box Score,,Miami Heat,L,OT,90,98,5,3,L 1,18624,2:53,,True,BOS,2011
+9,"Wed, May 11, 2011",7:00p,,Box Score,@,Miami Heat,L,,87,97,5,4,L 2,20208,2:31,,True,BOS,2011

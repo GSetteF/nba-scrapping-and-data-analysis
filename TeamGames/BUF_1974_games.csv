@@ -1,0 +1,89 @@
+G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Opponent,Unnamed: 6,Unnamed: 7,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Tue, Oct 9, 1973",,Box Score,,Houston Rockets,W,OT,107,105,1,0,W 1,,,,False,BUF,1974
+2,"Fri, Oct 12, 1973",,Box Score,@,Boston Celtics,L,,112,118,1,1,L 1,15320,,,False,BUF,1974
+3,"Sat, Oct 13, 1973",,Box Score,,Los Angeles Lakers,L,,122,125,1,2,L 2,,,,False,BUF,1974
+4,"Tue, Oct 16, 1973",,Box Score,@,New York Knicks,L,,91,117,1,3,L 3,,,,False,BUF,1974
+5,"Sat, Oct 20, 1973",,Box Score,,Philadelphia 76ers,W,,116,110,2,3,W 1,,,,False,BUF,1974
+6,"Wed, Oct 24, 1973",,Box Score,@,Milwaukee Bucks,L,,113,130,2,4,L 1,,,,False,BUF,1974
+7,"Fri, Oct 26, 1973",,Box Score,N,Cleveland Cavaliers,W,,104,97,3,4,W 1,,,"at Toronto, Canada",False,BUF,1974
+8,"Sat, Oct 27, 1973",,Box Score,@,Cleveland Cavaliers,W,,111,101,4,4,W 2,,,,False,BUF,1974
+9,"Sun, Oct 28, 1973",,Box Score,@,Kansas City-Omaha Kings,W,,112,100,5,4,W 3,,,,False,BUF,1974
+10,"Tue, Oct 30, 1973",,Box Score,,Seattle SuperSonics,W,,105,103,6,4,W 4,,,,False,BUF,1974
+11,"Fri, Nov 2, 1973",,Box Score,@,Chicago Bulls,L,,97,107,6,5,L 1,,,,False,BUF,1974
+12,"Sat, Nov 3, 1973",,Box Score,,Golden State Warriors,L,OT,121,124,6,6,L 2,,,,False,BUF,1974
+13,"Sun, Nov 4, 1973",,Box Score,N,Chicago Bulls,L,OT,95,101,6,7,L 3,,,"at Toronto, Canada",False,BUF,1974
+14,"Wed, Nov 7, 1973",,Box Score,@,Seattle SuperSonics,L,,113,130,6,8,L 4,,,,False,BUF,1974
+15,"Fri, Nov 9, 1973",,Box Score,@,Portland Trail Blazers,L,,108,122,6,9,L 5,,,,False,BUF,1974
+16,"Sat, Nov 10, 1973",,Box Score,@,Golden State Warriors,L,,105,128,6,10,L 6,,,,False,BUF,1974
+17,"Tue, Nov 13, 1973",,Box Score,,Atlanta Hawks,W,,121,114,7,10,W 1,,,,False,BUF,1974
+18,"Thu, Nov 15, 1973",,Box Score,@,New York Knicks,L,,86,97,7,11,L 1,,,,False,BUF,1974
+19,"Sat, Nov 17, 1973",,Box Score,,Detroit Pistons,L,,94,98,7,12,L 2,,,,False,BUF,1974
+20,"Sun, Nov 18, 1973",,Box Score,@,Capital Bullets,W,,112,101,8,12,W 1,,,,False,BUF,1974
+21,"Tue, Nov 20, 1973",,Box Score,,Phoenix Suns,W,,127,100,9,12,W 2,,,,False,BUF,1974
+22,"Sat, Nov 24, 1973",,Box Score,,Kansas City-Omaha Kings,W,,143,131,10,12,W 3,,,,False,BUF,1974
+23,"Tue, Nov 27, 1973",,Box Score,,Milwaukee Bucks,L,,110,115,10,13,L 1,,,,False,BUF,1974
+24,"Wed, Nov 28, 1973",,Box Score,@,Atlanta Hawks,L,,106,130,10,14,L 2,,,,False,BUF,1974
+25,"Fri, Nov 30, 1973",,Box Score,,Capital Bullets,L,,113,121,10,15,L 3,,,,False,BUF,1974
+26,"Wed, Dec 5, 1973",,Box Score,,Portland Trail Blazers,W,,114,110,11,15,W 1,,,,False,BUF,1974
+27,"Fri, Dec 7, 1973",,Box Score,,New York Knicks,L,,108,113,11,16,L 1,,,,False,BUF,1974
+28,"Sun, Dec 9, 1973",,Box Score,N,Boston Celtics,L,,114,118,11,17,L 2,10173,,"at Toronto, Canada",False,BUF,1974
+29,"Tue, Dec 11, 1973",,Box Score,@,Atlanta Hawks,W,OT,132,127,12,17,W 1,,,,False,BUF,1974
+30,"Wed, Dec 12, 1973",,Box Score,N,Boston Celtics,L,,119,126,12,18,L 1,11671,,"at Providence, RI",False,BUF,1974
+31,"Fri, Dec 14, 1973",,Box Score,@,Cleveland Cavaliers,W,,102,98,13,18,W 1,,,,False,BUF,1974
+32,"Tue, Dec 18, 1973",,Box Score,,Cleveland Cavaliers,W,,100,93,14,18,W 2,,,,False,BUF,1974
+33,"Fri, Dec 21, 1973",,Box Score,,New York Knicks,W,,117,115,15,18,W 3,,,,False,BUF,1974
+34,"Sat, Dec 22, 1973",,Box Score,@,Kansas City-Omaha Kings,L,,112,122,15,19,L 1,,,,False,BUF,1974
+35,"Sun, Dec 23, 1973",,Box Score,N,Capital Bullets,L,,85,110,15,20,L 2,,,"at Toronto, Canada",False,BUF,1974
+36,"Wed, Dec 26, 1973",,Box Score,,Boston Celtics,L,,123,125,15,21,L 3,12653,,,False,BUF,1974
+37,"Sat, Dec 29, 1973",,Box Score,@,Phoenix Suns,W,,120,108,16,21,W 1,,,,False,BUF,1974
+38,"Sun, Dec 30, 1973",,Box Score,@,Los Angeles Lakers,L,,105,108,16,22,L 1,,,,False,BUF,1974
+39,"Tue, Jan 1, 1974",,Box Score,@,Portland Trail Blazers,W,,120,119,17,22,W 1,,,,False,BUF,1974
+40,"Wed, Jan 2, 1974",,Box Score,@,Seattle SuperSonics,W,,115,111,18,22,W 2,,,,False,BUF,1974
+41,"Sat, Jan 5, 1974",,Box Score,@,New York Knicks,W,,111,110,19,22,W 3,,,,False,BUF,1974
+42,"Sun, Jan 6, 1974",,Box Score,N,Atlanta Hawks,W,,117,109,20,22,W 4,,,"at Toronto, Canada",False,BUF,1974
+43,"Tue, Jan 8, 1974",,Box Score,,Atlanta Hawks,W,,100,96,21,22,W 5,,,,False,BUF,1974
+44,"Fri, Jan 11, 1974",,Box Score,,Houston Rockets,W,,117,99,22,22,W 6,,,,False,BUF,1974
+45,"Sat, Jan 12, 1974",,Box Score,@,Capital Bullets,W,,97,96,23,22,W 7,,,,False,BUF,1974
+46,"Sun, Jan 13, 1974",,Box Score,N,Houston Rockets,L,,112,121,23,23,L 1,,,"at Toronto, Canada",False,BUF,1974
+47,"Fri, Jan 18, 1974",,Box Score,,Capital Bullets,W,,98,94,24,23,W 1,,,,False,BUF,1974
+48,"Sun, Jan 20, 1974",,Box Score,@,Philadelphia 76ers,L,,112,129,24,24,L 1,,,,False,BUF,1974
+49,"Tue, Jan 22, 1974",,Box Score,,Philadelphia 76ers,W,,119,109,25,24,W 1,,,,False,BUF,1974
+50,"Wed, Jan 23, 1974",,Box Score,N,Milwaukee Bucks,L,,88,114,25,25,L 1,,,"at Madison, WI",False,BUF,1974
+51,"Fri, Jan 25, 1974",,Box Score,,Kansas City-Omaha Kings,L,,113,118,25,26,L 2,,,,False,BUF,1974
+52,"Sat, Jan 26, 1974",,Box Score,@,Atlanta Hawks,L,,122,132,25,27,L 3,,,,False,BUF,1974
+53,"Sun, Jan 27, 1974",,Box Score,@,Houston Rockets,W,,122,108,26,27,W 1,,,,False,BUF,1974
+54,"Tue, Jan 29, 1974",,Box Score,,Golden State Warriors,L,,121,128,26,28,L 1,,,,False,BUF,1974
+55,"Wed, Jan 30, 1974",,Box Score,@,Detroit Pistons,L,,96,111,26,29,L 2,,,,False,BUF,1974
+56,"Sun, Feb 3, 1974",,Box Score,N,Philadelphia 76ers,W,,112,98,27,29,W 1,,,"at Toronto, Canada",False,BUF,1974
+57,"Wed, Feb 6, 1974",,Box Score,@,Philadelphia 76ers,W,,114,98,28,29,W 2,,,,False,BUF,1974
+58,"Fri, Feb 8, 1974",,Box Score,,Chicago Bulls,W,,106,101,29,29,W 3,,,,False,BUF,1974
+59,"Sat, Feb 9, 1974",,Box Score,@,New York Knicks,W,OT,103,100,30,29,W 4,,,,False,BUF,1974
+60,"Sun, Feb 10, 1974",,Box Score,@,Cleveland Cavaliers,L,,121,125,30,30,L 1,,,,False,BUF,1974
+61,"Tue, Feb 12, 1974",,Box Score,,New York Knicks,L,,93,100,30,31,L 2,,,,False,BUF,1974
+62,"Wed, Feb 13, 1974",,Box Score,@,Philadelphia 76ers,W,,129,106,31,31,W 1,,,,False,BUF,1974
+63,"Fri, Feb 15, 1974",,Box Score,,Detroit Pistons,W,,118,116,32,31,W 2,,,,False,BUF,1974
+64,"Sat, Feb 16, 1974",,Box Score,@,Capital Bullets,L,,92,101,32,32,L 1,,,,False,BUF,1974
+65,"Sun, Feb 17, 1974",,Box Score,@,Houston Rockets,W,,135,118,33,32,W 1,,,,False,BUF,1974
+66,"Tue, Feb 19, 1974",,Box Score,,Milwaukee Bucks,W,,145,109,34,32,W 2,,,,False,BUF,1974
+67,"Thu, Feb 21, 1974",,Box Score,N,New York Knicks,W,,119,97,35,32,W 3,,,"at Toronto, Canada",False,BUF,1974
+68,"Fri, Feb 22, 1974",,Box Score,,Boston Celtics,L,,109,116,35,33,L 1,18023,,,False,BUF,1974
+69,"Tue, Feb 26, 1974",,Box Score,,Los Angeles Lakers,L,,112,119,35,34,L 2,,,,False,BUF,1974
+70,"Wed, Feb 27, 1974",,Box Score,N,Boston Celtics,W,,122,104,36,34,W 1,10917,,"at Providence, RI",False,BUF,1974
+71,"Fri, Mar 1, 1974",,Box Score,,Boston Celtics,W,,110,94,37,34,W 2,17378,,,False,BUF,1974
+72,"Sat, Mar 2, 1974",,Box Score,@,Philadelphia 76ers,W,,103,99,38,34,W 3,,,,False,BUF,1974
+73,"Fri, Mar 8, 1974",,Box Score,,Seattle SuperSonics,L,OT,117,123,38,35,L 1,,,,False,BUF,1974
+74,"Sun, Mar 10, 1974",,Box Score,N,Portland Trail Blazers,W,,122,112,39,35,W 1,,,"at Toronto, Canada",False,BUF,1974
+75,"Tue, Mar 12, 1974",,Box Score,,Phoenix Suns,W,,124,94,40,35,W 2,,,,False,BUF,1974
+76,"Fri, Mar 15, 1974",,Box Score,@,Chicago Bulls,L,,97,114,40,36,L 1,,,,False,BUF,1974
+77,"Sat, Mar 16, 1974",,Box Score,,Cleveland Cavaliers,W,,114,105,41,36,W 1,,,,False,BUF,1974
+78,"Sun, Mar 17, 1974",,Box Score,@,Detroit Pistons,L,,109,116,41,37,L 1,,,,False,BUF,1974
+79,"Thu, Mar 21, 1974",,Box Score,@,Golden State Warriors,W,,115,102,42,37,W 1,,,,False,BUF,1974
+80,"Fri, Mar 22, 1974",,Box Score,@,Phoenix Suns,L,,119,126,42,38,L 1,,,,False,BUF,1974
+81,"Sun, Mar 24, 1974",,Box Score,@,Los Angeles Lakers,L,,124,150,42,39,L 2,,,,False,BUF,1974
+82,"Tue, Mar 26, 1974",,Box Score,@,Houston Rockets,L,,96,119,42,40,L 3,,,,False,BUF,1974
+1,"Sat, Mar 30, 1974",,Box Score,@,Boston Celtics,L,,97,107,0,1,L 1,14308,,,True,BUF,1974
+2,"Tue, Apr 2, 1974",,Box Score,,Boston Celtics,W,,115,105,1,1,W 1,17507,,,True,BUF,1974
+3,"Wed, Apr 3, 1974",,Box Score,@,Boston Celtics,L,,107,120,1,2,L 1,14656,,,True,BUF,1974
+4,"Sat, Apr 6, 1974",,Box Score,,Boston Celtics,W,,104,102,2,2,W 1,18119,,,True,BUF,1974
+5,"Tue, Apr 9, 1974",,Box Score,@,Boston Celtics,L,,97,100,2,3,L 1,15320,,,True,BUF,1974
+6,"Fri, Apr 12, 1974",,Box Score,,Boston Celtics,L,,104,106,2,4,L 2,18257,,,True,BUF,1974

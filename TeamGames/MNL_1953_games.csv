@@ -1,0 +1,83 @@
+G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Opponent,Unnamed: 6,Unnamed: 7,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Sat, Nov 1, 1952",,Box Score,,Boston Celtics,W,,94,91,1,0,W 1,5359,,,False,MNL,1953
+2,"Sun, Nov 2, 1952",,Box Score,@,Fort Wayne Pistons,W,,81,69,2,0,W 2,,,,False,MNL,1953
+3,"Wed, Nov 5, 1952",,Box Score,@,Baltimore Bullets,W,,97,75,3,0,W 3,,,,False,MNL,1953
+4,"Sat, Nov 8, 1952",,Box Score,@,Philadelphia Warriors,W,,93,71,4,0,W 4,,,,False,MNL,1953
+5,"Sun, Nov 9, 1952",,Box Score,@,Syracuse Nationals,L,,89,96,4,1,L 1,,,,False,MNL,1953
+6,"Tue, Nov 11, 1952",,Box Score,@,Boston Celtics,W,,101,92,5,1,W 1,13909,,,False,MNL,1953
+7,"Thu, Nov 13, 1952",,Box Score,@,New York Knicks,L,,91,100,5,2,L 1,,,,False,MNL,1953
+8,"Sat, Nov 15, 1952",,Box Score,@,Rochester Royals,L,,89,97,5,3,L 2,,,,False,MNL,1953
+9,"Sun, Nov 16, 1952",,Box Score,,Milwaukee Hawks,W,,87,51,6,3,W 1,,,,False,MNL,1953
+10,"Thu, Nov 20, 1952",,Box Score,@,Fort Wayne Pistons,W,,89,81,7,3,W 2,,,,False,MNL,1953
+11,"Sat, Nov 22, 1952",,Box Score,,Fort Wayne Pistons,W,,96,89,8,3,W 3,,,,False,MNL,1953
+12,"Sun, Nov 23, 1952",,Box Score,@,Milwaukee Hawks,W,,62,46,9,3,W 4,,,,False,MNL,1953
+13,"Thu, Nov 27, 1952",,Box Score,,Indianapolis Olympians,W,,90,69,10,3,W 5,,,,False,MNL,1953
+14,"Fri, Nov 28, 1952",,Box Score,@,Indianapolis Olympians,W,,97,82,11,3,W 6,,,,False,MNL,1953
+15,"Sat, Nov 29, 1952",,Box Score,@,Rochester Royals,L,,71,83,11,4,L 1,,,,False,MNL,1953
+16,"Sun, Nov 30, 1952",,Box Score,,Philadelphia Warriors,W,,91,66,12,4,W 1,,,,False,MNL,1953
+17,"Mon, Dec 1, 1952",,Box Score,N,Baltimore Bullets,W,,89,67,13,4,W 2,,,"at Saint Paul, MN",False,MNL,1953
+18,"Wed, Dec 3, 1952",,Box Score,@,Boston Celtics,W,OT,106,102,14,4,W 3,7034,,,False,MNL,1953
+19,"Thu, Dec 4, 1952",,Box Score,@,New York Knicks,W,,81,71,15,4,W 4,,,,False,MNL,1953
+20,"Sat, Dec 6, 1952",,Box Score,,New York Knicks,W,OT,85,78,16,4,W 5,,,,False,MNL,1953
+21,"Mon, Dec 8, 1952",,Box Score,N,Indianapolis Olympians,L,,76,81,16,5,L 1,,,"at Milwaukee, WI",False,MNL,1953
+22,"Thu, Dec 11, 1952",,Box Score,,Syracuse Nationals,W,,82,79,17,5,W 1,,,,False,MNL,1953
+23,"Sun, Dec 14, 1952",,Box Score,,Rochester Royals,W,,95,77,18,5,W 2,,,,False,MNL,1953
+24,"Fri, Dec 19, 1952",,Box Score,@,Indianapolis Olympians,W,,87,69,19,5,W 3,,,,False,MNL,1953
+25,"Sat, Dec 20, 1952",,Box Score,@,Milwaukee Hawks,L,,75,86,19,6,L 1,,,,False,MNL,1953
+26,"Thu, Dec 25, 1952",,Box Score,,Indianapolis Olympians,W,,90,73,20,6,W 1,,,,False,MNL,1953
+27,"Sat, Dec 27, 1952",,Box Score,,Boston Celtics,W,,94,71,21,6,W 2,,,,False,MNL,1953
+28,"Sun, Dec 28, 1952",,Box Score,,Milwaukee Hawks,W,,86,77,22,6,W 3,,,,False,MNL,1953
+29,"Tue, Dec 30, 1952",,Box Score,@,Indianapolis Olympians,L,,69,74,22,7,L 1,,,,False,MNL,1953
+30,"Wed, Dec 31, 1952",,Box Score,,Baltimore Bullets,W,,82,56,23,7,W 1,,,,False,MNL,1953
+31,"Fri, Jan 2, 1953",,Box Score,N,Milwaukee Hawks,W,,74,66,24,7,W 2,,,"at Chicago, IL",False,MNL,1953
+32,"Sat, Jan 3, 1953",,Box Score,N,Milwaukee Hawks,W,,79,75,25,7,W 3,,,"at Hibbing, MN",False,MNL,1953
+33,"Sun, Jan 4, 1953",,Box Score,,Rochester Royals,W,OT,83,80,26,7,W 4,,,,False,MNL,1953
+34,"Tue, Jan 6, 1953",,Box Score,N,Rochester Royals,L,,69,85,26,8,L 1,,,"at Milwaukee, WI",False,MNL,1953
+35,"Thu, Jan 8, 1953",,Box Score,@,Syracuse Nationals,L,,67,75,26,9,L 2,,,,False,MNL,1953
+36,"Sat, Jan 10, 1953",,Box Score,N,Fort Wayne Pistons,W,,84,79,27,9,W 1,,,"at Saint Paul, MN",False,MNL,1953
+37,"Sun, Jan 11, 1953",,Box Score,,New York Knicks,W,,85,79,28,9,W 2,,,,False,MNL,1953
+38,"Wed, Jan 14, 1953",,Box Score,@,Baltimore Bullets,W,2OT,112,104,29,9,W 3,,,,False,MNL,1953
+39,"Sat, Jan 17, 1953",,Box Score,@,Rochester Royals,L,,101,109,29,10,L 1,,,,False,MNL,1953
+40,"Sun, Jan 18, 1953",,Box Score,,Milwaukee Hawks,L,,70,83,29,11,L 2,,,,False,MNL,1953
+41,"Fri, Jan 23, 1953",,Box Score,N,Milwaukee Hawks,L,,65,67,29,12,L 3,,,"at Indianapolis, IN",False,MNL,1953
+42,"Sun, Jan 25, 1953",,Box Score,,Boston Celtics,W,,87,82,30,12,W 1,6144,,,False,MNL,1953
+43,"Tue, Jan 27, 1953",,Box Score,N,Fort Wayne Pistons,W,,96,76,31,12,W 2,,,"at Grand Forks, ND",False,MNL,1953
+44,"Thu, Jan 29, 1953",,Box Score,,Syracuse Nationals,L,,65,83,31,13,L 1,,,,False,MNL,1953
+45,"Sat, Jan 31, 1953",,Box Score,,Fort Wayne Pistons,W,,87,80,32,13,W 1,,,,False,MNL,1953
+46,"Sun, Feb 1, 1953",,Box Score,@,Fort Wayne Pistons,W,,92,76,33,13,W 2,,,,False,MNL,1953
+47,"Tue, Feb 3, 1953",,Box Score,@,Indianapolis Olympians,L,3OT,93,96,33,14,L 1,,,,False,MNL,1953
+48,"Thu, Feb 5, 1953",,Box Score,,New York Knicks,W,,81,73,34,14,W 1,,,,False,MNL,1953
+49,"Sat, Feb 7, 1953",,Box Score,@,Rochester Royals,L,,72,87,34,15,L 1,,,,False,MNL,1953
+50,"Sun, Feb 8, 1953",,Box Score,,Indianapolis Olympians,W,,71,67,35,15,W 1,,,,False,MNL,1953
+51,"Thu, Feb 12, 1953",,Box Score,,Syracuse Nationals,W,,91,81,36,15,W 2,,,,False,MNL,1953
+52,"Sat, Feb 14, 1953",,Box Score,,Philadelphia Warriors,W,,92,84,37,15,W 3,,,,False,MNL,1953
+53,"Sun, Feb 15, 1953",,Box Score,@,Milwaukee Hawks,W,,80,71,38,15,W 4,,,,False,MNL,1953
+54,"Tue, Feb 17, 1953",,Box Score,N,Baltimore Bullets,L,,70,74,38,16,L 1,,,"at Moorhead, MN",False,MNL,1953
+55,"Thu, Feb 19, 1953",,Box Score,,Rochester Royals,W,,107,87,39,16,W 1,,,,False,MNL,1953
+56,"Sat, Feb 21, 1953",,Box Score,,Fort Wayne Pistons,W,,85,75,40,16,W 2,,,,False,MNL,1953
+57,"Sun, Feb 22, 1953",,Box Score,@,Fort Wayne Pistons,L,,78,90,40,17,L 1,,,,False,MNL,1953
+58,"Tue, Feb 24, 1953",,Box Score,@,New York Knicks,L,,63,79,40,18,L 2,,,,False,MNL,1953
+59,"Wed, Feb 25, 1953",,Box Score,@,Baltimore Bullets,W,,85,72,41,18,W 1,,,,False,MNL,1953
+60,"Thu, Feb 26, 1953",,Box Score,@,Philadelphia Warriors,W,,85,73,42,18,W 2,,,,False,MNL,1953
+61,"Fri, Feb 27, 1953",,Box Score,N,Philadelphia Warriors,W,,98,75,43,18,W 3,,,"at Cleveland, OH",False,MNL,1953
+62,"Sun, Mar 1, 1953",,Box Score,N,Philadelphia Warriors,W,,102,80,44,18,W 4,,,"at Saint Paul, MN",False,MNL,1953
+63,"Tue, Mar 3, 1953",,Box Score,N,Fort Wayne Pistons,W,,86,68,45,18,W 5,,,"at Milwaukee, WI",False,MNL,1953
+64,"Thu, Mar 5, 1953",,Box Score,@,Syracuse Nationals,L,,91,94,45,19,L 1,,,,False,MNL,1953
+65,"Fri, Mar 6, 1953",,Box Score,@,Boston Celtics,L,,85,100,45,20,L 2,13909,,,False,MNL,1953
+66,"Sat, Mar 7, 1953",,Box Score,@,Rochester Royals,L,,82,84,45,21,L 3,,,,False,MNL,1953
+67,"Sun, Mar 8, 1953",,Box Score,,Milwaukee Hawks,W,,100,73,46,21,W 1,,,,False,MNL,1953
+68,"Mon, Mar 9, 1953",,Box Score,N,Indianapolis Olympians,L,,83,95,46,22,L 1,,,"at Moorhead, MN",False,MNL,1953
+69,"Thu, Mar 12, 1953",,Box Score,,Rochester Royals,W,,89,77,47,22,W 1,,,,False,MNL,1953
+70,"Tue, Mar 17, 1953",,Box Score,@,Indianapolis Olympians,W,,73,71,48,22,W 2,,,,False,MNL,1953
+1,"Sun, Mar 22, 1953",,Box Score,,Indianapolis Olympians,W,,85,69,1,0,W 1,,,,True,MNL,1953
+2,"Mon, Mar 23, 1953",,Box Score,@,Indianapolis Olympians,W,,81,79,2,0,W 2,,,,True,MNL,1953
+3,"Thu, Mar 26, 1953",,Box Score,,Fort Wayne Pistons,W,,83,73,3,0,W 3,,,,True,MNL,1953
+4,"Sat, Mar 28, 1953",,Box Score,,Fort Wayne Pistons,W,,82,75,4,0,W 4,,,,True,MNL,1953
+5,"Mon, Mar 30, 1953",,Box Score,@,Fort Wayne Pistons,L,,95,98,4,1,L 1,,,,True,MNL,1953
+6,"Wed, Apr 1, 1953",,Box Score,@,Fort Wayne Pistons,L,,82,85,4,2,L 2,,,,True,MNL,1953
+7,"Thu, Apr 2, 1953",,Box Score,,Fort Wayne Pistons,W,,74,58,5,2,W 1,,,,True,MNL,1953
+8,"Sat, Apr 4, 1953",,Box Score,,New York Knicks,L,,88,96,5,3,L 1,5000,,,True,MNL,1953
+9,"Sun, Apr 5, 1953",,Box Score,,New York Knicks,W,,73,71,6,3,W 1,4848,,,True,MNL,1953
+10,"Tue, Apr 7, 1953",,Box Score,@,New York Knicks,W,,90,75,7,3,W 2,5100,,at 69th Regiment Armory,True,MNL,1953
+11,"Wed, Apr 8, 1953",,Box Score,@,New York Knicks,W,,71,69,8,3,W 3,5200,,at 69th Regiment Armory,True,MNL,1953
+12,"Fri, Apr 10, 1953",,Box Score,@,New York Knicks,W,,91,84,9,3,W 4,5200,,at 69th Regiment Armory,True,MNL,1953

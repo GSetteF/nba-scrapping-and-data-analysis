@@ -1,0 +1,91 @@
+G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Opponent,Unnamed: 6,Unnamed: 7,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Sat, Oct 27, 1984",,Box Score,,Chicago Bulls,W,,108,106,1,0,W 1,11052,,,False,MIL,1985
+2,"Mon, Oct 29, 1984",,Box Score,@,Chicago Bulls,L,,110,116,1,1,L 1,9358,,,False,MIL,1985
+3,"Wed, Oct 31, 1984",,Box Score,,Washington Bullets,W,,105,79,2,1,W 1,7705,,,False,MIL,1985
+4,"Fri, Nov 2, 1984",,Box Score,@,Washington Bullets,W,,102,96,3,1,W 2,7102,,,False,MIL,1985
+5,"Sat, Nov 3, 1984",,Box Score,,Cleveland Cavaliers,W,,117,88,4,1,W 3,10012,,,False,MIL,1985
+6,"Wed, Nov 7, 1984",,Box Score,,Atlanta Hawks,W,,103,99,5,1,W 4,8429,,,False,MIL,1985
+7,"Fri, Nov 9, 1984",,Box Score,,Indiana Pacers,W,,122,105,6,1,W 5,9121,,,False,MIL,1985
+8,"Sat, Nov 10, 1984",,Box Score,@,Detroit Pistons,L,,100,104,6,2,L 1,21172,,,False,MIL,1985
+9,"Tue, Nov 13, 1984",,Box Score,@,Atlanta Hawks,W,,110,99,7,2,W 1,6371,,,False,MIL,1985
+10,"Thu, Nov 15, 1984",,Box Score,@,Los Angeles Clippers,W,,103,90,8,2,W 2,7235,,,False,MIL,1985
+11,"Fri, Nov 16, 1984",,Box Score,@,Phoenix Suns,L,,106,118,8,3,L 1,12988,,,False,MIL,1985
+12,"Sun, Nov 18, 1984",,Box Score,@,Los Angeles Lakers,L,,89,96,8,4,L 2,12768,,,False,MIL,1985
+13,"Tue, Nov 20, 1984",,Box Score,@,Dallas Mavericks,L,,108,109,8,5,L 3,16511,,,False,MIL,1985
+14,"Wed, Nov 21, 1984",,Box Score,,Chicago Bulls,W,,108,98,9,5,W 1,11052,,,False,MIL,1985
+15,"Sat, Nov 24, 1984",,Box Score,,Golden State Warriors,W,,103,97,10,5,W 2,10656,,,False,MIL,1985
+16,"Tue, Nov 27, 1984",,Box Score,@,Indiana Pacers,L,,105,126,10,6,L 1,7550,,,False,MIL,1985
+17,"Wed, Nov 28, 1984",,Box Score,@,Atlanta Hawks,L,,83,95,10,7,L 2,2172,,"at New Orleans, LA",False,MIL,1985
+18,"Fri, Nov 30, 1984",,Box Score,,New York Knicks,W,,118,100,11,7,W 1,9975,,,False,MIL,1985
+19,"Sat, Dec 1, 1984",,Box Score,@,Washington Bullets,L,,97,100,11,8,L 1,7524,,,False,MIL,1985
+20,"Wed, Dec 5, 1984",,Box Score,@,Philadelphia 76ers,L,,111,112,11,9,L 2,9247,2:17,,False,MIL,1985
+21,"Thu, Dec 6, 1984",,Box Score,,Detroit Pistons,W,,114,99,12,9,W 1,9925,,,False,MIL,1985
+22,"Sat, Dec 8, 1984",,Box Score,,Indiana Pacers,W,,99,96,13,9,W 2,9289,,,False,MIL,1985
+23,"Tue, Dec 11, 1984",,Box Score,@,Cleveland Cavaliers,W,,120,106,14,9,W 3,3574,,,False,MIL,1985
+24,"Wed, Dec 12, 1984",,Box Score,@,New Jersey Nets,L,,109,116,14,10,L 1,10936,,,False,MIL,1985
+25,"Fri, Dec 14, 1984",,Box Score,,Philadelphia 76ers,L,,111,115,14,11,L 2,11052,2:10,,False,MIL,1985
+26,"Sun, Dec 16, 1984",,Box Score,,Utah Jazz,W,,115,102,15,11,W 1,8615,,,False,MIL,1985
+27,"Tue, Dec 18, 1984",,Box Score,,Dallas Mavericks,W,,110,96,16,11,W 2,8671,,,False,MIL,1985
+28,"Wed, Dec 19, 1984",,Box Score,@,Boston Celtics,W,,107,92,17,11,W 3,14890,1:57,,False,MIL,1985
+29,"Fri, Dec 21, 1984",,Box Score,@,Philadelphia 76ers,W,,104,101,18,11,W 4,15556,2:09,,False,MIL,1985
+30,"Sat, Dec 22, 1984",,Box Score,,San Antonio Spurs,W,,101,90,19,11,W 5,9587,,,False,MIL,1985
+31,"Wed, Dec 26, 1984",,Box Score,,Houston Rockets,W,,97,87,20,11,W 6,11052,,,False,MIL,1985
+32,"Sat, Dec 29, 1984",,Box Score,@,Cleveland Cavaliers,W,,115,102,21,11,W 7,6108,,,False,MIL,1985
+33,"Sun, Dec 30, 1984",,Box Score,,Boston Celtics,W,,114,98,22,11,W 8,11052,1:54,,False,MIL,1985
+34,"Thu, Jan 3, 1985",,Box Score,,Los Angeles Clippers,W,,111,87,23,11,W 9,11052,,,False,MIL,1985
+35,"Fri, Jan 4, 1985",,Box Score,@,Chicago Bulls,L,,101,106,23,12,L 1,13357,,,False,MIL,1985
+36,"Sat, Jan 5, 1985",,Box Score,,Philadelphia 76ers,L,,106,110,23,13,L 2,11052,2:15,,False,MIL,1985
+37,"Tue, Jan 8, 1985",,Box Score,,Washington Bullets,L,,95,99,23,14,L 3,9247,,,False,MIL,1985
+38,"Wed, Jan 9, 1985",,Box Score,@,Indiana Pacers,W,,106,105,24,14,W 1,6574,,,False,MIL,1985
+39,"Fri, Jan 11, 1985",,Box Score,,Cleveland Cavaliers,W,,130,117,25,14,W 2,9775,,,False,MIL,1985
+40,"Sun, Jan 13, 1985",,Box Score,,Denver Nuggets,W,,140,116,26,14,W 3,10995,,,False,MIL,1985
+41,"Tue, Jan 15, 1985",,Box Score,,Los Angeles Lakers,W,,115,105,27,14,W 4,11052,,,False,MIL,1985
+42,"Fri, Jan 18, 1985",,Box Score,,New Jersey Nets,W,,102,93,28,14,W 5,10857,,,False,MIL,1985
+43,"Thu, Jan 24, 1985",,Box Score,@,Kansas City Kings,W,,120,119,29,14,W 6,6228,,,False,MIL,1985
+44,"Sat, Jan 26, 1985",,Box Score,@,Houston Rockets,W,,105,102,30,14,W 7,16016,,,False,MIL,1985
+45,"Sun, Jan 27, 1985",,Box Score,@,San Antonio Spurs,W,,106,93,31,14,W 8,9511,,,False,MIL,1985
+46,"Tue, Jan 29, 1985",,Box Score,@,Golden State Warriors,W,,108,101,32,14,W 9,7060,,,False,MIL,1985
+47,"Fri, Feb 1, 1985",,Box Score,@,Seattle SuperSonics,W,,109,91,33,14,W 10,7830,,,False,MIL,1985
+48,"Sat, Feb 2, 1985",,Box Score,@,Portland Trail Blazers,W,,105,95,34,14,W 11,12666,,,False,MIL,1985
+49,"Mon, Feb 4, 1985",,Box Score,,Detroit Pistons,L,OT,111,113,34,15,L 1,11052,,,False,MIL,1985
+50,"Wed, Feb 6, 1985",,Box Score,@,New Jersey Nets,L,,93,106,34,16,L 2,11378,,,False,MIL,1985
+51,"Thu, Feb 7, 1985",,Box Score,,Atlanta Hawks,L,OT,91,94,34,17,L 3,10783,,,False,MIL,1985
+52,"Tue, Feb 12, 1985",,Box Score,,New Jersey Nets,W,,111,103,35,17,W 1,9927,,,False,MIL,1985
+53,"Thu, Feb 14, 1985",,Box Score,@,Indiana Pacers,W,OT,132,128,36,17,W 2,11888,,,False,MIL,1985
+54,"Sun, Feb 17, 1985",,Box Score,,Chicago Bulls,W,,125,105,37,17,W 3,11052,,,False,MIL,1985
+55,"Tue, Feb 19, 1985",,Box Score,@,New York Knicks,W,,129,118,38,17,W 4,9010,,,False,MIL,1985
+56,"Wed, Feb 20, 1985",,Box Score,@,Detroit Pistons,W,,113,112,39,17,W 5,20542,,,False,MIL,1985
+57,"Sat, Feb 23, 1985",,Box Score,@,Cleveland Cavaliers,L,,106,128,39,18,L 1,7843,,,False,MIL,1985
+58,"Tue, Feb 26, 1985",,Box Score,,Philadelphia 76ers,W,,116,97,40,18,W 1,11052,2:14,,False,MIL,1985
+59,"Wed, Feb 27, 1985",,Box Score,@,Utah Jazz,W,,119,100,41,18,W 2,9042,,,False,MIL,1985
+60,"Sat, Mar 2, 1985",,Box Score,@,Denver Nuggets,L,,122,123,41,19,L 1,17022,,,False,MIL,1985
+61,"Tue, Mar 5, 1985",,Box Score,,Seattle SuperSonics,W,,102,87,42,19,W 1,10897,,,False,MIL,1985
+62,"Fri, Mar 8, 1985",,Box Score,,Kansas City Kings,W,,127,114,43,19,W 2,11052,,,False,MIL,1985
+63,"Sun, Mar 10, 1985",,Box Score,,Portland Trail Blazers,W,,110,94,44,19,W 3,10108,,,False,MIL,1985
+64,"Mon, Mar 11, 1985",,Box Score,@,Atlanta Hawks,W,,121,115,45,19,W 4,6612,,,False,MIL,1985
+65,"Wed, Mar 13, 1985",,Box Score,,Cleveland Cavaliers,W,,128,93,46,19,W 5,9865,,,False,MIL,1985
+66,"Sat, Mar 16, 1985",,Box Score,,Phoenix Suns,W,,125,96,47,19,W 6,11052,,,False,MIL,1985
+67,"Sun, Mar 17, 1985",,Box Score,@,Chicago Bulls,L,OT,117,119,47,20,L 1,16022,,,False,MIL,1985
+68,"Tue, Mar 19, 1985",,Box Score,,New Jersey Nets,W,,130,111,48,20,W 1,10929,,,False,MIL,1985
+69,"Wed, Mar 20, 1985",,Box Score,@,Boston Celtics,L,,105,107,48,21,L 1,14890,2:01,,False,MIL,1985
+70,"Fri, Mar 22, 1985",,Box Score,@,Philadelphia 76ers,W,,131,112,49,21,W 1,16114,2:13,,False,MIL,1985
+71,"Sat, Mar 23, 1985",,Box Score,,Indiana Pacers,W,,140,129,50,21,W 2,11052,,,False,MIL,1985
+72,"Mon, Mar 25, 1985",,Box Score,,New York Knicks,W,,126,106,51,21,W 3,9386,,,False,MIL,1985
+73,"Tue, Mar 26, 1985",,Box Score,@,Washington Bullets,W,,107,96,52,21,W 4,5116,,,False,MIL,1985
+74,"Thu, Mar 28, 1985",,Box Score,@,New York Knicks,W,,121,116,53,21,W 5,9506,,,False,MIL,1985
+75,"Sat, Mar 30, 1985",,Box Score,,Atlanta Hawks,W,,106,95,54,21,W 6,11052,,,False,MIL,1985
+76,"Tue, Apr 2, 1985",,Box Score,,Boston Celtics,W,,109,103,55,21,W 7,11052,2:10,,False,MIL,1985
+77,"Thu, Apr 4, 1985",,Box Score,,Detroit Pistons,W,,130,121,56,21,W 8,11052,,,False,MIL,1985
+78,"Sat, Apr 6, 1985",,Box Score,@,New Jersey Nets,L,,104,108,56,22,L 1,14574,,,False,MIL,1985
+79,"Sun, Apr 7, 1985",,Box Score,@,Detroit Pistons,L,,91,113,56,23,L 2,16153,,,False,MIL,1985
+80,"Wed, Apr 10, 1985",,Box Score,,Washington Bullets,W,,106,97,57,23,W 1,10117,,,False,MIL,1985
+81,"Fri, Apr 12, 1985",,Box Score,@,Boston Celtics,W,OT,115,113,58,23,W 2,14890,2:29,,False,MIL,1985
+82,"Sat, Apr 13, 1985",,Box Score,,New York Knicks,W,,88,84,59,23,W 3,10169,,,False,MIL,1985
+1,"Fri, Apr 19, 1985",,Box Score,,Chicago Bulls,W,,109,100,1,0,W 1,11052,2:09,,True,MIL,1985
+2,"Sun, Apr 21, 1985",,Box Score,,Chicago Bulls,W,,122,115,2,0,W 2,11052,2:27,,True,MIL,1985
+3,"Wed, Apr 24, 1985",,Box Score,@,Chicago Bulls,L,,107,109,2,1,L 1,17225,2:22,,True,MIL,1985
+4,"Fri, Apr 26, 1985",,Box Score,@,Chicago Bulls,W,,105,97,3,1,W 1,17787,2:28,,True,MIL,1985
+5,"Sun, Apr 28, 1985",,Box Score,,Philadelphia 76ers,L,,105,127,3,2,L 1,11052,2:09,,True,MIL,1985
+6,"Tue, Apr 30, 1985",,Box Score,,Philadelphia 76ers,L,,108,112,3,3,L 2,11052,2:10,,True,MIL,1985
+7,"Fri, May 3, 1985",,Box Score,@,Philadelphia 76ers,L,,104,109,3,4,L 3,14188,2:19,,True,MIL,1985
+8,"Sun, May 5, 1985",,Box Score,@,Philadelphia 76ers,L,,112,121,3,5,L 4,15264,2:30,,True,MIL,1985

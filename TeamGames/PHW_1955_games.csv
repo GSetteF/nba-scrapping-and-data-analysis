@@ -1,0 +1,73 @@
+G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Opponent,Unnamed: 6,Unnamed: 7,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Sat, Nov 13, 1954",,Box Score,,New York Knicks,W,,87,86,1,0,W 1,,,,False,PHW,1955
+2,"Tue, Nov 16, 1954",,Box Score,N,Syracuse Nationals,L,,85,86,1,1,L 1,,,"at New York, NY",False,PHW,1955
+3,"Thu, Nov 18, 1954",,Box Score,N,New York Knicks,L,,94,96,1,2,L 2,,,"at Syracuse, NY",False,PHW,1955
+4,"Sat, Nov 20, 1954",,Box Score,,Fort Wayne Pistons,W,,99,82,2,2,W 1,,,,False,PHW,1955
+5,"Wed, Nov 24, 1954",,Box Score,N,Fort Wayne Pistons,W,,91,87,3,2,W 2,,,"at Hershey, PA",False,PHW,1955
+6,"Thu, Nov 25, 1954",,Box Score,,Boston Celtics,W,,103,98,4,2,W 3,,,,False,PHW,1955
+7,"Tue, Nov 30, 1954",,Box Score,@,New York Knicks,L,OT,91,95,4,3,L 1,,,,False,PHW,1955
+8,"Wed, Dec 1, 1954",,Box Score,,Minneapolis Lakers,L,,88,91,4,4,L 2,,,,False,PHW,1955
+9,"Fri, Dec 3, 1954",,Box Score,N,Milwaukee Hawks,W,,110,91,5,4,W 1,,,"at Chicago, IL",False,PHW,1955
+10,"Sat, Dec 4, 1954",,Box Score,,Syracuse Nationals,W,,79,73,6,4,W 2,,,,False,PHW,1955
+11,"Sun, Dec 5, 1954",,Box Score,@,Syracuse Nationals,L,,72,89,6,5,L 1,,,,False,PHW,1955
+12,"Tue, Dec 7, 1954",,Box Score,N,Syracuse Nationals,L,,81,88,6,6,L 2,,,"at New Haven, CT",False,PHW,1955
+13,"Wed, Dec 8, 1954",,Box Score,N,New York Knicks,W,,86,77,7,6,W 1,,,"at Boston, MA",False,PHW,1955
+14,"Thu, Dec 9, 1954",,Box Score,,New York Knicks,L,,96,98,7,7,L 1,,,,False,PHW,1955
+15,"Sun, Dec 12, 1954",,Box Score,@,Syracuse Nationals,W,,96,87,8,7,W 1,,,,False,PHW,1955
+16,"Wed, Dec 15, 1954",,Box Score,N,Fort Wayne Pistons,W,,99,90,9,7,W 2,,,"at Buffalo, NY",False,PHW,1955
+17,"Sat, Dec 18, 1954",,Box Score,@,Boston Celtics,L,,103,107,9,8,L 1,,,,False,PHW,1955
+18,"Sun, Dec 19, 1954",,Box Score,N,Rochester Royals,L,,79,92,9,9,L 2,,,"at New York, NY",False,PHW,1955
+19,"Thu, Dec 23, 1954",,Box Score,N,Fort Wayne Pistons,L,,82,92,9,10,L 3,,,"at Huntingburg, IN",False,PHW,1955
+20,"Sat, Dec 25, 1954",,Box Score,@,Minneapolis Lakers,L,,91,99,9,11,L 4,,,,False,PHW,1955
+21,"Sun, Dec 26, 1954",,Box Score,@,Fort Wayne Pistons,L,,96,109,9,12,L 5,,,,False,PHW,1955
+22,"Tue, Dec 28, 1954",,Box Score,@,New York Knicks,W,,84,78,10,12,W 1,,,,False,PHW,1955
+23,"Wed, Dec 29, 1954",,Box Score,,Syracuse Nationals,W,,72,70,11,12,W 2,,,,False,PHW,1955
+24,"Fri, Dec 31, 1954",,Box Score,N,Boston Celtics,L,,113,119,11,13,L 1,,,"at Providence, RI",False,PHW,1955
+25,"Sat, Jan 1, 1955",,Box Score,@,Rochester Royals,L,,92,96,11,14,L 2,,,,False,PHW,1955
+26,"Sun, Jan 2, 1955",,Box Score,@,Fort Wayne Pistons,L,,66,89,11,15,L 3,,,,False,PHW,1955
+27,"Mon, Jan 3, 1955",,Box Score,N,Minneapolis Lakers,L,,74,76,11,16,L 4,,,"at Chicago, IL",False,PHW,1955
+28,"Wed, Jan 5, 1955",,Box Score,,Minneapolis Lakers,W,,106,85,12,16,W 1,,,,False,PHW,1955
+29,"Thu, Jan 6, 1955",,Box Score,N,Milwaukee Hawks,W,,92,79,13,16,W 2,,,"at Richmond, VA",False,PHW,1955
+30,"Sat, Jan 8, 1955",,Box Score,@,Boston Celtics,L,,105,117,13,17,L 1,,,,False,PHW,1955
+31,"Sun, Jan 9, 1955",,Box Score,@,New York Knicks,L,,84,86,13,18,L 2,,,,False,PHW,1955
+32,"Thu, Jan 13, 1955",,Box Score,,Minneapolis Lakers,W,OT,102,96,14,18,W 1,,,,False,PHW,1955
+33,"Fri, Jan 14, 1955",,Box Score,@,Milwaukee Hawks,L,,84,86,14,19,L 1,,,,False,PHW,1955
+34,"Sat, Jan 15, 1955",,Box Score,@,Milwaukee Hawks,W,,93,88,15,19,W 1,,,,False,PHW,1955
+35,"Sun, Jan 16, 1955",,Box Score,@,Minneapolis Lakers,L,,98,106,15,20,L 1,,,,False,PHW,1955
+36,"Wed, Jan 19, 1955",,Box Score,N,Syracuse Nationals,L,OT,97,98,15,21,L 2,,,"at Hershey, PA",False,PHW,1955
+37,"Fri, Jan 21, 1955",,Box Score,N,Boston Celtics,L,,89,90,15,22,L 3,,,"at New Haven, CT",False,PHW,1955
+38,"Sat, Jan 22, 1955",,Box Score,@,New York Knicks,W,,102,99,16,22,W 1,,,,False,PHW,1955
+39,"Sun, Jan 23, 1955",,Box Score,@,Boston Celtics,L,OT,91,94,16,23,L 1,,,,False,PHW,1955
+40,"Wed, Jan 26, 1955",,Box Score,N,Syracuse Nationals,L,,99,107,16,24,L 2,,,"at Boston, MA",False,PHW,1955
+41,"Thu, Jan 27, 1955",,Box Score,,New York Knicks,W,,92,83,17,24,W 1,,,,False,PHW,1955
+42,"Sat, Jan 29, 1955",,Box Score,@,Rochester Royals,L,,85,87,17,25,L 1,,,,False,PHW,1955
+43,"Sun, Jan 30, 1955",,Box Score,@,Syracuse Nationals,W,,93,83,18,25,W 1,,,,False,PHW,1955
+44,"Wed, Feb 2, 1955",,Box Score,N,Boston Celtics,W,,122,107,19,25,W 2,,,"at New Haven, CT",False,PHW,1955
+45,"Fri, Feb 4, 1955",,Box Score,,Rochester Royals,W,,109,101,20,25,W 3,,,,False,PHW,1955
+46,"Sat, Feb 5, 1955",,Box Score,,Fort Wayne Pistons,L,,88,96,20,26,L 1,,,,False,PHW,1955
+47,"Sun, Feb 6, 1955",,Box Score,@,Boston Celtics,W,,113,109,21,26,W 1,,,,False,PHW,1955
+48,"Tue, Feb 8, 1955",,Box Score,N,Milwaukee Hawks,L,,95,102,21,27,L 1,,,"at Saratoga Springs, NY",False,PHW,1955
+49,"Thu, Feb 10, 1955",,Box Score,@,Fort Wayne Pistons,L,,97,105,21,28,L 2,,,,False,PHW,1955
+50,"Fri, Feb 11, 1955",,Box Score,,Boston Celtics,W,,105,101,22,28,W 1,,,,False,PHW,1955
+51,"Sun, Feb 13, 1955",,Box Score,@,Minneapolis Lakers,L,,93,103,22,29,L 1,,,,False,PHW,1955
+52,"Mon, Feb 14, 1955",,Box Score,N,Rochester Royals,W,,79,72,23,29,W 1,,,"at Toledo, OH",False,PHW,1955
+53,"Tue, Feb 15, 1955",,Box Score,N,Rochester Royals,W,,114,113,24,29,W 2,,,"at Buffalo, NY",False,PHW,1955
+54,"Wed, Feb 16, 1955",,Box Score,N,Rochester Royals,W,,98,96,25,29,W 3,,,"at Saratoga Springs, NY",False,PHW,1955
+55,"Thu, Feb 17, 1955",,Box Score,N,Rochester Royals,W,,78,73,26,29,W 4,,,"at New Haven, CT",False,PHW,1955
+56,"Fri, Feb 18, 1955",,Box Score,,Syracuse Nationals,W,,110,86,27,29,W 5,,,,False,PHW,1955
+57,"Sun, Feb 20, 1955",,Box Score,@,Boston Celtics,L,,99,114,27,30,L 1,4993,,,False,PHW,1955
+58,"Tue, Feb 22, 1955",,Box Score,@,New York Knicks,L,,102,103,27,31,L 2,,,,False,PHW,1955
+59,"Wed, Feb 23, 1955",,Box Score,N,New York Knicks,W,,98,96,28,31,W 1,,,"at New Haven, CT",False,PHW,1955
+60,"Fri, Feb 25, 1955",,Box Score,,New York Knicks,W,3OT,113,111,29,31,W 2,,,,False,PHW,1955
+61,"Sat, Feb 26, 1955",,Box Score,@,Rochester Royals,L,,80,88,29,32,L 1,,,,False,PHW,1955
+62,"Sun, Feb 27, 1955",,Box Score,@,Syracuse Nationals,L,,77,105,29,33,L 2,,,,False,PHW,1955
+63,"Mon, Feb 28, 1955",,Box Score,N,Milwaukee Hawks,W,,101,84,30,33,W 1,,,"at Trenton, NJ",False,PHW,1955
+64,"Tue, Mar 1, 1955",,Box Score,,Milwaukee Hawks,L,,88,91,30,34,L 1,,,,False,PHW,1955
+65,"Wed, Mar 2, 1955",,Box Score,N,Milwaukee Hawks,W,,78,75,31,34,W 1,,,"at Westfield, MA",False,PHW,1955
+66,"Sat, Mar 5, 1955",,Box Score,,Boston Celtics,W,,95,89,32,34,W 2,,,,False,PHW,1955
+67,"Sun, Mar 6, 1955",,Box Score,@,Syracuse Nationals,L,,101,107,32,35,L 1,,,,False,PHW,1955
+68,"Tue, Mar 8, 1955",,Box Score,N,Boston Celtics,L,,103,112,32,36,L 2,,,"at White Plains, NY",False,PHW,1955
+69,"Wed, Mar 9, 1955",,Box Score,,Minneapolis Lakers,W,,102,89,33,36,W 1,,,,False,PHW,1955
+70,"Thu, Mar 10, 1955",,Box Score,N,Fort Wayne Pistons,L,OT,91,93,33,37,L 1,,,"at Columbus, IN",False,PHW,1955
+71,"Sat, Mar 12, 1955",,Box Score,N,Minneapolis Lakers,L,,78,86,33,38,L 2,,,"at Des Moines, IA",False,PHW,1955
+72,"Mon, Mar 14, 1955",,Box Score,N,Milwaukee Hawks,L,,84,99,33,39,L 3,,,"at Albany, NY",False,PHW,1955

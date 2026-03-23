@@ -1,0 +1,73 @@
+G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Opponent,Unnamed: 6,Unnamed: 7,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Sat, Oct 26, 1957",,Box Score,@,St. Louis Hawks,L,,84,112,0,1,L 1,,,,False,MNL,1958
+2,"Wed, Oct 30, 1957",,Box Score,,Detroit Pistons,L,,96,115,0,2,L 2,,,,False,MNL,1958
+3,"Fri, Nov 1, 1957",,Box Score,@,Syracuse Nationals,L,,100,113,0,3,L 3,,,,False,MNL,1958
+4,"Sat, Nov 2, 1957",,Box Score,@,Philadelphia Warriors,L,,108,118,0,4,L 4,,,,False,MNL,1958
+5,"Wed, Nov 6, 1957",,Box Score,,Boston Celtics,L,,94,103,0,5,L 5,3800,,,False,MNL,1958
+6,"Fri, Nov 8, 1957",,Box Score,N,Philadelphia Warriors,L,,108,119,0,6,L 6,,,"at Hershey, PA",False,MNL,1958
+7,"Tue, Nov 12, 1957",,Box Score,N,Boston Celtics,L,,104,107,0,7,L 7,6256,,"at Detroit, MI",False,MNL,1958
+8,"Wed, Nov 13, 1957",,Box Score,,New York Knicks,W,,124,106,1,7,W 1,,,"at Saint Paul, MN",False,MNL,1958
+9,"Fri, Nov 15, 1957",,Box Score,@,Detroit Pistons,W,,112,104,2,7,W 2,,,,False,MNL,1958
+10,"Sun, Nov 17, 1957",,Box Score,,Syracuse Nationals,L,,98,110,2,8,L 1,,,,False,MNL,1958
+11,"Wed, Nov 20, 1957",,Box Score,,New York Knicks,L,,101,105,2,9,L 2,,,,False,MNL,1958
+12,"Thu, Nov 21, 1957",,Box Score,N,New York Knicks,L,OT,123,124,2,10,L 3,,,"at Detroit, MI",False,MNL,1958
+13,"Sat, Nov 23, 1957",,Box Score,@,Boston Celtics,L,,107,131,2,11,L 4,11340,,,False,MNL,1958
+14,"Sun, Nov 24, 1957",,Box Score,@,Philadelphia Warriors,L,,98,105,2,12,L 5,,,"at Camden, NJ",False,MNL,1958
+15,"Tue, Nov 26, 1957",,Box Score,N,Detroit Pistons,L,,91,109,2,13,L 6,,,"at New York, NY",False,MNL,1958
+16,"Wed, Nov 27, 1957",,Box Score,N,Cincinnati Royals,L,,106,107,2,14,L 7,,,"at Detroit, MI",False,MNL,1958
+17,"Sat, Nov 30, 1957",,Box Score,,St. Louis Hawks,W,,118,113,3,14,W 1,,,,False,MNL,1958
+18,"Sun, Dec 1, 1957",,Box Score,@,Cincinnati Royals,L,,89,90,3,15,L 1,,,,False,MNL,1958
+19,"Tue, Dec 3, 1957",,Box Score,N,St. Louis Hawks,L,,108,115,3,16,L 2,,,"at Detroit, MI",False,MNL,1958
+20,"Wed, Dec 4, 1957",,Box Score,,Boston Celtics,L,,98,108,3,17,L 3,3010,,,False,MNL,1958
+21,"Sat, Dec 7, 1957",,Box Score,,Syracuse Nationals,W,,121,113,4,17,W 1,,,"at Saint Paul, MN",False,MNL,1958
+22,"Tue, Dec 10, 1957",,Box Score,N,Syracuse Nationals,L,,104,114,4,18,L 1,,,"at Detroit, MI",False,MNL,1958
+23,"Wed, Dec 11, 1957",,Box Score,,Syracuse Nationals,W,,110,95,5,18,W 1,,,,False,MNL,1958
+24,"Sun, Dec 15, 1957",,Box Score,,St. Louis Hawks,L,,118,138,5,19,L 1,,,,False,MNL,1958
+25,"Wed, Dec 18, 1957",,Box Score,,Philadelphia Warriors,W,,108,102,6,19,W 1,,,,False,MNL,1958
+26,"Sat, Dec 21, 1957",,Box Score,@,Boston Celtics,L,,119,140,6,20,L 1,6458,,,False,MNL,1958
+27,"Sun, Dec 22, 1957",,Box Score,@,St. Louis Hawks,L,,115,123,6,21,L 2,,,,False,MNL,1958
+28,"Wed, Dec 25, 1957",,Box Score,@,Detroit Pistons,W,,106,104,7,21,W 1,,,,False,MNL,1958
+29,"Sat, Dec 28, 1957",,Box Score,,Cincinnati Royals,L,,101,112,7,22,L 1,,,,False,MNL,1958
+30,"Sun, Dec 29, 1957",,Box Score,@,Cincinnati Royals,W,,111,103,8,22,W 1,,,,False,MNL,1958
+31,"Mon, Dec 30, 1957",,Box Score,N,St. Louis Hawks,L,,98,105,8,23,L 1,,,"at Dallas, TX",False,MNL,1958
+32,"Tue, Dec 31, 1957",,Box Score,@,New York Knicks,L,,116,142,8,24,L 2,,,,False,MNL,1958
+33,"Wed, Jan 1, 1958",,Box Score,@,Syracuse Nationals,L,,109,120,8,25,L 3,,,,False,MNL,1958
+34,"Sun, Jan 5, 1958",,Box Score,N,Boston Celtics,L,,100,113,8,26,L 4,4636,,"at Providence, RI",False,MNL,1958
+35,"Wed, Jan 8, 1958",,Box Score,,Boston Celtics,L,,87,107,8,27,L 5,1831,,"at Saint Paul, MN",False,MNL,1958
+36,"Thu, Jan 9, 1958",,Box Score,@,Syracuse Nationals,L,,122,127,8,28,L 6,,,,False,MNL,1958
+37,"Fri, Jan 10, 1958",,Box Score,N,Detroit Pistons,W,,124,114,9,28,W 1,,,"at Philadelphia, PA",False,MNL,1958
+38,"Sat, Jan 11, 1958",,Box Score,@,Detroit Pistons,L,,102,129,9,29,L 1,,,,False,MNL,1958
+39,"Sun, Jan 12, 1958",,Box Score,@,St. Louis Hawks,L,,105,111,9,30,L 2,,,,False,MNL,1958
+40,"Thu, Jan 16, 1958",,Box Score,@,Cincinnati Royals,L,,108,124,9,31,L 3,,,,False,MNL,1958
+41,"Fri, Jan 17, 1958",,Box Score,N,St. Louis Hawks,W,OT,112,110,10,31,W 1,,,"at Detroit, MI",False,MNL,1958
+42,"Sun, Jan 19, 1958",,Box Score,,Detroit Pistons,W,,118,111,11,31,W 2,,,,False,MNL,1958
+43,"Wed, Jan 22, 1958",,Box Score,,Boston Celtics,L,,87,97,11,32,L 1,5200,,,False,MNL,1958
+44,"Thu, Jan 23, 1958",,Box Score,,Detroit Pistons,W,OT,128,125,12,32,W 1,,,"at Saint Paul, MN",False,MNL,1958
+45,"Sat, Jan 25, 1958",,Box Score,@,New York Knicks,L,,116,128,12,33,L 1,,,,False,MNL,1958
+46,"Sun, Jan 26, 1958",,Box Score,,New York Knicks,L,,106,109,12,34,L 2,,,,False,MNL,1958
+47,"Mon, Jan 27, 1958",,Box Score,N,New York Knicks,L,,102,113,12,35,L 3,,,"at Detroit, MI",False,MNL,1958
+48,"Thu, Jan 30, 1958",,Box Score,,Cincinnati Royals,W,,105,104,13,35,W 1,,,,False,MNL,1958
+49,"Sat, Feb 1, 1958",,Box Score,,Syracuse Nationals,L,,91,97,13,36,L 1,,,,False,MNL,1958
+50,"Sun, Feb 2, 1958",,Box Score,,Cincinnati Royals,W,,106,95,14,36,W 1,,,,False,MNL,1958
+51,"Tue, Feb 4, 1958",,Box Score,N,Philadelphia Warriors,L,,103,107,14,37,L 1,,,"at Detroit, MI",False,MNL,1958
+52,"Wed, Feb 5, 1958",,Box Score,,Philadelphia Warriors,L,,102,112,14,38,L 2,,,,False,MNL,1958
+53,"Fri, Feb 7, 1958",,Box Score,@,Boston Celtics,L,,88,114,14,39,L 3,6070,,,False,MNL,1958
+54,"Sat, Feb 8, 1958",,Box Score,@,New York Knicks,L,,93,94,14,40,L 4,,,,False,MNL,1958
+55,"Sun, Feb 9, 1958",,Box Score,@,Cincinnati Royals,L,,104,121,14,41,L 5,,,,False,MNL,1958
+56,"Tue, Feb 11, 1958",,Box Score,N,Cincinnati Royals,L,,103,106,14,42,L 6,,,"at St. Louis, MO",False,MNL,1958
+57,"Wed, Feb 12, 1958",,Box Score,,New York Knicks,L,,97,106,14,43,L 7,,,,False,MNL,1958
+58,"Fri, Feb 14, 1958",,Box Score,,St. Louis Hawks,L,,100,104,14,44,L 8,,,"at Saint Paul, MN",False,MNL,1958
+59,"Sat, Feb 15, 1958",,Box Score,@,Detroit Pistons,W,,111,110,15,44,W 1,,,,False,MNL,1958
+60,"Sun, Feb 16, 1958",,Box Score,,Philadelphia Warriors,W,,106,99,16,44,W 2,,,,False,MNL,1958
+61,"Tue, Feb 18, 1958",,Box Score,@,St. Louis Hawks,L,,98,118,16,45,L 1,,,,False,MNL,1958
+62,"Wed, Feb 19, 1958",,Box Score,,Detroit Pistons,L,OT,115,117,16,46,L 2,,,,False,MNL,1958
+63,"Sat, Feb 22, 1958",,Box Score,,Cincinnati Royals,W,,100,81,17,46,W 1,,,,False,MNL,1958
+64,"Sun, Feb 23, 1958",,Box Score,@,Cincinnati Royals,L,,93,111,17,47,L 1,,,,False,MNL,1958
+65,"Mon, Feb 24, 1958",,Box Score,N,Philadelphia Warriors,L,,95,110,17,48,L 2,,,"at Bethlehem, PA",False,MNL,1958
+66,"Wed, Feb 26, 1958",,Box Score,@,Syracuse Nationals,L,,90,119,17,49,L 3,,,,False,MNL,1958
+67,"Thu, Feb 27, 1958",,Box Score,N,Detroit Pistons,L,,109,112,17,50,L 4,,,"at Philadelphia, PA",False,MNL,1958
+68,"Sun, Mar 2, 1958",,Box Score,,Philadelphia Warriors,W,,102,92,18,50,W 1,,,,False,MNL,1958
+69,"Thu, Mar 6, 1958",,Box Score,,Detroit Pistons,L,,116,132,18,51,L 1,,,,False,MNL,1958
+70,"Sat, Mar 8, 1958",,Box Score,@,St. Louis Hawks,L,,123,126,18,52,L 2,,,,False,MNL,1958
+71,"Sun, Mar 9, 1958",,Box Score,,St. Louis Hawks,W,,107,99,19,52,W 1,,,,False,MNL,1958
+72,"Wed, Mar 12, 1958",,Box Score,,Cincinnati Royals,L,,89,96,19,53,L 1,,,,False,MNL,1958

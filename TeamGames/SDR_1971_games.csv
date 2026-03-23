@@ -1,0 +1,83 @@
+G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Opponent,Unnamed: 6,Unnamed: 7,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Tue, Oct 13, 1970",,Box Score,@,Chicago Bulls,L,,96,111,0,1,L 1,,,,False,SDR,1971
+2,"Wed, Oct 14, 1970",,Box Score,@,Baltimore Bullets,L,,105,123,0,2,L 2,,,,False,SDR,1971
+3,"Fri, Oct 16, 1970",,Box Score,@,Philadelphia 76ers,L,,119,127,0,3,L 3,,,,False,SDR,1971
+4,"Sat, Oct 17, 1970",,Box Score,@,Buffalo Braves,W,,102,93,1,3,W 1,,,,False,SDR,1971
+5,"Tue, Oct 20, 1970",,Box Score,,Phoenix Suns,W,,115,114,2,3,W 2,,,,False,SDR,1971
+6,"Thu, Oct 22, 1970",,Box Score,,Cleveland Cavaliers,W,,140,110,3,3,W 3,,,,False,SDR,1971
+7,"Sat, Oct 24, 1970",,Box Score,,Philadelphia 76ers,W,,116,111,4,3,W 4,,,,False,SDR,1971
+8,"Sun, Oct 25, 1970",,Box Score,@,Phoenix Suns,L,,98,117,4,4,L 1,,,,False,SDR,1971
+9,"Tue, Oct 27, 1970",,Box Score,@,Milwaukee Bucks,L,,113,126,4,5,L 2,,,,False,SDR,1971
+10,"Wed, Oct 28, 1970",,Box Score,@,Cleveland Cavaliers,W,,110,99,5,5,W 1,,,,False,SDR,1971
+11,"Thu, Oct 29, 1970",,Box Score,@,New York Knicks,L,,107,114,5,6,L 1,,,,False,SDR,1971
+12,"Sat, Oct 31, 1970",,Box Score,@,Atlanta Hawks,W,,121,117,6,6,W 1,,,,False,SDR,1971
+13,"Wed, Nov 4, 1970",,Box Score,,New York Knicks,L,,100,109,6,7,L 1,,,,False,SDR,1971
+14,"Fri, Nov 6, 1970",,Box Score,,Baltimore Bullets,L,,118,125,6,8,L 2,,,,False,SDR,1971
+15,"Sat, Nov 7, 1970",,Box Score,@,San Francisco Warriors,L,,102,114,6,9,L 3,,,,False,SDR,1971
+16,"Wed, Nov 11, 1970",,Box Score,,Cincinnati Royals,W,,127,120,7,9,W 1,,,,False,SDR,1971
+17,"Fri, Nov 13, 1970",,Box Score,,San Francisco Warriors,L,,102,107,7,10,L 1,,,,False,SDR,1971
+18,"Sat, Nov 14, 1970",,Box Score,,Detroit Pistons,W,,112,101,8,10,W 1,,,,False,SDR,1971
+19,"Mon, Nov 16, 1970",,Box Score,@,Portland Trail Blazers,W,,136,118,9,10,W 2,,,,False,SDR,1971
+20,"Wed, Nov 18, 1970",,Box Score,,Milwaukee Bucks,L,,111,117,9,11,L 1,,,,False,SDR,1971
+21,"Fri, Nov 20, 1970",,Box Score,,Seattle SuperSonics,W,,121,106,10,11,W 1,,,,False,SDR,1971
+22,"Sat, Nov 21, 1970",,Box Score,@,Seattle SuperSonics,W,,115,114,11,11,W 2,,,,False,SDR,1971
+23,"Tue, Nov 24, 1970",,Box Score,@,Detroit Pistons,L,,104,111,11,12,L 1,,,,False,SDR,1971
+24,"Wed, Nov 25, 1970",,Box Score,@,Cincinnati Royals,W,,138,120,12,12,W 1,,,,False,SDR,1971
+25,"Fri, Nov 27, 1970",,Box Score,,Atlanta Hawks,W,,128,127,13,12,W 2,,,,False,SDR,1971
+26,"Sat, Nov 28, 1970",,Box Score,@,Phoenix Suns,W,,117,116,14,12,W 3,,,,False,SDR,1971
+27,"Sun, Nov 29, 1970",,Box Score,@,Los Angeles Lakers,L,,112,130,14,13,L 1,,,,False,SDR,1971
+28,"Tue, Dec 1, 1970",,Box Score,@,Portland Trail Blazers,W,,120,114,15,13,W 1,,,,False,SDR,1971
+29,"Sat, Dec 5, 1970",,Box Score,,Los Angeles Lakers,W,,119,116,16,13,W 2,,,,False,SDR,1971
+30,"Sun, Dec 6, 1970",,Box Score,@,Phoenix Suns,L,,102,108,16,14,L 1,,,,False,SDR,1971
+31,"Fri, Dec 11, 1970",,Box Score,,Phoenix Suns,W,,110,104,17,14,W 1,,,,False,SDR,1971
+32,"Sat, Dec 12, 1970",,Box Score,@,Chicago Bulls,L,,98,103,17,15,L 1,,,,False,SDR,1971
+33,"Sun, Dec 13, 1970",,Box Score,@,Cleveland Cavaliers,W,,118,95,18,15,W 1,,,,False,SDR,1971
+34,"Tue, Dec 15, 1970",,Box Score,@,Philadelphia 76ers,L,,98,122,18,16,L 1,,,,False,SDR,1971
+35,"Wed, Dec 16, 1970",,Box Score,@,Atlanta Hawks,L,,117,128,18,17,L 2,,,,False,SDR,1971
+36,"Fri, Dec 18, 1970",,Box Score,,Detroit Pistons,L,,116,129,18,18,L 3,,,,False,SDR,1971
+37,"Sat, Dec 19, 1970",,Box Score,N,Portland Trail Blazers,W,,118,108,19,18,W 1,,,"at Oakland, CA",False,SDR,1971
+38,"Sun, Dec 20, 1970",,Box Score,@,Seattle SuperSonics,W,,110,108,20,18,W 2,,,,False,SDR,1971
+39,"Wed, Dec 23, 1970",,Box Score,,Atlanta Hawks,W,,133,102,21,18,W 3,,,,False,SDR,1971
+40,"Sun, Dec 27, 1970",,Box Score,,Chicago Bulls,L,,101,110,21,19,L 1,,,,False,SDR,1971
+41,"Tue, Dec 29, 1970",,Box Score,,Boston Celtics,L,,108,110,21,20,L 2,10138,,,False,SDR,1971
+42,"Fri, Jan 1, 1971",,Box Score,@,Los Angeles Lakers,W,,117,106,22,20,W 1,,,,False,SDR,1971
+43,"Sat, Jan 2, 1971",,Box Score,,Los Angeles Lakers,W,OT,109,108,23,20,W 2,,,,False,SDR,1971
+44,"Tue, Jan 5, 1971",,Box Score,@,Chicago Bulls,L,,103,116,23,21,L 1,,,,False,SDR,1971
+45,"Wed, Jan 6, 1971",,Box Score,@,Detroit Pistons,L,,99,100,23,22,L 2,,,,False,SDR,1971
+46,"Fri, Jan 8, 1971",,Box Score,,San Francisco Warriors,L,,117,120,23,23,L 3,,,,False,SDR,1971
+47,"Sat, Jan 9, 1971",,Box Score,@,San Francisco Warriors,L,,103,109,23,24,L 4,,,"at Oakland, CA",False,SDR,1971
+48,"Fri, Jan 15, 1971",,Box Score,,Baltimore Bullets,L,,117,124,23,25,L 5,,,,False,SDR,1971
+49,"Sun, Jan 17, 1971",,Box Score,,Philadelphia 76ers,L,,105,106,23,26,L 6,,,,False,SDR,1971
+50,"Tue, Jan 19, 1971",,Box Score,@,New York Knicks,L,OT,113,117,23,27,L 7,,,,False,SDR,1971
+51,"Wed, Jan 20, 1971",,Box Score,@,Boston Celtics,L,,112,142,23,28,L 8,5313,,,False,SDR,1971
+52,"Fri, Jan 22, 1971",,Box Score,@,Buffalo Braves,L,,94,101,23,29,L 9,,,,False,SDR,1971
+53,"Sat, Jan 23, 1971",,Box Score,@,Baltimore Bullets,L,,120,127,23,30,L 10,,,,False,SDR,1971
+54,"Mon, Jan 25, 1971",,Box Score,,Buffalo Braves,W,,114,106,24,30,W 1,,,,False,SDR,1971
+55,"Wed, Jan 27, 1971",,Box Score,,Chicago Bulls,L,,106,111,24,31,L 1,,,,False,SDR,1971
+56,"Fri, Jan 29, 1971",,Box Score,@,Detroit Pistons,L,,104,131,24,32,L 2,,,,False,SDR,1971
+57,"Sat, Jan 30, 1971",,Box Score,@,Cincinnati Royals,L,,110,116,24,33,L 3,,,,False,SDR,1971
+58,"Sun, Jan 31, 1971",,Box Score,@,Atlanta Hawks,L,,120,131,24,34,L 4,,,,False,SDR,1971
+59,"Tue, Feb 2, 1971",,Box Score,@,Los Angeles Lakers,L,,105,133,24,35,L 5,,,,False,SDR,1971
+60,"Wed, Feb 3, 1971",,Box Score,,Milwaukee Bucks,L,,101,108,24,36,L 6,,,,False,SDR,1971
+61,"Fri, Feb 5, 1971",,Box Score,,Cleveland Cavaliers,W,,116,105,25,36,W 1,,,,False,SDR,1971
+62,"Sat, Feb 6, 1971",,Box Score,,Los Angeles Lakers,L,,108,115,25,37,L 1,,,,False,SDR,1971
+63,"Sun, Feb 7, 1971",,Box Score,@,Seattle SuperSonics,W,,124,107,26,37,W 1,,,,False,SDR,1971
+64,"Tue, Feb 9, 1971",,Box Score,,Seattle SuperSonics,W,,132,115,27,37,W 2,,,,False,SDR,1971
+65,"Thu, Feb 11, 1971",,Box Score,,San Francisco Warriors,W,,119,111,28,37,W 3,,,,False,SDR,1971
+66,"Sat, Feb 13, 1971",,Box Score,,Cincinnati Royals,W,,120,116,29,37,W 4,,,,False,SDR,1971
+67,"Thu, Feb 18, 1971",,Box Score,,New York Knicks,L,,115,116,29,38,L 1,,,,False,SDR,1971
+68,"Fri, Feb 19, 1971",,Box Score,@,San Francisco Warriors,W,,109,103,30,38,W 1,,,,False,SDR,1971
+69,"Sat, Feb 20, 1971",,Box Score,,Boston Celtics,W,,128,118,31,38,W 2,7971,,,False,SDR,1971
+70,"Tue, Feb 23, 1971",,Box Score,@,New York Knicks,W,,126,109,32,38,W 3,,,,False,SDR,1971
+71,"Wed, Feb 24, 1971",,Box Score,@,Milwaukee Bucks,L,,104,139,32,39,L 1,,,,False,SDR,1971
+72,"Tue, Mar 2, 1971",,Box Score,@,Philadelphia 76ers,W,,111,103,33,39,W 1,,,,False,SDR,1971
+73,"Wed, Mar 3, 1971",,Box Score,@,Boston Celtics,L,,113,128,33,40,L 1,5755,,,False,SDR,1971
+74,"Fri, Mar 5, 1971",,Box Score,,Seattle SuperSonics,L,,110,111,33,41,L 2,,,,False,SDR,1971
+75,"Sat, Mar 6, 1971",,Box Score,N,Chicago Bulls,L,,99,105,33,42,L 3,,,"at Oakland, CA",False,SDR,1971
+76,"Sun, Mar 7, 1971",,Box Score,,Portland Trail Blazers,W,,135,121,34,42,W 1,,,,False,SDR,1971
+77,"Tue, Mar 9, 1971",,Box Score,,Buffalo Braves,W,,106,96,35,42,W 2,,,,False,SDR,1971
+78,"Thu, Mar 11, 1971",,Box Score,,Boston Celtics,W,,115,91,36,42,W 3,4397,,,False,SDR,1971
+79,"Sat, Mar 13, 1971",,Box Score,,Baltimore Bullets,W,,121,115,37,42,W 4,,,,False,SDR,1971
+80,"Wed, Mar 17, 1971",,Box Score,,Detroit Pistons,W,,106,99,38,42,W 5,,,,False,SDR,1971
+81,"Fri, Mar 19, 1971",,Box Score,,Milwaukee Bucks,W,,111,99,39,42,W 6,,,,False,SDR,1971
+82,"Sun, Mar 21, 1971",,Box Score,,Phoenix Suns,W,,132,114,40,42,W 7,,,,False,SDR,1971

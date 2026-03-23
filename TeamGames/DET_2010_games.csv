@@ -1,0 +1,83 @@
+G,Date,Start (ET),Unnamed: 3,Unnamed: 4,Unnamed: 5,Opponent,Unnamed: 7,Unnamed: 8,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Wed, Oct 28, 2009",8:00p,,Box Score,@,Memphis Grizzlies,W,,96,74,1,0,W 1,17212,2:25,,False,DET,2010
+2,"Fri, Oct 30, 2009",8:00p,,Box Score,,Oklahoma City Thunder,L,,83,91,1,1,L 1,22076,2:35,,False,DET,2010
+3,"Sat, Oct 31, 2009",8:30p,,Box Score,@,Milwaukee Bucks,L,,85,96,1,2,L 2,15095,2:19,,False,DET,2010
+4,"Tue, Nov 3, 2009",7:30p,,Box Score,,Orlando Magic,W,,85,80,2,2,W 1,15487,2:23,,False,DET,2010
+5,"Wed, Nov 4, 2009",7:00p,,Box Score,@,Toronto Raptors,L,,99,110,2,3,L 1,17915,2:23,,False,DET,2010
+6,"Fri, Nov 6, 2009",7:00p,,Box Score,@,Orlando Magic,L,,103,110,2,4,L 2,17461,2:39,,False,DET,2010
+7,"Sun, Nov 8, 2009",1:00p,,Box Score,,Philadelphia 76ers,W,,88,81,3,4,W 1,17187,2:16,,False,DET,2010
+8,"Wed, Nov 11, 2009",7:30p,,Box Score,,Charlotte Bobcats,W,,98,75,4,4,W 2,15417,2:19,,False,DET,2010
+9,"Sat, Nov 14, 2009",7:00p,,Box Score,@,Washington Wizards,W,,106,103,5,4,W 3,20173,2:31,,False,DET,2010
+10,"Sun, Nov 15, 2009",6:00p,,Box Score,,Dallas Mavericks,L,,90,95,5,5,L 1,18215,2:14,,False,DET,2010
+11,"Tue, Nov 17, 2009",10:30p,,Box Score,@,Los Angeles Lakers,L,,93,106,5,6,L 2,18997,2:15,,False,DET,2010
+12,"Wed, Nov 18, 2009",10:00p,,Box Score,@,Portland Trail Blazers,L,,81,87,5,7,L 3,20391,2:21,,False,DET,2010
+13,"Sat, Nov 21, 2009",9:00p,,Box Score,@,Utah Jazz,L,OT,97,100,5,8,L 4,18355,2:37,,False,DET,2010
+14,"Sun, Nov 22, 2009",8:00p,,Box Score,@,Phoenix Suns,L,,91,117,5,9,L 5,18422,2:12,,False,DET,2010
+15,"Wed, Nov 25, 2009",8:00p,,Box Score,,Cleveland Cavaliers,L,,88,98,5,10,L 6,22076,2:26,,False,DET,2010
+16,"Fri, Nov 27, 2009",8:00p,,Box Score,,Los Angeles Clippers,L,,96,104,5,11,L 7,18954,2:27,,False,DET,2010
+17,"Sun, Nov 29, 2009",1:00p,,Box Score,,Atlanta Hawks,W,,94,88,6,11,W 1,15273,2:13,,False,DET,2010
+18,"Wed, Dec 2, 2009",8:00p,,Box Score,@,Chicago Bulls,L,,85,92,6,12,L 1,21523,2:29,,False,DET,2010
+19,"Fri, Dec 4, 2009",8:00p,,Box Score,,Milwaukee Bucks,W,,105,96,7,12,W 1,16557,2:28,,False,DET,2010
+20,"Sun, Dec 6, 2009",6:00p,,Box Score,,Washington Wizards,W,,98,94,8,12,W 2,14123,2:31,,False,DET,2010
+21,"Wed, Dec 9, 2009",7:00p,,Box Score,@,Philadelphia 76ers,W,,90,86,9,12,W 3,12136,2:19,,False,DET,2010
+22,"Thu, Dec 10, 2009",7:30p,,Box Score,,Denver Nuggets,W,,101,99,10,12,W 4,17176,2:33,,False,DET,2010
+23,"Sat, Dec 12, 2009",7:30p,,Box Score,,Golden State Warriors,W,,104,95,11,12,W 5,16952,2:33,,False,DET,2010
+24,"Tue, Dec 15, 2009",8:30p,,Box Score,@,Houston Rockets,L,,96,107,11,13,L 1,14899,2:17,,False,DET,2010
+25,"Wed, Dec 16, 2009",8:00p,,Box Score,@,New Orleans Hornets,L,,87,95,11,14,L 2,13196,2:20,,False,DET,2010
+26,"Fri, Dec 18, 2009",8:00p,,Box Score,@,Oklahoma City Thunder,L,,98,109,11,15,L 3,17774,2:29,,False,DET,2010
+27,"Sun, Dec 20, 2009",6:00p,,Box Score,,Los Angeles Lakers,L,,81,93,11,16,L 4,22076,2:17,,False,DET,2010
+28,"Tue, Dec 22, 2009",7:00p,,Box Score,@,Charlotte Bobcats,L,,76,88,11,17,L 5,16864,2:09,,False,DET,2010
+29,"Wed, Dec 23, 2009",7:30p,,Box Score,,Toronto Raptors,L,,64,94,11,18,L 6,19396,2:18,,False,DET,2010
+30,"Sun, Dec 27, 2009",1:00p,,Box Score,@,Toronto Raptors,L,,95,102,11,19,L 7,19800,2:48,,False,DET,2010
+31,"Tue, Dec 29, 2009",7:30p,,Box Score,,New York Knicks,L,,87,104,11,20,L 8,22076,2:10,,False,DET,2010
+32,"Thu, Dec 31, 2009",3:00p,,Box Score,,Chicago Bulls,L,,87,98,11,21,L 9,22076,2:24,,False,DET,2010
+33,"Tue, Jan 5, 2010",8:30p,,Box Score,@,Dallas Mavericks,L,,93,98,11,22,L 10,19799,2:16,,False,DET,2010
+34,"Wed, Jan 6, 2010",8:30p,,Box Score,@,San Antonio Spurs,L,,92,112,11,23,L 11,17337,2:19,,False,DET,2010
+35,"Sat, Jan 9, 2010",7:30p,,Box Score,,Philadelphia 76ers,L,,94,104,11,24,L 12,19784,2:26,,False,DET,2010
+36,"Mon, Jan 11, 2010",8:00p,,Box Score,@,Chicago Bulls,L,,87,120,11,25,L 13,21014,2:11,,False,DET,2010
+37,"Tue, Jan 12, 2010",7:00p,,Box Score,@,Washington Wizards,W,,99,90,12,25,W 1,13544,2:08,,False,DET,2010
+38,"Fri, Jan 15, 2010",8:00p,,Box Score,,New Orleans Hornets,W,OT,110,104,13,25,W 2,17446,2:47,,False,DET,2010
+39,"Sat, Jan 16, 2010",7:30p,,Box Score,,New York Knicks,W,,94,90,14,25,W 3,19185,2:26,,False,DET,2010
+40,"Mon, Jan 18, 2010",1:00p,,Box Score,@,New York Knicks,L,,91,99,14,26,L 1,19302,2:22,,False,DET,2010
+41,"Wed, Jan 20, 2010",7:30p,,Box Score,,Boston Celtics,W,,92,86,15,26,W 1,17375,2:27,,False,DET,2010
+42,"Fri, Jan 22, 2010",8:00p,,Box Score,,Indiana Pacers,L,,93,105,15,27,L 1,15388,2:17,,False,DET,2010
+43,"Sat, Jan 23, 2010",7:30p,,Box Score,,Portland Trail Blazers,L,,93,97,15,28,L 2,19114,2:33,,False,DET,2010
+44,"Wed, Jan 27, 2010",7:30p,,Box Score,,Memphis Grizzlies,L,,93,99,15,29,L 3,14886,2:22,,False,DET,2010
+45,"Fri, Jan 29, 2010",8:00p,,Box Score,,Miami Heat,L,,65,92,15,30,L 4,20669,2:09,,False,DET,2010
+46,"Sun, Jan 31, 2010",6:00p,,Box Score,,Orlando Magic,L,,86,91,15,31,L 5,19107,2:30,,False,DET,2010
+47,"Tue, Feb 2, 2010",7:30p,,Box Score,@,New Jersey Nets,W,,97,93,16,31,W 1,9417,2:19,,False,DET,2010
+48,"Fri, Feb 5, 2010",7:00p,,Box Score,@,Indiana Pacers,L,,83,107,16,32,L 1,14832,2:04,,False,DET,2010
+49,"Sat, Feb 6, 2010",7:30p,,Box Score,,New Jersey Nets,W,,99,92,17,32,W 1,20176,2:16,,False,DET,2010
+50,"Tue, Feb 9, 2010",8:00p,,Box Score,@,Milwaukee Bucks,W,,93,81,18,32,W 2,12017,2:05,,False,DET,2010
+51,"Wed, Feb 10, 2010",7:30p,,Box Score,,Sacramento Kings,L,,97,103,18,33,L 1,14152,2:21,,False,DET,2010
+52,"Tue, Feb 16, 2010",7:30p,,Box Score,,Minnesota Timberwolves,W,,108,85,19,33,W 1,14449,2:17,,False,DET,2010
+53,"Wed, Feb 17, 2010",7:00p,,Box Score,@,Orlando Magic,L,,91,116,19,34,L 1,17461,2:25,,False,DET,2010
+54,"Fri, Feb 19, 2010",8:00p,,Box Score,,Milwaukee Bucks,L,,85,91,19,35,L 2,18701,2:20,,False,DET,2010
+55,"Sun, Feb 21, 2010",6:00p,,Box Score,,San Antonio Spurs,W,OT,109,101,20,35,W 1,20153,2:48,,False,DET,2010
+56,"Tue, Feb 23, 2010",10:00p,,Box Score,@,Sacramento Kings,W,,101,89,21,35,W 2,11557,2:17,,False,DET,2010
+57,"Wed, Feb 24, 2010",10:30p,,Box Score,@,Los Angeles Clippers,L,,91,97,21,36,L 1,16095,2:16,,False,DET,2010
+58,"Fri, Feb 26, 2010",9:00p,,Box Score,@,Denver Nuggets,L,,102,107,21,37,L 2,19845,2:23,,False,DET,2010
+59,"Sat, Feb 27, 2010",10:30p,,Box Score,@,Golden State Warriors,L,,88,95,21,38,L 3,17223,2:19,,False,DET,2010
+60,"Tue, Mar 2, 2010",7:30p,,Box Score,,Boston Celtics,L,,100,105,21,39,L 4,17956,2:28,,False,DET,2010
+61,"Wed, Mar 3, 2010",7:30p,,Box Score,@,New York Knicks,L,,104,128,21,40,L 5,19341,2:08,,False,DET,2010
+62,"Fri, Mar 5, 2010",7:00p,,Box Score,@,Cleveland Cavaliers,L,,92,99,21,41,L 6,20562,2:46,,False,DET,2010
+63,"Sun, Mar 7, 2010",6:00p,,Box Score,,Houston Rockets,W,OT,110,107,22,41,W 1,18422,2:37,,False,DET,2010
+64,"Wed, Mar 10, 2010",7:30p,,Box Score,,Utah Jazz,L,,104,115,22,42,L 1,16908,2:15,,False,DET,2010
+65,"Fri, Mar 12, 2010",8:00p,,Box Score,,Washington Wizards,W,,101,87,23,42,W 1,20273,2:15,,False,DET,2010
+66,"Sat, Mar 13, 2010",7:00p,,Box Score,@,Atlanta Hawks,L,,99,112,23,43,L 1,18214,2:14,,False,DET,2010
+67,"Mon, Mar 15, 2010",8:00p,,Box Score,@,Boston Celtics,L,,93,119,23,44,L 2,18624,2:35,,False,DET,2010
+68,"Tue, Mar 16, 2010",7:30p,,Box Score,,Cleveland Cavaliers,L,,101,113,23,45,L 3,22076,2:22,,False,DET,2010
+69,"Fri, Mar 19, 2010",7:00p,,Box Score,@,Indiana Pacers,L,,102,106,23,46,L 4,13583,2:20,,False,DET,2010
+70,"Sun, Mar 21, 2010",6:00p,,Box Score,@,Cleveland Cavaliers,L,,79,104,23,47,L 5,20562,2:10,,False,DET,2010
+71,"Tue, Mar 23, 2010",7:30p,,Box Score,,Indiana Pacers,L,,83,98,23,48,L 6,17109,2:12,,False,DET,2010
+72,"Fri, Mar 26, 2010",8:00p,,Box Score,@,New Jersey Nets,L,,110,118,23,49,L 7,13469,2:18,,False,DET,2010
+73,"Sun, Mar 28, 2010",6:00p,,Box Score,,Chicago Bulls,L,,103,110,23,50,L 8,22076,2:32,,False,DET,2010
+74,"Wed, Mar 31, 2010",7:30p,,Box Score,,Miami Heat,L,,81,98,23,51,L 9,22076,2:16,,False,DET,2010
+75,"Fri, Apr 2, 2010",8:00p,,Box Score,,Phoenix Suns,L,,94,109,23,52,L 10,22076,2:16,,False,DET,2010
+76,"Sat, Apr 3, 2010",7:00p,,Box Score,@,Atlanta Hawks,L,,85,91,23,53,L 11,18729,2:16,,False,DET,2010
+77,"Tue, Apr 6, 2010",7:00p,,Box Score,@,Philadelphia 76ers,W,,124,103,24,53,W 1,13832,2:09,,False,DET,2010
+78,"Wed, Apr 7, 2010",7:30p,,Box Score,,Atlanta Hawks,W,,90,88,25,53,W 2,22076,2:17,,False,DET,2010
+79,"Fri, Apr 9, 2010",7:30p,,Box Score,@,Miami Heat,W,,106,99,26,53,W 3,19600,2:16,,False,DET,2010
+80,"Sat, Apr 10, 2010",7:00p,,Box Score,@,Charlotte Bobcats,L,,95,99,26,54,L 1,19328,2:11,,False,DET,2010
+81,"Mon, Apr 12, 2010",7:30p,,Box Score,,Toronto Raptors,L,,97,111,26,55,L 2,22076,2:18,,False,DET,2010
+82,"Wed, Apr 14, 2010",8:00p,,Box Score,@,Minnesota Timberwolves,W,,103,98,27,55,W 1,15790,2:17,,False,DET,2010

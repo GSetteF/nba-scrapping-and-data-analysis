@@ -1,0 +1,92 @@
+G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Opponent,Unnamed: 6,Unnamed: 7,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Wed, Oct 19, 1960",,Box Score,@,Cincinnati Royals,L,,123,140,0,1,L 1,,,,False,LAL,1961
+2,"Sat, Oct 22, 1960",,Box Score,@,St. Louis Hawks,L,,96,112,0,2,L 2,,,,False,LAL,1961
+3,"Mon, Oct 24, 1960",,Box Score,,New York Knicks,L,,101,111,0,3,L 3,,,,False,LAL,1961
+4,"Tue, Oct 25, 1960",,Box Score,,New York Knicks,W,,120,118,1,3,W 1,,,,False,LAL,1961
+5,"Fri, Oct 28, 1960",,Box Score,@,Philadelphia Warriors,L,,120,122,1,4,L 1,,,,False,LAL,1961
+6,"Sat, Oct 29, 1960",,Box Score,@,Syracuse Nationals,L,,118,125,1,5,L 2,,,,False,LAL,1961
+7,"Wed, Nov 2, 1960",,Box Score,N,New York Knicks,W,,106,96,2,5,W 1,,,"at Detroit, MI",False,LAL,1961
+8,"Sat, Nov 5, 1960",,Box Score,,Syracuse Nationals,W,,112,110,3,5,W 2,,,,False,LAL,1961
+9,"Sun, Nov 6, 1960",,Box Score,N,Syracuse Nationals,W,,119,113,4,5,W 3,,,"at San Francisco, CA",False,LAL,1961
+10,"Wed, Nov 9, 1960",,Box Score,N,Philadelphia Warriors,L,,118,125,4,6,L 1,,,"at St. Louis, MO",False,LAL,1961
+11,"Sat, Nov 12, 1960",,Box Score,N,Boston Celtics,L,,124,131,4,7,L 2,4500,,"at Providence, RI",False,LAL,1961
+12,"Tue, Nov 15, 1960",,Box Score,@,New York Knicks,W,,123,108,5,7,W 1,,,,False,LAL,1961
+13,"Sat, Nov 19, 1960",,Box Score,,Detroit Pistons,W,,130,122,6,7,W 2,,,,False,LAL,1961
+14,"Sun, Nov 20, 1960",,Box Score,N,Detroit Pistons,W,,135,131,7,7,W 3,,,"at San Francisco, CA",False,LAL,1961
+15,"Tue, Nov 22, 1960",,Box Score,N,Cincinnati Royals,W,,133,118,8,7,W 4,,,"at New York, NY",False,LAL,1961
+16,"Wed, Nov 23, 1960",,Box Score,@,Cincinnati Royals,L,,118,122,8,8,L 1,,,,False,LAL,1961
+17,"Thu, Nov 24, 1960",,Box Score,N,Cincinnati Royals,W,,108,100,9,8,W 1,,,"at St. Louis, MO",False,LAL,1961
+18,"Fri, Nov 25, 1960",,Box Score,@,Detroit Pistons,W,OT,141,128,10,8,W 2,,,,False,LAL,1961
+19,"Sat, Nov 26, 1960",,Box Score,@,St. Louis Hawks,L,,113,126,10,9,L 1,,,,False,LAL,1961
+20,"Sun, Nov 27, 1960",,Box Score,,Philadelphia Warriors,L,,106,113,10,10,L 2,,,,False,LAL,1961
+21,"Mon, Nov 28, 1960",,Box Score,,Philadelphia Warriors,W,,137,112,11,10,W 1,,,,False,LAL,1961
+22,"Tue, Nov 29, 1960",,Box Score,N,Philadelphia Warriors,L,,121,122,11,11,L 1,,,"at New York, NY",False,LAL,1961
+23,"Thu, Dec 1, 1960",,Box Score,@,Philadelphia Warriors,L,,114,117,11,12,L 2,,,,False,LAL,1961
+24,"Fri, Dec 2, 1960",,Box Score,@,Boston Celtics,W,,120,117,12,12,W 1,5626,,,False,LAL,1961
+25,"Sun, Dec 4, 1960",,Box Score,,Boston Celtics,L,,103,113,12,13,L 1,9224,,,False,LAL,1961
+26,"Mon, Dec 5, 1960",,Box Score,,Boston Celtics,L,,101,123,12,14,L 2,8576,,,False,LAL,1961
+27,"Wed, Dec 7, 1960",,Box Score,@,Cincinnati Royals,L,,112,114,12,15,L 3,,,,False,LAL,1961
+28,"Sat, Dec 10, 1960",,Box Score,@,St. Louis Hawks,L,,108,111,12,16,L 4,,,,False,LAL,1961
+29,"Mon, Dec 12, 1960",,Box Score,,St. Louis Hawks,L,,103,114,12,17,L 5,,,,False,LAL,1961
+30,"Wed, Dec 14, 1960",,Box Score,,St. Louis Hawks,W,,124,113,13,17,W 1,,,,False,LAL,1961
+31,"Fri, Dec 16, 1960",,Box Score,@,Cincinnati Royals,L,,116,130,13,18,L 1,,,,False,LAL,1961
+32,"Sat, Dec 17, 1960",,Box Score,@,Boston Celtics,L,,112,140,13,19,L 2,3654,,,False,LAL,1961
+33,"Mon, Dec 19, 1960",,Box Score,N,Detroit Pistons,W,,107,103,14,19,W 1,,,"at Portland, OR",False,LAL,1961
+34,"Tue, Dec 20, 1960",,Box Score,N,Detroit Pistons,L,,94,97,14,20,L 1,,,"at Portland, OR",False,LAL,1961
+35,"Mon, Dec 26, 1960",,Box Score,@,New York Knicks,L,,112,119,14,21,L 2,,,,False,LAL,1961
+36,"Wed, Dec 28, 1960",,Box Score,@,Syracuse Nationals,L,,113,115,14,22,L 3,,,,False,LAL,1961
+37,"Thu, Dec 29, 1960",,Box Score,N,New York Knicks,W,,111,95,15,22,W 1,,,"at Philadelphia, PA",False,LAL,1961
+38,"Fri, Dec 30, 1960",,Box Score,@,St. Louis Hawks,L,,99,107,15,23,L 1,,,,False,LAL,1961
+39,"Sun, Jan 1, 1961",,Box Score,@,Detroit Pistons,L,,105,116,15,24,L 2,,,,False,LAL,1961
+40,"Mon, Jan 2, 1961",,Box Score,N,Detroit Pistons,W,,123,113,16,24,W 1,,,"at Philadelphia, PA",False,LAL,1961
+41,"Tue, Jan 3, 1961",,Box Score,,Boston Celtics,L,,96,102,16,25,L 1,6519,,,False,LAL,1961
+42,"Thu, Jan 5, 1961",,Box Score,,St. Louis Hawks,W,,110,96,17,25,W 1,,,,False,LAL,1961
+43,"Fri, Jan 6, 1961",,Box Score,,St. Louis Hawks,L,,104,108,17,26,L 1,,,,False,LAL,1961
+44,"Tue, Jan 10, 1961",,Box Score,,New York Knicks,W,,117,104,18,26,W 1,,,,False,LAL,1961
+45,"Wed, Jan 11, 1961",,Box Score,,New York Knicks,L,,104,109,18,27,L 1,,,,False,LAL,1961
+46,"Sat, Jan 14, 1961",,Box Score,,Cincinnati Royals,W,,123,114,19,27,W 1,,,,False,LAL,1961
+47,"Sun, Jan 15, 1961",,Box Score,,Cincinnati Royals,L,,105,109,19,28,L 1,,,,False,LAL,1961
+48,"Thu, Jan 19, 1961",,Box Score,N,Boston Celtics,L,,103,106,19,29,L 2,4733,,"at Philadelphia, PA",False,LAL,1961
+49,"Sat, Jan 21, 1961",,Box Score,@,Philadelphia Warriors,L,,111,136,19,30,L 3,,,,False,LAL,1961
+50,"Sun, Jan 22, 1961",,Box Score,N,Syracuse Nationals,L,,109,112,19,31,L 4,,,"at Utica, NY",False,LAL,1961
+51,"Tue, Jan 24, 1961",,Box Score,,Syracuse Nationals,W,,116,107,20,31,W 1,,,,False,LAL,1961
+52,"Wed, Jan 25, 1961",,Box Score,,Syracuse Nationals,W,,117,112,21,31,W 2,,,,False,LAL,1961
+53,"Sun, Jan 29, 1961",,Box Score,,Detroit Pistons,W,,137,113,22,31,W 3,,,,False,LAL,1961
+54,"Mon, Jan 30, 1961",,Box Score,,Detroit Pistons,W,,117,116,23,31,W 4,,,,False,LAL,1961
+55,"Tue, Jan 31, 1961",,Box Score,N,Detroit Pistons,L,,112,121,23,32,L 1,,,"at New York, NY",False,LAL,1961
+56,"Thu, Feb 2, 1961",,Box Score,N,St. Louis Hawks,W,,116,115,24,32,W 1,,,"at Philadelphia, PA",False,LAL,1961
+57,"Sun, Feb 5, 1961",,Box Score,@,Detroit Pistons,W,,125,120,25,32,W 2,,,,False,LAL,1961
+58,"Mon, Feb 6, 1961",,Box Score,N,Cincinnati Royals,W,,110,101,26,32,W 3,,,"at College Park, MD",False,LAL,1961
+59,"Tue, Feb 7, 1961",,Box Score,N,Boston Celtics,L,,95,96,26,33,L 1,9000,,"at New York, NY",False,LAL,1961
+60,"Wed, Feb 8, 1961",,Box Score,,St. Louis Hawks,W,,120,103,27,33,W 1,,,,False,LAL,1961
+61,"Thu, Feb 9, 1961",,Box Score,,St. Louis Hawks,L,,113,123,27,34,L 1,,,,False,LAL,1961
+62,"Sun, Feb 12, 1961",,Box Score,@,St. Louis Hawks,W,,105,95,28,34,W 1,,,,False,LAL,1961
+63,"Mon, Feb 13, 1961",,Box Score,N,Cincinnati Royals,L,,100,104,28,35,L 1,,,"at Dayton, OH",False,LAL,1961
+64,"Tue, Feb 14, 1961",,Box Score,N,Boston Celtics,L,,93,113,28,36,L 2,7115,,"at St. Louis, MO",False,LAL,1961
+65,"Thu, Feb 16, 1961",,Box Score,@,Detroit Pistons,W,,129,106,29,36,W 1,,,,False,LAL,1961
+66,"Sat, Feb 18, 1961",,Box Score,@,New York Knicks,W,,121,106,30,36,W 2,,,,False,LAL,1961
+67,"Sun, Feb 19, 1961",,Box Score,@,Cincinnati Royals,L,,106,112,30,37,L 1,,,,False,LAL,1961
+68,"Mon, Feb 20, 1961",,Box Score,N,Syracuse Nationals,L,,121,126,30,38,L 2,,,"at Morgantown, WV",False,LAL,1961
+69,"Wed, Feb 22, 1961",,Box Score,,Boston Celtics,W,,105,93,31,38,W 1,13401,,,False,LAL,1961
+70,"Sun, Feb 26, 1961",,Box Score,,Philadelphia Warriors,W,,121,116,32,38,W 2,,,,False,LAL,1961
+71,"Mon, Feb 27, 1961",,Box Score,,Philadelphia Warriors,L,,88,113,32,39,L 1,,,,False,LAL,1961
+72,"Tue, Feb 28, 1961",,Box Score,@,Philadelphia Warriors,L,,108,123,32,40,L 2,,,,False,LAL,1961
+73,"Wed, Mar 1, 1961",,Box Score,N,New York Knicks,W,,144,107,33,40,W 1,,,"at Boston, MA",False,LAL,1961
+74,"Thu, Mar 2, 1961",,Box Score,N,Syracuse Nationals,W,,114,110,34,40,W 2,,,"at Scranton, PA",False,LAL,1961
+75,"Sun, Mar 5, 1961",,Box Score,@,Syracuse Nationals,W,,125,114,35,40,W 3,,,,False,LAL,1961
+76,"Tue, Mar 7, 1961",,Box Score,@,St. Louis Hawks,L,2OT,136,137,35,41,L 1,,,,False,LAL,1961
+77,"Wed, Mar 8, 1961",,Box Score,@,Detroit Pistons,L,,103,120,35,42,L 2,,,,False,LAL,1961
+78,"Sat, Mar 11, 1961",,Box Score,,Cincinnati Royals,L,,105,108,35,43,L 3,,,,False,LAL,1961
+79,"Sun, Mar 12, 1961",,Box Score,,Cincinnati Royals,W,,123,122,36,43,W 1,,,,False,LAL,1961
+1,"Tue, Mar 14, 1961",,Box Score,,Detroit Pistons,W,,120,102,1,0,W 1,,,,True,LAL,1961
+2,"Wed, Mar 15, 1961",,Box Score,,Detroit Pistons,W,,127,118,2,0,W 2,,,,True,LAL,1961
+3,"Fri, Mar 17, 1961",,Box Score,@,Detroit Pistons,L,,113,124,2,1,L 1,,,,True,LAL,1961
+4,"Sat, Mar 18, 1961",,Box Score,@,Detroit Pistons,L,,114,123,2,2,L 2,,,,True,LAL,1961
+5,"Sun, Mar 19, 1961",,Box Score,,Detroit Pistons,W,,137,120,3,2,W 1,,,,True,LAL,1961
+6,"Tue, Mar 21, 1961",,Box Score,@,St. Louis Hawks,W,,122,118,4,2,W 2,,,,True,LAL,1961
+7,"Wed, Mar 22, 1961",,Box Score,@,St. Louis Hawks,L,,106,121,4,3,L 1,,,,True,LAL,1961
+8,"Fri, Mar 24, 1961",,Box Score,,St. Louis Hawks,W,,118,112,5,3,W 1,,,,True,LAL,1961
+9,"Sat, Mar 25, 1961",,Box Score,,St. Louis Hawks,L,,117,118,5,4,L 1,,,,True,LAL,1961
+10,"Mon, Mar 27, 1961",,Box Score,@,St. Louis Hawks,W,,121,112,6,4,W 1,,,,True,LAL,1961
+11,"Wed, Mar 29, 1961",,Box Score,,St. Louis Hawks,L,OT,113,114,6,5,L 1,,,,True,LAL,1961
+12,"Sat, Apr 1, 1961",,Box Score,@,St. Louis Hawks,L,,103,105,6,6,L 2,,,,True,LAL,1961

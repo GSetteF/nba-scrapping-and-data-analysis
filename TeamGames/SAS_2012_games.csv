@@ -1,0 +1,81 @@
+G,Date,Start (ET),Unnamed: 3,Unnamed: 4,Unnamed: 5,Opponent,Unnamed: 7,Unnamed: 8,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Mon, Dec 26, 2011",8:30p,,Box Score,,Memphis Grizzlies,W,,95,82,1,0,W 1,18581,2:15,,False,SAS,2012
+2,"Wed, Dec 28, 2011",8:30p,,Box Score,,Los Angeles Clippers,W,,115,90,2,0,W 2,18581,2:14,,False,SAS,2012
+3,"Thu, Dec 29, 2011",8:00p,,Box Score,@,Houston Rockets,L,,85,105,2,1,L 1,18267,1:57,,False,SAS,2012
+4,"Sat, Dec 31, 2011",8:30p,,Box Score,,Utah Jazz,W,,104,89,3,1,W 1,17769,2:05,,False,SAS,2012
+5,"Mon, Jan 2, 2012",8:00p,,Box Score,@,Minnesota Timberwolves,L,,96,106,3,2,L 1,14514,2:03,,False,SAS,2012
+6,"Wed, Jan 4, 2012",8:30p,,Box Score,,Golden State Warriors,W,,101,95,4,2,W 1,16751,2:05,,False,SAS,2012
+7,"Thu, Jan 5, 2012",8:30p,,Box Score,,Dallas Mavericks,W,,93,71,5,2,W 2,18581,2:05,,False,SAS,2012
+8,"Sat, Jan 7, 2012",8:30p,,Box Score,,Denver Nuggets,W,,121,117,6,2,W 3,17537,2:17,,False,SAS,2012
+9,"Sun, Jan 8, 2012",7:00p,,Box Score,@,Oklahoma City Thunder,L,,96,108,6,3,L 1,18203,2:07,,False,SAS,2012
+10,"Tue, Jan 10, 2012",8:00p,,Box Score,@,Milwaukee Bucks,L,,103,106,6,4,L 2,11585,1:59,,False,SAS,2012
+11,"Wed, Jan 11, 2012",8:30p,,Box Score,,Houston Rockets,W,OT,101,95,7,4,W 1,17381,2:18,,False,SAS,2012
+12,"Fri, Jan 13, 2012",8:30p,,Box Score,,Portland Trail Blazers,W,,99,83,8,4,W 2,18581,2:07,,False,SAS,2012
+13,"Sun, Jan 15, 2012",9:00p,,Box Score,,Phoenix Suns,W,,102,91,9,4,W 3,18581,2:16,,False,SAS,2012
+14,"Tue, Jan 17, 2012",7:30p,,Box Score,@,Miami Heat,L,,98,120,9,5,L 1,19600,2:09,,False,SAS,2012
+15,"Wed, Jan 18, 2012",7:00p,,Box Score,@,Orlando Magic,W,OT,85,83,10,5,W 1,18846,2:40,,False,SAS,2012
+16,"Fri, Jan 20, 2012",8:30p,,Box Score,,Sacramento Kings,L,,86,88,10,6,L 1,18581,2:10,,False,SAS,2012
+17,"Sat, Jan 21, 2012",8:00p,,Box Score,@,Houston Rockets,L,,102,105,10,7,L 2,15285,2:08,,False,SAS,2012
+18,"Mon, Jan 23, 2012",8:00p,,Box Score,@,New Orleans Hornets,W,,104,102,11,7,W 1,12599,2:01,,False,SAS,2012
+19,"Wed, Jan 25, 2012",8:30p,,Box Score,,Atlanta Hawks,W,,105,83,12,7,W 2,17888,2:00,,False,SAS,2012
+20,"Fri, Jan 27, 2012",8:00p,,Box Score,@,Minnesota Timberwolves,L,,79,87,12,8,L 1,16699,1:58,,False,SAS,2012
+21,"Sun, Jan 29, 2012",6:30p,,Box Score,@,Dallas Mavericks,L,OT,100,101,12,9,L 2,20262,2:44,,False,SAS,2012
+22,"Mon, Jan 30, 2012",8:00p,,Box Score,@,Memphis Grizzlies,W,,83,73,13,9,W 1,15118,2:09,,False,SAS,2012
+23,"Wed, Feb 1, 2012",8:30p,,Box Score,,Houston Rockets,W,,99,91,14,9,W 2,18581,2:10,,False,SAS,2012
+24,"Thu, Feb 2, 2012",8:30p,,Box Score,,New Orleans Hornets,W,,93,81,15,9,W 3,18082,2:03,,False,SAS,2012
+25,"Sat, Feb 4, 2012",8:30p,,Box Score,,Oklahoma City Thunder,W,,107,96,16,9,W 4,18581,2:16,,False,SAS,2012
+26,"Mon, Feb 6, 2012",8:00p,,Box Score,@,Memphis Grizzlies,W,,89,84,17,9,W 5,13527,2:20,,False,SAS,2012
+27,"Wed, Feb 8, 2012",7:00p,,Box Score,@,Philadelphia 76ers,W,,100,90,18,9,W 6,18070,2:06,,False,SAS,2012
+28,"Sat, Feb 11, 2012",8:00p,,Box Score,@,New Jersey Nets,W,,103,89,19,9,W 7,15272,2:02,,False,SAS,2012
+29,"Tue, Feb 14, 2012",7:30p,,Box Score,@,Detroit Pistons,W,,99,95,20,9,W 8,11533,2:19,,False,SAS,2012
+30,"Wed, Feb 15, 2012",7:00p,,Box Score,@,Toronto Raptors,W,,113,106,21,9,W 9,15999,2:10,,False,SAS,2012
+31,"Sat, Feb 18, 2012",3:30p,,Box Score,@,Los Angeles Clippers,W,OT,103,100,22,9,W 10,19217,2:39,,False,SAS,2012
+32,"Mon, Feb 20, 2012",9:00p,,Box Score,@,Utah Jazz,W,,106,102,23,9,W 11,19105,2:12,,False,SAS,2012
+33,"Tue, Feb 21, 2012",10:00p,,Box Score,@,Portland Trail Blazers,L,,97,137,23,10,L 1,20567,2:08,,False,SAS,2012
+34,"Thu, Feb 23, 2012",9:00p,,Box Score,@,Denver Nuggets,W,,114,99,24,10,W 1,18875,2:02,,False,SAS,2012
+35,"Wed, Feb 29, 2012",9:00p,,Box Score,,Chicago Bulls,L,,89,96,24,11,L 1,18581,2:25,,False,SAS,2012
+36,"Fri, Mar 2, 2012",8:30p,,Box Score,,Charlotte Bobcats,W,,102,72,25,11,W 1,18581,2:02,,False,SAS,2012
+37,"Sun, Mar 4, 2012",9:30p,,Box Score,,Denver Nuggets,L,,94,99,25,12,L 1,18581,2:28,,False,SAS,2012
+38,"Wed, Mar 7, 2012",8:30p,,Box Score,,New York Knicks,W,,118,105,26,12,W 1,18581,2:09,,False,SAS,2012
+39,"Fri, Mar 9, 2012",8:30p,,Box Score,,Los Angeles Clippers,L,,108,120,26,13,L 1,18581,2:30,,False,SAS,2012
+40,"Mon, Mar 12, 2012",8:30p,,Box Score,,Washington Wizards,W,,112,97,27,13,W 1,18581,1:57,,False,SAS,2012
+41,"Wed, Mar 14, 2012",8:30p,,Box Score,,Orlando Magic,W,,122,111,28,13,W 2,18581,2:09,,False,SAS,2012
+42,"Fri, Mar 16, 2012",9:30p,,Box Score,@,Oklahoma City Thunder,W,,114,105,29,13,W 3,18203,2:26,,False,SAS,2012
+43,"Sat, Mar 17, 2012",9:00p,,Box Score,@,Dallas Mavericks,L,,99,106,29,14,L 1,20528,2:11,,False,SAS,2012
+44,"Wed, Mar 21, 2012",8:30p,,Box Score,,Minnesota Timberwolves,W,,116,100,30,14,W 1,18581,2:05,,False,SAS,2012
+45,"Fri, Mar 23, 2012",8:30p,,Box Score,,Dallas Mavericks,W,,104,87,31,14,W 2,18581,2:01,,False,SAS,2012
+46,"Sat, Mar 24, 2012",8:00p,,Box Score,@,New Orleans Hornets,W,,89,86,32,14,W 3,16118,2:07,,False,SAS,2012
+47,"Sun, Mar 25, 2012",7:00p,,Box Score,,Philadelphia 76ers,W,,93,76,33,14,W 4,18581,2:01,,False,SAS,2012
+48,"Tue, Mar 27, 2012",10:00p,,Box Score,@,Phoenix Suns,W,,107,100,34,14,W 5,16573,1:58,,False,SAS,2012
+49,"Wed, Mar 28, 2012",10:00p,,Box Score,@,Sacramento Kings,W,,117,112,35,14,W 6,13119,2:08,,False,SAS,2012
+50,"Sat, Mar 31, 2012",8:30p,,Box Score,,Indiana Pacers,W,,112,103,36,14,W 7,18581,2:08,,False,SAS,2012
+51,"Tue, Apr 3, 2012",7:00p,,Box Score,@,Cleveland Cavaliers,W,,125,90,37,14,W 8,14759,1:58,,False,SAS,2012
+52,"Wed, Apr 4, 2012",7:30p,,Box Score,@,Boston Celtics,W,,87,86,38,14,W 9,18624,1:59,,False,SAS,2012
+53,"Fri, Apr 6, 2012",8:30p,,Box Score,,New Orleans Hornets,W,,128,103,39,14,W 10,18581,2:05,,False,SAS,2012
+54,"Sun, Apr 8, 2012",7:00p,,Box Score,,Utah Jazz,W,,114,104,40,14,W 11,18581,2:13,,False,SAS,2012
+55,"Mon, Apr 9, 2012",9:00p,,Box Score,@,Utah Jazz,L,,84,91,40,15,L 1,19911,2:08,,False,SAS,2012
+56,"Wed, Apr 11, 2012",8:30p,,Box Score,,Los Angeles Lakers,L,,84,98,40,16,L 2,18581,1:53,,False,SAS,2012
+57,"Thu, Apr 12, 2012",8:30p,,Box Score,,Memphis Grizzlies,W,,107,97,41,16,W 1,18581,2:21,,False,SAS,2012
+58,"Sat, Apr 14, 2012",9:00p,,Box Score,,Phoenix Suns,W,,105,91,42,16,W 2,18581,2:14,,False,SAS,2012
+59,"Mon, Apr 16, 2012",10:30p,,Box Score,@,Golden State Warriors,W,,120,99,43,16,W 3,18471,2:17,,False,SAS,2012
+60,"Tue, Apr 17, 2012",10:30p,,Box Score,@,Los Angeles Lakers,W,,112,91,44,16,W 4,18997,2:10,,False,SAS,2012
+61,"Wed, Apr 18, 2012",10:00p,,Box Score,@,Sacramento Kings,W,,127,102,45,16,W 5,16954,2:17,,False,SAS,2012
+62,"Fri, Apr 20, 2012",9:30p,,Box Score,,Los Angeles Lakers,W,,121,97,46,16,W 6,18581,2:20,,False,SAS,2012
+63,"Sun, Apr 22, 2012",7:00p,,Box Score,,Cleveland Cavaliers,W,,114,98,47,16,W 7,18581,2:09,,False,SAS,2012
+64,"Mon, Apr 23, 2012",8:30p,,Box Score,,Portland Trail Blazers,W,,124,89,48,16,W 8,18581,1:57,,False,SAS,2012
+65,"Wed, Apr 25, 2012",10:30p,,Box Score,@,Phoenix Suns,W,,110,106,49,16,W 9,17172,2:13,,False,SAS,2012
+66,"Thu, Apr 26, 2012",10:30p,,Box Score,@,Golden State Warriors,W,,107,101,50,16,W 10,18124,2:09,,False,SAS,2012
+1,"Sun, Apr 29, 2012",1:00p,,Box Score,,Utah Jazz,W,,106,91,1,0,W 1,18581,2:24,,True,SAS,2012
+2,"Wed, May 2, 2012",7:00p,,Box Score,,Utah Jazz,W,,114,83,2,0,W 2,18581,2:15,,True,SAS,2012
+3,"Sat, May 5, 2012",10:00p,,Box Score,@,Utah Jazz,W,,102,90,3,0,W 3,19911,2:18,,True,SAS,2012
+4,"Mon, May 7, 2012",8:00p,,Box Score,@,Utah Jazz,W,,87,81,4,0,W 4,19911,2:30,,True,SAS,2012
+5,"Tue, May 15, 2012",9:30p,,Box Score,,Los Angeles Clippers,W,,108,92,5,0,W 5,18581,2:25,,True,SAS,2012
+6,"Thu, May 17, 2012",9:30p,,Box Score,,Los Angeles Clippers,W,,105,88,6,0,W 6,18581,2:24,,True,SAS,2012
+7,"Sat, May 19, 2012",3:30p,,Box Score,@,Los Angeles Clippers,W,,96,86,7,0,W 7,19060,2:30,,True,SAS,2012
+8,"Sun, May 20, 2012",10:30p,,Box Score,@,Los Angeles Clippers,W,,102,99,8,0,W 8,19060,2:36,,True,SAS,2012
+9,"Sun, May 27, 2012",8:30p,,Box Score,,Oklahoma City Thunder,W,,101,98,9,0,W 9,18581,2:34,,True,SAS,2012
+10,"Tue, May 29, 2012",9:00p,,Box Score,,Oklahoma City Thunder,W,,120,111,10,0,W 10,18581,2:43,,True,SAS,2012
+11,"Thu, May 31, 2012",9:00p,,Box Score,@,Oklahoma City Thunder,L,,82,102,10,1,L 1,18203,2:21,,True,SAS,2012
+12,"Sat, Jun 2, 2012",8:30p,,Box Score,@,Oklahoma City Thunder,L,,103,109,10,2,L 2,18203,2:27,,True,SAS,2012
+13,"Mon, Jun 4, 2012",9:00p,,Box Score,,Oklahoma City Thunder,L,,103,108,10,3,L 3,18581,2:44,,True,SAS,2012
+14,"Wed, Jun 6, 2012",9:00p,,Box Score,@,Oklahoma City Thunder,L,,99,107,10,4,L 4,18203,2:28,,True,SAS,2012

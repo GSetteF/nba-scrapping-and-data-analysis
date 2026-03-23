@@ -1,0 +1,88 @@
+G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Opponent,Unnamed: 6,Unnamed: 7,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Fri, Oct 18, 1968",,Box Score,,Los Angeles Lakers,W,,114,96,1,0,W 1,,,,False,PHI,1969
+2,"Sat, Oct 19, 1968",,Box Score,@,Baltimore Bullets,W,,124,121,2,0,W 2,,,,False,PHI,1969
+3,"Tue, Oct 22, 1968",,Box Score,@,New York Knicks,L,,114,117,2,1,L 1,,,,False,PHI,1969
+4,"Fri, Oct 25, 1968",,Box Score,@,Detroit Pistons,L,,122,132,2,2,L 2,,,,False,PHI,1969
+5,"Sat, Oct 26, 1968",,Box Score,,Chicago Bulls,W,,122,118,3,2,W 1,,,,False,PHI,1969
+6,"Fri, Nov 1, 1968",,Box Score,@,Boston Celtics,L,,99,118,3,3,L 1,9063,,,False,PHI,1969
+7,"Sat, Nov 2, 1968",,Box Score,,Cincinnati Royals,L,,113,119,3,4,L 2,,,,False,PHI,1969
+8,"Sat, Nov 9, 1968",,Box Score,,Seattle SuperSonics,W,,114,94,4,4,W 1,,,,False,PHI,1969
+9,"Mon, Nov 11, 1968",,Box Score,N,Seattle SuperSonics,W,,127,117,5,4,W 2,,,"at Boston, MA",False,PHI,1969
+10,"Fri, Nov 15, 1968",,Box Score,@,Atlanta Hawks,W,,116,115,6,4,W 3,,,,False,PHI,1969
+11,"Sat, Nov 16, 1968",,Box Score,,Milwaukee Bucks,W,,136,92,7,4,W 4,,,,False,PHI,1969
+12,"Tue, Nov 19, 1968",,Box Score,N,Phoenix Suns,W,,126,110,8,4,W 5,,,"at New York, NY",False,PHI,1969
+13,"Fri, Nov 22, 1968",,Box Score,,Baltimore Bullets,W,,121,110,9,4,W 6,,,,False,PHI,1969
+14,"Sat, Nov 23, 1968",,Box Score,@,Cincinnati Royals,W,,120,105,10,4,W 7,,,,False,PHI,1969
+15,"Sun, Nov 24, 1968",,Box Score,@,San Diego Rockets,L,OT,128,135,10,5,L 1,,,,False,PHI,1969
+16,"Tue, Nov 26, 1968",,Box Score,@,Phoenix Suns,W,,126,119,11,5,W 1,,,,False,PHI,1969
+17,"Thu, Nov 28, 1968",,Box Score,,Los Angeles Lakers,W,,122,107,12,5,W 2,,,,False,PHI,1969
+18,"Sat, Nov 30, 1968",,Box Score,,Boston Celtics,L,OT,113,117,12,6,L 1,12198,,,False,PHI,1969
+19,"Wed, Dec 4, 1968",,Box Score,,San Diego Rockets,W,,110,99,13,6,W 1,,,,False,PHI,1969
+20,"Thu, Dec 5, 1968",,Box Score,@,Chicago Bulls,W,,109,92,14,6,W 2,,,,False,PHI,1969
+21,"Fri, Dec 6, 1968",,Box Score,@,Milwaukee Bucks,W,,121,112,15,6,W 3,,,,False,PHI,1969
+22,"Sat, Dec 7, 1968",,Box Score,,Detroit Pistons,W,,140,106,16,6,W 4,,,,False,PHI,1969
+23,"Sun, Dec 8, 1968",,Box Score,N,Milwaukee Bucks,W,,122,117,17,6,W 5,,,"at Syracuse, NY",False,PHI,1969
+24,"Tue, Dec 10, 1968",,Box Score,N,San Diego Rockets,L,,120,132,17,7,L 1,,,"at New York, NY",False,PHI,1969
+25,"Wed, Dec 11, 1968",,Box Score,,Phoenix Suns,W,,143,123,18,7,W 1,,,,False,PHI,1969
+26,"Sat, Dec 14, 1968",,Box Score,,San Francisco Warriors,W,,137,91,19,7,W 2,,,,False,PHI,1969
+27,"Sun, Dec 15, 1968",,Box Score,,New York Knicks,W,,110,104,20,7,W 3,,,,False,PHI,1969
+28,"Tue, Dec 17, 1968",,Box Score,@,Phoenix Suns,W,,145,128,21,7,W 4,,,,False,PHI,1969
+29,"Wed, Dec 18, 1968",,Box Score,@,Seattle SuperSonics,W,,115,111,22,7,W 5,,,,False,PHI,1969
+30,"Fri, Dec 20, 1968",,Box Score,@,San Diego Rockets,W,,116,109,23,7,W 6,,,,False,PHI,1969
+31,"Sat, Dec 21, 1968",,Box Score,@,San Francisco Warriors,L,,94,109,23,8,L 1,,,,False,PHI,1969
+32,"Sun, Dec 22, 1968",,Box Score,@,Los Angeles Lakers,L,,99,102,23,9,L 2,,,,False,PHI,1969
+33,"Wed, Dec 25, 1968",,Box Score,@,New York Knicks,L,,109,110,23,10,L 3,,,,False,PHI,1969
+34,"Thu, Dec 26, 1968",,Box Score,,Baltimore Bullets,W,,125,120,24,10,W 1,,,,False,PHI,1969
+35,"Sat, Dec 28, 1968",,Box Score,@,Cincinnati Royals,W,,128,123,25,10,W 2,,,,False,PHI,1969
+36,"Tue, Dec 31, 1968",,Box Score,@,Milwaukee Bucks,W,,128,107,26,10,W 3,,,,False,PHI,1969
+37,"Fri, Jan 3, 1969",,Box Score,,Los Angeles Lakers,W,,130,101,27,10,W 4,,,,False,PHI,1969
+38,"Sat, Jan 4, 1969",,Box Score,@,Baltimore Bullets,L,,112,117,27,11,L 1,,,,False,PHI,1969
+39,"Sun, Jan 5, 1969",,Box Score,,Detroit Pistons,W,,126,119,28,11,W 1,,,,False,PHI,1969
+40,"Tue, Jan 7, 1969",,Box Score,@,Detroit Pistons,L,,114,117,28,12,L 1,,,,False,PHI,1969
+41,"Wed, Jan 8, 1969",,Box Score,,Atlanta Hawks,W,,112,111,29,12,W 1,,,,False,PHI,1969
+42,"Sat, Jan 11, 1969",,Box Score,,Boston Celtics,L,,101,111,29,13,L 1,14000,,,False,PHI,1969
+43,"Fri, Jan 17, 1969",,Box Score,,San Diego Rockets,W,,129,124,30,13,W 1,,,,False,PHI,1969
+44,"Sun, Jan 19, 1969",,Box Score,,San Francisco Warriors,L,,97,98,30,14,L 1,,,,False,PHI,1969
+45,"Wed, Jan 22, 1969",,Box Score,,New York Knicks,W,2OT,140,137,31,14,W 1,,,,False,PHI,1969
+46,"Fri, Jan 24, 1969",,Box Score,@,Boston Celtics,W,,120,111,32,14,W 2,10034,,,False,PHI,1969
+47,"Sat, Jan 25, 1969",,Box Score,,Detroit Pistons,W,,124,106,33,14,W 3,,,,False,PHI,1969
+48,"Sun, Jan 26, 1969",,Box Score,@,Atlanta Hawks,W,,119,115,34,14,W 4,,,,False,PHI,1969
+49,"Tue, Jan 28, 1969",,Box Score,@,New York Knicks,L,,88,121,34,15,L 1,,,,False,PHI,1969
+50,"Wed, Jan 29, 1969",,Box Score,,Atlanta Hawks,W,,119,96,35,15,W 1,,,,False,PHI,1969
+51,"Thu, Jan 30, 1969",,Box Score,N,Cincinnati Royals,L,,115,116,35,16,L 1,,,"at Syracuse, NY",False,PHI,1969
+52,"Fri, Jan 31, 1969",,Box Score,,Baltimore Bullets,L,,105,108,35,17,L 2,,,,False,PHI,1969
+53,"Sun, Feb 2, 1969",,Box Score,,Chicago Bulls,W,,112,104,36,17,W 1,,,,False,PHI,1969
+54,"Tue, Feb 4, 1969",,Box Score,@,Phoenix Suns,L,,116,125,36,18,L 1,,,,False,PHI,1969
+55,"Wed, Feb 5, 1969",,Box Score,@,Seattle SuperSonics,W,,119,115,37,18,W 1,,,,False,PHI,1969
+56,"Fri, Feb 7, 1969",,Box Score,@,Los Angeles Lakers,W,,109,106,38,18,W 2,,,,False,PHI,1969
+57,"Sun, Feb 9, 1969",,Box Score,@,Boston Celtics,L,OT,117,122,38,19,L 1,6095,,,False,PHI,1969
+58,"Tue, Feb 11, 1969",,Box Score,N,Cincinnati Royals,W,,129,112,39,19,W 1,,,"at Cleveland, OH",False,PHI,1969
+59,"Fri, Feb 14, 1969",,Box Score,,San Francisco Warriors,L,,111,127,39,20,L 1,,,,False,PHI,1969
+60,"Sun, Feb 16, 1969",,Box Score,,Boston Celtics,W,,127,102,40,20,W 1,11161,,,False,PHI,1969
+61,"Tue, Feb 18, 1969",,Box Score,@,San Diego Rockets,W,,125,113,41,20,W 2,,,,False,PHI,1969
+62,"Wed, Feb 19, 1969",,Box Score,@,San Francisco Warriors,L,,117,134,41,21,L 1,,,,False,PHI,1969
+63,"Fri, Feb 21, 1969",,Box Score,@,Seattle SuperSonics,W,,115,109,42,21,W 1,,,,False,PHI,1969
+64,"Sat, Feb 22, 1969",,Box Score,@,San Francisco Warriors,W,,129,122,43,21,W 2,,,,False,PHI,1969
+65,"Sun, Feb 23, 1969",,Box Score,@,Los Angeles Lakers,W,,125,121,44,21,W 3,,,,False,PHI,1969
+66,"Tue, Feb 25, 1969",,Box Score,@,Cincinnati Royals,W,,120,119,45,21,W 4,,,,False,PHI,1969
+67,"Wed, Feb 26, 1969",,Box Score,,Phoenix Suns,W,,104,97,46,21,W 5,,,,False,PHI,1969
+68,"Thu, Feb 27, 1969",,Box Score,N,Detroit Pistons,L,,123,126,46,22,L 1,,,"at Syracuse, NY",False,PHI,1969
+69,"Fri, Feb 28, 1969",,Box Score,N,Milwaukee Bucks,W,,123,102,47,22,W 1,,,"at Boston, MA",False,PHI,1969
+70,"Sun, Mar 2, 1969",,Box Score,@,Detroit Pistons,W,,126,112,48,22,W 2,,,,False,PHI,1969
+71,"Mon, Mar 3, 1969",,Box Score,@,Milwaukee Bucks,W,,143,132,49,22,W 3,,,,False,PHI,1969
+72,"Tue, Mar 4, 1969",,Box Score,@,Chicago Bulls,L,,113,114,49,23,L 1,,,,False,PHI,1969
+73,"Thu, Mar 6, 1969",,Box Score,@,Atlanta Hawks,L,,99,138,49,24,L 2,,,,False,PHI,1969
+74,"Fri, Mar 7, 1969",,Box Score,,Chicago Bulls,W,,131,113,50,24,W 1,,,,False,PHI,1969
+75,"Sun, Mar 9, 1969",,Box Score,,New York Knicks,W,,110,101,51,24,W 2,,,,False,PHI,1969
+76,"Tue, Mar 11, 1969",,Box Score,@,New York Knicks,L,,101,121,51,25,L 1,,,,False,PHI,1969
+77,"Wed, Mar 12, 1969",,Box Score,,Boston Celtics,L,,117,126,51,26,L 2,10938,,,False,PHI,1969
+78,"Thu, Mar 13, 1969",,Box Score,@,Chicago Bulls,W,,113,106,52,26,W 1,,,,False,PHI,1969
+79,"Sat, Mar 15, 1969",,Box Score,,Atlanta Hawks,W,,122,120,53,26,W 2,,,,False,PHI,1969
+80,"Wed, Mar 19, 1969",,Box Score,,Seattle SuperSonics,W,,136,115,54,26,W 3,,,,False,PHI,1969
+81,"Sat, Mar 22, 1969",,Box Score,@,Baltimore Bullets,W,,116,108,55,26,W 4,,,,False,PHI,1969
+82,"Mon, Mar 24, 1969",,Box Score,,Cincinnati Royals,L,,119,125,55,27,L 1,,,,False,PHI,1969
+1,"Wed, Mar 26, 1969",,Box Score,,Boston Celtics,L,,100,114,0,1,L 1,8151,,,True,PHI,1969
+2,"Fri, Mar 28, 1969",,Box Score,@,Boston Celtics,L,,103,134,0,2,L 2,13751,,,True,PHI,1969
+3,"Sun, Mar 30, 1969",,Box Score,,Boston Celtics,L,,118,125,0,3,L 3,15244,,,True,PHI,1969
+4,"Tue, Apr 1, 1969",,Box Score,@,Boston Celtics,W,,119,116,1,3,W 1,14017,,,True,PHI,1969
+5,"Fri, Apr 4, 1969",,Box Score,,Boston Celtics,L,,90,93,1,4,L 1,15244,,,True,PHI,1969

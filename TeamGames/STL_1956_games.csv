@@ -1,0 +1,82 @@
+G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Opponent,Unnamed: 6,Unnamed: 7,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Sat, Nov 5, 1955",,Box Score,,Minneapolis Lakers,W,,101,89,1,0,W 1,,,,False,STL,1956
+2,"Sat, Nov 12, 1955",,Box Score,,Syracuse Nationals,L,,81,91,1,1,L 1,,,,False,STL,1956
+3,"Tue, Nov 15, 1955",,Box Score,,New York Knicks,W,,121,95,2,1,W 1,,,,False,STL,1956
+4,"Sat, Nov 19, 1955",,Box Score,@,New York Knicks,W,,104,91,3,1,W 2,,,,False,STL,1956
+5,"Sun, Nov 20, 1955",,Box Score,@,Syracuse Nationals,L,,80,84,3,2,L 1,,,,False,STL,1956
+6,"Wed, Nov 23, 1955",,Box Score,,Rochester Royals,W,OT,90,88,4,2,W 1,,,,False,STL,1956
+7,"Thu, Nov 24, 1955",,Box Score,@,Minneapolis Lakers,L,,99,107,4,3,L 1,,,,False,STL,1956
+8,"Sat, Nov 26, 1955",,Box Score,,Minneapolis Lakers,W,,104,95,5,3,W 1,,,,False,STL,1956
+9,"Sun, Nov 27, 1955",,Box Score,@,Fort Wayne Pistons,L,OT,106,114,5,4,L 1,,,,False,STL,1956
+10,"Tue, Nov 29, 1955",,Box Score,,Philadelphia Warriors,W,,108,95,6,4,W 1,,,,False,STL,1956
+11,"Wed, Nov 30, 1955",,Box Score,N,Minneapolis Lakers,W,,99,97,7,4,W 2,,,"at Rochester, NY",False,STL,1956
+12,"Thu, Dec 1, 1955",,Box Score,@,Philadelphia Warriors,L,,98,115,7,5,L 1,,,,False,STL,1956
+13,"Fri, Dec 2, 1955",,Box Score,@,Boston Celtics,L,,81,94,7,6,L 2,8047,,,False,STL,1956
+14,"Sat, Dec 3, 1955",,Box Score,@,Rochester Royals,W,,89,78,8,6,W 1,,,,False,STL,1956
+15,"Tue, Dec 6, 1955",,Box Score,,Boston Celtics,L,,99,122,8,7,L 1,7364,,,False,STL,1956
+16,"Sat, Dec 10, 1955",,Box Score,,New York Knicks,L,,80,99,8,8,L 2,,,,False,STL,1956
+17,"Sun, Dec 11, 1955",,Box Score,@,Rochester Royals,L,,91,93,8,9,L 3,,,,False,STL,1956
+18,"Wed, Dec 14, 1955",,Box Score,N,Rochester Royals,L,,109,117,8,10,L 4,,,"at Johnstown, PA",False,STL,1956
+19,"Fri, Dec 16, 1955",,Box Score,N,Rochester Royals,W,OT,100,97,9,10,W 1,,,"at Milwaukee, WI",False,STL,1956
+20,"Sun, Dec 18, 1955",,Box Score,,Rochester Royals,W,,86,85,10,10,W 2,,,,False,STL,1956
+21,"Mon, Dec 26, 1955",,Box Score,N,Fort Wayne Pistons,L,,67,83,10,11,L 1,,,"at Rochester, NY",False,STL,1956
+22,"Tue, Dec 27, 1955",,Box Score,,Boston Celtics,L,,102,105,10,12,L 2,6237,,,False,STL,1956
+23,"Wed, Dec 28, 1955",,Box Score,@,Minneapolis Lakers,W,,111,90,11,12,W 1,,,,False,STL,1956
+24,"Thu, Dec 29, 1955",,Box Score,N,Minneapolis Lakers,L,,71,74,11,13,L 1,,,"at Fort Wayne, IN",False,STL,1956
+25,"Fri, Dec 30, 1955",,Box Score,N,Fort Wayne Pistons,L,,89,90,11,14,L 2,,,"at Lansing, MI",False,STL,1956
+26,"Sun, Jan 1, 1956",,Box Score,@,Fort Wayne Pistons,L,,68,85,11,15,L 3,,,,False,STL,1956
+27,"Mon, Jan 2, 1956",,Box Score,,Syracuse Nationals,L,,82,84,11,16,L 4,,,,False,STL,1956
+28,"Wed, Jan 4, 1956",,Box Score,@,Minneapolis Lakers,L,,76,94,11,17,L 5,,,"at Saint Paul, MN",False,STL,1956
+29,"Sat, Jan 7, 1956",,Box Score,,Fort Wayne Pistons,L,,97,108,11,18,L 6,,,,False,STL,1956
+30,"Sun, Jan 8, 1956",,Box Score,@,Fort Wayne Pistons,W,,96,91,12,18,W 1,,,,False,STL,1956
+31,"Tue, Jan 10, 1956",,Box Score,@,Philadelphia Warriors,L,OT,107,109,12,19,L 1,,,,False,STL,1956
+32,"Thu, Jan 12, 1956",,Box Score,@,Syracuse Nationals,L,,78,93,12,20,L 2,,,,False,STL,1956
+33,"Fri, Jan 13, 1956",,Box Score,N,Rochester Royals,L,,90,98,12,21,L 3,,,"at Boston, MA",False,STL,1956
+34,"Sat, Jan 14, 1956",,Box Score,@,New York Knicks,W,2OT,104,101,13,21,W 1,,,,False,STL,1956
+35,"Sun, Jan 15, 1956",,Box Score,,Philadelphia Warriors,L,,96,108,13,22,L 1,,,,False,STL,1956
+36,"Tue, Jan 17, 1956",,Box Score,N,Minneapolis Lakers,L,,86,97,13,23,L 2,,,"at Kansas City, MO",False,STL,1956
+37,"Thu, Jan 19, 1956",,Box Score,N,Fort Wayne Pistons,L,,83,90,13,24,L 3,,,"at New Orleans, LA",False,STL,1956
+38,"Fri, Jan 20, 1956",,Box Score,@,Boston Celtics,L,,112,133,13,25,L 4,12235,,,False,STL,1956
+39,"Sat, Jan 21, 1956",,Box Score,N,Rochester Royals,L,,90,97,13,26,L 5,,,"at Saratoga Springs, NY",False,STL,1956
+40,"Sun, Jan 22, 1956",,Box Score,@,Syracuse Nationals,W,,109,105,14,26,W 1,,,,False,STL,1956
+41,"Wed, Jan 25, 1956",,Box Score,,Rochester Royals,W,,114,106,15,26,W 2,,,,False,STL,1956
+42,"Sat, Jan 28, 1956",,Box Score,,Syracuse Nationals,W,,93,85,16,26,W 3,,,,False,STL,1956
+43,"Sun, Jan 29, 1956",,Box Score,@,Minneapolis Lakers,W,,114,107,17,26,W 4,,,,False,STL,1956
+44,"Tue, Jan 31, 1956",,Box Score,,Boston Celtics,W,,114,91,18,26,W 5,6628,,,False,STL,1956
+45,"Thu, Feb 2, 1956",,Box Score,,Fort Wayne Pistons,W,,98,90,19,26,W 6,,,"at St. Louis, MO",False,STL,1956
+46,"Sat, Feb 4, 1956",,Box Score,N,Fort Wayne Pistons,W,,98,94,20,26,W 7,,,"at Elkhart, IN",False,STL,1956
+47,"Sun, Feb 5, 1956",,Box Score,,Philadelphia Warriors,W,,105,93,21,26,W 8,,,,False,STL,1956
+48,"Wed, Feb 8, 1956",,Box Score,N,Boston Celtics,W,,111,110,22,26,W 9,3950,,"at Rochester, NY",False,STL,1956
+49,"Thu, Feb 9, 1956",,Box Score,@,Philadelphia Warriors,L,,97,108,22,27,L 1,,,,False,STL,1956
+50,"Fri, Feb 10, 1956",,Box Score,@,Boston Celtics,L,,100,124,22,28,L 2,8820,,,False,STL,1956
+51,"Sat, Feb 11, 1956",,Box Score,@,New York Knicks,L,,91,107,22,29,L 3,,,,False,STL,1956
+52,"Sun, Feb 12, 1956",,Box Score,,Philadelphia Warriors,L,,79,87,22,30,L 4,,,,False,STL,1956
+53,"Tue, Feb 14, 1956",,Box Score,,New York Knicks,L,,99,103,22,31,L 5,,,,False,STL,1956
+54,"Sun, Feb 19, 1956",,Box Score,,Fort Wayne Pistons,L,,83,89,22,32,L 6,,,,False,STL,1956
+55,"Mon, Feb 20, 1956",,Box Score,N,Fort Wayne Pistons,W,,84,82,23,32,W 1,,,"at Kansas City, MO",False,STL,1956
+56,"Tue, Feb 21, 1956",,Box Score,,Boston Celtics,W,,101,97,24,32,W 2,5628,,,False,STL,1956
+57,"Wed, Feb 22, 1956",,Box Score,N,Rochester Royals,L,,109,110,24,33,L 1,,,"at Philadelphia, PA",False,STL,1956
+58,"Fri, Feb 24, 1956",,Box Score,N,Syracuse Nationals,W,,116,103,25,33,W 1,,,"at Philadelphia, PA",False,STL,1956
+59,"Sat, Feb 25, 1956",,Box Score,@,New York Knicks,W,,99,89,26,33,W 2,,,,False,STL,1956
+60,"Sun, Feb 26, 1956",,Box Score,,New York Knicks,W,,103,85,27,33,W 3,,,,False,STL,1956
+61,"Mon, Feb 27, 1956",,Box Score,N,New York Knicks,L,,109,113,27,34,L 1,,,"at Fort Wayne, IN",False,STL,1956
+62,"Thu, Mar 1, 1956",,Box Score,,Rochester Royals,L,,94,95,27,35,L 2,,,,False,STL,1956
+63,"Sat, Mar 3, 1956",,Box Score,,Fort Wayne Pistons,W,,92,86,28,35,W 1,,,,False,STL,1956
+64,"Sun, Mar 4, 1956",,Box Score,@,Minneapolis Lakers,L,,84,113,28,36,L 1,,,,False,STL,1956
+65,"Tue, Mar 6, 1956",,Box Score,N,Philadelphia Warriors,W,,102,97,29,36,W 1,,,"at New York, NY",False,STL,1956
+66,"Wed, Mar 7, 1956",,Box Score,@,Rochester Royals,W,,96,89,30,36,W 2,,,,False,STL,1956
+67,"Thu, Mar 8, 1956",,Box Score,@,Syracuse Nationals,L,,88,92,30,37,L 1,,,,False,STL,1956
+68,"Fri, Mar 9, 1956",,Box Score,,Minneapolis Lakers,W,,103,102,31,37,W 1,,,,False,STL,1956
+69,"Sat, Mar 10, 1956",,Box Score,,Minneapolis Lakers,W,,105,97,32,37,W 2,,,,False,STL,1956
+70,"Sun, Mar 11, 1956",,Box Score,@,Boston Celtics,W,,127,121,33,37,W 3,6030,,,False,STL,1956
+71,"Mon, Mar 12, 1956",,Box Score,N,Syracuse Nationals,L,,92,97,33,38,L 1,,,"at New Haven, CT",False,STL,1956
+72,"Tue, Mar 13, 1956",,Box Score,@,Philadelphia Warriors,L,,113,116,33,39,L 2,,,"at Philadelphia, PA (Lincoln High School)",False,STL,1956
+73,"Fri, Mar 16, 1956",,Box Score,,Minneapolis Lakers,L,,97,103,33,40,L 3,,,Tiebreaker,False,STL,1956
+1,"Sat, Mar 17, 1956",,Box Score,,Minneapolis Lakers,W,,116,115,1,0,W 1,,,,True,STL,1956
+2,"Mon, Mar 19, 1956",,Box Score,@,Minneapolis Lakers,L,,75,133,1,1,L 1,,,,True,STL,1956
+3,"Wed, Mar 21, 1956",,Box Score,@,Minneapolis Lakers,W,,116,115,2,1,W 1,,,,True,STL,1956
+4,"Thu, Mar 22, 1956",,Box Score,@,Fort Wayne Pistons,W,,86,85,3,1,W 2,,,,True,STL,1956
+5,"Sat, Mar 24, 1956",,Box Score,,Fort Wayne Pistons,W,,84,74,4,1,W 3,,,,True,STL,1956
+6,"Sun, Mar 25, 1956",,Box Score,@,Fort Wayne Pistons,L,,84,107,4,2,L 1,,,,True,STL,1956
+7,"Tue, Mar 27, 1956",,Box Score,,Fort Wayne Pistons,L,,84,93,4,3,L 2,,,,True,STL,1956
+8,"Thu, Mar 29, 1956",,Box Score,@,Fort Wayne Pistons,L,,97,102,4,4,L 3,,,,True,STL,1956

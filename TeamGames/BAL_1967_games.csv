@@ -1,0 +1,82 @@
+G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Opponent,Unnamed: 6,Unnamed: 7,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Sat, Oct 15, 1966",,Box Score,,Los Angeles Lakers,L,,115,126,0,1,L 1,,,,False,BAL,1967
+2,"Wed, Oct 19, 1966",,Box Score,,New York Knicks,L,,109,131,0,2,L 2,,,,False,BAL,1967
+3,"Fri, Oct 21, 1966",,Box Score,@,Boston Celtics,L,,91,111,0,3,L 3,12048,,,False,BAL,1967
+4,"Sat, Oct 22, 1966",,Box Score,,Philadelphia 76ers,L,,112,141,0,4,L 4,,,,False,BAL,1967
+5,"Tue, Oct 25, 1966",,Box Score,@,Philadelphia 76ers,L,,110,130,0,5,L 5,,,,False,BAL,1967
+6,"Wed, Oct 26, 1966",,Box Score,,Cincinnati Royals,W,,122,116,1,5,W 1,,,,False,BAL,1967
+7,"Fri, Oct 28, 1966",,Box Score,,San Francisco Warriors,L,,104,105,1,6,L 1,,,,False,BAL,1967
+8,"Sat, Oct 29, 1966",,Box Score,@,Detroit Pistons,L,,97,103,1,7,L 2,,,,False,BAL,1967
+9,"Wed, Nov 2, 1966",,Box Score,@,Chicago Bulls,L,,94,102,1,8,L 3,,,,False,BAL,1967
+10,"Fri, Nov 4, 1966",,Box Score,@,Los Angeles Lakers,L,,98,131,1,9,L 4,,,,False,BAL,1967
+11,"Sun, Nov 6, 1966",,Box Score,@,San Francisco Warriors,L,,117,120,1,10,L 5,,,,False,BAL,1967
+12,"Tue, Nov 8, 1966",,Box Score,@,Los Angeles Lakers,W,,104,102,2,10,W 1,,,,False,BAL,1967
+13,"Wed, Nov 9, 1966",,Box Score,@,San Francisco Warriors,L,,122,128,2,11,L 1,,,,False,BAL,1967
+14,"Fri, Nov 11, 1966",,Box Score,,Cincinnati Royals,L,,104,119,2,12,L 2,,,,False,BAL,1967
+15,"Sat, Nov 12, 1966",,Box Score,@,New York Knicks,L,,124,134,2,13,L 3,,,,False,BAL,1967
+16,"Thu, Nov 17, 1966",,Box Score,,Chicago Bulls,W,,120,102,3,13,W 1,,,,False,BAL,1967
+17,"Fri, Nov 18, 1966",,Box Score,@,Boston Celtics,L,,119,143,3,14,L 1,11734,,,False,BAL,1967
+18,"Sat, Nov 19, 1966",,Box Score,,Boston Celtics,L,,125,147,3,15,L 2,5214,,,False,BAL,1967
+19,"Sun, Nov 20, 1966",,Box Score,@,Cincinnati Royals,L,,123,125,3,16,L 3,,,,False,BAL,1967
+20,"Tue, Nov 22, 1966",,Box Score,N,San Francisco Warriors,W,,125,117,4,16,W 1,,,"at New York, NY",False,BAL,1967
+21,"Wed, Nov 23, 1966",,Box Score,N,San Francisco Warriors,L,,110,120,4,17,L 1,,,"at Washington, DC",False,BAL,1967
+22,"Fri, Nov 25, 1966",,Box Score,,Philadelphia 76ers,L,,115,129,4,18,L 2,,,,False,BAL,1967
+23,"Sat, Nov 26, 1966",,Box Score,@,New York Knicks,L,,114,125,4,19,L 3,,,,False,BAL,1967
+24,"Wed, Nov 30, 1966",,Box Score,,Los Angeles Lakers,L,,111,126,4,20,L 4,,,,False,BAL,1967
+25,"Sat, Dec 3, 1966",,Box Score,,Philadelphia 76ers,L,,120,137,4,21,L 5,,,,False,BAL,1967
+26,"Wed, Dec 7, 1966",,Box Score,,San Francisco Warriors,W,,116,106,5,21,W 1,,,,False,BAL,1967
+27,"Thu, Dec 8, 1966",,Box Score,N,Chicago Bulls,L,,120,132,5,22,L 1,,,"at Evansville, IN",False,BAL,1967
+28,"Sat, Dec 10, 1966",,Box Score,@,New York Knicks,L,,129,138,5,23,L 2,,,,False,BAL,1967
+29,"Tue, Dec 13, 1966",,Box Score,N,Chicago Bulls,W,,122,94,6,23,W 1,,,"at New York, NY",False,BAL,1967
+30,"Wed, Dec 14, 1966",,Box Score,,New York Knicks,W,,116,106,7,23,W 2,,,,False,BAL,1967
+31,"Fri, Dec 16, 1966",,Box Score,@,Detroit Pistons,W,,121,113,8,23,W 3,,,,False,BAL,1967
+32,"Sat, Dec 17, 1966",,Box Score,,Chicago Bulls,L,,106,110,8,24,L 1,,,,False,BAL,1967
+33,"Sun, Dec 18, 1966",,Box Score,@,Cincinnati Royals,L,,114,138,8,25,L 2,,,,False,BAL,1967
+34,"Wed, Dec 21, 1966",,Box Score,N,St. Louis Hawks,L,,109,118,8,26,L 3,,,"at Charleston, WV",False,BAL,1967
+35,"Sun, Dec 25, 1966",,Box Score,,Detroit Pistons,L,OT,127,129,8,27,L 4,,,,False,BAL,1967
+36,"Mon, Dec 26, 1966",,Box Score,@,Chicago Bulls,L,,96,108,8,28,L 5,,,,False,BAL,1967
+37,"Tue, Dec 27, 1966",,Box Score,@,St. Louis Hawks,L,,111,113,8,29,L 6,,,,False,BAL,1967
+38,"Wed, Dec 28, 1966",,Box Score,,San Francisco Warriors,L,,115,138,8,30,L 7,,,,False,BAL,1967
+39,"Fri, Dec 30, 1966",,Box Score,N,New York Knicks,L,,115,130,8,31,L 8,,,"at Washington, DC",False,BAL,1967
+40,"Tue, Jan 3, 1967",,Box Score,N,Detroit Pistons,L,,110,117,8,32,L 9,,,"at New York, NY",False,BAL,1967
+41,"Wed, Jan 4, 1967",,Box Score,,Detroit Pistons,L,2OT,126,132,8,33,L 10,,,,False,BAL,1967
+42,"Fri, Jan 6, 1967",,Box Score,@,Philadelphia 76ers,L,OT,115,121,8,34,L 11,,,,False,BAL,1967
+43,"Sat, Jan 7, 1967",,Box Score,@,New York Knicks,L,,126,129,8,35,L 12,,,,False,BAL,1967
+44,"Sun, Jan 8, 1967",,Box Score,,Cincinnati Royals,L,,94,126,8,36,L 13,,,,False,BAL,1967
+45,"Thu, Jan 12, 1967",,Box Score,,St. Louis Hawks,W,,137,116,9,36,W 1,,,,False,BAL,1967
+46,"Fri, Jan 13, 1967",,Box Score,N,Detroit Pistons,L,,118,119,9,37,L 1,,,"at Washington, DC",False,BAL,1967
+47,"Sat, Jan 14, 1967",,Box Score,,Boston Celtics,L,,106,115,9,38,L 2,4430,,,False,BAL,1967
+48,"Mon, Jan 16, 1967",,Box Score,N,St. Louis Hawks,W,,100,98,10,38,W 1,,,"at Tampa, FL",False,BAL,1967
+49,"Thu, Jan 19, 1967",,Box Score,,Cincinnati Royals,W,,122,118,11,38,W 2,,,,False,BAL,1967
+50,"Fri, Jan 20, 1967",,Box Score,@,Boston Celtics,L,,117,129,11,39,L 1,5665,,,False,BAL,1967
+51,"Sat, Jan 21, 1967",,Box Score,,Los Angeles Lakers,W,,126,119,12,39,W 1,,,,False,BAL,1967
+52,"Sun, Jan 22, 1967",,Box Score,@,Chicago Bulls,L,,114,118,12,40,L 1,,,,False,BAL,1967
+53,"Tue, Jan 24, 1967",,Box Score,@,San Francisco Warriors,L,,125,146,12,41,L 2,,,,False,BAL,1967
+54,"Wed, Jan 25, 1967",,Box Score,@,Los Angeles Lakers,L,,115,128,12,42,L 3,,,,False,BAL,1967
+55,"Fri, Jan 27, 1967",,Box Score,@,San Francisco Warriors,L,,116,143,12,43,L 4,,,,False,BAL,1967
+56,"Sat, Jan 28, 1967",,Box Score,@,Los Angeles Lakers,L,,118,133,12,44,L 5,,,,False,BAL,1967
+57,"Wed, Feb 1, 1967",,Box Score,,Boston Celtics,L,,107,111,12,45,L 6,3867,,,False,BAL,1967
+58,"Thu, Feb 2, 1967",,Box Score,N,Cincinnati Royals,L,,125,131,12,46,L 7,,,"at Cleveland, OH",False,BAL,1967
+59,"Sat, Feb 4, 1967",,Box Score,,Cincinnati Royals,W,,109,99,13,46,W 1,,,,False,BAL,1967
+60,"Mon, Feb 6, 1967",,Box Score,N,St. Louis Hawks,W,,107,98,14,46,W 2,,,"at Memphis, TN",False,BAL,1967
+61,"Tue, Feb 7, 1967",,Box Score,N,St. Louis Hawks,L,,96,109,14,47,L 1,,,"at Saint Paul, MN",False,BAL,1967
+62,"Wed, Feb 8, 1967",,Box Score,N,Los Angeles Lakers,L,,108,121,14,48,L 2,,,"at Charleston, WV",False,BAL,1967
+63,"Thu, Feb 9, 1967",,Box Score,N,Boston Celtics,W,,128,124,15,48,W 1,4763,,"at Providence, RI",False,BAL,1967
+64,"Sat, Feb 11, 1967",,Box Score,,Philadelphia 76ers,W,,139,133,16,48,W 2,,,,False,BAL,1967
+65,"Fri, Feb 17, 1967",,Box Score,,St. Louis Hawks,L,,132,133,16,49,L 1,,,,False,BAL,1967
+66,"Sat, Feb 18, 1967",,Box Score,N,Detroit Pistons,L,,113,118,16,50,L 2,,,"at New York, NY",False,BAL,1967
+67,"Sun, Feb 19, 1967",,Box Score,@,Detroit Pistons,W,,131,104,17,50,W 1,,,,False,BAL,1967
+68,"Wed, Feb 22, 1967",,Box Score,,Boston Celtics,L,,120,135,17,51,L 1,7250,,,False,BAL,1967
+69,"Fri, Feb 24, 1967",,Box Score,N,Philadelphia 76ers,L,,118,149,17,52,L 2,,,"at Pittsburgh, PA",False,BAL,1967
+70,"Sat, Feb 25, 1967",,Box Score,@,New York Knicks,L,,114,116,17,53,L 3,,,,False,BAL,1967
+71,"Sun, Feb 26, 1967",,Box Score,,Chicago Bulls,W,,124,106,18,53,W 1,,,,False,BAL,1967
+72,"Wed, Mar 1, 1967",,Box Score,,St. Louis Hawks,W,,122,112,19,53,W 2,,,,False,BAL,1967
+73,"Sat, Mar 4, 1967",,Box Score,@,Cincinnati Royals,L,,102,109,19,54,L 1,,,,False,BAL,1967
+74,"Sun, Mar 5, 1967",,Box Score,@,St. Louis Hawks,L,,103,132,19,55,L 2,,,,False,BAL,1967
+75,"Wed, Mar 8, 1967",,Box Score,@,Detroit Pistons,L,,113,120,19,56,L 3,,,,False,BAL,1967
+76,"Fri, Mar 10, 1967",,Box Score,@,Chicago Bulls,L,,115,132,19,57,L 4,,,,False,BAL,1967
+77,"Sun, Mar 12, 1967",,Box Score,@,Boston Celtics,L,,118,123,19,58,L 5,7258,,,False,BAL,1967
+78,"Wed, Mar 15, 1967",,Box Score,,New York Knicks,W,,121,114,20,58,W 1,,,,False,BAL,1967
+79,"Fri, Mar 17, 1967",,Box Score,,Los Angeles Lakers,L,,133,135,20,59,L 1,,,,False,BAL,1967
+80,"Sat, Mar 18, 1967",,Box Score,@,Philadelphia 76ers,L,,119,135,20,60,L 2,,,,False,BAL,1967
+81,"Sun, Mar 19, 1967",,Box Score,,Philadelphia 76ers,L,,129,132,20,61,L 3,,,,False,BAL,1967

@@ -1,0 +1,51 @@
+G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Opponent,Unnamed: 6,Unnamed: 7,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Fri, Feb 5, 1999",,Box Score,@,Indiana Pacers,L,,81,96,0,1,L 1,16621,,,False,WAS,1999
+2,"Sat, Feb 6, 1999",,Box Score,,Toronto Raptors,W,,98,97,1,1,W 1,19335,,,False,WAS,1999
+3,"Mon, Feb 8, 1999",,Box Score,@,Detroit Pistons,L,,103,106,1,2,L 1,14210,,,False,WAS,1999
+4,"Wed, Feb 10, 1999",,Box Score,@,New York Knicks,L,,88,101,1,3,L 2,19763,,,False,WAS,1999
+5,"Wed, Feb 17, 1999",,Box Score,@,Orlando Magic,L,,85,96,1,4,L 3,15147,,,False,WAS,1999
+6,"Thu, Feb 18, 1999",,Box Score,@,Toronto Raptors,W,,95,88,2,4,W 1,14292,,"at Toronto, Canada (SkyDome)",False,WAS,1999
+7,"Fri, Feb 19, 1999",,Box Score,,Chicago Bulls,W,,93,91,3,4,W 2,19220,,,False,WAS,1999
+8,"Sun, Feb 21, 1999",,Box Score,,Boston Celtics,W,,86,75,4,4,W 3,20674,2:15,,False,WAS,1999
+9,"Tue, Feb 23, 1999",,Box Score,,Miami Heat,L,,80,96,4,5,L 1,12879,,,False,WAS,1999
+10,"Thu, Feb 25, 1999",,Box Score,,Sacramento Kings,L,,105,115,4,6,L 2,16813,,,False,WAS,1999
+11,"Sat, Feb 27, 1999",,Box Score,,Portland Trail Blazers,L,,81,82,4,7,L 3,18550,,,False,WAS,1999
+12,"Mon, Mar 1, 1999",,Box Score,,Philadelphia 76ers,L,,91,104,4,8,L 4,13814,,,False,WAS,1999
+13,"Tue, Mar 2, 1999",,Box Score,@,Atlanta Hawks,W,,97,77,5,8,W 1,8139,,"at Atlanta, GA (Alexander Memorial Coliseum at McDonald's Center)",False,WAS,1999
+14,"Wed, Mar 3, 1999",,Box Score,,Indiana Pacers,L,,95,106,5,9,L 1,12912,,,False,WAS,1999
+15,"Fri, Mar 5, 1999",,Box Score,,Charlotte Hornets,W,,86,85,6,9,W 1,15703,,,False,WAS,1999
+16,"Sun, Mar 7, 1999",,Box Score,@,Philadelphia 76ers,W,OT,103,95,7,9,W 2,16797,,,False,WAS,1999
+17,"Mon, Mar 8, 1999",,Box Score,@,Detroit Pistons,L,,71,75,7,10,L 1,15022,,,False,WAS,1999
+18,"Wed, Mar 10, 1999",,Box Score,,Detroit Pistons,W,,97,87,8,10,W 1,16316,,,False,WAS,1999
+19,"Thu, Mar 11, 1999",,Box Score,@,New York Knicks,L,,86,98,8,11,L 1,19763,,,False,WAS,1999
+20,"Fri, Mar 12, 1999",,Box Score,,Charlotte Hornets,L,,83,92,8,12,L 2,16343,,,False,WAS,1999
+21,"Sun, Mar 14, 1999",,Box Score,,Milwaukee Bucks,W,,98,86,9,12,W 1,14353,,,False,WAS,1999
+22,"Tue, Mar 16, 1999",,Box Score,@,Miami Heat,L,,85,94,9,13,L 1,15200,,,False,WAS,1999
+23,"Thu, Mar 18, 1999",,Box Score,,Utah Jazz,L,,87,95,9,14,L 2,16121,,,False,WAS,1999
+24,"Sat, Mar 20, 1999",,Box Score,,Cleveland Cavaliers,W,,113,83,10,14,W 1,19209,,,False,WAS,1999
+25,"Mon, Mar 22, 1999",,Box Score,@,Indiana Pacers,L,,86,90,10,15,L 1,15386,,,False,WAS,1999
+26,"Wed, Mar 24, 1999",,Box Score,@,Seattle SuperSonics,W,,96,92,11,15,W 1,17072,,,False,WAS,1999
+27,"Fri, Mar 26, 1999",,Box Score,@,Golden State Warriors,L,,96,100,11,16,L 1,12025,,,False,WAS,1999
+28,"Sat, Mar 27, 1999",,Box Score,@,Denver Nuggets,W,,112,100,12,16,W 1,10987,,,False,WAS,1999
+29,"Tue, Mar 30, 1999",,Box Score,@,Milwaukee Bucks,L,,105,107,12,17,L 1,15196,,,False,WAS,1999
+30,"Wed, Mar 31, 1999",,Box Score,,Orlando Magic,W,,84,73,13,17,W 1,20674,,,False,WAS,1999
+31,"Sat, Apr 3, 1999",,Box Score,@,Toronto Raptors,L,,85,87,13,18,L 1,18929,,,False,WAS,1999
+32,"Sun, Apr 4, 1999",,Box Score,,Miami Heat,L,,79,90,13,19,L 2,14951,,,False,WAS,1999
+33,"Tue, Apr 6, 1999",,Box Score,,New Jersey Nets,L,,93,97,13,20,L 3,13101,,,False,WAS,1999
+34,"Wed, Apr 7, 1999",,Box Score,@,Boston Celtics,L,,87,108,13,21,L 4,15901,2:05,,False,WAS,1999
+35,"Fri, Apr 9, 1999",,Box Score,@,Charlotte Hornets,L,,88,90,13,22,L 5,19038,,,False,WAS,1999
+36,"Sun, Apr 11, 1999",,Box Score,,Philadelphia 76ers,W,,105,98,14,22,W 1,18761,,,False,WAS,1999
+37,"Tue, Apr 13, 1999",,Box Score,@,Cleveland Cavaliers,L,,77,86,14,23,L 1,11533,,,False,WAS,1999
+38,"Wed, Apr 14, 1999",,Box Score,,New York Knicks,W,OT,95,89,15,23,W 1,17428,,,False,WAS,1999
+39,"Fri, Apr 16, 1999",,Box Score,,Chicago Bulls,W,,87,70,16,23,W 2,14248,,,False,WAS,1999
+40,"Sun, Apr 18, 1999",,Box Score,,Boston Celtics,L,,98,101,16,24,L 1,14964,2:29,,False,WAS,1999
+41,"Tue, Apr 20, 1999",,Box Score,@,Chicago Bulls,L,,77,83,16,25,L 2,22102,,,False,WAS,1999
+42,"Wed, Apr 21, 1999",,Box Score,,Toronto Raptors,L,,91,107,16,26,L 3,12214,,,False,WAS,1999
+43,"Fri, Apr 23, 1999",,Box Score,,Atlanta Hawks,L,,78,89,16,27,L 4,16941,,,False,WAS,1999
+44,"Sun, Apr 25, 1999",,Box Score,@,Boston Celtics,L,,84,113,16,28,L 5,17211,2:00,,False,WAS,1999
+45,"Mon, Apr 26, 1999",,Box Score,@,Milwaukee Bucks,L,,91,99,16,29,L 6,13201,,,False,WAS,1999
+46,"Wed, Apr 28, 1999",,Box Score,@,Orlando Magic,L,,86,93,16,30,L 7,15151,,,False,WAS,1999
+47,"Thu, Apr 29, 1999",,Box Score,,Cleveland Cavaliers,W,,97,86,17,30,W 1,12751,,,False,WAS,1999
+48,"Sat, May 1, 1999",,Box Score,@,New Jersey Nets,L,,91,102,17,31,L 1,16278,,,False,WAS,1999
+49,"Mon, May 3, 1999",,Box Score,,New Jersey Nets,W,,113,102,18,31,W 1,14206,,,False,WAS,1999
+50,"Wed, May 5, 1999",,Box Score,@,Atlanta Hawks,L,,92,100,18,32,L 1,16899,,,False,WAS,1999

@@ -1,0 +1,83 @@
+G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Opponent,Unnamed: 6,Unnamed: 7,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Tue, Nov 2, 1999",,Box Score,@,Dallas Mavericks,L,,96,108,0,1,L 1,12848,,,False,GSW,2000
+2,"Thu, Nov 4, 1999",,Box Score,@,San Antonio Spurs,L,,81,104,0,2,L 2,14508,,,False,GSW,2000
+3,"Sat, Nov 6, 1999",,Box Score,,Dallas Mavericks,L,,97,120,0,3,L 3,12708,,,False,GSW,2000
+4,"Tue, Nov 9, 1999",,Box Score,,San Antonio Spurs,L,,89,118,0,4,L 4,11601,,,False,GSW,2000
+5,"Fri, Nov 12, 1999",,Box Score,@,Vancouver Grizzlies,W,,103,93,1,4,W 1,12792,,,False,GSW,2000
+6,"Sat, Nov 13, 1999",,Box Score,,Houston Rockets,L,,95,103,1,5,L 1,11684,,,False,GSW,2000
+7,"Tue, Nov 16, 1999",,Box Score,,Chicago Bulls,W,,99,79,2,5,W 1,10340,,,False,GSW,2000
+8,"Wed, Nov 17, 1999",,Box Score,@,Seattle SuperSonics,L,,108,111,2,6,L 1,15336,,,False,GSW,2000
+9,"Sat, Nov 20, 1999",,Box Score,,New York Knicks,L,,79,86,2,7,L 2,18533,,,False,GSW,2000
+10,"Wed, Nov 24, 1999",,Box Score,,New Jersey Nets,L,,84,92,2,8,L 3,10017,,,False,GSW,2000
+11,"Fri, Nov 26, 1999",,Box Score,@,Sacramento Kings,L,,95,124,2,9,L 4,17317,,,False,GSW,2000
+12,"Sat, Nov 27, 1999",,Box Score,,Toronto Raptors,L,,88,106,2,10,L 5,12251,,,False,GSW,2000
+13,"Mon, Nov 29, 1999",,Box Score,@,Utah Jazz,L,,99,115,2,11,L 6,18892,,,False,GSW,2000
+14,"Wed, Dec 1, 1999",,Box Score,@,Los Angeles Lakers,L,,75,93,2,12,L 7,17689,,,False,GSW,2000
+15,"Thu, Dec 2, 1999",,Box Score,,Seattle SuperSonics,L,,108,117,2,13,L 8,10112,,,False,GSW,2000
+16,"Sat, Dec 4, 1999",,Box Score,,Utah Jazz,L,,82,94,2,14,L 9,11790,,,False,GSW,2000
+17,"Tue, Dec 7, 1999",,Box Score,@,New York Knicks,L,,83,89,2,15,L 10,19763,,,False,GSW,2000
+18,"Wed, Dec 8, 1999",,Box Score,@,Charlotte Hornets,L,,106,113,2,16,L 11,15327,,,False,GSW,2000
+19,"Fri, Dec 10, 1999",,Box Score,@,Atlanta Hawks,W,,107,99,3,16,W 1,14313,,,False,GSW,2000
+20,"Sat, Dec 11, 1999",,Box Score,@,Minnesota Timberwolves,W,,104,76,4,16,W 2,14739,,,False,GSW,2000
+21,"Tue, Dec 14, 1999",,Box Score,,Miami Heat,W,,102,97,5,16,W 3,11083,,,False,GSW,2000
+22,"Thu, Dec 16, 1999",,Box Score,,Detroit Pistons,L,,108,116,5,17,L 1,10249,,,False,GSW,2000
+23,"Fri, Dec 17, 1999",,Box Score,@,Los Angeles Clippers,L,,91,92,5,18,L 2,11217,,,False,GSW,2000
+24,"Mon, Dec 20, 1999",,Box Score,,Sacramento Kings,W,,111,99,6,18,W 1,15176,,,False,GSW,2000
+25,"Wed, Dec 22, 1999",,Box Score,,Los Angeles Clippers,L,,99,103,6,19,L 1,10438,,,False,GSW,2000
+26,"Thu, Dec 23, 1999",,Box Score,@,Portland Trail Blazers,L,,91,111,6,20,L 2,20440,,,False,GSW,2000
+27,"Sun, Dec 26, 1999",,Box Score,@,Phoenix Suns,L,,88,108,6,21,L 3,19023,,,False,GSW,2000
+28,"Mon, Dec 27, 1999",,Box Score,,San Antonio Spurs,L,,83,105,6,22,L 4,12447,,,False,GSW,2000
+29,"Wed, Dec 29, 1999",,Box Score,,Philadelphia 76ers,L,,94,97,6,23,L 5,15346,,,False,GSW,2000
+30,"Mon, Jan 3, 2000",,Box Score,@,Washington Wizards,L,,87,99,6,24,L 6,11107,,,False,GSW,2000
+31,"Wed, Jan 5, 2000",,Box Score,@,Philadelphia 76ers,L,,92,113,6,25,L 7,13845,,,False,GSW,2000
+32,"Thu, Jan 6, 2000",,Box Score,@,Cleveland Cavaliers,L,,75,90,6,26,L 8,11238,,,False,GSW,2000
+33,"Sun, Jan 9, 2000",,Box Score,,Seattle SuperSonics,L,OT,95,100,6,27,L 9,11263,,,False,GSW,2000
+34,"Tue, Jan 11, 2000",,Box Score,,Dallas Mavericks,L,,102,109,6,28,L 10,9887,,,False,GSW,2000
+35,"Thu, Jan 13, 2000",,Box Score,,Houston Rockets,L,,100,108,6,29,L 11,10123,,,False,GSW,2000
+36,"Sat, Jan 15, 2000",,Box Score,,Sacramento Kings,L,,99,114,6,30,L 12,18372,,,False,GSW,2000
+37,"Mon, Jan 17, 2000",,Box Score,,Orlando Magic,W,,113,100,7,30,W 1,8893,,,False,GSW,2000
+38,"Fri, Jan 21, 2000",,Box Score,,Cleveland Cavaliers,W,,115,103,8,30,W 2,10059,,,False,GSW,2000
+39,"Sun, Jan 23, 2000",,Box Score,,Minnesota Timberwolves,L,,81,99,8,31,L 1,11569,,,False,GSW,2000
+40,"Tue, Jan 25, 2000",,Box Score,@,Dallas Mavericks,L,,103,117,8,32,L 2,13164,,,False,GSW,2000
+41,"Thu, Jan 27, 2000",,Box Score,@,Houston Rockets,W,,115,110,9,32,W 1,13998,,,False,GSW,2000
+42,"Tue, Feb 1, 2000",,Box Score,@,Los Angeles Clippers,W,,107,76,10,32,W 2,10409,,,False,GSW,2000
+43,"Wed, Feb 2, 2000",,Box Score,,Vancouver Grizzlies,W,,101,95,11,32,W 3,10019,,,False,GSW,2000
+44,"Fri, Feb 4, 2000",,Box Score,,Denver Nuggets,W,,103,101,12,32,W 4,13321,,,False,GSW,2000
+45,"Sun, Feb 6, 2000",,Box Score,@,New Jersey Nets,L,,90,110,12,33,L 1,14336,,,False,GSW,2000
+46,"Mon, Feb 7, 2000",,Box Score,@,Orlando Magic,L,,100,120,12,34,L 2,12480,,,False,GSW,2000
+47,"Wed, Feb 9, 2000",,Box Score,@,Miami Heat,L,,100,115,12,35,L 3,16133,,,False,GSW,2000
+48,"Tue, Feb 15, 2000",,Box Score,,Portland Trail Blazers,L,,83,92,12,36,L 4,11863,,,False,GSW,2000
+49,"Wed, Feb 16, 2000",,Box Score,@,Portland Trail Blazers,L,,95,99,12,37,L 5,20178,,,False,GSW,2000
+50,"Fri, Feb 18, 2000",,Box Score,,Boston Celtics,W,,122,100,13,37,W 1,14758,2:33,,False,GSW,2000
+51,"Sun, Feb 20, 2000",,Box Score,,Washington Wizards,W,,112,103,14,37,W 2,13867,,,False,GSW,2000
+52,"Tue, Feb 22, 2000",,Box Score,@,Minnesota Timberwolves,L,,89,112,14,38,L 1,13992,,,False,GSW,2000
+53,"Wed, Feb 23, 2000",,Box Score,@,Milwaukee Bucks,W,,91,86,15,38,W 1,12864,,,False,GSW,2000
+54,"Fri, Feb 25, 2000",,Box Score,@,Detroit Pistons,L,,99,131,15,39,L 1,17599,,,False,GSW,2000
+55,"Sat, Feb 26, 2000",,Box Score,@,Indiana Pacers,L,,88,104,15,40,L 2,18345,,,False,GSW,2000
+56,"Mon, Feb 28, 2000",,Box Score,,Atlanta Hawks,W,,80,75,16,40,W 1,10263,,,False,GSW,2000
+57,"Fri, Mar 3, 2000",,Box Score,@,Denver Nuggets,L,,88,122,16,41,L 1,18152,,,False,GSW,2000
+58,"Sun, Mar 5, 2000",,Box Score,,Indiana Pacers,L,,95,114,16,42,L 2,15283,,,False,GSW,2000
+59,"Tue, Mar 7, 2000",,Box Score,,Charlotte Hornets,L,,99,102,16,43,L 3,10201,,,False,GSW,2000
+60,"Thu, Mar 9, 2000",,Box Score,,Los Angeles Lakers,L,,92,109,16,44,L 4,20136,,,False,GSW,2000
+61,"Fri, Mar 10, 2000",,Box Score,@,Seattle SuperSonics,L,,85,99,16,45,L 5,13522,,,False,GSW,2000
+62,"Sun, Mar 12, 2000",,Box Score,,Los Angeles Clippers,L,,103,112,16,46,L 6,10078,,,False,GSW,2000
+63,"Tue, Mar 14, 2000",,Box Score,@,Toronto Raptors,L,,78,85,16,47,L 7,19800,,,False,GSW,2000
+64,"Wed, Mar 15, 2000",,Box Score,@,Boston Celtics,L,,104,121,16,48,L 8,16109,2:23,,False,GSW,2000
+65,"Fri, Mar 17, 2000",,Box Score,@,Chicago Bulls,W,2OT,95,92,17,48,W 1,21898,,,False,GSW,2000
+66,"Sun, Mar 19, 2000",,Box Score,,Phoenix Suns,L,,82,99,17,49,L 1,12837,,,False,GSW,2000
+67,"Tue, Mar 21, 2000",,Box Score,@,Vancouver Grizzlies,L,,82,98,17,50,L 2,13555,,,False,GSW,2000
+68,"Wed, Mar 22, 2000",,Box Score,@,Los Angeles Lakers,L,,96,119,17,51,L 3,18843,,,False,GSW,2000
+69,"Fri, Mar 24, 2000",,Box Score,,Portland Trail Blazers,L,,83,96,17,52,L 4,15356,,,False,GSW,2000
+70,"Sun, Mar 26, 2000",,Box Score,@,Phoenix Suns,L,,82,90,17,53,L 5,19023,,,False,GSW,2000
+71,"Tue, Mar 28, 2000",,Box Score,@,Houston Rockets,L,,86,121,17,54,L 6,14496,,,False,GSW,2000
+72,"Thu, Mar 30, 2000",,Box Score,@,San Antonio Spurs,L,,90,102,17,55,L 7,18793,,,False,GSW,2000
+73,"Fri, Mar 31, 2000",,Box Score,@,Utah Jazz,L,,97,114,17,56,L 8,19911,,,False,GSW,2000
+74,"Sun, Apr 2, 2000",,Box Score,,Milwaukee Bucks,L,,113,117,17,57,L 9,10002,,,False,GSW,2000
+75,"Wed, Apr 5, 2000",,Box Score,,Los Angeles Lakers,L,,104,111,17,58,L 10,18621,,,False,GSW,2000
+76,"Fri, Apr 7, 2000",,Box Score,,Utah Jazz,L,,84,105,17,59,L 11,11321,,,False,GSW,2000
+77,"Sun, Apr 9, 2000",,Box Score,,Denver Nuggets,W,,117,103,18,59,W 1,11604,,,False,GSW,2000
+78,"Tue, Apr 11, 2000",,Box Score,,Vancouver Grizzlies,W,,109,97,19,59,W 2,10127,,,False,GSW,2000
+79,"Thu, Apr 13, 2000",,Box Score,@,Sacramento Kings,L,,107,130,19,60,L 1,17317,,,False,GSW,2000
+80,"Fri, Apr 14, 2000",,Box Score,@,Denver Nuggets,L,,97,105,19,61,L 2,13358,,,False,GSW,2000
+81,"Mon, Apr 17, 2000",,Box Score,,Minnesota Timberwolves,L,,96,101,19,62,L 3,11362,,,False,GSW,2000
+82,"Wed, Apr 19, 2000",,Box Score,,Phoenix Suns,L,,88,99,19,63,L 4,14212,,,False,GSW,2000

@@ -1,0 +1,83 @@
+G,Date,Start (ET),Unnamed: 3,Unnamed: 4,Unnamed: 5,Opponent,Unnamed: 7,Unnamed: 8,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Wed, Oct 26, 2016",7:30p,,Box Score,@,Boston Celtics,L,,117,122,0,1,L 1,18624,2:21,,False,BRK,2017
+2,"Fri, Oct 28, 2016",7:30p,,Box Score,,Indiana Pacers,W,,103,94,1,1,W 1,17732,2:14,,False,BRK,2017
+3,"Sat, Oct 29, 2016",8:00p,,Box Score,@,Milwaukee Bucks,L,,108,110,1,2,L 1,12570,2:14,,False,BRK,2017
+4,"Mon, Oct 31, 2016",7:30p,,Box Score,,Chicago Bulls,L,,88,118,1,3,L 2,15842,2:02,,False,BRK,2017
+5,"Wed, Nov 2, 2016",7:30p,,Box Score,,Detroit Pistons,W,,109,101,2,3,W 1,13650,2:16,,False,BRK,2017
+6,"Fri, Nov 4, 2016",7:30p,,Box Score,,Charlotte Hornets,L,,95,99,2,4,L 1,15775,2:16,,False,BRK,2017
+7,"Tue, Nov 8, 2016",7:30p,,Box Score,,Minnesota Timberwolves,W,,119,110,3,4,W 1,13610,2:13,,False,BRK,2017
+8,"Wed, Nov 9, 2016",7:00p,,Box Score,@,New York Knicks,L,,96,110,3,5,L 1,19812,2:19,,False,BRK,2017
+9,"Sat, Nov 12, 2016",9:00p,,Box Score,@,Phoenix Suns,W,,122,104,4,5,W 1,17126,2:13,,False,BRK,2017
+10,"Mon, Nov 14, 2016",10:30p,,Box Score,@,Los Angeles Clippers,L,,95,127,4,6,L 1,19060,2:06,,False,BRK,2017
+11,"Tue, Nov 15, 2016",10:30p,,Box Score,@,Los Angeles Lakers,L,,118,125,4,7,L 2,18426,2:17,,False,BRK,2017
+12,"Fri, Nov 18, 2016",8:00p,,Box Score,@,Oklahoma City Thunder,L,,105,124,4,8,L 3,18203,2:16,,False,BRK,2017
+13,"Sun, Nov 20, 2016",3:30p,,Box Score,,Portland Trail Blazers,L,,109,129,4,9,L 4,16608,2:10,,False,BRK,2017
+14,"Wed, Nov 23, 2016",7:30p,,Box Score,,Boston Celtics,L,,92,111,4,10,L 5,16210,2:09,,False,BRK,2017
+15,"Fri, Nov 25, 2016",8:00p,,Box Score,@,Indiana Pacers,L,,97,118,4,11,L 6,16083,1:59,,False,BRK,2017
+16,"Sun, Nov 27, 2016",6:00p,,Box Score,,Sacramento Kings,L,,105,122,4,12,L 7,13646,2:15,,False,BRK,2017
+17,"Tue, Nov 29, 2016",7:30p,,Box Score,,Los Angeles Clippers,W,2OT,127,122,5,12,W 1,15681,3:04,,False,BRK,2017
+18,"Thu, Dec 1, 2016",7:30p,,Box Score,,Milwaukee Bucks,L,,93,111,5,13,L 1,12675,2:13,,False,BRK,2017
+19,"Sat, Dec 3, 2016",5:00p,,Box Score,@,Milwaukee Bucks,L,,103,112,5,14,L 2,15565,2:21,,False,BRK,2017
+20,"Mon, Dec 5, 2016",7:30p,,Box Score,,Washington Wizards,L,,113,118,5,15,L 3,12529,2:15,,False,BRK,2017
+21,"Wed, Dec 7, 2016",7:30p,,Box Score,,Denver Nuggets,W,,116,111,6,15,W 1,14159,2:18,,False,BRK,2017
+22,"Sat, Dec 10, 2016",8:30p,,Box Score,@,San Antonio Spurs,L,,101,130,6,16,L 1,18418,2:07,,False,BRK,2017
+23,"Mon, Dec 12, 2016",8:00p,,Box Score,@,Houston Rockets,L,,118,122,6,17,L 2,13619,2:23,,False,BRK,2017
+24,"Wed, Dec 14, 2016",7:30p,,Box Score,,Los Angeles Lakers,W,,107,97,7,17,W 1,17732,2:22,,False,BRK,2017
+25,"Fri, Dec 16, 2016",7:00p,,Box Score,@,Orlando Magic,L,,111,118,7,18,L 1,17668,2:25,,False,BRK,2017
+26,"Sun, Dec 18, 2016",6:00p,,Box Score,@,Philadelphia 76ers,L,,107,108,7,19,L 2,16460,2:25,,False,BRK,2017
+27,"Tue, Dec 20, 2016",7:30p,,Box Score,@,Toronto Raptors,L,,104,116,7,20,L 3,19800,2:08,,False,BRK,2017
+28,"Thu, Dec 22, 2016",7:30p,,Box Score,,Golden State Warriors,L,,101,117,7,21,L 4,17732,2:07,,False,BRK,2017
+29,"Fri, Dec 23, 2016",7:30p,,Box Score,@,Cleveland Cavaliers,L,,99,119,7,22,L 5,20562,2:08,,False,BRK,2017
+30,"Mon, Dec 26, 2016",7:30p,,Box Score,,Charlotte Hornets,W,,120,118,8,22,W 1,17732,2:16,,False,BRK,2017
+31,"Wed, Dec 28, 2016",8:00p,,Box Score,@,Chicago Bulls,L,,99,101,8,23,L 1,21957,2:19,,False,BRK,2017
+32,"Fri, Dec 30, 2016",7:00p,,Box Score,@,Washington Wizards,L,,95,118,8,24,L 2,16461,2:08,,False,BRK,2017
+33,"Mon, Jan 2, 2017",7:30p,,Box Score,,Utah Jazz,L,,89,101,8,25,L 3,15634,2:11,,False,BRK,2017
+34,"Thu, Jan 5, 2017",7:00p,,Box Score,@,Indiana Pacers,L,,109,121,8,26,L 4,16421,1:59,,False,BRK,2017
+35,"Fri, Jan 6, 2017",7:30p,,Box Score,,Cleveland Cavaliers,L,,108,116,8,27,L 5,17732,2:23,,False,BRK,2017
+36,"Sun, Jan 8, 2017",12:00p,,Box Score,,Philadelphia 76ers,L,,95,105,8,28,L 6,16123,2:19,,False,BRK,2017
+37,"Tue, Jan 10, 2017",7:30p,,Box Score,,Atlanta Hawks,L,,97,117,8,29,L 7,13279,2:12,,False,BRK,2017
+38,"Thu, Jan 12, 2017",7:30p,,Box Score,,New Orleans Pelicans,L,,95,104,8,30,L 8,14352,2:12,,False,BRK,2017
+39,"Fri, Jan 13, 2017",7:30p,,Box Score,@,Toronto Raptors,L,,113,132,8,31,L 9,19800,2:04,,False,BRK,2017
+40,"Sun, Jan 15, 2017",6:00p,,Box Score,,Houston Rockets,L,,112,137,8,32,L 10,17732,2:08,,False,BRK,2017
+41,"Tue, Jan 17, 2017",7:30p,,Box Score,,Toronto Raptors,L,,109,119,8,33,L 11,12874,2:05,,False,BRK,2017
+42,"Fri, Jan 20, 2017",8:00p,,Box Score,@,New Orleans Pelicans,W,,143,114,9,33,W 1,17004,2:05,,False,BRK,2017
+43,"Sat, Jan 21, 2017",7:00p,,Box Score,@,Charlotte Hornets,L,,105,112,9,34,L 1,18583,2:11,,False,BRK,2017
+44,"Mon, Jan 23, 2017",7:30p,,Box Score,,San Antonio Spurs,L,,86,112,9,35,L 2,16643,2:06,,False,BRK,2017
+45,"Wed, Jan 25, 2017",7:30p,,Box Score,,Miami Heat,L,,106,109,9,36,L 3,14929,2:17,,False,BRK,2017
+46,"Fri, Jan 27, 2017",7:30p,,Box Score,@,Cleveland Cavaliers,L,,116,124,9,37,L 4,20562,2:00,,False,BRK,2017
+47,"Sat, Jan 28, 2017",9:00p,,Box Score,@,Minnesota Timberwolves,L,,109,129,9,38,L 5,14798,2:08,,False,BRK,2017
+48,"Mon, Jan 30, 2017",7:30p,,Box Score,@,Miami Heat,L,,96,104,9,39,L 6,19600,2:14,,False,BRK,2017
+49,"Wed, Feb 1, 2017",7:30p,,Box Score,,New York Knicks,L,,90,95,9,40,L 7,17732,2:15,,False,BRK,2017
+50,"Fri, Feb 3, 2017",7:30p,,Box Score,,Indiana Pacers,L,,97,106,9,41,L 8,14557,2:18,,False,BRK,2017
+51,"Sun, Feb 5, 2017",12:00p,,Box Score,,Toronto Raptors,L,,95,103,9,42,L 9,14245,2:15,,False,BRK,2017
+52,"Tue, Feb 7, 2017",7:00p,,Box Score,@,Charlotte Hornets,L,,107,111,9,43,L 10,15322,2:17,,False,BRK,2017
+53,"Wed, Feb 8, 2017",7:30p,,Box Score,,Washington Wizards,L,OT,110,114,9,44,L 11,13179,2:40,,False,BRK,2017
+54,"Fri, Feb 10, 2017",7:30p,,Box Score,,Miami Heat,L,,99,108,9,45,L 12,15382,2:14,,False,BRK,2017
+55,"Mon, Feb 13, 2017",7:30p,,Box Score,,Memphis Grizzlies,L,,103,112,9,46,L 13,13597,2:09,,False,BRK,2017
+56,"Wed, Feb 15, 2017",7:30p,,Box Score,,Milwaukee Bucks,L,,125,129,9,47,L 14,16182,2:14,,False,BRK,2017
+57,"Fri, Feb 24, 2017",9:00p,,Box Score,@,Denver Nuggets,L,,109,129,9,48,L 15,17143,2:11,,False,BRK,2017
+58,"Sat, Feb 25, 2017",10:30p,,Box Score,@,Golden State Warriors,L,,95,112,9,49,L 16,19596,2:06,,False,BRK,2017
+59,"Wed, Mar 1, 2017",10:30p,,Box Score,@,Sacramento Kings,W,,109,100,10,49,W 1,17608,2:26,,False,BRK,2017
+60,"Fri, Mar 3, 2017",9:00p,,Box Score,@,Utah Jazz,L,,97,112,10,50,L 1,19911,2:16,,False,BRK,2017
+61,"Sat, Mar 4, 2017",10:00p,,Box Score,@,Portland Trail Blazers,L,,116,130,10,51,L 2,19638,2:07,,False,BRK,2017
+62,"Mon, Mar 6, 2017",8:00p,,Box Score,@,Memphis Grizzlies,W,,122,109,11,51,W 1,15505,2:30,,False,BRK,2017
+63,"Wed, Mar 8, 2017",7:30p,,Box Score,@,Atlanta Hawks,L,,105,110,11,52,L 1,11931,2:19,,False,BRK,2017
+64,"Fri, Mar 10, 2017",9:00p,,Box Score,@,Dallas Mavericks,L,,96,105,11,53,L 2,20022,2:13,,False,BRK,2017
+65,"Sun, Mar 12, 2017",6:00p,,Box Score,,New York Knicks,W,,120,112,12,53,W 1,17732,2:14,,False,BRK,2017
+66,"Tue, Mar 14, 2017",7:30p,,Box Score,,Oklahoma City Thunder,L,,104,122,12,54,L 1,13911,2:16,,False,BRK,2017
+67,"Thu, Mar 16, 2017",7:30p,,Box Score,@,New York Knicks,W,,121,110,13,54,W 1,19812,2:22,,False,BRK,2017
+68,"Fri, Mar 17, 2017",7:30p,,Box Score,,Boston Celtics,L,,95,98,13,55,L 1,17732,2:22,,False,BRK,2017
+69,"Sun, Mar 19, 2017",12:00p,,Box Score,,Dallas Mavericks,L,,104,111,13,56,L 2,14045,2:21,,False,BRK,2017
+70,"Tue, Mar 21, 2017",7:30p,,Box Score,,Detroit Pistons,W,,98,96,14,56,W 1,14343,2:05,,False,BRK,2017
+71,"Thu, Mar 23, 2017",7:30p,,Box Score,,Phoenix Suns,W,,126,98,15,56,W 2,15141,2:18,,False,BRK,2017
+72,"Fri, Mar 24, 2017",7:00p,,Box Score,@,Washington Wizards,L,,108,129,15,57,L 1,19616,2:03,,False,BRK,2017
+73,"Sun, Mar 26, 2017",1:00p,,Box Score,@,Atlanta Hawks,W,,107,92,16,57,W 1,15921,2:17,,False,BRK,2017
+74,"Tue, Mar 28, 2017",7:30p,,Box Score,,Philadelphia 76ers,L,,101,106,16,58,L 1,15471,2:16,,False,BRK,2017
+75,"Thu, Mar 30, 2017",7:30p,,Box Score,@,Detroit Pistons,L,,89,90,16,59,L 2,15804,2:08,,False,BRK,2017
+76,"Sat, Apr 1, 2017",6:00p,,Box Score,,Orlando Magic,W,,121,111,17,59,W 1,15976,2:00,,False,BRK,2017
+77,"Sun, Apr 2, 2017",6:00p,,Box Score,,Atlanta Hawks,W,,91,82,18,59,W 2,15040,2:16,,False,BRK,2017
+78,"Tue, Apr 4, 2017",7:00p,,Box Score,@,Philadelphia 76ers,W,,141,118,19,59,W 3,14580,2:13,,False,BRK,2017
+79,"Thu, Apr 6, 2017",7:00p,,Box Score,@,Orlando Magic,L,,107,115,19,60,L 1,18095,2:12,,False,BRK,2017
+80,"Sat, Apr 8, 2017",5:00p,,Box Score,,Chicago Bulls,W,,107,106,20,60,W 1,17732,2:06,,False,BRK,2017
+81,"Mon, Apr 10, 2017",7:30p,,Box Score,@,Boston Celtics,L,,105,114,20,61,L 1,18624,2:11,,False,BRK,2017
+82,"Wed, Apr 12, 2017",8:00p,,Box Score,@,Chicago Bulls,L,,73,112,20,62,L 2,21648,2:00,,False,BRK,2017

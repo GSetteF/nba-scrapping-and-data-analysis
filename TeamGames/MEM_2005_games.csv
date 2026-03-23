@@ -1,0 +1,87 @@
+G,Date,Start (ET),Unnamed: 3,Unnamed: 4,Unnamed: 5,Opponent,Unnamed: 7,Unnamed: 8,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Wed, Nov 3, 2004",8:00p,,Box Score,,Washington Wizards,L,,91,103,0,1,L 1,18119,,,False,MEM,2005
+2,"Fri, Nov 5, 2004",8:00p,,Box Score,,Houston Rockets,L,,81,89,0,2,L 2,18119,,,False,MEM,2005
+3,"Sat, Nov 6, 2004",8:30p,,Box Score,@,Dallas Mavericks,L,,88,112,0,3,L 3,19796,,,False,MEM,2005
+4,"Tue, Nov 9, 2004",8:30p,,Box Score,@,Houston Rockets,L,,87,90,0,4,L 4,11568,,,False,MEM,2005
+5,"Wed, Nov 10, 2004",8:00p,,Box Score,,Los Angeles Lakers,W,,110,87,1,4,W 1,18119,,,False,MEM,2005
+6,"Fri, Nov 12, 2004",8:00p,,Box Score,,Golden State Warriors,W,,96,67,2,4,W 2,17086,,,False,MEM,2005
+7,"Sun, Nov 14, 2004",8:00p,,Box Score,@,Seattle SuperSonics,L,,113,118,2,5,L 1,12302,,,False,MEM,2005
+8,"Wed, Nov 17, 2004",10:00p,,Box Score,@,Portland Trail Blazers,W,,101,82,3,5,W 1,14176,,,False,MEM,2005
+9,"Fri, Nov 19, 2004",10:30p,,Box Score,@,Sacramento Kings,L,,105,107,3,6,L 1,17317,,,False,MEM,2005
+10,"Sat, Nov 20, 2004",10:30p,,Box Score,@,Golden State Warriors,W,,100,87,4,6,W 1,16164,,,False,MEM,2005
+11,"Mon, Nov 22, 2004",8:00p,,Box Score,,San Antonio Spurs,W,,93,90,5,6,W 2,16127,,,False,MEM,2005
+12,"Wed, Nov 24, 2004",8:00p,,Box Score,,Seattle SuperSonics,L,,84,93,5,7,L 1,15542,,,False,MEM,2005
+13,"Fri, Nov 26, 2004",8:00p,,Box Score,@,Minnesota Timberwolves,L,,90,115,5,8,L 2,17985,,,False,MEM,2005
+14,"Sat, Nov 27, 2004",8:00p,,Box Score,,Dallas Mavericks,L,,85,98,5,9,L 3,18119,,,False,MEM,2005
+15,"Tue, Nov 30, 2004",8:00p,,Box Score,,Sacramento Kings,L,,93,98,5,10,L 4,14192,,,False,MEM,2005
+16,"Wed, Dec 1, 2004",7:30p,,Box Score,@,New York Knicks,L,,82,90,5,11,L 5,17858,,,False,MEM,2005
+17,"Fri, Dec 3, 2004",8:00p,,Box Score,,Philadelphia 76ers,W,,94,86,6,11,W 1,16806,,,False,MEM,2005
+18,"Sat, Dec 4, 2004",7:00p,,Box Score,@,Orlando Magic,L,,91,96,6,12,L 1,14518,,,False,MEM,2005
+19,"Tue, Dec 7, 2004",8:00p,,Box Score,,New York Knicks,W,,96,88,7,12,W 1,15241,,,False,MEM,2005
+20,"Wed, Dec 8, 2004",7:30p,,Box Score,@,Atlanta Hawks,W,,97,89,8,12,W 2,7271,,,False,MEM,2005
+21,"Fri, Dec 10, 2004",7:30p,,Box Score,@,Miami Heat,L,,84,92,8,13,L 1,19600,,,False,MEM,2005
+22,"Sat, Dec 11, 2004",8:00p,,Box Score,,Detroit Pistons,W,,72,68,9,13,W 1,18119,,,False,MEM,2005
+23,"Mon, Dec 13, 2004",8:00p,,Box Score,,Cleveland Cavaliers,L,,86,92,9,14,L 1,15516,,,False,MEM,2005
+24,"Wed, Dec 15, 2004",8:00p,,Box Score,,Chicago Bulls,L,,88,96,9,15,L 2,14163,,,False,MEM,2005
+25,"Fri, Dec 17, 2004",8:00p,,Box Score,,New Jersey Nets,W,,89,84,10,15,W 1,18119,,,False,MEM,2005
+26,"Sun, Dec 19, 2004",9:30p,,Box Score,@,Los Angeles Clippers,W,,92,82,11,15,W 2,16297,,,False,MEM,2005
+27,"Mon, Dec 20, 2004",10:30p,,Box Score,@,Los Angeles Lakers,W,,82,72,12,15,W 3,18997,,,False,MEM,2005
+28,"Wed, Dec 22, 2004",10:00p,,Box Score,@,Golden State Warriors,L,,99,109,12,16,L 1,15389,,,False,MEM,2005
+29,"Thu, Dec 23, 2004",9:00p,,Box Score,@,Phoenix Suns,L,,102,109,12,17,L 2,17422,,,False,MEM,2005
+30,"Mon, Dec 27, 2004",8:00p,,Box Score,,Los Angeles Clippers,W,,96,76,13,17,W 1,15273,,,False,MEM,2005
+31,"Wed, Dec 29, 2004",8:00p,,Box Score,,Boston Celtics,W,,117,109,14,17,W 2,18119,2:21,,False,MEM,2005
+32,"Sat, Jan 1, 2005",8:00p,,Box Score,@,Minnesota Timberwolves,W,,104,95,15,17,W 3,16577,,,False,MEM,2005
+33,"Mon, Jan 3, 2005",8:00p,,Box Score,,Utah Jazz,W,,92,82,16,17,W 4,14293,,,False,MEM,2005
+34,"Thu, Jan 6, 2005",7:30p,,Box Score,@,Detroit Pistons,W,,101,79,17,17,W 5,22076,,,False,MEM,2005
+35,"Fri, Jan 7, 2005",8:00p,,Box Score,,New Orleans Hornets,W,,84,76,18,17,W 6,15317,,,False,MEM,2005
+36,"Tue, Jan 11, 2005",8:00p,,Box Score,,Indiana Pacers,L,,85,86,18,18,L 1,16171,,,False,MEM,2005
+37,"Fri, Jan 14, 2005",7:00p,,Box Score,@,Charlotte Bobcats,W,,109,89,19,18,W 1,17447,,,False,MEM,2005
+38,"Sat, Jan 15, 2005",8:00p,,Box Score,,Milwaukee Bucks,W,,101,82,20,18,W 2,17539,,,False,MEM,2005
+39,"Mon, Jan 17, 2005",8:00p,,Box Score,,Houston Rockets,W,,99,80,21,18,W 3,18119,,,False,MEM,2005
+40,"Wed, Jan 19, 2005",9:00p,,Box Score,@,Phoenix Suns,W,,88,79,22,18,W 4,18422,,,False,MEM,2005
+41,"Fri, Jan 21, 2005",10:30p,,Box Score,@,Denver Nuggets,L,,82,92,22,19,L 1,18056,,,False,MEM,2005
+42,"Sat, Jan 22, 2005",9:00p,,Box Score,@,Utah Jazz,W,,110,94,23,19,W 1,19707,,,False,MEM,2005
+43,"Tue, Jan 25, 2005",8:00p,,Box Score,,Orlando Magic,W,,95,83,24,19,W 2,16173,,,False,MEM,2005
+44,"Wed, Jan 26, 2005",7:00p,,Box Score,@,Cleveland Cavaliers,L,,111,114,24,20,L 1,17057,,,False,MEM,2005
+45,"Sat, Jan 29, 2005",8:00p,,Box Score,,Atlanta Hawks,W,,84,83,25,20,W 1,18119,,,False,MEM,2005
+46,"Mon, Jan 31, 2005",8:00p,,Box Score,@,New Orleans Hornets,W,,98,91,26,20,W 2,11610,,,False,MEM,2005
+47,"Tue, Feb 1, 2005",8:00p,,Box Score,,Phoenix Suns,W,,108,97,27,20,W 3,16637,,,False,MEM,2005
+48,"Thu, Feb 3, 2005",8:00p,,Box Score,,Los Angeles Clippers,L,,103,106,27,21,L 1,14697,,,False,MEM,2005
+49,"Tue, Feb 8, 2005",8:00p,,Box Score,,Minnesota Timberwolves,W,,108,96,28,21,W 1,16169,,,False,MEM,2005
+50,"Wed, Feb 9, 2005",7:00p,,Box Score,@,Philadelphia 76ers,W,,98,95,29,21,W 2,14499,,,False,MEM,2005
+51,"Fri, Feb 11, 2005",8:00p,,Box Score,,Portland Trail Blazers,W,,88,82,30,21,W 3,18119,,,False,MEM,2005
+52,"Sun, Feb 13, 2005",6:00p,,Box Score,@,Indiana Pacers,L,,73,76,30,22,L 1,17290,,,False,MEM,2005
+53,"Wed, Feb 16, 2005",7:00p,,Box Score,@,Boston Celtics,L,,88,90,30,23,L 2,13078,2:26,,False,MEM,2005
+54,"Wed, Feb 23, 2005",7:00p,,Box Score,@,Washington Wizards,L,,83,93,30,24,L 3,15705,,,False,MEM,2005
+55,"Fri, Feb 25, 2005",8:00p,,Box Score,,Denver Nuggets,L,OT,94,97,30,25,L 4,18119,,,False,MEM,2005
+56,"Sat, Feb 26, 2005",8:30p,,Box Score,@,San Antonio Spurs,W,,84,82,31,25,W 1,18797,,,False,MEM,2005
+57,"Tue, Mar 1, 2005",2:00p,,Box Score,,Golden State Warriors,W,,99,97,32,25,W 2,14209,,,False,MEM,2005
+58,"Fri, Mar 4, 2005",8:00p,,Box Score,,Toronto Raptors,W,,86,75,33,25,W 3,18119,,,False,MEM,2005
+59,"Mon, Mar 7, 2005",10:30p,,Box Score,@,Los Angeles Clippers,W,,105,102,34,25,W 4,15754,,,False,MEM,2005
+60,"Tue, Mar 8, 2005",10:00p,,Box Score,@,Sacramento Kings,L,,82,85,34,26,L 1,17317,,,False,MEM,2005
+61,"Fri, Mar 11, 2005",9:00p,,Box Score,@,Utah Jazz,W,,94,82,35,26,W 1,18468,,,False,MEM,2005
+62,"Sat, Mar 12, 2005",10:00p,,Box Score,@,Portland Trail Blazers,L,,66,80,35,27,L 1,17553,,,False,MEM,2005
+63,"Mon, Mar 14, 2005",8:00p,,Box Score,,Portland Trail Blazers,W,,104,83,36,27,W 1,16165,,,False,MEM,2005
+64,"Wed, Mar 16, 2005",8:00p,,Box Score,@,New Orleans Hornets,W,,88,82,37,27,W 2,14164,,,False,MEM,2005
+65,"Fri, Mar 18, 2005",8:00p,,Box Score,,Minnesota Timberwolves,W,,88,83,38,27,W 3,18119,,,False,MEM,2005
+66,"Sun, Mar 20, 2005",3:30p,,Box Score,,Phoenix Suns,L,,91,97,38,28,L 1,18119,,,False,MEM,2005
+67,"Thu, Mar 24, 2005",7:30p,,Box Score,@,New Jersey Nets,W,,105,96,39,28,W 1,13732,,,False,MEM,2005
+68,"Sat, Mar 26, 2005",8:00p,,Box Score,,New Orleans Hornets,L,,85,96,39,29,L 1,18119,,,False,MEM,2005
+69,"Mon, Mar 28, 2005",8:30p,,Box Score,@,Chicago Bulls,L,,86,94,39,30,L 2,21935,,,False,MEM,2005
+70,"Tue, Mar 29, 2005",8:00p,,Box Score,,Seattle SuperSonics,L,,99,102,39,31,L 3,17256,,,False,MEM,2005
+71,"Fri, Apr 1, 2005",8:30p,,Box Score,@,Milwaukee Bucks,W,,93,82,40,31,W 1,14983,,,False,MEM,2005
+72,"Sun, Apr 3, 2005",8:00p,,Box Score,,Los Angeles Lakers,W,,102,82,41,31,W 2,18119,,,False,MEM,2005
+73,"Tue, Apr 5, 2005",8:00p,,Box Score,,Denver Nuggets,L,,91,94,41,32,L 1,18119,,,False,MEM,2005
+74,"Wed, Apr 6, 2005",7:00p,,Box Score,@,Toronto Raptors,W,,104,74,42,32,W 1,14964,,,False,MEM,2005
+75,"Fri, Apr 8, 2005",8:00p,,Box Score,,Miami Heat,W,,97,81,43,32,W 2,18119,,,False,MEM,2005
+76,"Sun, Apr 10, 2005",8:00p,,Box Score,,Charlotte Bobcats,W,,102,95,44,32,W 3,16953,,,False,MEM,2005
+77,"Mon, Apr 11, 2005",8:30p,,Box Score,@,Dallas Mavericks,L,,89,110,44,33,L 1,20044,,,False,MEM,2005
+78,"Wed, Apr 13, 2005",8:30p,,Box Score,@,Houston Rockets,L,,92,100,44,34,L 2,17060,,,False,MEM,2005
+79,"Fri, Apr 15, 2005",9:00p,,Box Score,@,Denver Nuggets,L,,102,111,44,35,L 3,19735,,,False,MEM,2005
+80,"Sat, Apr 16, 2005",8:30p,,Box Score,@,San Antonio Spurs,L,,75,97,44,36,L 4,18797,,,False,MEM,2005
+81,"Mon, Apr 18, 2005",8:00p,,Box Score,,San Antonio Spurs,W,,94,92,45,36,W 1,17183,,,False,MEM,2005
+82,"Wed, Apr 20, 2005",8:00p,,Box Score,,Dallas Mavericks,L,,88,108,45,37,L 1,16512,,,False,MEM,2005
+1,"Sun, Apr 24, 2005",10:30p,,Box Score,@,Phoenix Suns,L,,103,114,0,1,L 1,18422,,,True,MEM,2005
+2,"Wed, Apr 27, 2005",10:30p,,Box Score,@,Phoenix Suns,L,,103,108,0,2,L 2,18422,,,True,MEM,2005
+3,"Fri, Apr 29, 2005",9:00p,,Box Score,,Phoenix Suns,L,,90,110,0,3,L 3,18119,,,True,MEM,2005
+4,"Sun, May 1, 2005",8:00p,,Box Score,,Phoenix Suns,L,,115,123,0,4,L 4,17243,,,True,MEM,2005

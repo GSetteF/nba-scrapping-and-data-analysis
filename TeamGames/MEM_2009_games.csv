@@ -1,0 +1,83 @@
+G,Date,Start (ET),Unnamed: 3,Unnamed: 4,Unnamed: 5,Opponent,Unnamed: 7,Unnamed: 8,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Wed, Oct 29, 2008",8:30p,,Box Score,@,Houston Rockets,L,,71,82,0,1,L 1,18196,2:16,,False,MEM,2009
+2,"Fri, Oct 31, 2008",8:00p,,Box Score,,Orlando Magic,W,,86,84,1,1,W 1,16139,2:34,,False,MEM,2009
+3,"Sat, Nov 1, 2008",8:30p,,Box Score,@,Chicago Bulls,L,,86,96,1,2,L 1,21785,2:20,,False,MEM,2009
+4,"Mon, Nov 3, 2008",8:00p,,Box Score,,Golden State Warriors,W,,90,79,2,2,W 1,10121,2:08,,False,MEM,2009
+5,"Wed, Nov 5, 2008",10:00p,,Box Score,@,Sacramento Kings,L,,95,100,2,3,L 1,13685,2:32,,False,MEM,2009
+6,"Fri, Nov 7, 2008",10:30p,,Box Score,@,Golden State Warriors,W,,109,104,3,3,W 1,18744,2:33,,False,MEM,2009
+7,"Sun, Nov 9, 2008",8:00p,,Box Score,@,Denver Nuggets,L,,90,100,3,4,L 1,14359,2:34,,False,MEM,2009
+8,"Mon, Nov 10, 2008",9:00p,,Box Score,@,Phoenix Suns,L,,102,107,3,5,L 2,18422,2:24,,False,MEM,2009
+9,"Wed, Nov 12, 2008",8:00p,,Box Score,,New York Knicks,L,,103,132,3,6,L 3,10129,1:56,,False,MEM,2009
+10,"Fri, Nov 14, 2008",8:00p,,Box Score,,Milwaukee Bucks,L,OT,96,101,3,7,L 4,11308,2:42,,False,MEM,2009
+11,"Tue, Nov 18, 2008",8:00p,,Box Score,,Sacramento Kings,W,,109,94,4,7,W 1,10834,2:14,,False,MEM,2009
+12,"Fri, Nov 21, 2008",8:30p,,Box Score,@,Dallas Mavericks,L,,76,91,4,8,L 1,20035,2:13,,False,MEM,2009
+13,"Sat, Nov 22, 2008",8:00p,,Box Score,,Utah Jazz,L,,94,103,4,9,L 2,13121,2:11,,False,MEM,2009
+14,"Mon, Nov 24, 2008",8:00p,,Box Score,,San Antonio Spurs,L,,81,94,4,10,L 3,12053,2:12,,False,MEM,2009
+15,"Wed, Nov 26, 2008",9:00p,,Box Score,@,Utah Jazz,L,,100,117,4,11,L 4,19911,2:13,,False,MEM,2009
+16,"Fri, Nov 28, 2008",8:30p,,Box Score,@,San Antonio Spurs,L,,98,109,4,12,L 5,17074,2:08,,False,MEM,2009
+17,"Sat, Nov 29, 2008",8:00p,,Box Score,,Oklahoma City Thunder,L,,103,111,4,13,L 6,11977,2:14,,False,MEM,2009
+18,"Wed, Dec 3, 2008",7:00p,,Box Score,@,Atlanta Hawks,L,,95,105,4,14,L 7,12088,2:18,,False,MEM,2009
+19,"Fri, Dec 5, 2008",8:00p,,Box Score,,Los Angeles Clippers,W,,93,81,5,14,W 1,10484,2:01,,False,MEM,2009
+20,"Sat, Dec 6, 2008",8:00p,,Box Score,@,New Orleans Hornets,L,,87,106,5,15,L 1,16822,2:14,,False,MEM,2009
+21,"Mon, Dec 8, 2008",8:00p,,Box Score,,Houston Rockets,W,,109,97,6,15,W 1,10691,2:15,,False,MEM,2009
+22,"Wed, Dec 10, 2008",8:00p,,Box Score,@,Oklahoma City Thunder,W,,108,102,7,15,W 2,18009,2:21,,False,MEM,2009
+23,"Fri, Dec 12, 2008",8:00p,,Box Score,,Chicago Bulls,W,,103,96,8,15,W 3,17132,2:14,,False,MEM,2009
+24,"Sun, Dec 14, 2008",4:00p,,Box Score,,Miami Heat,W,,102,86,9,15,W 4,12271,2:14,,False,MEM,2009
+25,"Tue, Dec 16, 2008",8:00p,,Box Score,,New Orleans Hornets,L,,84,91,9,16,L 1,10231,2:17,,False,MEM,2009
+26,"Fri, Dec 19, 2008",8:00p,,Box Score,,Charlotte Bobcats,L,,83,112,9,17,L 2,11869,2:04,,False,MEM,2009
+27,"Mon, Dec 22, 2008",8:00p,,Box Score,,Los Angeles Lakers,L,,96,105,9,18,L 3,17456,2:22,,False,MEM,2009
+28,"Tue, Dec 23, 2008",8:30p,,Box Score,@,Dallas Mavericks,L,,82,100,9,19,L 4,20200,2:10,,False,MEM,2009
+29,"Fri, Dec 26, 2008",8:00p,,Box Score,,Indiana Pacers,W,,108,105,10,19,W 1,12346,2:23,,False,MEM,2009
+30,"Sat, Dec 27, 2008",8:30p,,Box Score,@,San Antonio Spurs,L,2OT,103,106,10,20,L 1,18797,2:51,,False,MEM,2009
+31,"Mon, Dec 29, 2008",8:00p,,Box Score,@,Minnesota Timberwolves,L,OT,98,108,10,21,L 2,12207,2:39,,False,MEM,2009
+32,"Tue, Dec 30, 2008",8:00p,,Box Score,,Phoenix Suns,L,,89,101,10,22,L 3,14471,2:25,,False,MEM,2009
+33,"Fri, Jan 2, 2009",8:00p,,Box Score,,San Antonio Spurs,L,,80,91,10,23,L 4,12597,2:14,,False,MEM,2009
+34,"Sun, Jan 4, 2009",4:00p,,Box Score,,Dallas Mavericks,W,,102,82,11,23,W 1,11731,2:09,,False,MEM,2009
+35,"Tue, Jan 6, 2009",8:00p,,Box Score,,Minnesota Timberwolves,L,,87,94,11,24,L 1,10156,2:22,,False,MEM,2009
+36,"Wed, Jan 7, 2009",7:30p,,Box Score,@,New Jersey Nets,L,,89,100,11,25,L 2,11552,2:12,,False,MEM,2009
+37,"Fri, Jan 9, 2009",7:00p,,Box Score,@,Toronto Raptors,L,,82,103,11,26,L 3,18486,2:16,,False,MEM,2009
+38,"Tue, Jan 13, 2009",8:00p,,Box Score,,Cleveland Cavaliers,L,,87,102,11,27,L 4,15121,2:21,,False,MEM,2009
+39,"Fri, Jan 16, 2009",8:00p,,Box Score,,Utah Jazz,L,,91,101,11,28,L 5,10422,2:17,,False,MEM,2009
+40,"Mon, Jan 19, 2009",5:30p,,Box Score,,Detroit Pistons,L,,79,87,11,29,L 6,17483,2:28,,False,MEM,2009
+41,"Wed, Jan 21, 2009",7:00p,,Box Score,@,Charlotte Bobcats,L,,86,101,11,30,L 7,11249,2:15,,False,MEM,2009
+42,"Fri, Jan 23, 2009",7:30p,,Box Score,@,New York Knicks,L,,88,108,11,31,L 8,18391,2:16,,False,MEM,2009
+43,"Sat, Jan 24, 2009",8:00p,,Box Score,,New Jersey Nets,L,,88,99,11,32,L 9,12817,2:15,,False,MEM,2009
+44,"Tue, Jan 27, 2009",8:00p,,Box Score,,Denver Nuggets,L,,85,100,11,33,L 10,11338,2:30,,False,MEM,2009
+45,"Wed, Jan 28, 2009",8:00p,,Box Score,@,Oklahoma City Thunder,L,OT,102,114,11,34,L 11,18450,2:33,,False,MEM,2009
+46,"Sat, Jan 31, 2009",8:00p,,Box Score,,Los Angeles Lakers,L,,98,115,11,35,L 12,18119,2:18,,False,MEM,2009
+47,"Mon, Feb 2, 2009",7:00p,,Box Score,@,Washington Wizards,W,,113,97,12,35,W 1,11442,2:21,,False,MEM,2009
+48,"Wed, Feb 4, 2009",8:00p,,Box Score,,Houston Rockets,W,,104,93,13,35,W 2,10109,2:10,,False,MEM,2009
+49,"Fri, Feb 6, 2009",8:00p,,Box Score,,Los Angeles Clippers,L,,105,126,13,36,L 1,10912,2:19,,False,MEM,2009
+50,"Sat, Feb 7, 2009",8:00p,,Box Score,,Toronto Raptors,W,,78,70,14,36,W 1,11498,2:11,,False,MEM,2009
+51,"Mon, Feb 9, 2009",8:00p,,Box Score,,New Orleans Hornets,W,,85,80,15,36,W 2,10896,2:25,,False,MEM,2009
+52,"Wed, Feb 11, 2009",7:00p,,Box Score,@,Philadelphia 76ers,L,,87,91,15,37,L 1,12812,2:17,,False,MEM,2009
+53,"Tue, Feb 17, 2009",9:00p,,Box Score,@,Utah Jazz,L,,99,117,15,38,L 2,19911,2:16,,False,MEM,2009
+54,"Wed, Feb 18, 2009",10:00p,,Box Score,@,Portland Trail Blazers,L,,90,94,15,39,L 3,20385,2:18,,False,MEM,2009
+55,"Fri, Feb 20, 2009",8:00p,,Box Score,,Sacramento Kings,L,,106,115,15,40,L 4,15036,2:35,,False,MEM,2009
+56,"Tue, Feb 24, 2009",7:00p,,Box Score,@,Cleveland Cavaliers,L,,79,94,15,41,L 5,20562,2:11,,False,MEM,2009
+57,"Wed, Feb 25, 2009",7:00p,,Box Score,@,Indiana Pacers,L,,99,104,15,42,L 6,13211,2:16,,False,MEM,2009
+58,"Sat, Feb 28, 2009",8:00p,,Box Score,,Oklahoma City Thunder,L,,92,99,15,43,L 7,10074,2:24,,False,MEM,2009
+59,"Tue, Mar 3, 2009",10:30p,,Box Score,@,Los Angeles Lakers,L,,89,99,15,44,L 8,18997,2:13,,False,MEM,2009
+60,"Wed, Mar 4, 2009",10:30p,,Box Score,@,Los Angeles Clippers,W,,118,95,16,44,W 1,13813,2:17,,False,MEM,2009
+61,"Sat, Mar 7, 2009",8:00p,,Box Score,,Philadelphia 76ers,L,,105,110,16,45,L 1,14458,2:19,,False,MEM,2009
+62,"Sun, Mar 8, 2009",7:00p,,Box Score,@,Houston Rockets,L,,83,93,16,46,L 2,16179,2:11,,False,MEM,2009
+63,"Wed, Mar 11, 2009",8:00p,,Box Score,@,Minnesota Timberwolves,L,,79,104,16,47,L 3,12443,2:09,,False,MEM,2009
+64,"Fri, Mar 13, 2009",7:30p,,Box Score,@,Boston Celtics,L,,92,102,16,48,L 4,18624,2:18,,False,MEM,2009
+65,"Sun, Mar 15, 2009",1:00p,,Box Score,@,Detroit Pistons,W,,89,84,17,48,W 1,22076,2:15,,False,MEM,2009
+66,"Mon, Mar 16, 2009",8:00p,,Box Score,,Portland Trail Blazers,L,,92,103,17,49,L 1,11417,2:16,,False,MEM,2009
+67,"Wed, Mar 18, 2009",8:00p,,Box Score,,Denver Nuggets,L,,109,111,17,50,L 2,11087,2:24,,False,MEM,2009
+68,"Fri, Mar 20, 2009",8:00p,,Box Score,@,New Orleans Hornets,L,,84,96,17,51,L 3,17837,2:20,,False,MEM,2009
+69,"Sat, Mar 21, 2009",8:00p,,Box Score,,Boston Celtics,L,,87,105,17,52,L 4,18119,2:13,,False,MEM,2009
+70,"Mon, Mar 23, 2009",7:30p,,Box Score,@,Miami Heat,L,,82,94,17,53,L 5,18654,2:11,,False,MEM,2009
+71,"Fri, Mar 27, 2009",10:00p,,Box Score,@,Sacramento Kings,W,,113,95,18,53,W 1,12987,2:23,,False,MEM,2009
+72,"Sat, Mar 28, 2009",10:00p,,Box Score,@,Portland Trail Blazers,L,,66,86,18,54,L 1,20680,2:08,,False,MEM,2009
+73,"Mon, Mar 30, 2009",10:30p,,Box Score,@,Golden State Warriors,W,,114,109,19,54,W 1,18471,2:26,,False,MEM,2009
+74,"Wed, Apr 1, 2009",8:00p,,Box Score,,Washington Wizards,W,,112,107,20,54,W 2,10013,2:26,,False,MEM,2009
+75,"Fri, Apr 3, 2009",8:00p,,Box Score,,Dallas Mavericks,W,,107,102,21,54,W 3,15126,2:21,,False,MEM,2009
+76,"Sat, Apr 4, 2009",8:30p,,Box Score,@,Milwaukee Bucks,W,,107,102,22,54,W 4,18717,2:21,,False,MEM,2009
+77,"Tue, Apr 7, 2009",8:00p,,Box Score,,Portland Trail Blazers,L,,93,96,22,55,L 1,10089,2:22,,False,MEM,2009
+78,"Wed, Apr 8, 2009",7:00p,,Box Score,@,Orlando Magic,L,,78,81,22,56,L 2,17461,2:22,,False,MEM,2009
+79,"Fri, Apr 10, 2009",8:00p,,Box Score,,Phoenix Suns,W,,106,89,23,56,W 1,15908,2:08,,False,MEM,2009
+80,"Sun, Apr 12, 2009",9:30p,,Box Score,@,Los Angeles Lakers,L,,75,92,23,57,L 1,18997,2:08,,False,MEM,2009
+81,"Mon, Apr 13, 2009",10:00p,,Box Score,@,Phoenix Suns,L,,110,119,23,58,L 2,18422,2:27,,False,MEM,2009
+82,"Wed, Apr 15, 2009",8:00p,,Box Score,,Atlanta Hawks,W,,98,90,24,58,W 1,12736,2:13,,False,MEM,2009

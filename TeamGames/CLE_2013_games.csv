@@ -1,0 +1,83 @@
+G,Date,Start (ET),Unnamed: 3,Unnamed: 4,Unnamed: 5,Opponent,Unnamed: 7,Unnamed: 8,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Tue, Oct 30, 2012",7:00p,,Box Score,,Washington Wizards,W,,94,84,1,0,W 1,20562,2:09,,False,CLE,2013
+2,"Fri, Nov 2, 2012",7:30p,,Box Score,,Chicago Bulls,L,,86,115,1,1,L 1,20562,2:13,,False,CLE,2013
+3,"Sat, Nov 3, 2012",8:30p,,Box Score,@,Milwaukee Bucks,L,,102,105,1,2,L 2,17086,2:15,,False,CLE,2013
+4,"Mon, Nov 5, 2012",10:30p,,Box Score,@,Los Angeles Clippers,W,,108,101,2,2,W 1,19060,2:14,,False,CLE,2013
+5,"Wed, Nov 7, 2012",10:30p,,Box Score,@,Golden State Warriors,L,,96,106,2,3,L 1,18124,2:10,,False,CLE,2013
+6,"Fri, Nov 9, 2012",9:00p,,Box Score,@,Phoenix Suns,L,,105,107,2,4,L 2,15236,2:13,,False,CLE,2013
+7,"Sun, Nov 11, 2012",7:00p,,Box Score,@,Oklahoma City Thunder,L,,91,106,2,5,L 3,18203,2:11,,False,CLE,2013
+8,"Tue, Nov 13, 2012",7:30p,,Box Score,@,Brooklyn Nets,L,,101,114,2,6,L 4,17032,2:12,,False,CLE,2013
+9,"Sat, Nov 17, 2012",7:30p,,Box Score,,Dallas Mavericks,L,,95,103,2,7,L 5,18633,2:12,,False,CLE,2013
+10,"Sun, Nov 18, 2012",6:00p,,Box Score,@,Philadelphia 76ers,L,,79,86,2,8,L 6,15021,2:02,,False,CLE,2013
+11,"Wed, Nov 21, 2012",7:00p,,Box Score,,Philadelphia 76ers,W,,92,83,3,8,W 1,16743,2:07,,False,CLE,2013
+12,"Fri, Nov 23, 2012",7:00p,,Box Score,@,Orlando Magic,L,,104,108,3,9,L 1,17334,2:19,,False,CLE,2013
+13,"Sat, Nov 24, 2012",7:30p,,Box Score,@,Miami Heat,L,,108,110,3,10,L 2,20064,2:30,,False,CLE,2013
+14,"Mon, Nov 26, 2012",8:00p,,Box Score,@,Memphis Grizzlies,L,,78,84,3,11,L 3,13485,2:07,,False,CLE,2013
+15,"Tue, Nov 27, 2012",7:00p,,Box Score,,Phoenix Suns,L,,78,91,3,12,L 4,13687,2:10,,False,CLE,2013
+16,"Fri, Nov 30, 2012",7:30p,,Box Score,@,Atlanta Hawks,W,,113,111,4,12,W 1,13094,2:16,,False,CLE,2013
+17,"Sat, Dec 1, 2012",7:30p,,Box Score,,Portland Trail Blazers,L,2OT,117,118,4,13,L 1,16624,2:48,,False,CLE,2013
+18,"Mon, Dec 3, 2012",7:30p,,Box Score,@,Detroit Pistons,L,,79,89,4,14,L 2,11352,2:05,,False,CLE,2013
+19,"Wed, Dec 5, 2012",8:00p,,Box Score,,Chicago Bulls,L,,85,95,4,15,L 3,17893,2:09,,False,CLE,2013
+20,"Fri, Dec 7, 2012",8:00p,,Box Score,@,Minnesota Timberwolves,L,,73,91,4,16,L 4,16623,2:02,,False,CLE,2013
+21,"Sat, Dec 8, 2012",7:30p,,Box Score,,Detroit Pistons,L,,97,104,4,17,L 5,16062,2:17,,False,CLE,2013
+22,"Tue, Dec 11, 2012",7:00p,,Box Score,,Los Angeles Lakers,W,,100,94,5,17,W 1,19172,2:16,,False,CLE,2013
+23,"Wed, Dec 12, 2012",7:00p,,Box Score,@,Indiana Pacers,L,,81,96,5,18,L 1,11595,2:20,,False,CLE,2013
+24,"Fri, Dec 14, 2012",7:30p,,Box Score,,Milwaukee Bucks,L,,86,90,5,19,L 2,14146,2:05,,False,CLE,2013
+25,"Sat, Dec 15, 2012",7:30p,,Box Score,@,New York Knicks,L,,102,103,5,20,L 3,19033,2:16,,False,CLE,2013
+26,"Tue, Dec 18, 2012",7:00p,,Box Score,,Toronto Raptors,L,,99,113,5,21,L 4,13233,2:17,,False,CLE,2013
+27,"Wed, Dec 19, 2012",7:30p,,Box Score,@,Boston Celtics,L,,91,103,5,22,L 5,18624,2:08,,False,CLE,2013
+28,"Fri, Dec 21, 2012",7:30p,,Box Score,,Indiana Pacers,L,,89,99,5,23,L 6,14105,2:14,,False,CLE,2013
+29,"Sat, Dec 22, 2012",8:30p,,Box Score,@,Milwaukee Bucks,W,,94,82,6,23,W 1,14176,2:02,,False,CLE,2013
+30,"Wed, Dec 26, 2012",7:00p,,Box Score,@,Washington Wizards,W,,87,84,7,23,W 2,13846,2:07,,False,CLE,2013
+31,"Fri, Dec 28, 2012",7:30p,,Box Score,,Atlanta Hawks,L,,94,102,7,24,L 1,19443,2:01,,False,CLE,2013
+32,"Sat, Dec 29, 2012",7:30p,,Box Score,@,Brooklyn Nets,L,,100,103,7,25,L 2,17732,2:14,,False,CLE,2013
+33,"Wed, Jan 2, 2013",7:00p,,Box Score,,Sacramento Kings,L,,94,97,7,26,L 3,12331,2:10,,False,CLE,2013
+34,"Fri, Jan 4, 2013",7:00p,,Box Score,@,Charlotte Bobcats,W,,106,104,8,26,W 1,15576,2:16,,False,CLE,2013
+35,"Sat, Jan 5, 2013",7:30p,,Box Score,,Houston Rockets,L,,104,112,8,27,L 1,16866,2:14,,False,CLE,2013
+36,"Mon, Jan 7, 2013",8:00p,,Box Score,@,Chicago Bulls,L,,92,118,8,28,L 2,21355,2:10,,False,CLE,2013
+37,"Wed, Jan 9, 2013",7:00p,,Box Score,,Atlanta Hawks,W,,99,83,9,28,W 1,13149,1:52,,False,CLE,2013
+38,"Fri, Jan 11, 2013",9:00p,,Box Score,@,Denver Nuggets,L,,91,98,9,29,L 1,16445,2:13,,False,CLE,2013
+39,"Sun, Jan 13, 2013",9:30p,,Box Score,@,Los Angeles Lakers,L,,93,113,9,30,L 2,18997,2:03,,False,CLE,2013
+40,"Mon, Jan 14, 2013",10:00p,,Box Score,@,Sacramento Kings,L,,118,124,9,31,L 3,12194,2:27,,False,CLE,2013
+41,"Wed, Jan 16, 2013",10:00p,,Box Score,@,Portland Trail Blazers,W,,93,88,10,31,W 1,18880,2:13,,False,CLE,2013
+42,"Sat, Jan 19, 2013",9:00p,,Box Score,@,Utah Jazz,L,,98,109,10,32,L 1,19911,2:03,,False,CLE,2013
+43,"Tue, Jan 22, 2013",7:00p,,Box Score,,Boston Celtics,W,,95,90,11,32,W 1,14192,2:15,,False,CLE,2013
+44,"Fri, Jan 25, 2013",7:30p,,Box Score,,Milwaukee Bucks,W,,113,108,12,32,W 2,15098,2:04,,False,CLE,2013
+45,"Sat, Jan 26, 2013",7:00p,,Box Score,@,Toronto Raptors,W,,99,98,13,32,W 3,18820,2:19,,False,CLE,2013
+46,"Tue, Jan 29, 2013",7:00p,,Box Score,,Golden State Warriors,L,,95,108,13,33,L 1,13939,2:03,,False,CLE,2013
+47,"Fri, Feb 1, 2013",7:30p,,Box Score,@,Detroit Pistons,L,,99,117,13,34,L 2,15693,2:19,,False,CLE,2013
+48,"Sat, Feb 2, 2013",7:30p,,Box Score,,Oklahoma City Thunder,W,,115,110,14,34,W 1,20562,2:10,,False,CLE,2013
+49,"Wed, Feb 6, 2013",7:00p,,Box Score,,Charlotte Bobcats,W,,122,95,15,34,W 2,13264,1:59,,False,CLE,2013
+50,"Fri, Feb 8, 2013",7:30p,,Box Score,,Orlando Magic,W,,119,108,16,34,W 3,14073,2:13,,False,CLE,2013
+51,"Sat, Feb 9, 2013",7:30p,,Box Score,,Denver Nuggets,L,,103,111,16,35,L 1,20562,2:11,,False,CLE,2013
+52,"Mon, Feb 11, 2013",7:00p,,Box Score,,Minnesota Timberwolves,L,,92,100,16,36,L 2,11556,2:00,,False,CLE,2013
+53,"Wed, Feb 13, 2013",7:00p,,Box Score,,San Antonio Spurs,L,,95,96,16,37,L 3,12162,2:07,,False,CLE,2013
+54,"Wed, Feb 20, 2013",8:00p,,Box Score,,New Orleans Hornets,W,,105,100,17,37,W 1,16103,2:21,,False,CLE,2013
+55,"Sat, Feb 23, 2013",7:00p,,Box Score,@,Orlando Magic,W,,118,94,18,37,W 2,17171,2:10,,False,CLE,2013
+56,"Sun, Feb 24, 2013",6:00p,,Box Score,@,Miami Heat,L,,105,109,18,38,L 1,20006,2:14,,False,CLE,2013
+57,"Tue, Feb 26, 2013",8:00p,,Box Score,@,Chicago Bulls,W,,101,98,19,38,W 1,21501,2:17,,False,CLE,2013
+58,"Wed, Feb 27, 2013",7:00p,,Box Score,,Toronto Raptors,W,,103,92,20,38,W 2,13368,2:20,,False,CLE,2013
+59,"Fri, Mar 1, 2013",7:30p,,Box Score,,Los Angeles Clippers,L,,89,105,20,39,L 1,20562,2:13,,False,CLE,2013
+60,"Mon, Mar 4, 2013",7:00p,,Box Score,,New York Knicks,L,,97,102,20,40,L 2,19784,2:19,,False,CLE,2013
+61,"Wed, Mar 6, 2013",7:00p,,Box Score,,Utah Jazz,W,,104,101,21,40,W 1,12124,2:08,,False,CLE,2013
+62,"Fri, Mar 8, 2013",7:30p,,Box Score,,Memphis Grizzlies,L,,92,103,21,41,L 1,17032,2:04,,False,CLE,2013
+63,"Sun, Mar 10, 2013",6:00p,,Box Score,@,Toronto Raptors,L,,96,100,21,42,L 2,19800,2:23,,False,CLE,2013
+64,"Tue, Mar 12, 2013",7:00p,,Box Score,,Washington Wizards,W,,95,90,22,42,W 1,14689,2:13,,False,CLE,2013
+65,"Fri, Mar 15, 2013",8:30p,,Box Score,@,Dallas Mavericks,L,,86,96,22,43,L 1,20482,2:10,,False,CLE,2013
+66,"Sat, Mar 16, 2013",8:30p,,Box Score,@,San Antonio Spurs,L,,113,119,22,44,L 2,18581,2:16,,False,CLE,2013
+67,"Mon, Mar 18, 2013",7:00p,,Box Score,,Indiana Pacers,L,,90,111,22,45,L 3,13016,2:04,,False,CLE,2013
+68,"Wed, Mar 20, 2013",7:00p,,Box Score,,Miami Heat,L,,95,98,22,46,L 4,20562,2:22,,False,CLE,2013
+69,"Fri, Mar 22, 2013",8:00p,,Box Score,@,Houston Rockets,L,,78,116,22,47,L 5,15694,2:03,,False,CLE,2013
+70,"Wed, Mar 27, 2013",7:00p,,Box Score,,Boston Celtics,L,,92,93,22,48,L 6,17130,2:15,,False,CLE,2013
+71,"Fri, Mar 29, 2013",7:30p,,Box Score,,Philadelphia 76ers,L,,87,97,22,49,L 7,17324,2:00,,False,CLE,2013
+72,"Sun, Mar 31, 2013",6:00p,,Box Score,@,New Orleans Hornets,L,,92,112,22,50,L 8,11008,2:07,,False,CLE,2013
+73,"Mon, Apr 1, 2013",7:30p,,Box Score,@,Atlanta Hawks,L,,94,102,22,51,L 9,13026,2:12,,False,CLE,2013
+74,"Wed, Apr 3, 2013",7:00p,,Box Score,,Brooklyn Nets,L,,95,113,22,52,L 10,14863,2:04,,False,CLE,2013
+75,"Fri, Apr 5, 2013",7:30p,,Box Score,@,Boston Celtics,W,,97,91,23,52,W 1,18624,2:17,,False,CLE,2013
+76,"Sun, Apr 7, 2013",6:00p,,Box Score,,Orlando Magic,W,,91,85,24,52,W 2,16341,2:10,,False,CLE,2013
+77,"Tue, Apr 9, 2013",7:00p,,Box Score,@,Indiana Pacers,L,,94,99,24,53,L 1,15279,2:35,,False,CLE,2013
+78,"Wed, Apr 10, 2013",7:00p,,Box Score,,Detroit Pistons,L,,104,111,24,54,L 2,13844,2:26,,False,CLE,2013
+79,"Fri, Apr 12, 2013",7:30p,,Box Score,,New York Knicks,L,,91,101,24,55,L 3,19430,1:59,,False,CLE,2013
+80,"Sun, Apr 14, 2013",3:30p,,Box Score,@,Philadelphia 76ers,L,,77,91,24,56,L 4,18764,1:57,,False,CLE,2013
+81,"Mon, Apr 15, 2013",7:00p,,Box Score,,Miami Heat,L,,95,96,24,57,L 5,19091,2:09,,False,CLE,2013
+82,"Wed, Apr 17, 2013",8:00p,,Box Score,@,Charlotte Bobcats,L,,98,105,24,58,L 6,13487,2:12,,False,CLE,2013

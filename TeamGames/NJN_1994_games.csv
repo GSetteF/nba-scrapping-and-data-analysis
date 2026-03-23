@@ -1,0 +1,87 @@
+G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Opponent,Unnamed: 6,Unnamed: 7,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Fri, Nov 5, 1993",,Box Score,@,Houston Rockets,L,,88,110,0,1,L 1,11128,,,False,NJN,1994
+2,"Sun, Nov 7, 1993",,Box Score,@,San Antonio Spurs,W,,99,73,1,1,W 1,15280,,,False,NJN,1994
+3,"Tue, Nov 9, 1993",,Box Score,@,Dallas Mavericks,W,,86,80,2,1,W 2,11561,,,False,NJN,1994
+4,"Thu, Nov 11, 1993",,Box Score,,Indiana Pacers,L,OT,105,108,2,2,L 1,16151,,,False,NJN,1994
+5,"Sat, Nov 13, 1993",,Box Score,,Philadelphia 76ers,L,,97,98,2,3,L 2,12936,,,False,NJN,1994
+6,"Sun, Nov 14, 1993",,Box Score,,Sacramento Kings,W,,132,102,3,3,W 1,12562,,,False,NJN,1994
+7,"Tue, Nov 16, 1993",,Box Score,,Houston Rockets,L,,84,90,3,4,L 1,9110,,,False,NJN,1994
+8,"Wed, Nov 17, 1993",,Box Score,@,Boston Celtics,L,,100,105,3,5,L 2,14890,2:00,,False,NJN,1994
+9,"Sat, Nov 20, 1993",,Box Score,,Orlando Magic,L,,85,87,3,6,L 3,20049,,,False,NJN,1994
+10,"Sun, Nov 21, 1993",,Box Score,,Los Angeles Lakers,W,,105,102,4,6,W 1,12205,,,False,NJN,1994
+11,"Wed, Nov 24, 1993",,Box Score,@,Minnesota Timberwolves,L,,106,107,4,7,L 1,16177,,,False,NJN,1994
+12,"Fri, Nov 26, 1993",,Box Score,@,Utah Jazz,L,,97,100,4,8,L 2,19911,,,False,NJN,1994
+13,"Sat, Nov 27, 1993",,Box Score,@,Denver Nuggets,L,,89,111,4,9,L 3,16127,,,False,NJN,1994
+14,"Mon, Nov 29, 1993",,Box Score,@,Los Angeles Clippers,L,,94,118,4,10,L 4,8808,,,False,NJN,1994
+15,"Wed, Dec 1, 1993",,Box Score,,Cleveland Cavaliers,W,,97,82,5,10,W 1,12702,,,False,NJN,1994
+16,"Fri, Dec 3, 1993",,Box Score,,Phoenix Suns,L,,103,104,5,11,L 1,20049,,,False,NJN,1994
+17,"Tue, Dec 7, 1993",,Box Score,,Boston Celtics,W,,117,90,6,11,W 1,12955,1:56,,False,NJN,1994
+18,"Fri, Dec 10, 1993",,Box Score,,Chicago Bulls,L,,105,109,6,12,L 1,20049,,,False,NJN,1994
+19,"Sat, Dec 11, 1993",,Box Score,@,Charlotte Hornets,L,,99,105,6,13,L 2,23698,,,False,NJN,1994
+20,"Mon, Dec 13, 1993",,Box Score,,Miami Heat,W,2OT,110,105,7,13,W 1,9105,,,False,NJN,1994
+21,"Thu, Dec 16, 1993",,Box Score,,Charlotte Hornets,W,,111,95,8,13,W 2,14102,,,False,NJN,1994
+22,"Sat, Dec 18, 1993",,Box Score,@,Indiana Pacers,L,,98,108,8,14,L 1,12030,,,False,NJN,1994
+23,"Tue, Dec 21, 1993",,Box Score,,New York Knicks,W,,85,81,9,14,W 1,20049,2:22,,False,NJN,1994
+24,"Thu, Dec 23, 1993",,Box Score,@,Orlando Magic,L,,112,122,9,15,L 1,15291,,,False,NJN,1994
+25,"Sun, Dec 26, 1993",,Box Score,,Atlanta Hawks,W,,91,87,10,15,W 1,20049,,,False,NJN,1994
+26,"Tue, Dec 28, 1993",,Box Score,@,New York Knicks,W,,97,95,11,15,W 2,19763,2:20,,False,NJN,1994
+27,"Wed, Dec 29, 1993",,Box Score,@,Chicago Bulls,L,,86,94,11,16,L 1,18676,,,False,NJN,1994
+28,"Sun, Jan 2, 1994",,Box Score,@,Boston Celtics,W,,101,97,12,16,W 1,14890,2:07,,False,NJN,1994
+29,"Tue, Jan 4, 1994",,Box Score,@,Miami Heat,L,,83,100,12,17,L 1,15082,,,False,NJN,1994
+30,"Wed, Jan 5, 1994",,Box Score,,Milwaukee Bucks,L,,91,100,12,18,L 2,12319,,,False,NJN,1994
+31,"Sat, Jan 8, 1994",,Box Score,@,Milwaukee Bucks,W,,90,87,13,18,W 1,15196,,,False,NJN,1994
+32,"Tue, Jan 11, 1994",,Box Score,,Washington Bullets,L,,100,115,13,19,L 1,9156,,,False,NJN,1994
+33,"Thu, Jan 13, 1994",,Box Score,@,Cleveland Cavaliers,L,,93,104,13,20,L 2,17756,,,False,NJN,1994
+34,"Fri, Jan 14, 1994",,Box Score,,Denver Nuggets,W,,103,96,14,20,W 1,20049,,,False,NJN,1994
+35,"Sun, Jan 16, 1994",,Box Score,,Utah Jazz,W,,99,94,15,20,W 2,16105,,,False,NJN,1994
+36,"Wed, Jan 19, 1994",,Box Score,,Minnesota Timberwolves,W,,112,91,16,20,W 3,9158,,,False,NJN,1994
+37,"Fri, Jan 21, 1994",,Box Score,@,Atlanta Hawks,W,OT,113,111,17,20,W 4,14617,,,False,NJN,1994
+38,"Sat, Jan 22, 1994",,Box Score,,Golden State Warriors,W,,124,98,18,20,W 5,20049,,,False,NJN,1994
+39,"Tue, Jan 25, 1994",,Box Score,@,Portland Trail Blazers,L,,117,122,18,21,L 1,12888,,,False,NJN,1994
+40,"Thu, Jan 27, 1994",,Box Score,@,Seattle SuperSonics,L,,92,102,18,22,L 2,14490,,,False,NJN,1994
+41,"Sat, Jan 29, 1994",,Box Score,@,Golden State Warriors,W,,120,106,19,22,W 1,15025,,,False,NJN,1994
+42,"Tue, Feb 1, 1994",,Box Score,,Seattle SuperSonics,W,,104,103,20,22,W 2,16213,,,False,NJN,1994
+43,"Sat, Feb 5, 1994",,Box Score,@,Detroit Pistons,W,,107,100,21,22,W 3,21454,,,False,NJN,1994
+44,"Sun, Feb 6, 1994",,Box Score,,San Antonio Spurs,L,OT,102,104,21,23,L 1,18322,,,False,NJN,1994
+45,"Tue, Feb 8, 1994",,Box Score,@,Cleveland Cavaliers,L,,104,112,21,24,L 2,17554,,,False,NJN,1994
+46,"Wed, Feb 9, 1994",,Box Score,,Cleveland Cavaliers,W,,106,95,22,24,W 1,13407,,,False,NJN,1994
+47,"Tue, Feb 15, 1994",,Box Score,,New York Knicks,W,,103,83,23,24,W 2,20049,,,False,NJN,1994
+48,"Thu, Feb 17, 1994",,Box Score,@,Boston Celtics,W,,117,98,24,24,W 3,12588,1:58,"at Hartford, CT",False,NJN,1994
+49,"Fri, Feb 18, 1994",,Box Score,@,Washington Bullets,W,,113,110,25,24,W 4,12756,,"at Baltimore, MD",False,NJN,1994
+50,"Sun, Feb 20, 1994",,Box Score,,Washington Bullets,W,,122,101,26,24,W 5,20049,,,False,NJN,1994
+51,"Tue, Feb 22, 1994",,Box Score,,Miami Heat,L,,97,123,26,25,L 1,11618,,,False,NJN,1994
+52,"Wed, Feb 23, 1994",,Box Score,@,Philadelphia 76ers,W,,106,102,27,25,W 1,7831,,,False,NJN,1994
+53,"Fri, Feb 25, 1994",,Box Score,@,Orlando Magic,L,,102,114,27,26,L 1,15291,,,False,NJN,1994
+54,"Sun, Feb 27, 1994",,Box Score,,Dallas Mavericks,W,,117,90,28,26,W 1,12344,,,False,NJN,1994
+55,"Tue, Mar 1, 1994",,Box Score,,Detroit Pistons,W,,108,98,29,26,W 2,14134,,,False,NJN,1994
+56,"Thu, Mar 3, 1994",,Box Score,@,New York Knicks,L,,86,97,29,27,L 1,19763,2:10,,False,NJN,1994
+57,"Fri, Mar 4, 1994",,Box Score,@,Indiana Pacers,L,,110,126,29,28,L 2,13725,,,False,NJN,1994
+58,"Sun, Mar 6, 1994",,Box Score,,Philadelphia 76ers,W,,126,99,30,28,W 1,20049,,,False,NJN,1994
+59,"Wed, Mar 9, 1994",,Box Score,@,Detroit Pistons,L,,97,114,30,29,L 1,16247,,,False,NJN,1994
+60,"Fri, Mar 11, 1994",,Box Score,,Indiana Pacers,W,,87,73,31,29,W 1,20049,,,False,NJN,1994
+61,"Sat, Mar 12, 1994",,Box Score,,Charlotte Hornets,W,,117,92,32,29,W 2,20049,,,False,NJN,1994
+62,"Wed, Mar 16, 1994",,Box Score,@,Sacramento Kings,L,,111,132,32,30,L 1,17317,,,False,NJN,1994
+63,"Fri, Mar 18, 1994",,Box Score,@,Los Angeles Lakers,W,,102,90,33,30,W 1,12251,,,False,NJN,1994
+64,"Sat, Mar 19, 1994",,Box Score,@,Phoenix Suns,L,,93,105,33,31,L 1,19023,,,False,NJN,1994
+65,"Tue, Mar 22, 1994",,Box Score,,Los Angeles Clippers,W,,105,102,34,31,W 1,13663,,,False,NJN,1994
+66,"Fri, Mar 25, 1994",,Box Score,,Chicago Bulls,W,,110,87,35,31,W 2,20049,,,False,NJN,1994
+67,"Sat, Mar 26, 1994",,Box Score,@,Washington Bullets,W,,103,100,36,31,W 3,17724,,,False,NJN,1994
+68,"Tue, Mar 29, 1994",,Box Score,@,Atlanta Hawks,L,,98,101,36,32,L 1,13942,,,False,NJN,1994
+69,"Wed, Mar 30, 1994",,Box Score,,Miami Heat,W,,111,101,37,32,W 1,16058,,,False,NJN,1994
+70,"Fri, Apr 1, 1994",,Box Score,,Orlando Magic,L,,96,98,37,33,L 1,20049,,,False,NJN,1994
+71,"Sun, Apr 3, 1994",,Box Score,,Portland Trail Blazers,L,,105,109,37,34,L 2,12257,,,False,NJN,1994
+72,"Tue, Apr 5, 1994",,Box Score,,Boston Celtics,W,,120,94,38,34,W 1,16340,1:51,,False,NJN,1994
+73,"Thu, Apr 7, 1994",,Box Score,,Atlanta Hawks,W,,93,87,39,34,W 2,14549,,,False,NJN,1994
+74,"Fri, Apr 8, 1994",,Box Score,@,Charlotte Hornets,L,,78,99,39,35,L 1,23698,,,False,NJN,1994
+75,"Sun, Apr 10, 1994",,Box Score,,New York Knicks,W,,107,88,40,35,W 1,20049,2:09,,False,NJN,1994
+76,"Tue, Apr 12, 1994",,Box Score,@,Chicago Bulls,L,,105,111,40,36,L 1,18676,,,False,NJN,1994
+77,"Wed, Apr 13, 1994",,Box Score,@,Milwaukee Bucks,W,,107,105,41,36,W 1,13286,,,False,NJN,1994
+78,"Fri, Apr 15, 1994",,Box Score,,Detroit Pistons,W,OT,119,114,42,36,W 2,20049,,,False,NJN,1994
+79,"Sun, Apr 17, 1994",,Box Score,@,Miami Heat,W,,110,103,43,36,W 3,14991,,,False,NJN,1994
+80,"Tue, Apr 19, 1994",,Box Score,@,Philadelphia 76ers,W,,115,110,44,36,W 4,8819,,,False,NJN,1994
+81,"Sat, Apr 23, 1994",,Box Score,,Milwaukee Bucks,W,,135,100,45,36,W 5,20049,,,False,NJN,1994
+82,"Sun, Apr 24, 1994",,Box Score,@,Orlando Magic,L,,91,120,45,37,L 1,15291,,,False,NJN,1994
+1,"Fri, Apr 29, 1994",,Box Score,@,New York Knicks,L,,80,91,0,1,L 1,19763,2:13,,True,NJN,1994
+2,"Sun, May 1, 1994",,Box Score,@,New York Knicks,L,,81,90,0,2,L 2,19763,2:36,,True,NJN,1994
+3,"Wed, May 4, 1994",,Box Score,,New York Knicks,W,OT,93,92,1,2,W 1,20049,2:46,,True,NJN,1994
+4,"Fri, May 6, 1994",,Box Score,,New York Knicks,L,,92,102,1,3,L 1,20049,2:27,,True,NJN,1994

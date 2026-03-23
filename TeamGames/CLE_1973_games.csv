@@ -1,0 +1,83 @@
+G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Opponent,Unnamed: 6,Unnamed: 7,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Tue, Oct 10, 1972",,Box Score,,Baltimore Bullets,L,,90,102,0,1,L 1,,,,False,CLE,1973
+2,"Fri, Oct 13, 1972",,Box Score,,Houston Rockets,L,,108,109,0,2,L 2,,,,False,CLE,1973
+3,"Sun, Oct 15, 1972",,Box Score,,Los Angeles Lakers,L,,83,95,0,3,L 3,,,,False,CLE,1973
+4,"Fri, Oct 20, 1972",,Box Score,,New York Knicks,L,,89,92,0,4,L 4,,,,False,CLE,1973
+5,"Sat, Oct 21, 1972",,Box Score,@,Detroit Pistons,L,,96,103,0,5,L 5,,,,False,CLE,1973
+6,"Sun, Oct 22, 1972",,Box Score,,Milwaukee Bucks,L,,84,104,0,6,L 6,,,,False,CLE,1973
+7,"Tue, Oct 24, 1972",,Box Score,@,New York Knicks,L,,90,123,0,7,L 7,,,,False,CLE,1973
+8,"Wed, Oct 25, 1972",,Box Score,@,Philadelphia 76ers,W,,113,108,1,7,W 1,,,,False,CLE,1973
+9,"Fri, Oct 27, 1972",,Box Score,@,Boston Celtics,L,,97,123,1,8,L 1,8114,,,False,CLE,1973
+10,"Sun, Oct 29, 1972",,Box Score,,Kansas City-Omaha Kings,W,,115,97,2,8,W 1,,,,False,CLE,1973
+11,"Tue, Oct 31, 1972",,Box Score,,Philadelphia 76ers,W,,126,116,3,8,W 2,,,,False,CLE,1973
+12,"Fri, Nov 3, 1972",,Box Score,,Buffalo Braves,W,,124,97,4,8,W 3,,,,False,CLE,1973
+13,"Sat, Nov 4, 1972",,Box Score,N,Baltimore Bullets,L,,98,108,4,9,L 1,,,"at College Park, MD",False,CLE,1973
+14,"Sun, Nov 5, 1972",,Box Score,,Phoenix Suns,L,,106,107,4,10,L 2,,,,False,CLE,1973
+15,"Wed, Nov 8, 1972",,Box Score,@,Phoenix Suns,L,,99,107,4,11,L 3,,,,False,CLE,1973
+16,"Fri, Nov 10, 1972",,Box Score,@,Los Angeles Lakers,L,,88,118,4,12,L 4,,,,False,CLE,1973
+17,"Sun, Nov 12, 1972",,Box Score,@,Seattle SuperSonics,W,,113,107,5,12,W 1,,,,False,CLE,1973
+18,"Tue, Nov 14, 1972",,Box Score,@,Portland Trail Blazers,L,,91,100,5,13,L 1,,,,False,CLE,1973
+19,"Fri, Nov 17, 1972",,Box Score,@,Kansas City-Omaha Kings,L,,96,115,5,14,L 2,,,,False,CLE,1973
+20,"Sun, Nov 19, 1972",,Box Score,,Atlanta Hawks,W,,109,98,6,14,W 1,,,,False,CLE,1973
+21,"Tue, Nov 21, 1972",,Box Score,,Seattle SuperSonics,W,,98,88,7,14,W 2,,,,False,CLE,1973
+22,"Sat, Nov 25, 1972",,Box Score,@,Buffalo Braves,W,,103,90,8,14,W 3,,,,False,CLE,1973
+23,"Sun, Nov 26, 1972",,Box Score,,Portland Trail Blazers,L,,102,105,8,15,L 1,,,,False,CLE,1973
+24,"Tue, Nov 28, 1972",,Box Score,@,New York Knicks,L,,84,107,8,16,L 2,,,,False,CLE,1973
+25,"Fri, Dec 1, 1972",,Box Score,,Detroit Pistons,L,,113,114,8,17,L 3,,,,False,CLE,1973
+26,"Sun, Dec 3, 1972",,Box Score,,Seattle SuperSonics,W,OT,105,103,9,17,W 1,,,,False,CLE,1973
+27,"Tue, Dec 5, 1972",,Box Score,,Baltimore Bullets,L,,100,103,9,18,L 1,,,,False,CLE,1973
+28,"Fri, Dec 8, 1972",,Box Score,,Boston Celtics,L,,87,96,9,19,L 2,4691,,,False,CLE,1973
+29,"Sat, Dec 9, 1972",,Box Score,@,Boston Celtics,L,,88,123,9,20,L 3,13071,,,False,CLE,1973
+30,"Sun, Dec 10, 1972",,Box Score,,Golden State Warriors,L,,100,103,9,21,L 4,,,,False,CLE,1973
+31,"Tue, Dec 12, 1972",,Box Score,@,Kansas City-Omaha Kings,L,,99,100,9,22,L 5,,,"at Omaha, NE",False,CLE,1973
+32,"Fri, Dec 15, 1972",,Box Score,@,Milwaukee Bucks,L,,82,98,9,23,L 6,,,,False,CLE,1973
+33,"Sat, Dec 16, 1972",,Box Score,@,Atlanta Hawks,L,,94,100,9,24,L 7,,,,False,CLE,1973
+34,"Sun, Dec 17, 1972",,Box Score,,Houston Rockets,L,,109,110,9,25,L 8,,,,False,CLE,1973
+35,"Fri, Dec 22, 1972",,Box Score,,New York Knicks,L,,87,98,9,26,L 9,,,,False,CLE,1973
+36,"Tue, Dec 26, 1972",,Box Score,,Atlanta Hawks,W,,115,96,10,26,W 1,,,,False,CLE,1973
+37,"Thu, Dec 28, 1972",,Box Score,@,Golden State Warriors,L,,105,118,10,27,L 1,,,,False,CLE,1973
+38,"Fri, Dec 29, 1972",,Box Score,@,Seattle SuperSonics,L,,91,99,10,28,L 2,,,,False,CLE,1973
+39,"Tue, Jan 2, 1973",,Box Score,,Phoenix Suns,W,,111,88,11,28,W 1,,,,False,CLE,1973
+40,"Wed, Jan 3, 1973",,Box Score,@,Baltimore Bullets,L,,80,89,11,29,L 1,,,,False,CLE,1973
+41,"Sat, Jan 6, 1973",,Box Score,,Los Angeles Lakers,W,,108,93,12,29,W 1,,,,False,CLE,1973
+42,"Sun, Jan 7, 1973",,Box Score,,Houston Rockets,W,,102,97,13,29,W 2,,,,False,CLE,1973
+43,"Tue, Jan 9, 1973",,Box Score,@,Buffalo Braves,L,,102,106,13,30,L 1,,,,False,CLE,1973
+44,"Fri, Jan 12, 1973",,Box Score,N,Philadelphia 76ers,W,2OT,113,109,14,30,W 1,,,"at Pittsburgh, PA",False,CLE,1973
+45,"Sat, Jan 13, 1973",,Box Score,@,Houston Rockets,W,,123,115,15,30,W 2,,,,False,CLE,1973
+46,"Tue, Jan 16, 1973",,Box Score,@,Golden State Warriors,W,,100,98,16,30,W 3,,,,False,CLE,1973
+47,"Fri, Jan 19, 1973",,Box Score,@,Houston Rockets,W,,108,104,17,30,W 4,,,,False,CLE,1973
+48,"Sat, Jan 20, 1973",,Box Score,@,Atlanta Hawks,L,,84,96,17,31,L 1,,,,False,CLE,1973
+49,"Fri, Jan 26, 1973",,Box Score,,Philadelphia 76ers,W,,105,100,18,31,W 1,,,,False,CLE,1973
+50,"Sun, Jan 28, 1973",,Box Score,,Baltimore Bullets,L,,93,102,18,32,L 1,,,,False,CLE,1973
+51,"Tue, Jan 30, 1973",,Box Score,,Milwaukee Bucks,W,,112,98,19,32,W 1,,,,False,CLE,1973
+52,"Wed, Jan 31, 1973",,Box Score,@,Boston Celtics,L,,89,94,19,33,L 1,4868,,,False,CLE,1973
+53,"Sat, Feb 3, 1973",,Box Score,@,New York Knicks,L,,90,95,19,34,L 2,,,,False,CLE,1973
+54,"Sun, Feb 4, 1973",,Box Score,,New York Knicks,L,,97,114,19,35,L 3,,,,False,CLE,1973
+55,"Tue, Feb 6, 1973",,Box Score,,Boston Celtics,W,,110,105,20,35,W 1,4023,,,False,CLE,1973
+56,"Thu, Feb 8, 1973",,Box Score,@,Atlanta Hawks,W,OT,136,132,21,35,W 2,,,,False,CLE,1973
+57,"Fri, Feb 9, 1973",,Box Score,,Chicago Bulls,L,,97,103,21,36,L 1,,,,False,CLE,1973
+58,"Sun, Feb 11, 1973",,Box Score,,Atlanta Hawks,L,,107,115,21,37,L 2,,,,False,CLE,1973
+59,"Tue, Feb 13, 1973",,Box Score,,Golden State Warriors,L,,90,103,21,38,L 3,,,,False,CLE,1973
+60,"Fri, Feb 16, 1973",,Box Score,@,Chicago Bulls,L,,92,100,21,39,L 4,,,,False,CLE,1973
+61,"Sat, Feb 17, 1973",,Box Score,@,Detroit Pistons,W,,106,104,22,39,W 1,,,,False,CLE,1973
+62,"Sun, Feb 18, 1973",,Box Score,,Buffalo Braves,W,,122,98,23,39,W 2,,,,False,CLE,1973
+63,"Tue, Feb 20, 1973",,Box Score,N,Milwaukee Bucks,L,,100,118,23,40,L 1,,,"at Madison, WI",False,CLE,1973
+64,"Fri, Feb 23, 1973",,Box Score,,Portland Trail Blazers,W,,121,102,24,40,W 1,,,,False,CLE,1973
+65,"Sun, Feb 25, 1973",,Box Score,,Boston Celtics,L,,92,105,24,41,L 1,10409,,,False,CLE,1973
+66,"Tue, Feb 27, 1973",,Box Score,@,Baltimore Bullets,L,,95,99,24,42,L 2,,,,False,CLE,1973
+67,"Fri, Mar 2, 1973",,Box Score,@,Portland Trail Blazers,L,,92,106,24,43,L 3,,,,False,CLE,1973
+68,"Sun, Mar 4, 1973",,Box Score,@,Los Angeles Lakers,L,,84,127,24,44,L 4,,,,False,CLE,1973
+69,"Tue, Mar 6, 1973",,Box Score,@,Phoenix Suns,L,,102,110,24,45,L 5,,,,False,CLE,1973
+70,"Wed, Mar 7, 1973",,Box Score,N,Houston Rockets,W,,118,100,25,45,W 1,,,"at San Antonio, TX",False,CLE,1973
+71,"Sat, Mar 10, 1973",,Box Score,@,Houston Rockets,L,,116,131,25,46,L 1,,,,False,CLE,1973
+72,"Tue, Mar 13, 1973",,Box Score,,Atlanta Hawks,W,,115,107,26,46,W 1,,,,False,CLE,1973
+73,"Fri, Mar 16, 1973",,Box Score,,Kansas City-Omaha Kings,W,,114,99,27,46,W 2,,,,False,CLE,1973
+74,"Sat, Mar 17, 1973",,Box Score,@,Buffalo Braves,W,,114,97,28,46,W 3,,,,False,CLE,1973
+75,"Sun, Mar 18, 1973",,Box Score,,Buffalo Braves,W,,102,101,29,46,W 4,,,,False,CLE,1973
+76,"Tue, Mar 20, 1973",,Box Score,,Philadelphia 76ers,W,,131,105,30,46,W 5,,,,False,CLE,1973
+77,"Wed, Mar 21, 1973",,Box Score,@,Philadelphia 76ers,W,,112,109,31,46,W 6,,,,False,CLE,1973
+78,"Fri, Mar 23, 1973",,Box Score,,Baltimore Bullets,L,,104,106,31,47,L 1,,,,False,CLE,1973
+79,"Sat, Mar 24, 1973",,Box Score,@,Baltimore Bullets,L,OT,116,120,31,48,L 2,,,,False,CLE,1973
+80,"Sun, Mar 25, 1973",,Box Score,,Chicago Bulls,W,,112,105,32,48,W 1,,,,False,CLE,1973
+81,"Tue, Mar 27, 1973",,Box Score,@,Chicago Bulls,L,,105,121,32,49,L 1,,,,False,CLE,1973
+82,"Wed, Mar 28, 1973",,Box Score,,Detroit Pistons,L,OT,119,131,32,50,L 2,,,,False,CLE,1973

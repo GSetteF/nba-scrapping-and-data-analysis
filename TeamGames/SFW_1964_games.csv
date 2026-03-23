@@ -1,0 +1,93 @@
+G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Opponent,Unnamed: 6,Unnamed: 7,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Sat, Oct 19, 1963",,Box Score,@,Baltimore Bullets,W,,103,102,1,0,W 1,,,,False,SFW,1964
+2,"Tue, Oct 22, 1963",,Box Score,@,Cincinnati Royals,L,,97,103,1,1,L 1,,,,False,SFW,1964
+3,"Wed, Oct 23, 1963",,Box Score,@,St. Louis Hawks,W,,99,95,2,1,W 1,,,,False,SFW,1964
+4,"Sat, Oct 26, 1963",,Box Score,,Cincinnati Royals,W,,102,99,3,1,W 2,,,,False,SFW,1964
+5,"Tue, Oct 29, 1963",,Box Score,,Cincinnati Royals,L,,101,108,3,2,L 1,,,,False,SFW,1964
+6,"Sat, Nov 2, 1963",,Box Score,,Los Angeles Lakers,W,,118,99,4,2,W 1,,,,False,SFW,1964
+7,"Thu, Nov 7, 1963",,Box Score,,New York Knicks,W,,110,88,5,2,W 2,,,,False,SFW,1964
+8,"Fri, Nov 8, 1963",,Box Score,@,Los Angeles Lakers,L,,90,93,5,3,L 1,,,,False,SFW,1964
+9,"Sat, Nov 9, 1963",,Box Score,,New York Knicks,L,,84,89,5,4,L 2,,,"at Oakland, CA",False,SFW,1964
+10,"Tue, Nov 12, 1963",,Box Score,@,Philadelphia 76ers,L,OT,102,106,5,5,L 3,,,,False,SFW,1964
+11,"Wed, Nov 13, 1963",,Box Score,@,Cincinnati Royals,W,,98,92,6,5,W 1,,,,False,SFW,1964
+12,"Thu, Nov 14, 1963",,Box Score,@,St. Louis Hawks,L,,105,117,6,6,L 1,,,,False,SFW,1964
+13,"Fri, Nov 15, 1963",,Box Score,,Detroit Pistons,L,,98,101,6,7,L 2,,,,False,SFW,1964
+14,"Sun, Nov 17, 1963",,Box Score,,Detroit Pistons,W,,120,96,7,7,W 1,,,,False,SFW,1964
+15,"Tue, Nov 19, 1963",,Box Score,,St. Louis Hawks,W,,129,96,8,7,W 2,,,,False,SFW,1964
+16,"Tue, Nov 26, 1963",,Box Score,N,Cincinnati Royals,L,,112,123,8,8,L 1,,,"at New York, NY",False,SFW,1964
+17,"Wed, Nov 27, 1963",,Box Score,N,New York Knicks,W,,118,89,9,8,W 1,,,"at Boston, MA",False,SFW,1964
+18,"Fri, Nov 29, 1963",,Box Score,@,Baltimore Bullets,L,,99,100,9,9,L 1,,,,False,SFW,1964
+19,"Sat, Nov 30, 1963",,Box Score,@,Boston Celtics,L,,96,109,9,10,L 2,8108,,,False,SFW,1964
+20,"Tue, Dec 3, 1963",,Box Score,@,New York Knicks,W,,116,108,10,10,W 1,,,,False,SFW,1964
+21,"Wed, Dec 4, 1963",,Box Score,@,St. Louis Hawks,L,,83,105,10,11,L 1,,,,False,SFW,1964
+22,"Fri, Dec 6, 1963",,Box Score,,Los Angeles Lakers,L,,103,110,10,12,L 2,,,,False,SFW,1964
+23,"Sun, Dec 8, 1963",,Box Score,@,Los Angeles Lakers,W,,114,112,11,12,W 1,,,,False,SFW,1964
+24,"Tue, Dec 10, 1963",,Box Score,,Baltimore Bullets,W,,117,108,12,12,W 2,,,"at Oakland, CA",False,SFW,1964
+25,"Fri, Dec 13, 1963",,Box Score,,Baltimore Bullets,L,OT,114,116,12,13,L 1,,,,False,SFW,1964
+26,"Sun, Dec 15, 1963",,Box Score,,Baltimore Bullets,W,,122,97,13,13,W 1,,,,False,SFW,1964
+27,"Tue, Dec 17, 1963",,Box Score,,St. Louis Hawks,W,,110,106,14,13,W 2,,,,False,SFW,1964
+28,"Wed, Dec 18, 1963",,Box Score,,St. Louis Hawks,W,,104,96,15,13,W 3,,,"at Sacramento, CA",False,SFW,1964
+29,"Fri, Dec 20, 1963",,Box Score,,Philadelphia 76ers,L,,112,114,15,14,L 1,,,,False,SFW,1964
+30,"Sun, Dec 22, 1963",,Box Score,,Philadelphia 76ers,W,,118,104,16,14,W 1,,,,False,SFW,1964
+31,"Thu, Dec 26, 1963",,Box Score,@,Philadelphia 76ers,L,,112,118,16,15,L 1,,,,False,SFW,1964
+32,"Sat, Dec 28, 1963",,Box Score,@,Baltimore Bullets,W,,106,104,17,15,W 1,,,,False,SFW,1964
+33,"Mon, Dec 30, 1963",,Box Score,N,Detroit Pistons,L,OT,112,114,17,16,L 1,,,"at Toledo, OH",False,SFW,1964
+34,"Tue, Dec 31, 1963",,Box Score,@,New York Knicks,W,,101,79,18,16,W 1,,,,False,SFW,1964
+35,"Thu, Jan 2, 1964",,Box Score,,St. Louis Hawks,L,,106,111,18,17,L 1,,,"at Oakland, CA",False,SFW,1964
+36,"Fri, Jan 3, 1964",,Box Score,,Boston Celtics,L,,101,111,18,18,L 2,10146,,,False,SFW,1964
+37,"Tue, Jan 7, 1964",,Box Score,,Boston Celtics,W,,92,89,19,18,W 1,5276,,,False,SFW,1964
+38,"Thu, Jan 9, 1964",,Box Score,,New York Knicks,W,,112,97,20,18,W 2,,,"at Richmond, CA",False,SFW,1964
+39,"Fri, Jan 10, 1964",,Box Score,,Los Angeles Lakers,W,,114,89,21,18,W 3,,,,False,SFW,1964
+40,"Sun, Jan 12, 1964",,Box Score,,New York Knicks,W,,112,105,22,18,W 4,,,"at Oakland, CA",False,SFW,1964
+41,"Wed, Jan 15, 1964",,Box Score,@,Detroit Pistons,W,,89,79,23,18,W 5,,,,False,SFW,1964
+42,"Fri, Jan 17, 1964",,Box Score,@,Philadelphia 76ers,W,,112,91,24,18,W 6,,,,False,SFW,1964
+43,"Sat, Jan 18, 1964",,Box Score,@,Baltimore Bullets,L,,86,93,24,19,L 1,,,,False,SFW,1964
+44,"Sun, Jan 19, 1964",,Box Score,@,Boston Celtics,L,,105,108,24,20,L 2,4127,,,False,SFW,1964
+45,"Tue, Jan 21, 1964",,Box Score,,Detroit Pistons,W,,100,88,25,20,W 1,,,,False,SFW,1964
+46,"Thu, Jan 23, 1964",,Box Score,,Detroit Pistons,W,,125,93,26,20,W 2,,,,False,SFW,1964
+47,"Fri, Jan 24, 1964",,Box Score,@,Los Angeles Lakers,L,,100,118,26,21,L 1,,,,False,SFW,1964
+48,"Sat, Jan 25, 1964",,Box Score,,Los Angeles Lakers,W,,120,95,27,21,W 1,,,,False,SFW,1964
+49,"Sun, Jan 26, 1964",,Box Score,@,Los Angeles Lakers,L,,96,108,27,22,L 1,,,,False,SFW,1964
+50,"Tue, Jan 28, 1964",,Box Score,@,Philadelphia 76ers,W,,139,117,28,22,W 1,,,,False,SFW,1964
+51,"Wed, Jan 29, 1964",,Box Score,@,Boston Celtics,W,,100,92,29,22,W 2,9314,,,False,SFW,1964
+52,"Thu, Jan 30, 1964",,Box Score,@,Detroit Pistons,L,,100,109,29,23,L 1,,,,False,SFW,1964
+53,"Sat, Feb 1, 1964",,Box Score,@,New York Knicks,W,,125,106,30,23,W 1,,,,False,SFW,1964
+54,"Sun, Feb 2, 1964",,Box Score,@,Baltimore Bullets,W,OT,120,118,31,23,W 2,,,,False,SFW,1964
+55,"Tue, Feb 4, 1964",,Box Score,,Detroit Pistons,W,,118,79,32,23,W 3,,,,False,SFW,1964
+56,"Thu, Feb 6, 1964",,Box Score,,Detroit Pistons,W,,104,97,33,23,W 4,,,"at San Jose, CA",False,SFW,1964
+57,"Sat, Feb 8, 1964",,Box Score,@,St. Louis Hawks,W,,103,97,34,23,W 5,,,,False,SFW,1964
+58,"Sun, Feb 9, 1964",,Box Score,@,St. Louis Hawks,L,,111,116,34,24,L 1,,,,False,SFW,1964
+59,"Tue, Feb 11, 1964",,Box Score,@,Detroit Pistons,W,OT,128,118,35,24,W 1,,,,False,SFW,1964
+60,"Thu, Feb 13, 1964",,Box Score,,Boston Celtics,W,,106,95,36,24,W 2,8139,,,False,SFW,1964
+61,"Sat, Feb 15, 1964",,Box Score,,Boston Celtics,L,,87,96,36,25,L 1,5884,,,False,SFW,1964
+62,"Mon, Feb 17, 1964",,Box Score,N,Cincinnati Royals,L,,113,129,36,26,L 2,,,"at Cleveland, OH",False,SFW,1964
+63,"Tue, Feb 18, 1964",,Box Score,N,Detroit Pistons,W,,108,98,37,26,W 1,,,"at Lansing, MI",False,SFW,1964
+64,"Wed, Feb 19, 1964",,Box Score,@,Cincinnati Royals,W,,108,101,38,26,W 2,,,,False,SFW,1964
+65,"Fri, Feb 21, 1964",,Box Score,,Cincinnati Royals,L,,93,101,38,27,L 1,,,,False,SFW,1964
+66,"Sun, Feb 23, 1964",,Box Score,,Los Angeles Lakers,W,,109,108,39,27,W 1,,,,False,SFW,1964
+67,"Tue, Feb 25, 1964",,Box Score,,Cincinnati Royals,W,,117,108,40,27,W 2,,,,False,SFW,1964
+68,"Thu, Feb 27, 1964",,Box Score,@,St. Louis Hawks,W,,107,97,41,27,W 3,,,,False,SFW,1964
+69,"Fri, Feb 28, 1964",,Box Score,@,Boston Celtics,L,,92,107,41,28,L 1,12967,,,False,SFW,1964
+70,"Sat, Feb 29, 1964",,Box Score,@,New York Knicks,W,,136,110,42,28,W 1,,,,False,SFW,1964
+71,"Sun, Mar 1, 1964",,Box Score,@,Detroit Pistons,W,,100,86,43,28,W 2,,,,False,SFW,1964
+72,"Mon, Mar 2, 1964",,Box Score,,St. Louis Hawks,L,,102,111,43,29,L 1,,,,False,SFW,1964
+73,"Thu, Mar 5, 1964",,Box Score,,St. Louis Hawks,L,,102,104,43,30,L 2,,,,False,SFW,1964
+74,"Sat, Mar 7, 1964",,Box Score,@,Los Angeles Lakers,W,,120,118,44,30,W 1,,,,False,SFW,1964
+75,"Tue, Mar 10, 1964",,Box Score,,Baltimore Bullets,W,,129,111,45,30,W 2,,,,False,SFW,1964
+76,"Thu, Mar 12, 1964",,Box Score,,Baltimore Bullets,W,,125,102,46,30,W 3,,,,False,SFW,1964
+77,"Fri, Mar 13, 1964",,Box Score,,Los Angeles Lakers,L,,109,112,46,31,L 1,,,,False,SFW,1964
+78,"Sat, Mar 14, 1964",,Box Score,@,Los Angeles Lakers,W,,111,95,47,31,W 1,,,,False,SFW,1964
+79,"Mon, Mar 16, 1964",,Box Score,,Philadelphia 76ers,L,,110,111,47,32,L 1,,,,False,SFW,1964
+80,"Wed, Mar 18, 1964",,Box Score,,Philadelphia 76ers,W,,89,85,48,32,W 1,,,,False,SFW,1964
+1,"Wed, Apr 1, 1964",,Box Score,,St. Louis Hawks,L,,111,116,0,1,L 1,,,,True,SFW,1964
+2,"Fri, Apr 3, 1964",,Box Score,,St. Louis Hawks,W,,120,85,1,1,W 1,,,,True,SFW,1964
+3,"Sun, Apr 5, 1964",,Box Score,@,St. Louis Hawks,L,,109,113,1,2,L 1,,,,True,SFW,1964
+4,"Wed, Apr 8, 1964",,Box Score,@,St. Louis Hawks,W,,111,109,2,2,W 1,,,,True,SFW,1964
+5,"Fri, Apr 10, 1964",,Box Score,,St. Louis Hawks,W,,121,97,3,2,W 2,,,,True,SFW,1964
+6,"Sun, Apr 12, 1964",,Box Score,@,St. Louis Hawks,L,,95,123,3,3,L 1,,,,True,SFW,1964
+7,"Thu, Apr 16, 1964",,Box Score,,St. Louis Hawks,W,,105,95,4,3,W 1,,,,True,SFW,1964
+8,"Sat, Apr 18, 1964",,Box Score,@,Boston Celtics,L,,96,108,4,4,L 1,13909,,,True,SFW,1964
+9,"Mon, Apr 20, 1964",,Box Score,@,Boston Celtics,L,,101,124,4,5,L 2,13909,,,True,SFW,1964
+10,"Wed, Apr 22, 1964",,Box Score,,Boston Celtics,W,,115,91,5,5,W 1,10981,,,True,SFW,1964
+11,"Fri, Apr 24, 1964",,Box Score,,Boston Celtics,L,,95,98,5,6,L 1,14862,,,True,SFW,1964
+12,"Sun, Apr 26, 1964",,Box Score,@,Boston Celtics,L,,99,105,5,7,L 2,13909,,,True,SFW,1964

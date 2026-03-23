@@ -1,0 +1,81 @@
+G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Opponent,Unnamed: 6,Unnamed: 7,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Thu, Oct 19, 1961",,Box Score,@,New York Knicks,L,,103,120,0,1,L 1,,,,False,CHP,1962
+2,"Sat, Oct 21, 1961",,Box Score,@,Syracuse Nationals,L,,103,123,0,2,L 2,,,,False,CHP,1962
+3,"Fri, Oct 27, 1961",,Box Score,,St. Louis Hawks,W,,117,106,1,2,W 1,,,,False,CHP,1962
+4,"Sat, Oct 28, 1961",,Box Score,@,St. Louis Hawks,L,,95,122,1,3,L 1,,,,False,CHP,1962
+5,"Fri, Nov 3, 1961",,Box Score,,New York Knicks,W,,129,118,2,3,W 1,,,,False,CHP,1962
+6,"Sat, Nov 4, 1961",,Box Score,,Los Angeles Lakers,L,,112,125,2,4,L 1,,,,False,CHP,1962
+7,"Wed, Nov 8, 1961",,Box Score,N,New York Knicks,L,,108,130,2,5,L 2,,,"at Detroit, MI",False,CHP,1962
+8,"Fri, Nov 10, 1961",,Box Score,@,Cincinnati Royals,L,,117,122,2,6,L 3,,,,False,CHP,1962
+9,"Sat, Nov 11, 1961",,Box Score,,Cincinnati Royals,L,,107,117,2,7,L 4,,,,False,CHP,1962
+10,"Sun, Nov 12, 1961",,Box Score,,Boston Celtics,L,,96,112,2,8,L 5,4684,,,False,CHP,1962
+11,"Mon, Nov 13, 1961",,Box Score,@,Los Angeles Lakers,L,,113,127,2,9,L 6,,,,False,CHP,1962
+12,"Wed, Nov 15, 1961",,Box Score,@,Los Angeles Lakers,L,,118,133,2,10,L 7,,,,False,CHP,1962
+13,"Sat, Nov 18, 1961",,Box Score,@,Detroit Pistons,L,,112,119,2,11,L 8,,,,False,CHP,1962
+14,"Sun, Nov 19, 1961",,Box Score,,Philadelphia Warriors,L,,114,122,2,12,L 9,,,,False,CHP,1962
+15,"Tue, Nov 21, 1961",,Box Score,@,New York Knicks,W,,109,107,3,12,W 1,,,,False,CHP,1962
+16,"Sat, Nov 25, 1961",,Box Score,@,Philadelphia Warriors,L,,102,134,3,13,L 1,,,,False,CHP,1962
+17,"Fri, Dec 1, 1961",,Box Score,@,Boston Celtics,L,,121,140,3,14,L 2,2372,,,False,CHP,1962
+18,"Sat, Dec 2, 1961",,Box Score,@,Syracuse Nationals,L,,118,132,3,15,L 3,,,,False,CHP,1962
+19,"Tue, Dec 5, 1961",,Box Score,N,St. Louis Hawks,W,,101,99,4,15,W 1,,,"at New York, NY",False,CHP,1962
+20,"Fri, Dec 8, 1961",,Box Score,N,Detroit Pistons,L,,107,133,4,16,L 1,,,"at Philadelphia, PA",False,CHP,1962
+21,"Sat, Dec 9, 1961",,Box Score,@,Philadelphia Warriors,L,,113,135,4,17,L 2,,,,False,CHP,1962
+22,"Sun, Dec 10, 1961",,Box Score,N,Philadelphia Warriors,L,,109,118,4,18,L 3,,,"at East Chicago, IN",False,CHP,1962
+23,"Mon, Dec 11, 1961",,Box Score,N,Cincinnati Royals,L,,117,133,4,19,L 4,,,"at Dayton, OH",False,CHP,1962
+24,"Wed, Dec 13, 1961",,Box Score,N,New York Knicks,W,,113,112,5,19,W 1,,,"at Boston, MA",False,CHP,1962
+25,"Thu, Dec 14, 1961",,Box Score,N,Boston Celtics,L,,108,123,5,20,L 1,2891,,"at Philadelphia, PA",False,CHP,1962
+26,"Fri, Dec 15, 1961",,Box Score,,Los Angeles Lakers,W,,97,94,6,20,W 1,,,,False,CHP,1962
+27,"Sat, Dec 16, 1961",,Box Score,,Philadelphia Warriors,L,,110,112,6,21,L 1,,,,False,CHP,1962
+28,"Wed, Dec 20, 1961",,Box Score,N,Los Angeles Lakers,L,,98,102,6,22,L 2,,,"at Detroit, MI",False,CHP,1962
+29,"Mon, Dec 25, 1961",,Box Score,N,Detroit Pistons,W,,118,97,7,22,W 1,,,"at New York, NY",False,CHP,1962
+30,"Tue, Dec 26, 1961",,Box Score,N,Detroit Pistons,W,,108,101,8,22,W 2,,,"at Fort Wayne, IN",False,CHP,1962
+31,"Wed, Dec 27, 1961",,Box Score,@,Detroit Pistons,L,,93,121,8,23,L 1,,,,False,CHP,1962
+32,"Fri, Dec 29, 1961",,Box Score,,St. Louis Hawks,L,,103,120,8,24,L 2,,,,False,CHP,1962
+33,"Sat, Dec 30, 1961",,Box Score,@,St. Louis Hawks,L,,92,101,8,25,L 3,,,,False,CHP,1962
+34,"Tue, Jan 2, 1962",,Box Score,,Syracuse Nationals,L,,102,127,8,26,L 4,,,,False,CHP,1962
+35,"Sat, Jan 6, 1962",,Box Score,@,Syracuse Nationals,L,,102,120,8,27,L 5,,,,False,CHP,1962
+36,"Sun, Jan 7, 1962",,Box Score,N,Cincinnati Royals,L,,113,123,8,28,L 6,,,"at Louisville, KY",False,CHP,1962
+37,"Tue, Jan 9, 1962",,Box Score,N,Cincinnati Royals,L,,106,113,8,29,L 7,,,"at Indianapolis, IN",False,CHP,1962
+38,"Wed, Jan 10, 1962",,Box Score,,Boston Celtics,W,,103,90,9,29,W 1,2248,,,False,CHP,1962
+39,"Fri, Jan 12, 1962",,Box Score,,Detroit Pistons,L,,99,102,9,30,L 1,,,,False,CHP,1962
+40,"Sat, Jan 13, 1962",,Box Score,@,Philadelphia Warriors,L,,117,135,9,31,L 2,,,,False,CHP,1962
+41,"Thu, Jan 18, 1962",,Box Score,N,Syracuse Nationals,L,,111,118,9,32,L 3,,,"at Philadelphia, PA",False,CHP,1962
+42,"Fri, Jan 19, 1962",,Box Score,,St. Louis Hawks,L,,113,114,9,33,L 4,,,,False,CHP,1962
+43,"Sat, Jan 20, 1962",,Box Score,@,St. Louis Hawks,L,,112,116,9,34,L 5,,,,False,CHP,1962
+44,"Sun, Jan 21, 1962",,Box Score,,Los Angeles Lakers,L,OT,111,112,9,35,L 6,,,,False,CHP,1962
+45,"Mon, Jan 22, 1962",,Box Score,N,New York Knicks,L,,94,131,9,36,L 7,,,"at Moline, IL",False,CHP,1962
+46,"Tue, Jan 23, 1962",,Box Score,@,New York Knicks,W,,109,103,10,36,W 1,,,,False,CHP,1962
+47,"Wed, Jan 24, 1962",,Box Score,N,Philadelphia Warriors,L,,108,122,10,37,L 1,,,"at Boston, MA",False,CHP,1962
+48,"Thu, Jan 25, 1962",,Box Score,,New York Knicks,L,,102,117,10,38,L 2,,,,False,CHP,1962
+49,"Sat, Jan 27, 1962",,Box Score,,Syracuse Nationals,L,,102,107,10,39,L 3,,,,False,CHP,1962
+50,"Sun, Jan 28, 1962",,Box Score,@,Los Angeles Lakers,L,,109,124,10,40,L 4,,,,False,CHP,1962
+51,"Tue, Jan 30, 1962",,Box Score,@,Los Angeles Lakers,L,,92,107,10,41,L 5,,,,False,CHP,1962
+52,"Wed, Jan 31, 1962",,Box Score,,Boston Celtics,L,,115,122,10,42,L 6,3112,,,False,CHP,1962
+53,"Fri, Feb 2, 1962",,Box Score,,Detroit Pistons,W,,112,96,11,42,W 1,,,,False,CHP,1962
+54,"Sat, Feb 3, 1962",,Box Score,N,Detroit Pistons,L,,109,116,11,43,L 1,,,"at St. Louis, MO",False,CHP,1962
+55,"Sun, Feb 4, 1962",,Box Score,,Los Angeles Lakers,W,,113,105,12,43,W 1,,,,False,CHP,1962
+56,"Mon, Feb 5, 1962",,Box Score,,Boston Celtics,L,,111,127,12,44,L 1,3126,,,False,CHP,1962
+57,"Tue, Feb 6, 1962",,Box Score,N,Syracuse Nationals,L,,123,127,12,45,L 2,,,"at New York, NY",False,CHP,1962
+58,"Sat, Feb 10, 1962",,Box Score,N,New York Knicks,W,,126,111,13,45,W 1,,,"at Philadelphia, PA",False,CHP,1962
+59,"Sun, Feb 11, 1962",,Box Score,@,Boston Celtics,L,,115,148,13,46,L 1,9024,,,False,CHP,1962
+60,"Tue, Feb 13, 1962",,Box Score,N,Boston Celtics,L,,117,138,13,47,L 2,2233,,"at Providence, RI",False,CHP,1962
+61,"Wed, Feb 14, 1962",,Box Score,N,Cincinnati Royals,W,,125,121,14,47,W 1,,,"at Detroit, MI",False,CHP,1962
+62,"Thu, Feb 15, 1962",,Box Score,,Syracuse Nationals,W,,126,121,15,47,W 2,,,,False,CHP,1962
+63,"Fri, Feb 16, 1962",,Box Score,N,Syracuse Nationals,L,,106,132,15,48,L 1,,,"at Evansville, IN",False,CHP,1962
+64,"Sat, Feb 17, 1962",,Box Score,N,Syracuse Nationals,L,,127,136,15,49,L 2,,,"at Rochester, NY",False,CHP,1962
+65,"Sun, Feb 18, 1962",,Box Score,N,Cincinnati Royals,L,,121,138,15,50,L 3,,,"at Syracuse, NY",False,CHP,1962
+66,"Tue, Feb 20, 1962",,Box Score,N,Philadelphia Warriors,L,,107,112,15,51,L 4,,,"at New York, NY",False,CHP,1962
+67,"Wed, Feb 21, 1962",,Box Score,,Cincinnati Royals,L,,125,153,15,52,L 5,,,,False,CHP,1962
+68,"Fri, Feb 23, 1962",,Box Score,N,Los Angeles Lakers,L,OT,117,124,15,53,L 6,,,"at Louisville, KY",False,CHP,1962
+69,"Sat, Feb 24, 1962",,Box Score,,St. Louis Hawks,W,,129,119,16,53,W 1,,,,False,CHP,1962
+70,"Sun, Feb 25, 1962",,Box Score,@,Cincinnati Royals,L,,105,108,16,54,L 1,,,,False,CHP,1962
+71,"Tue, Feb 27, 1962",,Box Score,N,Boston Celtics,L,,100,115,16,55,L 2,7875,,"at St. Louis, MO",False,CHP,1962
+72,"Wed, Feb 28, 1962",,Box Score,,Philadelphia Warriors,L,,119,128,16,56,L 3,,,,False,CHP,1962
+73,"Sat, Mar 3, 1962",,Box Score,,Cincinnati Royals,L,,119,126,16,57,L 4,,,,False,CHP,1962
+74,"Sun, Mar 4, 1962",,Box Score,N,Detroit Pistons,L,,116,133,16,58,L 5,,,"at Moline, IL",False,CHP,1962
+75,"Thu, Mar 8, 1962",,Box Score,,Boston Celtics,L,,102,108,16,59,L 6,2780,,,False,CHP,1962
+76,"Fri, Mar 9, 1962",,Box Score,N,St. Louis Hawks,L,,120,124,16,60,L 7,,,"at Detroit, MI",False,CHP,1962
+77,"Sat, Mar 10, 1962",,Box Score,,New York Knicks,W,,128,116,17,60,W 1,,,,False,CHP,1962
+78,"Mon, Mar 12, 1962",,Box Score,N,Detroit Pistons,L,,116,121,17,61,L 1,,,"at Green Bay, WI",False,CHP,1962
+79,"Tue, Mar 13, 1962",,Box Score,@,St. Louis Hawks,W,,124,118,18,61,W 1,,,,False,CHP,1962
+80,"Wed, Mar 14, 1962",,Box Score,,Philadelphia Warriors,L,OT,115,119,18,62,L 1,,,,False,CHP,1962

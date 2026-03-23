@@ -1,0 +1,83 @@
+G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Opponent,Unnamed: 6,Unnamed: 7,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Fri, Oct 12, 1979",,Box Score,@,Atlanta Hawks,L,,104,121,0,1,L 1,,,,False,NYK,1980
+2,"Sat, Oct 13, 1979",,Box Score,,Washington Bullets,W,OT,125,118,1,1,W 1,,,,False,NYK,1980
+3,"Tue, Oct 16, 1979",,Box Score,,Houston Rockets,W,,126,121,2,1,W 2,,,,False,NYK,1980
+4,"Thu, Oct 18, 1979",,Box Score,@,Detroit Pistons,L,,115,129,2,2,L 1,,,,False,NYK,1980
+5,"Fri, Oct 19, 1979",,Box Score,@,New Jersey Nets,W,,111,106,3,2,W 1,,,,False,NYK,1980
+6,"Sat, Oct 20, 1979",,Box Score,,Philadelphia 76ers,L,,111,136,3,3,L 1,,,,False,NYK,1980
+7,"Tue, Oct 23, 1979",,Box Score,,Indiana Pacers,W,,136,112,4,3,W 1,,,,False,NYK,1980
+8,"Fri, Oct 26, 1979",,Box Score,@,Philadelphia 76ers,L,,116,127,4,4,L 1,,,,False,NYK,1980
+9,"Sat, Oct 27, 1979",,Box Score,,New Jersey Nets,W,,94,92,5,4,W 1,,,,False,NYK,1980
+10,"Tue, Oct 30, 1979",,Box Score,@,Denver Nuggets,L,,112,121,5,5,L 1,,,,False,NYK,1980
+11,"Thu, Nov 1, 1979",,Box Score,@,Utah Jazz,W,,134,118,6,5,W 1,,,,False,NYK,1980
+12,"Fri, Nov 2, 1979",,Box Score,@,Kansas City Kings,W,,112,111,7,5,W 2,,,,False,NYK,1980
+13,"Tue, Nov 6, 1979",,Box Score,,Atlanta Hawks,L,,96,98,7,6,L 1,,,,False,NYK,1980
+14,"Sat, Nov 10, 1979",,Box Score,,San Antonio Spurs,L,,119,123,7,7,L 2,,,,False,NYK,1980
+15,"Tue, Nov 13, 1979",,Box Score,,Washington Bullets,L,,107,111,7,8,L 3,,,,False,NYK,1980
+16,"Thu, Nov 15, 1979",,Box Score,@,San Antonio Spurs,L,,132,136,7,9,L 4,,,,False,NYK,1980
+17,"Fri, Nov 16, 1979",,Box Score,@,Houston Rockets,L,,130,133,7,10,L 5,,,,False,NYK,1980
+18,"Sat, Nov 17, 1979",,Box Score,,Boston Celtics,W,,113,109,8,10,W 1,19591,2:03,,False,NYK,1980
+19,"Tue, Nov 20, 1979",,Box Score,,Houston Rockets,W,OT,130,125,9,10,W 2,,,,False,NYK,1980
+20,"Wed, Nov 21, 1979",,Box Score,@,Indiana Pacers,L,,108,119,9,11,L 1,,,,False,NYK,1980
+21,"Sat, Nov 24, 1979",,Box Score,,Cleveland Cavaliers,W,,133,113,10,11,W 1,,,,False,NYK,1980
+22,"Tue, Nov 27, 1979",,Box Score,,Detroit Pistons,W,OT,116,114,11,11,W 2,,,,False,NYK,1980
+23,"Thu, Nov 29, 1979",,Box Score,@,Cleveland Cavaliers,L,,115,117,11,12,L 1,,,,False,NYK,1980
+24,"Fri, Nov 30, 1979",,Box Score,@,Boston Celtics,L,,97,100,11,13,L 2,15320,2:04,,False,NYK,1980
+25,"Sat, Dec 1, 1979",,Box Score,,Denver Nuggets,W,,121,112,12,13,W 1,,,,False,NYK,1980
+26,"Tue, Dec 4, 1979",,Box Score,,Phoenix Suns,W,,118,114,13,13,W 2,,,,False,NYK,1980
+27,"Wed, Dec 5, 1979",,Box Score,@,Washington Bullets,W,,107,104,14,13,W 3,,,,False,NYK,1980
+28,"Sat, Dec 8, 1979",,Box Score,,Kansas City Kings,L,,129,145,14,14,L 1,,,,False,NYK,1980
+29,"Tue, Dec 11, 1979",,Box Score,,Indiana Pacers,L,OT,122,124,14,15,L 2,,,,False,NYK,1980
+30,"Wed, Dec 12, 1979",,Box Score,@,Atlanta Hawks,L,,102,114,14,16,L 3,,,,False,NYK,1980
+31,"Fri, Dec 14, 1979",,Box Score,@,New Jersey Nets,L,,105,118,14,17,L 4,,,,False,NYK,1980
+32,"Sat, Dec 15, 1979",,Box Score,,Boston Celtics,L,,96,99,14,18,L 5,19541,2:02,,False,NYK,1980
+33,"Tue, Dec 18, 1979",,Box Score,,Atlanta Hawks,W,,101,99,15,18,W 1,,,,False,NYK,1980
+34,"Thu, Dec 20, 1979",,Box Score,@,San Diego Clippers,L,,118,128,15,19,L 1,,,,False,NYK,1980
+35,"Fri, Dec 21, 1979",,Box Score,@,Seattle SuperSonics,L,,102,121,15,20,L 2,,,,False,NYK,1980
+36,"Sun, Dec 23, 1979",,Box Score,@,Portland Trail Blazers,W,,111,103,16,20,W 1,,,,False,NYK,1980
+37,"Tue, Dec 25, 1979",,Box Score,,New Jersey Nets,W,,131,102,17,20,W 2,,,,False,NYK,1980
+38,"Thu, Dec 27, 1979",,Box Score,@,Cleveland Cavaliers,L,,110,125,17,21,L 1,,,,False,NYK,1980
+39,"Fri, Dec 28, 1979",,Box Score,@,Chicago Bulls,W,,120,102,18,21,W 1,,,,False,NYK,1980
+40,"Sat, Dec 29, 1979",,Box Score,,Milwaukee Bucks,W,,117,105,19,21,W 2,,,,False,NYK,1980
+41,"Tue, Jan 1, 1980",,Box Score,,San Antonio Spurs,W,,128,120,20,21,W 3,,,,False,NYK,1980
+42,"Thu, Jan 3, 1980",,Box Score,,San Diego Clippers,W,,138,101,21,21,W 4,,,,False,NYK,1980
+43,"Sat, Jan 5, 1980",,Box Score,,Chicago Bulls,W,,124,117,22,21,W 5,,,,False,NYK,1980
+44,"Tue, Jan 8, 1980",,Box Score,,Philadelphia 76ers,L,,108,111,22,22,L 1,,,,False,NYK,1980
+45,"Wed, Jan 9, 1980",,Box Score,@,Boston Celtics,L,,95,112,22,23,L 2,15320,1:59,,False,NYK,1980
+46,"Fri, Jan 11, 1980",,Box Score,@,Milwaukee Bucks,L,,107,109,22,24,L 3,,,,False,NYK,1980
+47,"Sun, Jan 13, 1980",,Box Score,@,Philadelphia 76ers,L,,112,126,22,25,L 4,,,,False,NYK,1980
+48,"Tue, Jan 15, 1980",,Box Score,,Cleveland Cavaliers,L,,110,129,22,26,L 5,,,,False,NYK,1980
+49,"Fri, Jan 18, 1980",,Box Score,,Seattle SuperSonics,L,,117,124,22,27,L 6,,,,False,NYK,1980
+50,"Mon, Jan 21, 1980",,Box Score,@,Los Angeles Lakers,L,,114,132,22,28,L 7,,,,False,NYK,1980
+51,"Wed, Jan 23, 1980",,Box Score,@,Phoenix Suns,W,,119,109,23,28,W 1,,,,False,NYK,1980
+52,"Fri, Jan 25, 1980",,Box Score,@,Golden State Warriors,W,,110,105,24,28,W 2,,,,False,NYK,1980
+53,"Sun, Jan 27, 1980",,Box Score,@,Detroit Pistons,W,,98,93,25,28,W 3,,,,False,NYK,1980
+54,"Mon, Jan 28, 1980",,Box Score,,Golden State Warriors,W,,107,103,26,28,W 4,,,,False,NYK,1980
+55,"Thu, Jan 31, 1980",,Box Score,@,Indiana Pacers,W,,112,102,27,28,W 5,,,,False,NYK,1980
+56,"Tue, Feb 5, 1980",,Box Score,,Los Angeles Lakers,L,,105,116,27,29,L 1,,,,False,NYK,1980
+57,"Sat, Feb 9, 1980",,Box Score,,Detroit Pistons,W,,114,107,28,29,W 1,,,,False,NYK,1980
+58,"Wed, Feb 13, 1980",,Box Score,@,Houston Rockets,L,,117,122,28,30,L 1,,,,False,NYK,1980
+59,"Thu, Feb 14, 1980",,Box Score,@,San Antonio Spurs,W,,128,124,29,30,W 1,,,,False,NYK,1980
+60,"Sat, Feb 16, 1980",,Box Score,,Utah Jazz,L,,102,121,29,31,L 1,,,,False,NYK,1980
+61,"Tue, Feb 19, 1980",,Box Score,,Portland Trail Blazers,W,,113,103,30,31,W 1,,,,False,NYK,1980
+62,"Wed, Feb 20, 1980",,Box Score,@,Indiana Pacers,L,,86,131,30,32,L 1,,,,False,NYK,1980
+63,"Sat, Feb 23, 1980",,Box Score,,Cleveland Cavaliers,W,,127,112,31,32,W 1,,,,False,NYK,1980
+64,"Sun, Feb 24, 1980",,Box Score,@,Washington Bullets,L,,97,112,31,33,L 1,,,,False,NYK,1980
+65,"Thu, Feb 28, 1980",,Box Score,,San Antonio Spurs,W,,133,124,32,33,W 1,,,,False,NYK,1980
+66,"Sat, Mar 1, 1980",,Box Score,,New Jersey Nets,W,,115,108,33,33,W 2,,,,False,NYK,1980
+67,"Sun, Mar 2, 1980",,Box Score,@,New Jersey Nets,L,,96,113,33,34,L 1,,,,False,NYK,1980
+68,"Wed, Mar 5, 1980",,Box Score,@,Detroit Pistons,L,,113,120,33,35,L 2,,,,False,NYK,1980
+69,"Fri, Mar 7, 1980",,Box Score,@,San Antonio Spurs,W,,118,112,34,35,W 1,,,,False,NYK,1980
+70,"Sat, Mar 8, 1980",,Box Score,,Detroit Pistons,W,,110,104,35,35,W 2,,,,False,NYK,1980
+71,"Sun, Mar 9, 1980",,Box Score,@,Atlanta Hawks,L,,92,98,35,36,L 1,,,,False,NYK,1980
+72,"Tue, Mar 11, 1980",,Box Score,,Houston Rockets,W,,129,109,36,36,W 1,,,,False,NYK,1980
+73,"Thu, Mar 13, 1980",,Box Score,,Indiana Pacers,L,,100,107,36,37,L 1,,,,False,NYK,1980
+74,"Sat, Mar 15, 1980",,Box Score,,Boston Celtics,L,,120,123,36,38,L 2,19591,2:15,,False,NYK,1980
+75,"Sun, Mar 16, 1980",,Box Score,@,Washington Bullets,W,,133,124,37,38,W 1,,,,False,NYK,1980
+76,"Tue, Mar 18, 1980",,Box Score,,Atlanta Hawks,W,,111,110,38,38,W 2,,,,False,NYK,1980
+77,"Wed, Mar 19, 1980",,Box Score,@,Houston Rockets,L,,113,139,38,39,L 1,,,,False,NYK,1980
+78,"Sat, Mar 22, 1980",,Box Score,,Washington Bullets,L,,113,122,38,40,L 2,,,,False,NYK,1980
+79,"Sun, Mar 23, 1980",,Box Score,@,Philadelphia 76ers,L,,108,112,38,41,L 3,,,,False,NYK,1980
+80,"Tue, Mar 25, 1980",,Box Score,@,Cleveland Cavaliers,W,,128,115,39,41,W 1,,,,False,NYK,1980
+81,"Wed, Mar 26, 1980",,Box Score,@,Boston Celtics,L,,121,129,39,42,L 1,15320,2:07,,False,NYK,1980
+82,"Thu, Mar 27, 1980",,Box Score,,Philadelphia 76ers,L,,101,103,39,43,L 2,,,,False,NYK,1980

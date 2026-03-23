@@ -1,0 +1,100 @@
+G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Opponent,Unnamed: 6,Unnamed: 7,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Fri, Oct 18, 1974",,Box Score,@,Los Angeles Lakers,L,,90,105,0,1,L 1,,,,False,GSW,1975
+2,"Sat, Oct 19, 1974",,Box Score,,Cleveland Cavaliers,W,,113,110,1,1,W 1,,,,False,GSW,1975
+3,"Tue, Oct 22, 1974",,Box Score,,Portland Trail Blazers,L,,106,107,1,2,L 1,,,,False,GSW,1975
+4,"Fri, Oct 25, 1974",,Box Score,@,Portland Trail Blazers,W,,99,97,2,2,W 1,,,,False,GSW,1975
+5,"Sat, Oct 26, 1974",,Box Score,,Detroit Pistons,W,,105,104,3,2,W 2,,,,False,GSW,1975
+6,"Tue, Oct 29, 1974",,Box Score,,Buffalo Braves,W,,130,101,4,2,W 3,,,,False,GSW,1975
+7,"Fri, Nov 1, 1974",,Box Score,@,Seattle SuperSonics,W,,99,88,5,2,W 4,,,,False,GSW,1975
+8,"Sat, Nov 2, 1974",,Box Score,,Milwaukee Bucks,W,,99,90,6,2,W 5,,,,False,GSW,1975
+9,"Sun, Nov 3, 1974",,Box Score,@,Portland Trail Blazers,W,,109,100,7,2,W 6,,,,False,GSW,1975
+10,"Thu, Nov 7, 1974",,Box Score,,Seattle SuperSonics,L,,93,104,7,3,L 1,,,,False,GSW,1975
+11,"Sat, Nov 9, 1974",,Box Score,,New York Knicks,W,,97,93,8,3,W 1,,,,False,GSW,1975
+12,"Sun, Nov 10, 1974",,Box Score,@,Los Angeles Lakers,W,,106,103,9,3,W 2,,,,False,GSW,1975
+13,"Tue, Nov 12, 1974",,Box Score,,Atlanta Hawks,W,,128,111,10,3,W 3,,,,False,GSW,1975
+14,"Sat, Nov 16, 1974",,Box Score,,Philadelphia 76ers,L,,102,106,10,4,L 1,,,,False,GSW,1975
+15,"Sun, Nov 17, 1974",,Box Score,@,Phoenix Suns,W,,106,105,11,4,W 1,,,,False,GSW,1975
+16,"Tue, Nov 19, 1974",,Box Score,@,Buffalo Braves,L,,106,111,11,5,L 1,,,,False,GSW,1975
+17,"Wed, Nov 20, 1974",,Box Score,@,Boston Celtics,W,,120,115,12,5,W 1,3509,,"at Providence, RI",False,GSW,1975
+18,"Thu, Nov 21, 1974",,Box Score,@,Cleveland Cavaliers,L,,74,106,12,6,L 1,,,,False,GSW,1975
+19,"Sat, Nov 23, 1974",,Box Score,@,Detroit Pistons,W,,110,98,13,6,W 1,,,,False,GSW,1975
+20,"Tue, Nov 26, 1974",,Box Score,,Houston Rockets,W,,144,124,14,6,W 2,,,,False,GSW,1975
+21,"Sat, Nov 30, 1974",,Box Score,,Los Angeles Lakers,W,,128,118,15,6,W 3,,,,False,GSW,1975
+22,"Tue, Dec 3, 1974",,Box Score,,New Orleans Jazz,W,,122,101,16,6,W 4,,,,False,GSW,1975
+23,"Thu, Dec 5, 1974",,Box Score,@,Phoenix Suns,L,2OT,106,108,16,7,L 1,,,,False,GSW,1975
+24,"Sat, Dec 7, 1974",,Box Score,,Seattle SuperSonics,W,,132,96,17,7,W 1,,,,False,GSW,1975
+25,"Tue, Dec 10, 1974",,Box Score,@,Houston Rockets,L,,97,111,17,8,L 1,,,,False,GSW,1975
+26,"Wed, Dec 11, 1974",,Box Score,@,New Orleans Jazz,L,,103,106,17,9,L 2,,,,False,GSW,1975
+27,"Thu, Dec 12, 1974",,Box Score,@,Atlanta Hawks,W,,129,109,18,9,W 1,,,,False,GSW,1975
+28,"Sat, Dec 14, 1974",,Box Score,@,Washington Bullets,L,,91,99,18,10,L 1,,,,False,GSW,1975
+29,"Tue, Dec 17, 1974",,Box Score,@,New York Knicks,W,,126,108,19,10,W 1,,,,False,GSW,1975
+30,"Fri, Dec 20, 1974",,Box Score,@,Philadelphia 76ers,W,,94,93,20,10,W 2,,,,False,GSW,1975
+31,"Sat, Dec 21, 1974",,Box Score,@,Kansas City-Omaha Kings,L,,84,107,20,11,L 1,,,,False,GSW,1975
+32,"Mon, Dec 23, 1974",,Box Score,,Phoenix Suns,W,,111,94,21,11,W 1,,,,False,GSW,1975
+33,"Thu, Dec 26, 1974",,Box Score,,Portland Trail Blazers,W,,112,101,22,11,W 2,,,,False,GSW,1975
+34,"Sat, Dec 28, 1974",,Box Score,,Boston Celtics,L,,105,115,22,12,L 1,12787,,,False,GSW,1975
+35,"Mon, Dec 30, 1974",,Box Score,,Kansas City-Omaha Kings,W,,110,102,23,12,W 1,,,,False,GSW,1975
+36,"Sat, Jan 4, 1975",,Box Score,,Washington Bullets,W,,104,96,24,12,W 2,,,,False,GSW,1975
+37,"Tue, Jan 7, 1975",,Box Score,,New Orleans Jazz,W,,136,94,25,12,W 3,,,,False,GSW,1975
+38,"Thu, Jan 9, 1975",,Box Score,,New York Knicks,W,,132,96,26,12,W 4,,,,False,GSW,1975
+39,"Fri, Jan 10, 1975",,Box Score,@,Seattle SuperSonics,W,,119,94,27,12,W 5,,,,False,GSW,1975
+40,"Sat, Jan 11, 1975",,Box Score,,Chicago Bulls,L,,105,114,27,13,L 1,,,,False,GSW,1975
+41,"Thu, Jan 16, 1975",,Box Score,@,Milwaukee Bucks,L,,100,119,27,14,L 2,,,,False,GSW,1975
+42,"Fri, Jan 17, 1975",,Box Score,@,Buffalo Braves,L,,116,121,27,15,L 3,,,,False,GSW,1975
+43,"Sat, Jan 18, 1975",,Box Score,@,Washington Bullets,L,,101,125,27,16,L 4,,,,False,GSW,1975
+44,"Tue, Jan 21, 1975",,Box Score,,Los Angeles Lakers,W,,138,108,28,16,W 1,,,,False,GSW,1975
+45,"Thu, Jan 23, 1975",,Box Score,,Philadelphia 76ers,W,,108,100,29,16,W 2,,,,False,GSW,1975
+46,"Sat, Jan 25, 1975",,Box Score,,Portland Trail Blazers,W,OT,114,109,30,16,W 3,,,,False,GSW,1975
+47,"Sun, Jan 26, 1975",,Box Score,@,Portland Trail Blazers,L,,113,128,30,17,L 1,,,,False,GSW,1975
+48,"Wed, Jan 29, 1975",,Box Score,@,Detroit Pistons,L,,90,93,30,18,L 2,,,,False,GSW,1975
+49,"Fri, Jan 31, 1975",,Box Score,@,Chicago Bulls,L,,103,127,30,19,L 3,,,,False,GSW,1975
+50,"Sun, Feb 2, 1975",,Box Score,@,Kansas City-Omaha Kings,L,,101,127,30,20,L 4,,,,False,GSW,1975
+51,"Tue, Feb 4, 1975",,Box Score,@,Houston Rockets,W,,107,105,31,20,W 1,,,,False,GSW,1975
+52,"Thu, Feb 6, 1975",,Box Score,,Washington Bullets,L,,97,98,31,21,L 1,,,,False,GSW,1975
+53,"Sat, Feb 8, 1975",,Box Score,,Phoenix Suns,W,,105,96,32,21,W 1,,,,False,GSW,1975
+54,"Tue, Feb 11, 1975",,Box Score,,Houston Rockets,L,OT,108,112,32,22,L 1,,,,False,GSW,1975
+55,"Thu, Feb 13, 1975",,Box Score,@,Cleveland Cavaliers,L,,93,96,32,23,L 2,,,,False,GSW,1975
+56,"Fri, Feb 14, 1975",,Box Score,@,Chicago Bulls,L,,87,105,32,24,L 3,,,,False,GSW,1975
+57,"Sat, Feb 15, 1975",,Box Score,@,Philadelphia 76ers,W,,108,101,33,24,W 1,,,,False,GSW,1975
+58,"Tue, Feb 18, 1975",,Box Score,@,New York Knicks,L,,98,99,33,25,L 1,,,,False,GSW,1975
+59,"Thu, Feb 20, 1975",,Box Score,,Atlanta Hawks,W,,108,102,34,25,W 1,,,,False,GSW,1975
+60,"Fri, Feb 21, 1975",,Box Score,@,Los Angeles Lakers,W,,105,93,35,25,W 2,,,,False,GSW,1975
+61,"Sat, Feb 22, 1975",,Box Score,,Boston Celtics,W,,114,108,36,25,W 3,12961,,,False,GSW,1975
+62,"Tue, Feb 25, 1975",,Box Score,,Phoenix Suns,L,,97,111,36,26,L 1,,,,False,GSW,1975
+63,"Fri, Feb 28, 1975",,Box Score,@,Phoenix Suns,L,,96,102,36,27,L 2,,,,False,GSW,1975
+64,"Sat, Mar 1, 1975",,Box Score,,Cleveland Cavaliers,W,,110,95,37,27,W 1,,,,False,GSW,1975
+65,"Sun, Mar 2, 1975",,Box Score,@,Portland Trail Blazers,L,,86,122,37,28,L 1,,,,False,GSW,1975
+66,"Tue, Mar 4, 1975",,Box Score,,Chicago Bulls,W,,117,102,38,28,W 1,,,,False,GSW,1975
+67,"Thu, Mar 6, 1975",,Box Score,@,Atlanta Hawks,L,,106,110,38,29,L 1,,,,False,GSW,1975
+68,"Fri, Mar 7, 1975",,Box Score,@,New Orleans Jazz,L,,107,110,38,30,L 2,,,,False,GSW,1975
+69,"Sun, Mar 9, 1975",,Box Score,@,Boston Celtics,W,,102,101,39,30,W 1,15320,,,False,GSW,1975
+70,"Tue, Mar 11, 1975",,Box Score,@,Milwaukee Bucks,W,,107,90,40,30,W 2,,,,False,GSW,1975
+71,"Thu, Mar 13, 1975",,Box Score,,Buffalo Braves,L,,103,122,40,31,L 1,,,,False,GSW,1975
+72,"Sat, Mar 15, 1975",,Box Score,,Seattle SuperSonics,W,,120,84,41,31,W 1,,,,False,GSW,1975
+73,"Sun, Mar 16, 1975",,Box Score,@,Los Angeles Lakers,L,,95,111,41,32,L 1,,,,False,GSW,1975
+74,"Tue, Mar 18, 1975",,Box Score,,Phoenix Suns,W,,133,103,42,32,W 1,,,,False,GSW,1975
+75,"Thu, Mar 20, 1975",,Box Score,,Portland Trail Blazers,W,,97,95,43,32,W 2,,,,False,GSW,1975
+76,"Sat, Mar 22, 1975",,Box Score,,Milwaukee Bucks,W,,133,117,44,32,W 3,,,,False,GSW,1975
+77,"Tue, Mar 25, 1975",,Box Score,,Los Angeles Lakers,W,,139,122,45,32,W 4,,,,False,GSW,1975
+78,"Thu, Mar 27, 1975",,Box Score,,Kansas City-Omaha Kings,W,,111,103,46,32,W 5,,,,False,GSW,1975
+79,"Fri, Mar 28, 1975",,Box Score,@,Seattle SuperSonics,L,,92,96,46,33,L 1,,,,False,GSW,1975
+80,"Sat, Mar 29, 1975",,Box Score,,Detroit Pistons,W,,115,112,47,33,W 1,,,,False,GSW,1975
+81,"Fri, Apr 4, 1975",,Box Score,@,Phoenix Suns,W,,128,99,48,33,W 2,,,,False,GSW,1975
+82,"Sat, Apr 5, 1975",,Box Score,,Seattle SuperSonics,L,,108,109,48,34,L 1,,,,False,GSW,1975
+1,"Mon, Apr 14, 1975",,Box Score,,Seattle SuperSonics,W,,123,96,1,0,W 1,,,,True,GSW,1975
+2,"Wed, Apr 16, 1975",,Box Score,,Seattle SuperSonics,L,,99,100,1,1,L 1,,,,True,GSW,1975
+3,"Thu, Apr 17, 1975",,Box Score,@,Seattle SuperSonics,W,,105,96,2,1,W 1,,,,True,GSW,1975
+4,"Sat, Apr 19, 1975",,Box Score,@,Seattle SuperSonics,L,,94,111,2,2,L 1,,,,True,GSW,1975
+5,"Tue, Apr 22, 1975",,Box Score,,Seattle SuperSonics,W,,124,100,3,2,W 1,,,,True,GSW,1975
+6,"Thu, Apr 24, 1975",,Box Score,@,Seattle SuperSonics,W,,105,96,4,2,W 2,,,,True,GSW,1975
+7,"Sun, Apr 27, 1975",,Box Score,,Chicago Bulls,W,,107,89,5,2,W 3,,,,True,GSW,1975
+8,"Wed, Apr 30, 1975",,Box Score,@,Chicago Bulls,L,,89,90,5,3,L 1,,,,True,GSW,1975
+9,"Sun, May 4, 1975",,Box Score,@,Chicago Bulls,L,,101,108,5,4,L 2,,,,True,GSW,1975
+10,"Tue, May 6, 1975",,Box Score,,Chicago Bulls,W,,111,106,6,4,W 1,,,,True,GSW,1975
+11,"Thu, May 8, 1975",,Box Score,,Chicago Bulls,L,,79,89,6,5,L 1,,,,True,GSW,1975
+12,"Sun, May 11, 1975",,Box Score,@,Chicago Bulls,W,,86,72,7,5,W 1,,,,True,GSW,1975
+13,"Wed, May 14, 1975",,Box Score,,Chicago Bulls,W,,83,79,8,5,W 2,,,,True,GSW,1975
+14,"Sun, May 18, 1975",,Box Score,@,Washington Bullets,W,,101,95,9,5,W 3,19035,,,True,GSW,1975
+15,"Tue, May 20, 1975",,Box Score,,Washington Bullets,W,,92,91,10,5,W 4,13225,,"at Daly City, CA",True,GSW,1975
+16,"Fri, May 23, 1975",,Box Score,,Washington Bullets,W,,109,101,11,5,W 5,13225,,"at Daly City, CA",True,GSW,1975
+17,"Sun, May 25, 1975",,Box Score,@,Washington Bullets,W,,96,95,12,5,W 6,19035,,,True,GSW,1975

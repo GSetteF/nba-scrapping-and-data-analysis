@@ -1,0 +1,83 @@
+G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Opponent,Unnamed: 6,Unnamed: 7,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Fri, Nov 4, 1988",,Box Score,,Cleveland Cavaliers,L,,93,133,0,1,L 1,23338,,,False,CHH,1989
+2,"Sat, Nov 5, 1988",,Box Score,@,Detroit Pistons,L,,85,94,0,2,L 2,21454,,,False,CHH,1989
+3,"Tue, Nov 8, 1988",,Box Score,,Los Angeles Clippers,W,,117,105,1,2,W 1,18865,,,False,CHH,1989
+4,"Fri, Nov 11, 1988",,Box Score,@,Washington Bullets,L,,87,96,1,3,L 1,12731,,,False,CHH,1989
+5,"Sat, Nov 12, 1988",,Box Score,@,Atlanta Hawks,L,,111,132,1,4,L 2,16155,,,False,CHH,1989
+6,"Tue, Nov 15, 1988",,Box Score,,New Jersey Nets,L,,99,106,1,5,L 3,21748,,,False,CHH,1989
+7,"Thu, Nov 17, 1988",,Box Score,@,Dallas Mavericks,L,,93,105,1,6,L 4,16512,,,False,CHH,1989
+8,"Sat, Nov 19, 1988",,Box Score,@,San Antonio Spurs,W,,107,105,2,6,W 1,10863,,,False,CHH,1989
+9,"Tue, Nov 22, 1988",,Box Score,,Detroit Pistons,L,,93,99,2,7,L 1,23388,,,False,CHH,1989
+10,"Wed, Nov 23, 1988",,Box Score,@,Boston Celtics,L,,109,114,2,8,L 2,14890,2:07,,False,CHH,1989
+11,"Fri, Nov 25, 1988",,Box Score,@,Philadelphia 76ers,L,,116,123,2,9,L 3,10588,,,False,CHH,1989
+12,"Sat, Nov 26, 1988",,Box Score,,Washington Bullets,L,,113,120,2,10,L 4,23388,,,False,CHH,1989
+13,"Tue, Nov 29, 1988",,Box Score,,Miami Heat,W,,99,84,3,10,W 1,23388,,,False,CHH,1989
+14,"Thu, Dec 1, 1988",,Box Score,,Philadelphia 76ers,W,,109,107,4,10,W 2,21716,,,False,CHH,1989
+15,"Sat, Dec 3, 1988",,Box Score,@,Houston Rockets,L,,104,108,4,11,L 1,16611,,,False,CHH,1989
+16,"Fri, Dec 9, 1988",,Box Score,,New Jersey Nets,W,,96,95,5,11,W 1,23388,,,False,CHH,1989
+17,"Sat, Dec 10, 1988",,Box Score,@,New Jersey Nets,L,OT,112,121,5,12,L 1,,,,False,CHH,1989
+18,"Tue, Dec 13, 1988",,Box Score,@,Indiana Pacers,L,,104,115,5,13,L 2,,,,False,CHH,1989
+19,"Wed, Dec 14, 1988",,Box Score,,Indiana Pacers,W,,115,106,6,13,W 1,22601,,,False,CHH,1989
+20,"Fri, Dec 16, 1988",,Box Score,,Dallas Mavericks,L,,98,107,6,14,L 1,23388,,,False,CHH,1989
+21,"Sat, Dec 17, 1988",,Box Score,@,Detroit Pistons,L,,91,100,6,15,L 2,21454,,,False,CHH,1989
+22,"Tue, Dec 20, 1988",,Box Score,@,Milwaukee Bucks,L,,115,125,6,16,L 3,15075,,,False,CHH,1989
+23,"Wed, Dec 21, 1988",,Box Score,,Milwaukee Bucks,L,,100,112,6,17,L 4,23010,,,False,CHH,1989
+24,"Fri, Dec 23, 1988",,Box Score,,Chicago Bulls,W,,103,101,7,17,W 1,23388,,,False,CHH,1989
+25,"Mon, Dec 26, 1988",,Box Score,,Houston Rockets,L,,95,97,7,18,L 1,23388,,,False,CHH,1989
+26,"Wed, Dec 28, 1988",,Box Score,@,Cleveland Cavaliers,L,,98,122,7,19,L 2,17353,,,False,CHH,1989
+27,"Fri, Dec 30, 1988",,Box Score,,New York Knicks,W,,122,111,8,19,W 1,23388,,,False,CHH,1989
+28,"Tue, Jan 3, 1989",,Box Score,,New Jersey Nets,L,,106,109,8,20,L 1,23388,,,False,CHH,1989
+29,"Wed, Jan 4, 1989",,Box Score,@,Washington Bullets,L,,86,109,8,21,L 2,,,,False,CHH,1989
+30,"Fri, Jan 6, 1989",,Box Score,@,Boston Celtics,L,,92,115,8,22,L 3,14890,2:00,,False,CHH,1989
+31,"Sat, Jan 7, 1989",,Box Score,,Washington Bullets,W,,107,104,9,22,W 1,23388,,,False,CHH,1989
+32,"Mon, Jan 9, 1989",,Box Score,,Utah Jazz,L,,92,114,9,23,L 1,23388,,,False,CHH,1989
+33,"Wed, Jan 11, 1989",,Box Score,,Chicago Bulls,L,,101,106,9,24,L 2,23388,,,False,CHH,1989
+34,"Thu, Jan 12, 1989",,Box Score,@,New York Knicks,L,,89,106,9,25,L 3,16943,,,False,CHH,1989
+35,"Sun, Jan 15, 1989",,Box Score,,Philadelphia 76ers,L,,109,116,9,26,L 4,23388,,,False,CHH,1989
+36,"Mon, Jan 16, 1989",,Box Score,@,Philadelphia 76ers,W,OT,127,122,10,26,W 1,10116,,,False,CHH,1989
+37,"Wed, Jan 18, 1989",,Box Score,@,Milwaukee Bucks,L,,106,118,10,27,L 1,16145,,,False,CHH,1989
+38,"Thu, Jan 19, 1989",,Box Score,,Phoenix Suns,L,,112,126,10,28,L 2,23388,,,False,CHH,1989
+39,"Sat, Jan 21, 1989",,Box Score,@,Atlanta Hawks,L,,113,137,10,29,L 3,16371,,,False,CHH,1989
+40,"Tue, Jan 24, 1989",,Box Score,@,Phoenix Suns,L,,103,106,10,30,L 4,11089,,,False,CHH,1989
+41,"Thu, Jan 26, 1989",,Box Score,@,Utah Jazz,W,,89,88,11,30,W 1,12444,,,False,CHH,1989
+42,"Fri, Jan 27, 1989",,Box Score,@,Los Angeles Lakers,L,,97,114,11,31,L 1,17505,,,False,CHH,1989
+43,"Mon, Jan 30, 1989",,Box Score,@,Portland Trail Blazers,L,,118,130,11,32,L 2,12848,,,False,CHH,1989
+44,"Wed, Feb 1, 1989",,Box Score,,Boston Celtics,L,,94,107,11,33,L 3,23388,2:01,,False,CHH,1989
+45,"Fri, Feb 3, 1989",,Box Score,,Seattle SuperSonics,W,,108,106,12,33,W 1,23388,,,False,CHH,1989
+46,"Sun, Feb 5, 1989",,Box Score,,Cleveland Cavaliers,L,,91,110,12,34,L 1,23388,,,False,CHH,1989
+47,"Tue, Feb 7, 1989",,Box Score,@,Chicago Bulls,L,,93,118,12,35,L 2,17385,,,False,CHH,1989
+48,"Thu, Feb 9, 1989",,Box Score,,Atlanta Hawks,W,,110,108,13,35,W 1,23388,,,False,CHH,1989
+49,"Tue, Feb 14, 1989",,Box Score,,New York Knicks,L,,117,129,13,36,L 1,23388,,,False,CHH,1989
+50,"Fri, Feb 17, 1989",,Box Score,@,Miami Heat,L,,102,103,13,37,L 2,15008,,,False,CHH,1989
+51,"Sat, Feb 18, 1989",,Box Score,,Indiana Pacers,W,,119,114,14,37,W 1,23388,,,False,CHH,1989
+52,"Wed, Feb 22, 1989",,Box Score,,Chicago Bulls,L,,102,130,14,38,L 1,23388,,,False,CHH,1989
+53,"Thu, Feb 23, 1989",,Box Score,@,New York Knicks,L,,114,139,14,39,L 2,16130,,,False,CHH,1989
+54,"Sat, Feb 25, 1989",,Box Score,,San Antonio Spurs,W,,124,113,15,39,W 1,23388,,,False,CHH,1989
+55,"Tue, Feb 28, 1989",,Box Score,,Boston Celtics,L,,87,112,15,40,L 1,23388,1:55,,False,CHH,1989
+56,"Thu, Mar 2, 1989",,Box Score,@,New Jersey Nets,L,,103,114,15,41,L 2,,,,False,CHH,1989
+57,"Fri, Mar 3, 1989",,Box Score,@,Atlanta Hawks,L,,109,133,15,42,L 3,16371,,,False,CHH,1989
+58,"Sun, Mar 5, 1989",,Box Score,@,Washington Bullets,L,,101,114,15,43,L 4,6661,,,False,CHH,1989
+59,"Wed, Mar 8, 1989",,Box Score,,Denver Nuggets,L,,99,112,15,44,L 5,23388,,,False,CHH,1989
+60,"Fri, Mar 10, 1989",,Box Score,,Los Angeles Lakers,L,,90,123,15,45,L 6,23388,,,False,CHH,1989
+61,"Sun, Mar 12, 1989",,Box Score,,Sacramento Kings,L,,105,114,15,46,L 7,23388,,,False,CHH,1989
+62,"Tue, Mar 14, 1989",,Box Score,@,Denver Nuggets,L,,102,125,15,47,L 8,10522,,,False,CHH,1989
+63,"Thu, Mar 16, 1989",,Box Score,@,Seattle SuperSonics,L,,88,108,15,48,L 9,,,,False,CHH,1989
+64,"Fri, Mar 17, 1989",,Box Score,@,Los Angeles Clippers,W,,108,105,16,48,W 1,10758,,,False,CHH,1989
+65,"Sun, Mar 19, 1989",,Box Score,@,Golden State Warriors,L,,117,124,16,49,L 1,15025,,,False,CHH,1989
+66,"Mon, Mar 20, 1989",,Box Score,@,Sacramento Kings,W,,117,110,17,49,W 1,16517,,,False,CHH,1989
+67,"Thu, Mar 23, 1989",,Box Score,,Washington Bullets,L,,97,102,17,50,L 1,23388,,,False,CHH,1989
+68,"Sat, Mar 25, 1989",,Box Score,,Detroit Pistons,L,,101,113,17,51,L 2,23388,,,False,CHH,1989
+69,"Mon, Mar 27, 1989",,Box Score,,New York Knicks,L,,105,121,17,52,L 3,23388,,,False,CHH,1989
+70,"Thu, Mar 30, 1989",,Box Score,,Golden State Warriors,L,,104,113,17,53,L 4,23388,,,False,CHH,1989
+71,"Sat, Apr 1, 1989",,Box Score,,Portland Trail Blazers,L,OT,121,125,17,54,L 5,23388,,,False,CHH,1989
+72,"Tue, Apr 4, 1989",,Box Score,@,Chicago Bulls,L,,101,121,17,55,L 6,17578,,,False,CHH,1989
+73,"Fri, Apr 7, 1989",,Box Score,,Philadelphia 76ers,L,,108,118,17,56,L 7,23388,,,False,CHH,1989
+74,"Sun, Apr 9, 1989",,Box Score,@,Cleveland Cavaliers,L,,116,122,17,57,L 8,19276,,,False,CHH,1989
+75,"Mon, Apr 10, 1989",,Box Score,,Atlanta Hawks,L,,105,112,17,58,L 9,23388,,,False,CHH,1989
+76,"Wed, Apr 12, 1989",,Box Score,@,New York Knicks,W,,104,99,18,58,W 1,18385,,,False,CHH,1989
+77,"Fri, Apr 14, 1989",,Box Score,@,Philadelphia 76ers,W,,119,115,19,58,W 2,14321,,,False,CHH,1989
+78,"Sat, Apr 15, 1989",,Box Score,@,Indiana Pacers,L,,105,115,19,59,L 1,11860,,,False,CHH,1989
+79,"Mon, Apr 17, 1989",,Box Score,,Boston Celtics,L,OT,108,113,19,60,L 2,23388,2:34,,False,CHH,1989
+80,"Tue, Apr 18, 1989",,Box Score,@,New Jersey Nets,W,,121,105,20,60,W 1,,,,False,CHH,1989
+81,"Fri, Apr 21, 1989",,Box Score,,Milwaukee Bucks,L,,110,117,20,61,L 1,23388,,,False,CHH,1989
+82,"Sun, Apr 23, 1989",,Box Score,@,Boston Celtics,L,,110,120,20,62,L 2,14890,2:06,,False,CHH,1989

@@ -1,0 +1,87 @@
+G,Date,Start (ET),Unnamed: 3,Unnamed: 4,Unnamed: 5,Opponent,Unnamed: 7,Unnamed: 8,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Wed, Oct 17, 2018",7:00p,,Box Score,,Memphis Grizzlies,W,,111,83,1,0,W 1,17923,2:08,,False,IND,2019
+2,"Fri, Oct 19, 2018",8:30p,,Box Score,@,Milwaukee Bucks,L,,101,118,1,1,L 1,17341,2:12,,False,IND,2019
+3,"Sat, Oct 20, 2018",7:00p,,Box Score,,Brooklyn Nets,W,,132,112,2,1,W 1,17007,2:08,,False,IND,2019
+4,"Mon, Oct 22, 2018",8:00p,,Box Score,@,Minnesota Timberwolves,L,,91,101,2,2,L 1,10371,2:08,,False,IND,2019
+5,"Wed, Oct 24, 2018",8:30p,,Box Score,@,San Antonio Spurs,W,,116,96,3,2,W 1,18354,1:58,,False,IND,2019
+6,"Sat, Oct 27, 2018",7:30p,,Box Score,@,Cleveland Cavaliers,W,,119,107,4,2,W 2,19432,2:09,,False,IND,2019
+7,"Mon, Oct 29, 2018",7:00p,,Box Score,,Portland Trail Blazers,L,,93,103,4,3,L 1,15788,2:09,,False,IND,2019
+8,"Wed, Oct 31, 2018",8:00p,,Box Score,@,New York Knicks,W,,107,101,5,3,W 1,18295,2:20,,False,IND,2019
+9,"Fri, Nov 2, 2018",8:00p,,Box Score,@,Chicago Bulls,W,,107,105,6,3,W 2,19704,2:03,,False,IND,2019
+10,"Sat, Nov 3, 2018",7:00p,,Box Score,,Boston Celtics,W,,102,101,7,3,W 3,17505,2:11,,False,IND,2019
+11,"Mon, Nov 5, 2018",7:00p,,Box Score,,Houston Rockets,L,,94,98,7,4,L 1,14735,2:10,,False,IND,2019
+12,"Wed, Nov 7, 2018",8:00p,,Box Score,,Philadelphia 76ers,L,,94,100,7,5,L 2,16434,2:17,,False,IND,2019
+13,"Fri, Nov 9, 2018",8:00p,,Box Score,@,Miami Heat,W,,110,102,8,5,W 1,19600,2:34,,False,IND,2019
+14,"Sun, Nov 11, 2018",7:00p,,Box Score,@,Houston Rockets,L,,103,115,8,6,L 1,18055,2:13,,False,IND,2019
+15,"Fri, Nov 16, 2018",7:00p,,Box Score,,Miami Heat,W,,99,91,9,6,W 1,17923,2:03,,False,IND,2019
+16,"Sat, Nov 17, 2018",7:00p,,Box Score,,Atlanta Hawks,W,,97,89,10,6,W 2,17491,2:17,,False,IND,2019
+17,"Mon, Nov 19, 2018",7:00p,,Box Score,,Utah Jazz,W,,121,94,11,6,W 3,17000,2:01,,False,IND,2019
+18,"Wed, Nov 21, 2018",7:00p,,Box Score,@,Charlotte Hornets,L,,109,127,11,7,L 1,15913,2:02,,False,IND,2019
+19,"Fri, Nov 23, 2018",8:00p,,Box Score,,San Antonio Spurs,L,,100,111,11,8,L 2,17262,2:05,,False,IND,2019
+20,"Mon, Nov 26, 2018",9:00p,,Box Score,@,Utah Jazz,W,,121,88,12,8,W 1,18306,2:02,,False,IND,2019
+21,"Tue, Nov 27, 2018",9:00p,,Box Score,@,Phoenix Suns,W,,109,104,13,8,W 2,13038,2:03,,False,IND,2019
+22,"Thu, Nov 29, 2018",10:30p,,Box Score,@,Los Angeles Lakers,L,,96,104,13,9,L 1,18997,2:19,,False,IND,2019
+23,"Sat, Dec 1, 2018",10:00p,,Box Score,@,Sacramento Kings,L,,110,111,13,10,L 2,17583,2:12,,False,IND,2019
+24,"Tue, Dec 4, 2018",7:00p,,Box Score,,Chicago Bulls,W,,96,90,14,10,W 1,16446,2:06,,False,IND,2019
+25,"Fri, Dec 7, 2018",7:00p,,Box Score,@,Orlando Magic,W,,112,90,15,10,W 2,17214,1:59,,False,IND,2019
+26,"Sat, Dec 8, 2018",7:00p,,Box Score,,Sacramento Kings,W,,107,97,16,10,W 3,16867,2:10,,False,IND,2019
+27,"Mon, Dec 10, 2018",7:00p,,Box Score,,Washington Wizards,W,,109,101,17,10,W 4,14645,2:16,,False,IND,2019
+28,"Wed, Dec 12, 2018",7:00p,,Box Score,,Milwaukee Bucks,W,,113,97,18,10,W 5,17070,2:05,,False,IND,2019
+29,"Fri, Dec 14, 2018",7:30p,,Box Score,@,Philadelphia 76ers,W,,113,101,19,10,W 6,20337,2:23,,False,IND,2019
+30,"Sun, Dec 16, 2018",5:00p,,Box Score,,New York Knicks,W,,110,99,20,10,W 7,16646,2:09,,False,IND,2019
+31,"Tue, Dec 18, 2018",7:00p,,Box Score,,Cleveland Cavaliers,L,,91,92,20,11,L 1,15630,2:02,,False,IND,2019
+32,"Wed, Dec 19, 2018",7:30p,,Box Score,@,Toronto Raptors,L,,96,99,20,12,L 2,19800,2:16,,False,IND,2019
+33,"Fri, Dec 21, 2018",7:30p,,Box Score,@,Brooklyn Nets,W,,114,106,21,12,W 1,13302,2:15,,False,IND,2019
+34,"Sun, Dec 23, 2018",5:00p,,Box Score,,Washington Wizards,W,,105,89,22,12,W 2,17923,2:08,,False,IND,2019
+35,"Wed, Dec 26, 2018",7:30p,,Box Score,@,Atlanta Hawks,W,,129,121,23,12,W 3,15026,2:17,,False,IND,2019
+36,"Fri, Dec 28, 2018",7:00p,,Box Score,,Detroit Pistons,W,,125,88,24,12,W 4,17923,2:03,,False,IND,2019
+37,"Mon, Dec 31, 2018",3:00p,,Box Score,,Atlanta Hawks,W,,116,108,25,12,W 5,17923,2:09,,False,IND,2019
+38,"Fri, Jan 4, 2019",8:00p,,Box Score,@,Chicago Bulls,W,OT,119,116,26,12,W 6,21284,2:20,,False,IND,2019
+39,"Sun, Jan 6, 2019",7:30p,,Box Score,@,Toronto Raptors,L,,105,121,26,13,L 1,19800,2:04,,False,IND,2019
+40,"Tue, Jan 8, 2019",7:00p,,Box Score,@,Cleveland Cavaliers,W,,123,115,27,13,W 1,19432,2:10,,False,IND,2019
+41,"Wed, Jan 9, 2019",7:00p,,Box Score,@,Boston Celtics,L,,108,135,27,14,L 1,18624,2:09,,False,IND,2019
+42,"Fri, Jan 11, 2019",7:30p,,Box Score,@,New York Knicks,W,,121,106,28,14,W 1,19812,2:12,,False,IND,2019
+43,"Tue, Jan 15, 2019",7:00p,,Box Score,,Phoenix Suns,W,,131,97,29,14,W 2,15698,2:10,,False,IND,2019
+44,"Thu, Jan 17, 2019",7:00p,,Box Score,,Philadelphia 76ers,L,,96,120,29,15,L 1,16007,2:03,,False,IND,2019
+45,"Sat, Jan 19, 2019",7:00p,,Box Score,,Dallas Mavericks,W,,111,99,30,15,W 1,17508,2:11,,False,IND,2019
+46,"Sun, Jan 20, 2019",6:00p,,Box Score,,Charlotte Hornets,W,,120,95,31,15,W 2,15015,2:03,,False,IND,2019
+47,"Wed, Jan 23, 2019",7:00p,,Box Score,,Toronto Raptors,W,,110,106,32,15,W 3,16879,2:24,,False,IND,2019
+48,"Sat, Jan 26, 2019",8:00p,,Box Score,@,Memphis Grizzlies,L,,103,106,32,16,L 1,14486,2:24,,False,IND,2019
+49,"Mon, Jan 28, 2019",7:00p,,Box Score,,Golden State Warriors,L,,100,132,32,17,L 2,17923,2:05,,False,IND,2019
+50,"Wed, Jan 30, 2019",8:00p,,Box Score,@,Washington Wizards,L,,89,107,32,18,L 3,15354,2:10,,False,IND,2019
+51,"Thu, Jan 31, 2019",7:00p,,Box Score,@,Orlando Magic,L,,100,107,32,19,L 4,16625,2:04,,False,IND,2019
+52,"Sat, Feb 2, 2019",7:30p,,Box Score,@,Miami Heat,W,,95,88,33,19,W 1,19600,2:12,,False,IND,2019
+53,"Mon, Feb 4, 2019",8:00p,,Box Score,@,New Orleans Pelicans,W,,109,107,34,19,W 2,15780,2:09,,False,IND,2019
+54,"Tue, Feb 5, 2019",7:00p,,Box Score,,Los Angeles Lakers,W,,136,94,35,19,W 3,17265,2:04,,False,IND,2019
+55,"Thu, Feb 7, 2019",7:00p,,Box Score,,Los Angeles Clippers,W,,116,92,36,19,W 4,15756,2:02,,False,IND,2019
+56,"Sat, Feb 9, 2019",7:00p,,Box Score,,Cleveland Cavaliers,W,,105,90,37,19,W 5,17923,1:54,,False,IND,2019
+57,"Mon, Feb 11, 2019",7:00p,,Box Score,,Charlotte Hornets,W,,99,90,38,19,W 6,15734,2:10,,False,IND,2019
+58,"Wed, Feb 13, 2019",7:00p,,Box Score,,Milwaukee Bucks,L,,97,106,38,20,L 1,17311,2:10,,False,IND,2019
+59,"Fri, Feb 22, 2019",7:00p,,Box Score,,New Orleans Pelicans,W,,126,111,39,20,W 1,16962,2:19,,False,IND,2019
+60,"Sat, Feb 23, 2019",7:00p,,Box Score,@,Washington Wizards,W,,119,112,40,20,W 2,19648,2:18,,False,IND,2019
+61,"Mon, Feb 25, 2019",7:00p,,Box Score,@,Detroit Pistons,L,,109,113,40,21,L 1,15321,2:20,,False,IND,2019
+62,"Wed, Feb 27, 2019",8:30p,,Box Score,@,Dallas Mavericks,L,,101,110,40,22,L 2,19978,2:09,,False,IND,2019
+63,"Thu, Feb 28, 2019",7:00p,,Box Score,,Minnesota Timberwolves,W,,122,115,41,22,W 1,17003,2:12,,False,IND,2019
+64,"Sat, Mar 2, 2019",7:00p,,Box Score,,Orlando Magic,L,,112,117,41,23,L 1,17923,2:10,,False,IND,2019
+65,"Tue, Mar 5, 2019",7:00p,,Box Score,,Chicago Bulls,W,,105,96,42,23,W 1,15753,2:13,,False,IND,2019
+66,"Thu, Mar 7, 2019",8:00p,,Box Score,@,Milwaukee Bucks,L,,98,117,42,24,L 1,17884,2:15,,False,IND,2019
+67,"Sun, Mar 10, 2019",3:30p,,Box Score,@,Philadelphia 76ers,L,,89,106,42,25,L 2,20636,2:25,,False,IND,2019
+68,"Tue, Mar 12, 2019",7:00p,,Box Score,,New York Knicks,W,,103,98,43,25,W 1,16679,2:15,,False,IND,2019
+69,"Thu, Mar 14, 2019",7:00p,,Box Score,,Oklahoma City Thunder,W,,108,106,44,25,W 2,16656,2:20,,False,IND,2019
+70,"Sat, Mar 16, 2019",9:00p,,Box Score,@,Denver Nuggets,L,,100,102,44,26,L 1,19856,2:20,,False,IND,2019
+71,"Mon, Mar 18, 2019",10:30p,,Box Score,@,Portland Trail Blazers,L,,98,106,44,27,L 2,19393,2:17,,False,IND,2019
+72,"Tue, Mar 19, 2019",10:30p,,Box Score,@,Los Angeles Clippers,L,,109,115,44,28,L 3,16043,2:13,,False,IND,2019
+73,"Thu, Mar 21, 2019",10:30p,,Box Score,@,Golden State Warriors,L,,89,112,44,29,L 4,19596,2:01,,False,IND,2019
+74,"Sun, Mar 24, 2019",5:00p,,Box Score,,Denver Nuggets,W,,124,88,45,29,W 1,17923,2:04,,False,IND,2019
+75,"Wed, Mar 27, 2019",8:00p,,Box Score,@,Oklahoma City Thunder,L,,99,107,45,30,L 1,18203,2:12,,False,IND,2019
+76,"Fri, Mar 29, 2019",7:00p,,Box Score,@,Boston Celtics,L,,112,114,45,31,L 2,18624,2:10,,False,IND,2019
+77,"Sat, Mar 30, 2019",7:00p,,Box Score,,Orlando Magic,L,,116,121,45,32,L 3,17923,2:05,,False,IND,2019
+78,"Mon, Apr 1, 2019",7:00p,,Box Score,,Detroit Pistons,W,,111,102,46,32,W 1,15760,2:11,,False,IND,2019
+79,"Wed, Apr 3, 2019",7:00p,,Box Score,@,Detroit Pistons,W,,108,89,47,32,W 2,18984,2:13,,False,IND,2019
+80,"Fri, Apr 5, 2019",8:00p,,Box Score,,Boston Celtics,L,,97,117,47,33,L 1,17371,2:08,,False,IND,2019
+81,"Sun, Apr 7, 2019",5:00p,,Box Score,,Brooklyn Nets,L,,96,108,47,34,L 2,16197,1:58,,False,IND,2019
+82,"Wed, Apr 10, 2019",8:00p,,Box Score,@,Atlanta Hawks,W,,135,134,48,34,W 1,17143,2:30,,False,IND,2019
+1,"Sun, Apr 14, 2019",1:00p,,Box Score,@,Boston Celtics,L,,74,84,0,1,L 1,18624,2:18,,True,IND,2019
+2,"Wed, Apr 17, 2019",7:00p,,Box Score,@,Boston Celtics,L,,91,99,0,2,L 2,18624,2:12,,True,IND,2019
+3,"Fri, Apr 19, 2019",8:30p,,Box Score,,Boston Celtics,L,,96,104,0,3,L 3,17923,2:15,,True,IND,2019
+4,"Sun, Apr 21, 2019",1:00p,,Box Score,,Boston Celtics,L,,106,110,0,4,L 4,17923,2:25,,True,IND,2019

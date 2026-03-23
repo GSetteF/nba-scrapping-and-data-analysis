@@ -1,0 +1,83 @@
+G,Date,Start (ET),Unnamed: 3,Unnamed: 4,Unnamed: 5,Opponent,Unnamed: 7,Unnamed: 8,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Fri, Oct 29, 1982",,,Box Score,@,Los Angeles Lakers,W,,132,117,1,0,W 1,15802,,,False,GSW,1983
+2,"Sat, Oct 30, 1982",,,Box Score,,Houston Rockets,W,,117,110,2,0,W 2,7506,,,False,GSW,1983
+3,"Wed, Nov 3, 1982",,,Box Score,,New York Knicks,W,,99,97,3,0,W 3,13335,,,False,GSW,1983
+4,"Fri, Nov 5, 1982",,,Box Score,,San Antonio Spurs,L,,104,105,3,1,L 1,10590,,,False,GSW,1983
+5,"Sat, Nov 6, 1982",,,Box Score,@,Denver Nuggets,L,,118,127,3,2,L 2,12929,,,False,GSW,1983
+6,"Tue, Nov 9, 1982",,,Box Score,@,Portland Trail Blazers,L,,96,111,3,3,L 3,12666,,,False,GSW,1983
+7,"Wed, Nov 10, 1982",,,Box Score,,Cleveland Cavaliers,L,OT,120,132,3,4,L 4,6509,,,False,GSW,1983
+8,"Sat, Nov 13, 1982",,,Box Score,,Atlanta Hawks,W,,114,101,4,4,W 1,12010,,,False,GSW,1983
+9,"Tue, Nov 16, 1982",,,Box Score,@,Chicago Bulls,L,,120,125,4,5,L 1,5706,,,False,GSW,1983
+10,"Wed, Nov 17, 1982",,,Box Score,@,Indiana Pacers,L,OT,122,124,4,6,L 2,3076,,,False,GSW,1983
+11,"Fri, Nov 19, 1982",,,Box Score,@,Detroit Pistons,L,,102,106,4,7,L 3,9165,,,False,GSW,1983
+12,"Sat, Nov 20, 1982",,,Box Score,@,San Antonio Spurs,L,,112,134,4,8,L 4,8369,,,False,GSW,1983
+13,"Tue, Nov 23, 1982",,,Box Score,,New Jersey Nets,L,,103,110,4,9,L 5,9200,,,False,GSW,1983
+14,"Sat, Nov 27, 1982",,,Box Score,,Seattle SuperSonics,L,,118,133,4,10,L 6,12968,,,False,GSW,1983
+15,"Sun, Nov 28, 1982",,,Box Score,@,Los Angeles Lakers,L,,127,142,4,11,L 7,16125,,,False,GSW,1983
+16,"Tue, Nov 30, 1982",,,Box Score,,Phoenix Suns,W,,110,98,5,11,W 1,6759,,,False,GSW,1983
+17,"Thu, Dec 2, 1982",,,Box Score,@,Dallas Mavericks,L,,100,110,5,12,L 1,7678,,,False,GSW,1983
+18,"Fri, Dec 3, 1982",,,Box Score,@,Kansas City Kings,W,,123,107,6,12,W 1,5882,,,False,GSW,1983
+19,"Sun, Dec 5, 1982",,,Box Score,,Utah Jazz,W,,119,111,7,12,W 2,5911,,,False,GSW,1983
+20,"Tue, Dec 7, 1982",,,Box Score,,San Diego Clippers,W,,121,114,8,12,W 3,6587,,,False,GSW,1983
+21,"Thu, Dec 9, 1982",,,Box Score,,Portland Trail Blazers,L,,98,107,8,13,L 1,6407,,,False,GSW,1983
+22,"Fri, Dec 10, 1982",,,Box Score,@,Seattle SuperSonics,W,,101,100,9,13,W 1,13711,,,False,GSW,1983
+23,"Sat, Dec 11, 1982",,,Box Score,,Los Angeles Lakers,L,,107,128,9,14,L 1,13335,,,False,GSW,1983
+24,"Tue, Dec 14, 1982",,,Box Score,,Dallas Mavericks,W,,122,113,10,14,W 1,5737,,,False,GSW,1983
+25,"Thu, Dec 16, 1982",,,Box Score,@,Phoenix Suns,W,,98,94,11,14,W 2,9141,,,False,GSW,1983
+26,"Sat, Dec 18, 1982",,,Box Score,,Kansas City Kings,L,,90,106,11,15,L 1,7268,,,False,GSW,1983
+27,"Tue, Dec 21, 1982",,,Box Score,,Houston Rockets,W,,92,85,12,15,W 1,6427,,,False,GSW,1983
+28,"Thu, Dec 23, 1982",,,Box Score,@,Seattle SuperSonics,L,,95,120,12,16,L 1,10791,,,False,GSW,1983
+29,"Mon, Dec 27, 1982",,,Box Score,@,Denver Nuggets,L,,128,130,12,17,L 2,7730,,,False,GSW,1983
+30,"Wed, Dec 29, 1982",,,Box Score,,Los Angeles Lakers,L,,110,120,12,18,L 3,13335,,,False,GSW,1983
+31,"Sat, Jan 1, 1983",,,Box Score,@,Portland Trail Blazers,L,,74,102,12,19,L 4,12666,,,False,GSW,1983
+32,"Sun, Jan 2, 1983",,,Box Score,,Indiana Pacers,W,,114,105,13,19,W 1,5192,,,False,GSW,1983
+33,"Tue, Jan 4, 1983",,,Box Score,,Utah Jazz,L,,88,100,13,20,L 1,5403,,,False,GSW,1983
+34,"Thu, Jan 6, 1983",,,Box Score,,Portland Trail Blazers,W,,94,93,14,20,W 1,6322,,,False,GSW,1983
+35,"Sat, Jan 8, 1983",,,Box Score,,Seattle SuperSonics,W,,110,104,15,20,W 2,12269,,,False,GSW,1983
+36,"Tue, Jan 11, 1983",,,Box Score,@,New York Knicks,L,,79,103,15,21,L 1,7995,,,False,GSW,1983
+37,"Wed, Jan 12, 1983",,,Box Score,@,Boston Celtics,L,,117,139,15,22,L 2,15320,1:53,,False,GSW,1983
+38,"Fri, Jan 14, 1983",,,Box Score,@,Washington Bullets,W,,116,104,16,22,W 1,6847,,,False,GSW,1983
+39,"Sun, Jan 16, 1983",,,Box Score,@,Milwaukee Bucks,L,,108,109,16,23,L 1,9011,,,False,GSW,1983
+40,"Tue, Jan 18, 1983",,,Box Score,,Dallas Mavericks,L,,102,112,16,24,L 2,6163,,,False,GSW,1983
+41,"Wed, Jan 19, 1983",,,Box Score,@,Utah Jazz,W,,103,95,17,24,W 1,7006,,,False,GSW,1983
+42,"Fri, Jan 21, 1983",,,Box Score,,Denver Nuggets,W,,136,121,18,24,W 2,9351,,,False,GSW,1983
+43,"Sat, Jan 22, 1983",,,Box Score,@,San Diego Clippers,L,,89,99,18,25,L 1,4229,,,False,GSW,1983
+44,"Thu, Jan 27, 1983",,,Box Score,@,Houston Rockets,L,,84,98,18,26,L 2,6421,,,False,GSW,1983
+45,"Sat, Jan 29, 1983",,,Box Score,,Milwaukee Bucks,W,,110,102,19,26,W 1,11671,,,False,GSW,1983
+46,"Thu, Feb 3, 1983",,,Box Score,,Philadelphia 76ers,L,,111,117,19,27,L 1,13335,2:13,,False,GSW,1983
+47,"Sat, Feb 5, 1983",,,Box Score,,San Antonio Spurs,W,,106,102,20,27,W 1,8766,,,False,GSW,1983
+48,"Sun, Feb 6, 1983",,,Box Score,,Phoenix Suns,L,,92,109,20,28,L 1,8646,,,False,GSW,1983
+49,"Wed, Feb 9, 1983",,,Box Score,@,Kansas City Kings,L,,98,103,20,29,L 2,6084,,,False,GSW,1983
+50,"Thu, Feb 10, 1983",,,Box Score,@,San Antonio Spurs,L,,109,128,20,30,L 3,8384,,,False,GSW,1983
+51,"Tue, Feb 15, 1983",,,Box Score,,Washington Bullets,W,,111,93,21,30,W 1,7543,,,False,GSW,1983
+52,"Thu, Feb 17, 1983",,,Box Score,,San Diego Clippers,L,,102,112,21,31,L 1,8061,,,False,GSW,1983
+53,"Sat, Feb 19, 1983",,,Box Score,,Boston Celtics,W,,115,109,22,31,W 1,13335,2:05,,False,GSW,1983
+54,"Sun, Feb 20, 1983",,,Box Score,@,Seattle SuperSonics,L,,112,116,22,32,L 1,15006,,,False,GSW,1983
+55,"Tue, Feb 22, 1983",,,Box Score,@,Atlanta Hawks,W,,109,97,23,32,W 1,5532,,,False,GSW,1983
+56,"Wed, Feb 23, 1983",,,Box Score,@,Cleveland Cavaliers,L,,98,99,23,33,L 1,3412,,,False,GSW,1983
+57,"Fri, Feb 25, 1983",7:42p,,Box Score,@,New Jersey Nets,L,,107,115,23,34,L 2,12458,1:56,,False,GSW,1983
+58,"Sun, Feb 27, 1983",,,Box Score,@,Philadelphia 76ers,L,,104,115,23,35,L 3,17584,2:02,,False,GSW,1983
+59,"Tue, Mar 1, 1983",,,Box Score,,Detroit Pistons,L,,103,114,23,36,L 4,8671,,,False,GSW,1983
+60,"Wed, Mar 2, 1983",,,Box Score,,Denver Nuggets,L,,108,128,23,37,L 5,6508,,,False,GSW,1983
+61,"Fri, Mar 4, 1983",,,Box Score,@,Phoenix Suns,L,,102,109,23,38,L 6,13027,,,False,GSW,1983
+62,"Sat, Mar 5, 1983",,,Box Score,,Utah Jazz,W,,127,121,24,38,W 1,7906,,,False,GSW,1983
+63,"Tue, Mar 8, 1983",,,Box Score,,Los Angeles Lakers,L,,112,116,24,39,L 1,13335,,,False,GSW,1983
+64,"Thu, Mar 10, 1983",,,Box Score,@,Houston Rockets,W,,119,109,25,39,W 1,6136,,,False,GSW,1983
+65,"Sat, Mar 12, 1983",,,Box Score,@,San Antonio Spurs,L,,120,131,25,40,L 1,9805,,,False,GSW,1983
+66,"Tue, Mar 15, 1983",,,Box Score,@,Denver Nuggets,L,,115,139,25,41,L 2,12558,,,False,GSW,1983
+67,"Wed, Mar 16, 1983",,,Box Score,,Chicago Bulls,L,,111,113,25,42,L 3,8150,,,False,GSW,1983
+68,"Fri, Mar 18, 1983",,,Box Score,,Houston Rockets,L,,120,122,25,43,L 4,6702,,,False,GSW,1983
+69,"Sun, Mar 20, 1983",,,Box Score,@,Kansas City Kings,L,,114,128,25,44,L 5,5773,,,False,GSW,1983
+70,"Tue, Mar 22, 1983",,,Box Score,@,Dallas Mavericks,L,,102,111,25,45,L 6,9978,,,False,GSW,1983
+71,"Sat, Mar 26, 1983",,,Box Score,@,San Diego Clippers,L,OT,117,121,25,46,L 7,4039,,,False,GSW,1983
+72,"Tue, Mar 29, 1983",,,Box Score,,Dallas Mavericks,W,,109,106,26,46,W 1,5972,,,False,GSW,1983
+73,"Fri, Apr 1, 1983",,,Box Score,@,Utah Jazz,L,,108,112,26,47,L 1,9527,,,False,GSW,1983
+74,"Sat, Apr 2, 1983",,,Box Score,,Kansas City Kings,L,,112,122,26,48,L 2,5232,,,False,GSW,1983
+75,"Tue, Apr 5, 1983",,,Box Score,@,Phoenix Suns,L,,106,126,26,49,L 3,9033,,,False,GSW,1983
+76,"Thu, Apr 7, 1983",,,Box Score,,Portland Trail Blazers,W,,118,107,27,49,W 1,4129,,,False,GSW,1983
+77,"Fri, Apr 8, 1983",,,Box Score,@,Los Angeles Lakers,L,,107,118,27,50,L 1,15176,,,False,GSW,1983
+78,"Sun, Apr 10, 1983",,,Box Score,,San Diego Clippers,W,,102,93,28,50,W 1,3474,,,False,GSW,1983
+79,"Tue, Apr 12, 1983",,,Box Score,,Phoenix Suns,L,,108,115,28,51,L 1,3632,,,False,GSW,1983
+80,"Wed, Apr 13, 1983",,,Box Score,@,San Diego Clippers,W,,113,92,29,51,W 1,3842,,,False,GSW,1983
+81,"Fri, Apr 15, 1983",,,Box Score,@,Portland Trail Blazers,L,,106,112,29,52,L 1,12666,,,False,GSW,1983
+82,"Sat, Apr 16, 1983",,,Box Score,,Seattle SuperSonics,W,OT,133,122,30,52,W 1,7713,,,False,GSW,1983

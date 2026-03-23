@@ -1,0 +1,94 @@
+G,Date,Start (ET),Unnamed: 3,Unnamed: 4,Unnamed: 5,Opponent,Unnamed: 7,Unnamed: 8,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Wed, Oct 29, 2014",8:00p,,Box Score,,Minnesota Timberwolves,W,,105,101,1,0,W 1,17731,2:16,,False,MEM,2015
+2,"Fri, Oct 31, 2014",7:00p,,Box Score,@,Indiana Pacers,W,,97,89,2,0,W 2,14441,2:13,,False,MEM,2015
+3,"Sat, Nov 1, 2014",7:00p,,Box Score,@,Charlotte Hornets,W,,71,69,3,0,W 3,18133,2:19,,False,MEM,2015
+4,"Mon, Nov 3, 2014",8:00p,,Box Score,,New Orleans Pelicans,W,,93,81,4,0,W 4,15302,2:19,,False,MEM,2015
+5,"Wed, Nov 5, 2014",9:00p,,Box Score,@,Phoenix Suns,W,,102,91,5,0,W 5,15377,2:10,,False,MEM,2015
+6,"Fri, Nov 7, 2014",8:00p,,Box Score,@,Oklahoma City Thunder,W,,91,89,6,0,W 6,18203,2:24,,False,MEM,2015
+7,"Sat, Nov 8, 2014",8:30p,,Box Score,@,Milwaukee Bucks,L,,92,93,6,1,L 1,13841,2:21,,False,MEM,2015
+8,"Tue, Nov 11, 2014",8:00p,,Box Score,,Los Angeles Lakers,W,,107,102,7,1,W 1,17618,2:11,,False,MEM,2015
+9,"Thu, Nov 13, 2014",8:00p,,Box Score,,Sacramento Kings,W,,111,110,8,1,W 2,15666,2:28,,False,MEM,2015
+10,"Sat, Nov 15, 2014",8:00p,,Box Score,,Detroit Pistons,W,,95,88,9,1,W 3,17215,2:15,,False,MEM,2015
+11,"Mon, Nov 17, 2014",8:00p,,Box Score,,Houston Rockets,W,,119,93,10,1,W 4,17012,2:07,,False,MEM,2015
+12,"Wed, Nov 19, 2014",7:30p,,Box Score,@,Toronto Raptors,L,,92,96,10,2,L 1,19800,2:18,,False,MEM,2015
+13,"Fri, Nov 21, 2014",8:00p,,Box Score,,Boston Celtics,W,,117,100,11,2,W 1,17712,2:04,,False,MEM,2015
+14,"Sun, Nov 23, 2014",6:00p,,Box Score,,Los Angeles Clippers,W,,107,91,12,2,W 2,18119,2:16,,False,MEM,2015
+15,"Wed, Nov 26, 2014",10:30p,,Box Score,@,Los Angeles Lakers,W,,99,93,13,2,W 3,18997,2:09,,False,MEM,2015
+16,"Fri, Nov 28, 2014",10:00p,,Box Score,@,Portland Trail Blazers,W,,112,99,14,2,W 4,19459,2:10,,False,MEM,2015
+17,"Sun, Nov 30, 2014",6:00p,,Box Score,@,Sacramento Kings,W,,97,85,15,2,W 5,16240,2:21,,False,MEM,2015
+18,"Wed, Dec 3, 2014",8:00p,,Box Score,@,Houston Rockets,L,,96,105,15,3,L 1,18151,2:14,,False,MEM,2015
+19,"Fri, Dec 5, 2014",8:00p,,Box Score,,San Antonio Spurs,L,,101,107,15,4,L 2,18119,2:13,,False,MEM,2015
+20,"Sun, Dec 7, 2014",6:00p,,Box Score,,Miami Heat,W,,103,87,16,4,W 1,16572,1:58,,False,MEM,2015
+21,"Tue, Dec 9, 2014",8:00p,,Box Score,,Dallas Mavericks,W,,114,105,17,4,W 2,16512,2:10,,False,MEM,2015
+22,"Fri, Dec 12, 2014",8:00p,,Box Score,,Charlotte Hornets,W,2OT,113,107,18,4,W 3,15897,2:47,,False,MEM,2015
+23,"Sat, Dec 13, 2014",7:30p,,Box Score,@,Philadelphia 76ers,W,OT,120,115,19,4,W 4,13698,2:49,,False,MEM,2015
+24,"Tue, Dec 16, 2014",8:00p,,Box Score,,Golden State Warriors,W,,105,98,20,4,W 5,18119,2:22,,False,MEM,2015
+25,"Wed, Dec 17, 2014",8:30p,,Box Score,@,San Antonio Spurs,W,3OT,117,116,21,4,W 6,18581,3:01,,False,MEM,2015
+26,"Fri, Dec 19, 2014",8:00p,,Box Score,,Chicago Bulls,L,,97,103,21,5,L 1,18119,2:17,,False,MEM,2015
+27,"Sun, Dec 21, 2014",4:30p,,Box Score,@,Cleveland Cavaliers,L,,91,105,21,6,L 2,20562,2:02,,False,MEM,2015
+28,"Mon, Dec 22, 2014",8:00p,,Box Score,,Utah Jazz,L,,91,97,21,7,L 3,16991,2:19,,False,MEM,2015
+29,"Fri, Dec 26, 2014",8:00p,,Box Score,,Houston Rockets,L,OT,111,117,21,8,L 4,18119,2:36,,False,MEM,2015
+30,"Sat, Dec 27, 2014",7:30p,,Box Score,@,Miami Heat,W,,103,95,22,8,W 1,19744,2:28,,False,MEM,2015
+31,"Tue, Dec 30, 2014",8:00p,,Box Score,,San Antonio Spurs,W,,95,87,23,8,W 2,18119,2:08,,False,MEM,2015
+32,"Fri, Jan 2, 2015",10:30p,,Box Score,@,Los Angeles Lakers,W,,109,106,24,8,W 3,18997,2:18,,False,MEM,2015
+33,"Sat, Jan 3, 2015",9:00p,,Box Score,@,Denver Nuggets,L,,85,114,24,9,L 1,16350,2:09,,False,MEM,2015
+34,"Mon, Jan 5, 2015",8:00p,,Box Score,,New York Knicks,W,,105,83,25,9,W 1,16888,1:59,,False,MEM,2015
+35,"Wed, Jan 7, 2015",7:30p,,Box Score,@,Atlanta Hawks,L,,86,96,25,10,L 1,17126,2:12,,False,MEM,2015
+36,"Fri, Jan 9, 2015",8:00p,,Box Score,@,New Orleans Pelicans,L,,95,106,25,11,L 2,17639,2:07,,False,MEM,2015
+37,"Sun, Jan 11, 2015",6:00p,,Box Score,,Phoenix Suns,W,2OT,122,110,26,11,W 1,17212,2:55,,False,MEM,2015
+38,"Wed, Jan 14, 2015",7:30p,,Box Score,@,Brooklyn Nets,W,,103,92,27,11,W 2,16516,2:06,,False,MEM,2015
+39,"Fri, Jan 16, 2015",7:00p,,Box Score,@,Orlando Magic,W,,106,96,28,11,W 3,18141,2:15,,False,MEM,2015
+40,"Sat, Jan 17, 2015",9:00p,,Box Score,,Portland Trail Blazers,W,,102,98,29,11,W 4,18119,2:17,,False,MEM,2015
+41,"Mon, Jan 19, 2015",5:00p,,Box Score,,Dallas Mavericks,L,,95,103,29,12,L 1,18119,2:18,,False,MEM,2015
+42,"Wed, Jan 21, 2015",8:00p,,Box Score,,Toronto Raptors,W,,92,86,30,12,W 1,15112,2:20,,False,MEM,2015
+43,"Sat, Jan 24, 2015",8:00p,,Box Score,,Philadelphia 76ers,W,,101,83,31,12,W 2,17579,2:09,,False,MEM,2015
+44,"Mon, Jan 26, 2015",8:00p,,Box Score,,Orlando Magic,W,,103,94,32,12,W 3,15407,2:09,,False,MEM,2015
+45,"Tue, Jan 27, 2015",8:30p,,Box Score,@,Dallas Mavericks,W,,109,90,33,12,W 4,20160,2:05,,False,MEM,2015
+46,"Thu, Jan 29, 2015",8:00p,,Box Score,,Denver Nuggets,W,,99,69,34,12,W 5,16736,2:10,,False,MEM,2015
+47,"Sat, Jan 31, 2015",8:00p,,Box Score,,Oklahoma City Thunder,W,,85,74,35,12,W 6,18119,2:08,,False,MEM,2015
+48,"Mon, Feb 2, 2015",9:00p,,Box Score,@,Phoenix Suns,W,,102,101,36,12,W 7,17199,2:17,,False,MEM,2015
+49,"Wed, Feb 4, 2015",9:00p,,Box Score,@,Utah Jazz,W,,100,90,37,12,W 8,19911,2:13,,False,MEM,2015
+50,"Fri, Feb 6, 2015",8:00p,,Box Score,@,Minnesota Timberwolves,L,,89,90,37,13,L 1,14388,2:11,,False,MEM,2015
+51,"Sun, Feb 8, 2015",6:00p,,Box Score,,Atlanta Hawks,W,,94,88,38,13,W 1,18119,2:10,,False,MEM,2015
+52,"Tue, Feb 10, 2015",8:00p,,Box Score,,Brooklyn Nets,W,,95,86,39,13,W 2,16901,2:13,,False,MEM,2015
+53,"Wed, Feb 11, 2015",8:00p,,Box Score,@,Oklahoma City Thunder,L,,89,105,39,14,L 1,18203,2:15,,False,MEM,2015
+54,"Sun, Feb 22, 2015",9:00p,,Box Score,@,Portland Trail Blazers,W,,98,92,40,14,W 1,19782,2:08,,False,MEM,2015
+55,"Mon, Feb 23, 2015",10:30p,,Box Score,@,Los Angeles Clippers,W,,90,87,41,14,W 2,19161,2:14,,False,MEM,2015
+56,"Wed, Feb 25, 2015",10:00p,,Box Score,@,Sacramento Kings,L,,90,102,41,15,L 1,16794,2:19,,False,MEM,2015
+57,"Fri, Feb 27, 2015",8:00p,,Box Score,,Los Angeles Clippers,L,,79,97,41,16,L 2,18119,2:18,,False,MEM,2015
+58,"Sat, Feb 28, 2015",8:00p,,Box Score,@,Minnesota Timberwolves,W,,101,97,42,16,W 1,19356,2:19,,False,MEM,2015
+59,"Tue, Mar 3, 2015",8:00p,,Box Score,,Utah Jazz,L,,82,93,42,17,L 1,16779,2:03,,False,MEM,2015
+60,"Wed, Mar 4, 2015",8:00p,,Box Score,@,Houston Rockets,W,,102,100,43,17,W 1,18224,2:01,,False,MEM,2015
+61,"Fri, Mar 6, 2015",8:00p,,Box Score,,Los Angeles Lakers,W,,97,90,44,17,W 2,17399,2:17,,False,MEM,2015
+62,"Sat, Mar 7, 2015",7:00p,,Box Score,@,New Orleans Pelicans,L,,89,95,44,18,L 1,17346,2:12,,False,MEM,2015
+63,"Mon, Mar 9, 2015",8:00p,NBATV,Box Score,@,Chicago Bulls,W,,101,91,45,18,W 1,21815,2:01,,False,MEM,2015
+64,"Wed, Mar 11, 2015",7:30p,,Box Score,@,Boston Celtics,L,,92,95,45,19,L 1,17135,2:11,,False,MEM,2015
+65,"Thu, Mar 12, 2015",7:00p,,Box Score,@,Washington Wizards,L,,87,107,45,20,L 2,18186,2:32,,False,MEM,2015
+66,"Sat, Mar 14, 2015",8:00p,,Box Score,,Milwaukee Bucks,W,,96,83,46,20,W 1,18119,2:07,,False,MEM,2015
+67,"Mon, Mar 16, 2015",8:00p,,Box Score,,Denver Nuggets,W,,92,81,47,20,W 2,16614,2:17,,False,MEM,2015
+68,"Tue, Mar 17, 2015",7:30p,,Box Score,@,Detroit Pistons,L,,95,105,47,21,L 1,14399,2:11,,False,MEM,2015
+69,"Fri, Mar 20, 2015",8:30p,,Box Score,@,Dallas Mavericks,W,,112,101,48,21,W 1,20399,2:29,,False,MEM,2015
+70,"Sat, Mar 21, 2015",8:00p,,Box Score,,Portland Trail Blazers,W,,97,86,49,21,W 2,17898,2:01,,False,MEM,2015
+71,"Mon, Mar 23, 2015",7:30p,,Box Score,@,New York Knicks,W,,103,82,50,21,W 3,19812,2:11,,False,MEM,2015
+72,"Wed, Mar 25, 2015",8:00p,,Box Score,,Cleveland Cavaliers,L,,89,111,50,22,L 1,18119,2:02,,False,MEM,2015
+73,"Fri, Mar 27, 2015",8:00p,,Box Score,,Golden State Warriors,L,,84,107,50,23,L 2,18119,2:05,,False,MEM,2015
+74,"Sun, Mar 29, 2015",7:00p,,Box Score,@,San Antonio Spurs,L,,89,103,50,24,L 3,18581,2:00,,False,MEM,2015
+75,"Mon, Mar 30, 2015",8:00p,,Box Score,,Sacramento Kings,W,,97,83,51,24,W 1,17218,2:13,,False,MEM,2015
+76,"Fri, Apr 3, 2015",8:00p,,Box Score,,Oklahoma City Thunder,W,,100,92,52,24,W 2,18119,2:27,,False,MEM,2015
+77,"Sat, Apr 4, 2015",8:00p,,Box Score,,Washington Wizards,L,,83,92,52,25,L 1,18119,2:00,,False,MEM,2015
+78,"Wed, Apr 8, 2015",8:00p,,Box Score,,New Orleans Pelicans,W,,110,74,53,25,W 1,17518,1:55,,False,MEM,2015
+79,"Fri, Apr 10, 2015",9:00p,,Box Score,@,Utah Jazz,W,,89,88,54,25,W 2,18873,2:16,,False,MEM,2015
+80,"Sat, Apr 11, 2015",10:00p,NBA TV,Box Score,@,Los Angeles Clippers,L,,86,94,54,26,L 1,19401,2:22,,False,MEM,2015
+81,"Mon, Apr 13, 2015",10:30p,NBA TV,Box Score,@,Golden State Warriors,L,,107,111,54,27,L 2,19596,2:17,,False,MEM,2015
+82,"Wed, Apr 15, 2015",9:30p,,Box Score,,Indiana Pacers,W,,95,83,55,27,W 1,17109,2:19,,False,MEM,2015
+1,"Sun, Apr 19, 2015",8:00p,,Box Score,,Portland Trail Blazers,W,,100,86,1,0,W 1,18119,2:21,,True,MEM,2015
+2,"Wed, Apr 22, 2015",8:00p,,Box Score,,Portland Trail Blazers,W,,97,82,2,0,W 2,18119,2:17,,True,MEM,2015
+3,"Sat, Apr 25, 2015",10:30p,,Box Score,@,Portland Trail Blazers,W,,115,109,3,0,W 3,19945,2:37,,True,MEM,2015
+4,"Mon, Apr 27, 2015",10:30p,,Box Score,@,Portland Trail Blazers,L,,92,99,3,1,L 1,19541,2:19,,True,MEM,2015
+5,"Wed, Apr 29, 2015",9:30p,,Box Score,,Portland Trail Blazers,W,,99,93,4,1,W 1,18119,2:40,,True,MEM,2015
+6,"Sun, May 3, 2015",3:30p,,Box Score,@,Golden State Warriors,L,,86,101,4,2,L 1,19596,2:15,,True,MEM,2015
+7,"Tue, May 5, 2015",10:30p,,Box Score,@,Golden State Warriors,W,,97,90,5,2,W 1,19596,2:32,,True,MEM,2015
+8,"Sat, May 9, 2015",8:00p,,Box Score,,Golden State Warriors,W,,99,89,6,2,W 2,18119,2:35,,True,MEM,2015
+9,"Mon, May 11, 2015",9:30p,,Box Score,,Golden State Warriors,L,,84,101,6,3,L 1,18119,2:20,,True,MEM,2015
+10,"Wed, May 13, 2015",10:30p,,Box Score,@,Golden State Warriors,L,,78,98,6,4,L 2,19596,2:15,,True,MEM,2015
+11,"Fri, May 15, 2015",9:30p,,Box Score,,Golden State Warriors,L,,95,108,6,5,L 3,18119,2:20,,True,MEM,2015

@@ -1,0 +1,88 @@
+G,Date,Start (ET),Unnamed: 3,Unnamed: 4,Unnamed: 5,Opponent,Unnamed: 7,Unnamed: 8,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Thu, Oct 20, 2022",7:30p,,Box Score,@,Philadelphia 76ers,W,,90,88,1,0,W 1,20060,2:19,,False,MIL,2023
+2,"Sat, Oct 22, 2022",8:00p,,Box Score,,Houston Rockets,W,,125,105,2,0,W 2,17341,2:11,,False,MIL,2023
+3,"Wed, Oct 26, 2022",7:30p,,Box Score,,Brooklyn Nets,W,,110,99,3,0,W 3,17341,2:31,,False,MIL,2023
+4,"Fri, Oct 28, 2022",8:00p,,Box Score,,New York Knicks,W,,119,108,4,0,W 4,17341,2:25,,False,MIL,2023
+5,"Sat, Oct 29, 2022",8:00p,,Box Score,,Atlanta Hawks,W,,123,115,5,0,W 5,17341,2:15,,False,MIL,2023
+6,"Mon, Oct 31, 2022",8:00p,,Box Score,,Detroit Pistons,W,,110,108,6,0,W 6,17341,2:21,,False,MIL,2023
+7,"Wed, Nov 2, 2022",8:00p,,Box Score,,Detroit Pistons,W,,116,91,7,0,W 7,17341,2:10,,False,MIL,2023
+8,"Fri, Nov 4, 2022",10:00p,,Box Score,@,Minnesota Timberwolves,W,,115,102,8,0,W 8,17136,2:21,,False,MIL,2023
+9,"Sat, Nov 5, 2022",8:00p,,Box Score,,Oklahoma City Thunder,W,,108,94,9,0,W 9,17713,2:06,,False,MIL,2023
+10,"Mon, Nov 7, 2022",8:15p,,Box Score,@,Atlanta Hawks,L,,98,117,9,1,L 1,17494,2:11,,False,MIL,2023
+11,"Wed, Nov 9, 2022",8:00p,,Box Score,@,Oklahoma City Thunder,W,2OT,136,132,10,1,W 1,15180,2:56,,False,MIL,2023
+12,"Fri, Nov 11, 2022",8:00p,,Box Score,@,San Antonio Spurs,L,,93,111,10,2,L 1,15642,2:13,,False,MIL,2023
+13,"Mon, Nov 14, 2022",8:00p,,Box Score,,Atlanta Hawks,L,,106,121,10,3,L 2,17341,2:21,,False,MIL,2023
+14,"Wed, Nov 16, 2022",8:00p,,Box Score,,Cleveland Cavaliers,W,,113,98,11,3,W 1,17341,2:07,,False,MIL,2023
+15,"Fri, Nov 18, 2022",7:30p,,Box Score,@,Philadelphia 76ers,L,,102,110,11,4,L 1,19769,2:24,,False,MIL,2023
+16,"Mon, Nov 21, 2022",8:00p,,Box Score,,Portland Trail Blazers,W,,119,111,12,4,W 1,17341,2:13,,False,MIL,2023
+17,"Wed, Nov 23, 2022",8:00p,,Box Score,,Chicago Bulls,L,,113,118,12,5,L 1,17341,2:23,,False,MIL,2023
+18,"Fri, Nov 25, 2022",8:00p,,Box Score,,Cleveland Cavaliers,W,,117,102,13,5,W 1,17447,2:11,,False,MIL,2023
+19,"Sun, Nov 27, 2022",8:00p,,Box Score,,Dallas Mavericks,W,,124,115,14,5,W 2,17341,2:13,,False,MIL,2023
+20,"Wed, Nov 30, 2022",7:30p,,Box Score,@,New York Knicks,W,,109,103,15,5,W 3,17277,2:18,,False,MIL,2023
+21,"Fri, Dec 2, 2022",7:30p,,Box Score,,Los Angeles Lakers,L,,129,133,15,6,L 1,17938,2:21,,False,MIL,2023
+22,"Sat, Dec 3, 2022",6:00p,,Box Score,@,Charlotte Hornets,W,,105,96,16,6,W 1,18128,2:15,,False,MIL,2023
+23,"Mon, Dec 5, 2022",7:00p,,Box Score,@,Orlando Magic,W,,109,102,17,6,W 2,16174,2:18,,False,MIL,2023
+24,"Wed, Dec 7, 2022",8:00p,,Box Score,,Sacramento Kings,W,,126,113,18,6,W 3,17341,2:09,,False,MIL,2023
+25,"Fri, Dec 9, 2022",10:00p,,Box Score,@,Dallas Mavericks,W,,106,105,19,6,W 4,20277,2:27,,False,MIL,2023
+26,"Sun, Dec 11, 2022",7:00p,,Box Score,@,Houston Rockets,L,,92,97,19,7,L 1,16268,2:04,,False,MIL,2023
+27,"Tue, Dec 13, 2022",7:30p,,Box Score,,Golden State Warriors,W,,128,111,20,7,W 1,17628,2:22,,False,MIL,2023
+28,"Thu, Dec 15, 2022",8:00p,,Box Score,@,Memphis Grizzlies,L,,101,142,20,8,L 1,17794,2:14,,False,MIL,2023
+29,"Sat, Dec 17, 2022",8:00p,,Box Score,,Utah Jazz,W,,123,97,21,8,W 1,17587,1:56,,False,MIL,2023
+30,"Mon, Dec 19, 2022",8:00p,,Box Score,@,New Orleans Pelicans,W,,128,119,22,8,W 2,18271,2:21,,False,MIL,2023
+31,"Wed, Dec 21, 2022",7:00p,,Box Score,@,Cleveland Cavaliers,L,,106,114,22,9,L 1,19432,2:23,,False,MIL,2023
+32,"Fri, Dec 23, 2022",7:30p,,Box Score,@,Brooklyn Nets,L,,100,118,22,10,L 2,18169,2:09,,False,MIL,2023
+33,"Sun, Dec 25, 2022",5:00p,,Box Score,@,Boston Celtics,L,,118,139,22,11,L 3,19156,2:25,,False,MIL,2023
+34,"Wed, Dec 28, 2022",8:00p,,Box Score,@,Chicago Bulls,L,OT,113,119,22,12,L 4,21537,2:45,,False,MIL,2023
+35,"Fri, Dec 30, 2022",8:00p,,Box Score,,Minnesota Timberwolves,W,,123,114,23,12,W 1,18018,2:29,,False,MIL,2023
+36,"Sun, Jan 1, 2023",8:00p,,Box Score,,Washington Wizards,L,,95,118,23,13,L 1,17341,2:00,,False,MIL,2023
+37,"Tue, Jan 3, 2023",8:00p,,Box Score,,Washington Wizards,W,,123,113,24,13,W 1,17341,2:10,,False,MIL,2023
+38,"Wed, Jan 4, 2023",7:30p,,Box Score,@,Toronto Raptors,W,OT,104,101,25,13,W 2,19800,2:44,,False,MIL,2023
+39,"Fri, Jan 6, 2023",8:00p,,Box Score,,Charlotte Hornets,L,,109,138,25,14,L 1,17627,2:06,,False,MIL,2023
+40,"Mon, Jan 9, 2023",7:30p,,Box Score,@,New York Knicks,W,,111,107,26,14,W 1,18167,2:19,,False,MIL,2023
+41,"Wed, Jan 11, 2023",7:30p,,Box Score,@,Atlanta Hawks,W,,114,105,27,14,W 2,17154,2:13,,False,MIL,2023
+42,"Thu, Jan 12, 2023",7:30p,,Box Score,@,Miami Heat,L,,102,108,27,15,L 1,19600,2:00,,False,MIL,2023
+43,"Sat, Jan 14, 2023",1:00p,,Box Score,@,Miami Heat,L,,95,111,27,16,L 2,19620,2:03,,False,MIL,2023
+44,"Mon, Jan 16, 2023",2:30p,,Box Score,,Indiana Pacers,W,,132,119,28,16,W 1,17412,2:09,,False,MIL,2023
+45,"Tue, Jan 17, 2023",7:30p,,Box Score,,Toronto Raptors,W,,130,122,29,16,W 2,17341,2:24,,False,MIL,2023
+46,"Sat, Jan 21, 2023",7:30p,,Box Score,@,Cleveland Cavaliers,L,,102,114,29,17,L 1,19432,2:09,,False,MIL,2023
+47,"Mon, Jan 23, 2023",7:00p,,Box Score,@,Detroit Pistons,W,,150,130,30,17,W 1,18011,2:13,,False,MIL,2023
+48,"Wed, Jan 25, 2023",8:00p,,Box Score,,Denver Nuggets,W,,107,99,31,17,W 2,17352,2:12,,False,MIL,2023
+49,"Fri, Jan 27, 2023",7:00p,,Box Score,@,Indiana Pacers,W,,141,131,32,17,W 3,16090,2:13,,False,MIL,2023
+50,"Sun, Jan 29, 2023",8:00p,,Box Score,,New Orleans Pelicans,W,,135,110,33,17,W 4,17341,2:06,,False,MIL,2023
+51,"Tue, Jan 31, 2023",8:00p,,Box Score,,Charlotte Hornets,W,,124,115,34,17,W 5,17341,2:16,,False,MIL,2023
+52,"Thu, Feb 2, 2023",10:00p,,Box Score,,Los Angeles Clippers,W,,106,105,35,17,W 6,17341,2:20,,False,MIL,2023
+53,"Sat, Feb 4, 2023",8:00p,,Box Score,,Miami Heat,W,,123,115,36,17,W 7,18008,2:08,,False,MIL,2023
+54,"Mon, Feb 6, 2023",10:00p,,Box Score,@,Portland Trail Blazers,W,,127,108,37,17,W 8,18110,2:16,,False,MIL,2023
+55,"Thu, Feb 9, 2023",10:00p,,Box Score,@,Los Angeles Lakers,W,,115,106,38,17,W 9,18997,2:16,,False,MIL,2023
+56,"Fri, Feb 10, 2023",10:30p,,Box Score,@,Los Angeles Clippers,W,,119,106,39,17,W 10,16614,2:05,,False,MIL,2023
+57,"Tue, Feb 14, 2023",7:30p,,Box Score,,Boston Celtics,W,OT,131,125,40,17,W 11,17623,2:45,,False,MIL,2023
+58,"Thu, Feb 16, 2023",7:30p,,Box Score,@,Chicago Bulls,W,,112,100,41,17,W 12,20308,2:11,,False,MIL,2023
+59,"Fri, Feb 24, 2023",7:30p,,Box Score,,Miami Heat,W,,128,99,42,17,W 13,17676,2:10,,False,MIL,2023
+60,"Sun, Feb 26, 2023",1:00p,,Box Score,,Phoenix Suns,W,,104,101,43,17,W 14,17636,2:30,,False,MIL,2023
+61,"Tue, Feb 28, 2023",7:30p,,Box Score,@,Brooklyn Nets,W,,118,104,44,17,W 15,17732,2:11,,False,MIL,2023
+62,"Wed, Mar 1, 2023",8:00p,,Box Score,,Orlando Magic,W,,139,117,45,17,W 16,17354,2:13,,False,MIL,2023
+63,"Sat, Mar 4, 2023",8:30p,,Box Score,,Philadelphia 76ers,L,,130,133,45,18,L 1,18100,2:31,,False,MIL,2023
+64,"Sun, Mar 5, 2023",7:30p,,Box Score,@,Washington Wizards,W,,117,111,46,18,W 1,18746,2:11,,False,MIL,2023
+65,"Tue, Mar 7, 2023",7:00p,,Box Score,@,Orlando Magic,W,,134,123,47,18,W 2,16110,2:12,,False,MIL,2023
+66,"Thu, Mar 9, 2023",8:00p,,Box Score,,Brooklyn Nets,W,,118,113,48,18,W 3,17341,2:08,,False,MIL,2023
+67,"Sat, Mar 11, 2023",8:30p,,Box Score,@,Golden State Warriors,L,OT,116,125,48,19,L 1,18064,2:32,,False,MIL,2023
+68,"Mon, Mar 13, 2023",10:00p,,Box Score,@,Sacramento Kings,W,,133,124,49,19,W 1,18111,2:15,,False,MIL,2023
+69,"Tue, Mar 14, 2023",10:00p,,Box Score,@,Phoenix Suns,W,,116,104,50,19,W 2,17071,2:15,,False,MIL,2023
+70,"Thu, Mar 16, 2023",8:00p,,Box Score,,Indiana Pacers,L,,123,139,50,20,L 1,17797,2:09,,False,MIL,2023
+71,"Sun, Mar 19, 2023",8:00p,,Box Score,,Toronto Raptors,W,,118,111,51,20,W 1,17341,2:08,,False,MIL,2023
+72,"Wed, Mar 22, 2023",8:00p,,Box Score,,San Antonio Spurs,W,,130,94,52,20,W 2,17756,2:03,,False,MIL,2023
+73,"Fri, Mar 24, 2023",9:00p,,Box Score,@,Utah Jazz,W,,144,116,53,20,W 3,18206,2:09,,False,MIL,2023
+74,"Sat, Mar 25, 2023",9:00p,,Box Score,@,Denver Nuggets,L,,106,129,53,21,L 1,19919,2:13,,False,MIL,2023
+75,"Mon, Mar 27, 2023",7:00p,,Box Score,@,Detroit Pistons,W,,126,117,54,21,W 1,21090,2:15,,False,MIL,2023
+76,"Wed, Mar 29, 2023",7:00p,,Box Score,@,Indiana Pacers,W,,149,136,55,21,W 2,16524,2:22,,False,MIL,2023
+77,"Thu, Mar 30, 2023",7:30p,,Box Score,,Boston Celtics,L,,99,140,55,22,L 1,18073,2:09,,False,MIL,2023
+78,"Sun, Apr 2, 2023",8:00p,,Box Score,,Philadelphia 76ers,W,,117,104,56,22,W 1,17532,2:09,,False,MIL,2023
+79,"Tue, Apr 4, 2023",7:00p,,Box Score,@,Washington Wizards,W,,140,128,57,22,W 2,19098,2:10,,False,MIL,2023
+80,"Wed, Apr 5, 2023",7:30p,,Box Score,,Chicago Bulls,W,,105,92,58,22,W 3,17679,2:06,,False,MIL,2023
+81,"Fri, Apr 7, 2023",8:00p,,Box Score,,Memphis Grizzlies,L,,114,137,58,23,L 1,18010,2:01,,False,MIL,2023
+82,"Sun, Apr 9, 2023",1:00p,,Box Score,@,Toronto Raptors,L,,105,121,58,24,L 2,19800,1:56,,False,MIL,2023
+1,"Sun, Apr 16, 2023",5:30p,,Box Score,,Miami Heat,L,,117,130,0,1,L 1,17381,2:28,,True,MIL,2023
+2,"Wed, Apr 19, 2023",9:00p,,Box Score,,Miami Heat,W,,138,122,1,1,W 1,17576,2:08,,True,MIL,2023
+3,"Sat, Apr 22, 2023",7:30p,,Box Score,@,Miami Heat,L,,99,121,1,2,L 1,19734,2:15,,True,MIL,2023
+4,"Mon, Apr 24, 2023",7:30p,,Box Score,@,Miami Heat,L,,114,119,1,3,L 2,19614,2:34,,True,MIL,2023
+5,"Wed, Apr 26, 2023",9:30p,,Box Score,,Miami Heat,L,OT,126,128,1,4,L 3,18113,2:58,,True,MIL,2023

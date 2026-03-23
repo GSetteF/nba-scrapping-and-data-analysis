@@ -1,0 +1,88 @@
+G,Date,Start (ET),Unnamed: 3,Unnamed: 4,Unnamed: 5,Opponent,Unnamed: 7,Unnamed: 8,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Tue, Oct 19, 2021",7:30p,,Box Score,@,Milwaukee Bucks,L,,104,127,0,1,L 1,17341,2:20,,False,BRK,2022
+2,"Fri, Oct 22, 2021",7:30p,,Box Score,@,Philadelphia 76ers,W,,114,109,1,1,W 1,20367,2:21,,False,BRK,2022
+3,"Sun, Oct 24, 2021",4:00p,,Box Score,,Charlotte Hornets,L,,95,111,1,2,L 1,17732,2:02,,False,BRK,2022
+4,"Mon, Oct 25, 2021",7:30p,,Box Score,,Washington Wizards,W,,104,90,2,2,W 1,14487,2:06,,False,BRK,2022
+5,"Wed, Oct 27, 2021",7:30p,,Box Score,,Miami Heat,L,,93,106,2,3,L 1,17732,2:13,,False,BRK,2022
+6,"Fri, Oct 29, 2021",7:30p,,Box Score,,Indiana Pacers,W,,105,98,3,3,W 1,16139,2:25,,False,BRK,2022
+7,"Sun, Oct 31, 2021",7:30p,,Box Score,,Detroit Pistons,W,,117,91,4,3,W 2,13507,2:05,,False,BRK,2022
+8,"Wed, Nov 3, 2021",7:30p,,Box Score,,Atlanta Hawks,W,,117,108,5,3,W 3,17323,2:05,,False,BRK,2022
+9,"Fri, Nov 5, 2021",7:00p,,Box Score,@,Detroit Pistons,W,,96,90,6,3,W 4,14235,2:18,,False,BRK,2022
+10,"Sun, Nov 7, 2021",3:30p,,Box Score,@,Toronto Raptors,W,,116,103,7,3,W 5,19800,2:01,,False,BRK,2022
+11,"Mon, Nov 8, 2021",8:00p,,Box Score,@,Chicago Bulls,L,,95,118,7,4,L 1,19459,2:08,,False,BRK,2022
+12,"Wed, Nov 10, 2021",7:00p,,Box Score,@,Orlando Magic,W,,123,90,8,4,W 1,13882,2:06,,False,BRK,2022
+13,"Fri, Nov 12, 2021",8:00p,,Box Score,@,New Orleans Pelicans,W,,120,112,9,4,W 2,14650,2:13,,False,BRK,2022
+14,"Sun, Nov 14, 2021",7:00p,,Box Score,@,Oklahoma City Thunder,W,,120,96,10,4,W 3,15080,2:01,,False,BRK,2022
+15,"Tue, Nov 16, 2021",7:30p,,Box Score,,Golden State Warriors,L,,99,117,10,5,L 1,17732,2:22,,False,BRK,2022
+16,"Wed, Nov 17, 2021",7:30p,,Box Score,,Cleveland Cavaliers,W,,109,99,11,5,W 1,16922,2:07,,False,BRK,2022
+17,"Fri, Nov 19, 2021",7:30p,,Box Score,,Orlando Magic,W,,115,113,12,5,W 2,16966,2:23,,False,BRK,2022
+18,"Mon, Nov 22, 2021",7:00p,,Box Score,@,Cleveland Cavaliers,W,,117,112,13,5,W 3,17387,2:18,,False,BRK,2022
+19,"Wed, Nov 24, 2021",7:30p,,Box Score,@,Boston Celtics,W,,123,104,14,5,W 4,19156,2:20,,False,BRK,2022
+20,"Sat, Nov 27, 2021",7:30p,,Box Score,,Phoenix Suns,L,,107,113,14,6,L 1,18071,2:06,,False,BRK,2022
+21,"Tue, Nov 30, 2021",7:30p,,Box Score,,New York Knicks,W,,112,110,15,6,W 1,18081,2:22,,False,BRK,2022
+22,"Fri, Dec 3, 2021",7:30p,,Box Score,,Minnesota Timberwolves,W,,110,105,16,6,W 2,17732,2:27,,False,BRK,2022
+23,"Sat, Dec 4, 2021",8:00p,,Box Score,,Chicago Bulls,L,,107,111,16,7,L 1,18116,2:08,,False,BRK,2022
+24,"Tue, Dec 7, 2021",7:30p,,Box Score,@,Dallas Mavericks,W,,102,99,17,7,W 1,19559,2:22,,False,BRK,2022
+25,"Wed, Dec 8, 2021",8:00p,,Box Score,@,Houston Rockets,L,,104,114,17,8,L 1,15834,2:23,,False,BRK,2022
+26,"Fri, Dec 10, 2021",7:30p,,Box Score,@,Atlanta Hawks,W,,113,105,18,8,W 1,17074,2:21,,False,BRK,2022
+27,"Sun, Dec 12, 2021",6:00p,,Box Score,@,Detroit Pistons,W,,116,104,19,8,W 2,15289,2:17,,False,BRK,2022
+28,"Tue, Dec 14, 2021",7:30p,,Box Score,,Toronto Raptors,W,OT,131,129,20,8,W 3,17325,2:26,,False,BRK,2022
+29,"Thu, Dec 16, 2021",7:30p,,Box Score,,Philadelphia 76ers,W,,114,105,21,8,W 4,17053,2:09,,False,BRK,2022
+30,"Sat, Dec 18, 2021",7:30p,,Box Score,,Orlando Magic,L,,93,100,21,9,L 1,16292,2:06,,False,BRK,2022
+31,"Sat, Dec 25, 2021",8:00p,,Box Score,@,Los Angeles Lakers,W,,122,115,22,9,W 1,18997,2:35,,False,BRK,2022
+32,"Mon, Dec 27, 2021",10:30p,,Box Score,@,Los Angeles Clippers,W,,124,108,23,9,W 2,17128,2:09,,False,BRK,2022
+33,"Thu, Dec 30, 2021",7:00p,,Box Score,,Philadelphia 76ers,L,,102,110,23,10,L 1,17920,2:10,,False,BRK,2022
+34,"Sat, Jan 1, 2022",7:30p,,Box Score,,Los Angeles Clippers,L,,116,120,23,11,L 2,17732,2:24,,False,BRK,2022
+35,"Mon, Jan 3, 2022",7:30p,,Box Score,,Memphis Grizzlies,L,,104,118,23,12,L 3,17089,2:13,,False,BRK,2022
+36,"Wed, Jan 5, 2022",7:30p,,Box Score,@,Indiana Pacers,W,,129,121,24,12,W 1,14176,2:23,,False,BRK,2022
+37,"Fri, Jan 7, 2022",7:30p,,Box Score,,Milwaukee Bucks,L,,109,121,24,13,L 1,17732,2:11,,False,BRK,2022
+38,"Sun, Jan 9, 2022",12:00p,,Box Score,,San Antonio Spurs,W,OT,121,119,25,13,W 1,15606,2:24,,False,BRK,2022
+39,"Mon, Jan 10, 2022",10:00p,,Box Score,@,Portland Trail Blazers,L,,108,114,25,14,L 1,16379,2:14,,False,BRK,2022
+40,"Wed, Jan 12, 2022",10:00p,,Box Score,@,Chicago Bulls,W,,138,112,26,14,W 1,21698,2:16,,False,BRK,2022
+41,"Thu, Jan 13, 2022",8:30p,,Box Score,,Oklahoma City Thunder,L,,109,130,26,15,L 1,16964,2:09,,False,BRK,2022
+42,"Sat, Jan 15, 2022",7:30p,,Box Score,,New Orleans Pelicans,W,,120,105,27,15,W 1,17034,2:09,,False,BRK,2022
+43,"Mon, Jan 17, 2022",3:00p,,Box Score,@,Cleveland Cavaliers,L,,107,114,27,16,L 1,18105,2:10,,False,BRK,2022
+44,"Wed, Jan 19, 2022",7:00p,,Box Score,@,Washington Wizards,W,,119,118,28,16,W 1,15380,2:19,,False,BRK,2022
+45,"Fri, Jan 21, 2022",8:30p,,Box Score,@,San Antonio Spurs,W,,117,102,29,16,W 2,15068,2:06,,False,BRK,2022
+46,"Sun, Jan 23, 2022",8:00p,,Box Score,@,Minnesota Timberwolves,L,,125,136,29,17,L 1,16475,2:15,,False,BRK,2022
+47,"Tue, Jan 25, 2022",7:30p,,Box Score,,Los Angeles Lakers,L,,96,106,29,18,L 2,18126,2:12,,False,BRK,2022
+48,"Wed, Jan 26, 2022",8:00p,,Box Score,,Denver Nuggets,L,,118,124,29,19,L 3,18011,2:17,,False,BRK,2022
+49,"Sat, Jan 29, 2022",8:30p,,Box Score,@,Golden State Warriors,L,,106,110,29,20,L 4,18064,2:30,,False,BRK,2022
+50,"Tue, Feb 1, 2022",10:00p,,Box Score,@,Phoenix Suns,L,,111,121,29,21,L 5,17071,2:22,,False,BRK,2022
+51,"Wed, Feb 2, 2022",10:00p,,Box Score,@,Sacramento Kings,L,,101,112,29,22,L 6,13153,2:00,,False,BRK,2022
+52,"Fri, Feb 4, 2022",9:00p,,Box Score,@,Utah Jazz,L,,102,125,29,23,L 7,18306,1:56,,False,BRK,2022
+53,"Sun, Feb 6, 2022",3:30p,,Box Score,@,Denver Nuggets,L,,104,124,29,24,L 8,18241,2:07,,False,BRK,2022
+54,"Tue, Feb 8, 2022",7:30p,,Box Score,,Boston Celtics,L,,91,126,29,25,L 9,17732,2:06,,False,BRK,2022
+55,"Thu, Feb 10, 2022",7:30p,,Box Score,@,Washington Wizards,L,,112,113,29,26,L 10,15204,2:21,,False,BRK,2022
+56,"Sat, Feb 12, 2022",8:00p,,Box Score,@,Miami Heat,L,,111,115,29,27,L 11,19600,2:17,,False,BRK,2022
+57,"Mon, Feb 14, 2022",7:30p,,Box Score,,Sacramento Kings,W,,109,85,30,27,W 1,16873,2:10,,False,BRK,2022
+58,"Wed, Feb 16, 2022",7:30p,,Box Score,@,New York Knicks,W,,111,106,31,27,W 2,18916,2:28,,False,BRK,2022
+59,"Thu, Feb 17, 2022",7:30p,,Box Score,,Washington Wizards,L,,103,117,31,28,L 1,17477,2:10,,False,BRK,2022
+60,"Thu, Feb 24, 2022",7:30p,,Box Score,,Boston Celtics,L,,106,129,31,29,L 2,17986,2:13,,False,BRK,2022
+61,"Sat, Feb 26, 2022",8:30p,,Box Score,@,Milwaukee Bucks,W,,126,123,32,29,W 1,17341,2:42,,False,BRK,2022
+62,"Mon, Feb 28, 2022",7:30p,,Box Score,,Toronto Raptors,L,,97,133,32,30,L 1,17112,2:08,,False,BRK,2022
+63,"Tue, Mar 1, 2022",7:30p,,Box Score,@,Toronto Raptors,L,,108,109,32,31,L 2,18903,2:14,,False,BRK,2022
+64,"Thu, Mar 3, 2022",7:30p,,Box Score,,Miami Heat,L,,107,113,32,32,L 3,17732,2:22,,False,BRK,2022
+65,"Sun, Mar 6, 2022",1:00p,,Box Score,@,Boston Celtics,L,,120,126,32,33,L 4,19156,2:23,,False,BRK,2022
+66,"Tue, Mar 8, 2022",7:00p,,Box Score,@,Charlotte Hornets,W,,132,121,33,33,W 1,17230,2:13,,False,BRK,2022
+67,"Thu, Mar 10, 2022",7:30p,,Box Score,@,Philadelphia 76ers,W,,129,100,34,33,W 2,21408,2:18,,False,BRK,2022
+68,"Sun, Mar 13, 2022",1:00p,,Box Score,,New York Knicks,W,,110,107,35,33,W 3,18057,2:27,,False,BRK,2022
+69,"Tue, Mar 15, 2022",7:00p,,Box Score,@,Orlando Magic,W,,150,108,36,33,W 4,15282,2:14,,False,BRK,2022
+70,"Wed, Mar 16, 2022",7:30p,,Box Score,,Dallas Mavericks,L,,111,113,36,34,L 1,17981,2:15,,False,BRK,2022
+71,"Fri, Mar 18, 2022",7:30p,,Box Score,,Portland Trail Blazers,W,,128,123,37,34,W 1,17732,2:26,,False,BRK,2022
+72,"Mon, Mar 21, 2022",7:30p,,Box Score,,Utah Jazz,W,,114,106,38,34,W 2,17887,2:07,,False,BRK,2022
+73,"Wed, Mar 23, 2022",7:30p,,Box Score,@,Memphis Grizzlies,L,,120,132,38,35,L 1,17794,2:16,,False,BRK,2022
+74,"Sat, Mar 26, 2022",8:00p,,Box Score,@,Miami Heat,W,,110,95,39,35,W 1,19600,2:16,,False,BRK,2022
+75,"Sun, Mar 27, 2022",7:30p,,Box Score,,Charlotte Hornets,L,,110,119,39,36,L 1,18166,2:15,,False,BRK,2022
+76,"Tue, Mar 29, 2022",7:30p,,Box Score,,Detroit Pistons,W,,130,123,40,36,W 1,17559,2:12,,False,BRK,2022
+77,"Thu, Mar 31, 2022",7:30p,,Box Score,,Milwaukee Bucks,L,OT,119,120,40,37,L 1,17917,2:43,,False,BRK,2022
+78,"Sat, Apr 2, 2022",7:30p,,Box Score,@,Atlanta Hawks,L,,115,122,40,38,L 2,18126,2:27,,False,BRK,2022
+79,"Tue, Apr 5, 2022",7:30p,,Box Score,,Houston Rockets,W,,118,105,41,38,W 1,17768,2:08,,False,BRK,2022
+80,"Wed, Apr 6, 2022",7:30p,,Box Score,@,New York Knicks,W,,110,98,42,38,W 2,19812,2:21,,False,BRK,2022
+81,"Fri, Apr 8, 2022",7:30p,,Box Score,,Cleveland Cavaliers,W,,118,107,43,38,W 3,18169,2:15,,False,BRK,2022
+82,"Sun, Apr 10, 2022",3:30p,,Box Score,,Indiana Pacers,W,,134,126,44,38,W 4,17967,2:17,,False,BRK,2022
+83,"Tue, Apr 12, 2022",7:00p,,Box Score,,Cleveland Cavaliers,W,,115,108,45,38,W 5,17732,2:23,Play-In Game,False,BRK,2022
+1,"Sun, Apr 17, 2022",3:30p,,Box Score,@,Boston Celtics,L,,114,115,0,1,L 1,19156,2:24,,True,BRK,2022
+2,"Wed, Apr 20, 2022",7:00p,,Box Score,@,Boston Celtics,L,,107,114,0,2,L 2,19156,2:35,,True,BRK,2022
+3,"Sat, Apr 23, 2022",7:30p,,Box Score,,Boston Celtics,L,,103,109,0,3,L 3,18175,2:17,,True,BRK,2022
+4,"Mon, Apr 25, 2022",7:00p,,Box Score,,Boston Celtics,L,,112,116,0,4,L 4,18099,2:30,,True,BRK,2022

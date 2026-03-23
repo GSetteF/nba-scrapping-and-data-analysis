@@ -1,0 +1,56 @@
+G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Opponent,Unnamed: 6,Unnamed: 7,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Fri, Feb 5, 1999",,Box Score,@,San Antonio Spurs,L,,83,101,0,1,L 1,19002,,,False,SAC,1999
+2,"Sun, Feb 7, 1999",,Box Score,,Vancouver Grizzlies,W,,109,87,1,1,W 1,17317,,,False,SAC,1999
+3,"Tue, Feb 9, 1999",,Box Score,@,Phoenix Suns,W,,112,95,2,1,W 2,18217,,,False,SAC,1999
+4,"Wed, Feb 10, 1999",,Box Score,@,Houston Rockets,L,,82,92,2,2,L 1,16285,,,False,SAC,1999
+5,"Mon, Feb 15, 1999",,Box Score,@,Utah Jazz,L,OT,112,120,2,3,L 2,19911,,,False,SAC,1999
+6,"Tue, Feb 16, 1999",,Box Score,,Boston Celtics,W,,101,98,3,3,W 1,16576,2:19,,False,SAC,1999
+7,"Wed, Feb 17, 1999",,Box Score,@,Seattle SuperSonics,W,OT,109,106,4,3,W 2,17072,,,False,SAC,1999
+8,"Fri, Feb 19, 1999",,Box Score,,Charlotte Hornets,W,,106,95,5,3,W 3,17317,,,False,SAC,1999
+9,"Sun, Feb 21, 1999",,Box Score,@,Minnesota Timberwolves,L,,90,102,5,4,L 1,16848,,,False,SAC,1999
+10,"Mon, Feb 22, 1999",,Box Score,@,Orlando Magic,L,,96,107,5,5,L 2,16542,,,False,SAC,1999
+11,"Wed, Feb 24, 1999",,Box Score,@,Philadelphia 76ers,L,,81,94,5,6,L 3,14437,,,False,SAC,1999
+12,"Thu, Feb 25, 1999",,Box Score,@,Washington Wizards,W,,115,105,6,6,W 1,16813,,,False,SAC,1999
+13,"Sat, Feb 27, 1999",,Box Score,@,Dallas Mavericks,L,,90,97,6,7,L 1,15009,,,False,SAC,1999
+14,"Mon, Mar 1, 1999",,Box Score,,Seattle SuperSonics,L,,102,105,6,8,L 2,16786,,,False,SAC,1999
+15,"Tue, Mar 2, 1999",,Box Score,@,Vancouver Grizzlies,W,,111,101,7,8,W 1,13252,,,False,SAC,1999
+16,"Wed, Mar 3, 1999",,Box Score,,Portland Trail Blazers,L,OT,93,97,7,9,L 1,15160,,,False,SAC,1999
+17,"Sat, Mar 6, 1999",,Box Score,@,Phoenix Suns,W,,111,99,8,9,W 1,19023,,,False,SAC,1999
+18,"Sun, Mar 7, 1999",,Box Score,,Dallas Mavericks,W,,94,89,9,9,W 2,14715,,,False,SAC,1999
+19,"Tue, Mar 9, 1999",,Box Score,@,Portland Trail Blazers,L,,98,103,9,10,L 1,18147,,,False,SAC,1999
+20,"Thu, Mar 11, 1999",,Box Score,@,Los Angeles Clippers,L,,92,106,9,11,L 2,7884,,,False,SAC,1999
+21,"Fri, Mar 12, 1999",,Box Score,,Minnesota Timberwolves,L,,95,101,9,12,L 3,17317,,,False,SAC,1999
+22,"Sun, Mar 14, 1999",,Box Score,,Los Angeles Lakers,W,,105,101,10,12,W 1,17317,,,False,SAC,1999
+23,"Mon, Mar 15, 1999",,Box Score,@,Golden State Warriors,W,,111,105,11,12,W 2,15084,,,False,SAC,1999
+24,"Tue, Mar 16, 1999",,Box Score,,San Antonio Spurs,L,,109,121,11,13,L 1,14570,,,False,SAC,1999
+25,"Thu, Mar 18, 1999",,Box Score,,Portland Trail Blazers,L,,78,88,11,14,L 2,14397,,,False,SAC,1999
+26,"Sat, Mar 20, 1999",,Box Score,@,Dallas Mavericks,L,,90,104,11,15,L 3,16161,,,False,SAC,1999
+27,"Mon, Mar 22, 1999",,Box Score,@,Houston Rockets,L,,100,110,11,16,L 4,16285,,,False,SAC,1999
+28,"Wed, Mar 24, 1999",,Box Score,,New York Knicks,W,,92,91,12,16,W 1,17023,,,False,SAC,1999
+29,"Fri, Mar 26, 1999",,Box Score,@,Los Angeles Lakers,W,,111,109,13,16,W 2,17505,,,False,SAC,1999
+30,"Sun, Mar 28, 1999",,Box Score,,Houston Rockets,L,,93,107,13,17,L 1,17317,,,False,SAC,1999
+31,"Tue, Mar 30, 1999",,Box Score,,Utah Jazz,W,OT,104,101,14,17,W 1,17317,,,False,SAC,1999
+32,"Wed, Mar 31, 1999",,Box Score,@,Portland Trail Blazers,L,,86,100,14,18,L 1,18468,,,False,SAC,1999
+33,"Sat, Apr 3, 1999",,Box Score,@,Minnesota Timberwolves,L,,96,105,14,19,L 2,17011,,,False,SAC,1999
+34,"Tue, Apr 6, 1999",,Box Score,@,Seattle SuperSonics,W,OT,112,106,15,19,W 1,17072,,,False,SAC,1999
+35,"Wed, Apr 7, 1999",,Box Score,,Los Angeles Lakers,L,,89,104,15,20,L 1,17317,,,False,SAC,1999
+36,"Sat, Apr 10, 1999",,Box Score,,Denver Nuggets,W,,110,104,16,20,W 1,17317,,,False,SAC,1999
+37,"Sun, Apr 11, 1999",,Box Score,@,Vancouver Grizzlies,W,,91,88,17,20,W 2,17167,,,False,SAC,1999
+38,"Tue, Apr 13, 1999",,Box Score,,Utah Jazz,L,OT,100,105,17,21,L 1,17317,,,False,SAC,1999
+39,"Thu, Apr 15, 1999",,Box Score,,Seattle SuperSonics,L,OT,98,99,17,22,L 2,17317,,,False,SAC,1999
+40,"Sat, Apr 17, 1999",,Box Score,,Denver Nuggets,W,,119,97,18,22,W 1,16285,,,False,SAC,1999
+41,"Mon, Apr 19, 1999",,Box Score,@,Los Angeles Clippers,W,,102,98,19,22,W 2,10878,,"at Anaheim, CA",False,SAC,1999
+42,"Wed, Apr 21, 1999",,Box Score,,Golden State Warriors,W,,103,94,20,22,W 3,17087,,,False,SAC,1999
+43,"Fri, Apr 23, 1999",,Box Score,,Minnesota Timberwolves,W,,105,97,21,22,W 4,17317,,,False,SAC,1999
+44,"Sat, Apr 24, 1999",,Box Score,,Dallas Mavericks,W,,105,102,22,22,W 5,17317,,,False,SAC,1999
+45,"Mon, Apr 26, 1999",,Box Score,@,Golden State Warriors,L,,89,114,22,23,L 1,16111,,,False,SAC,1999
+46,"Tue, Apr 27, 1999",,Box Score,,San Antonio Spurs,W,OT,104,100,23,23,W 1,16776,,,False,SAC,1999
+47,"Thu, Apr 29, 1999",,Box Score,,Los Angeles Clippers,W,,103,81,24,23,W 2,16938,,,False,SAC,1999
+48,"Sun, May 2, 1999",,Box Score,,Phoenix Suns,W,,111,100,25,23,W 3,17317,,,False,SAC,1999
+49,"Mon, May 3, 1999",,Box Score,@,Denver Nuggets,W,,112,104,26,23,W 4,14653,,,False,SAC,1999
+50,"Wed, May 5, 1999",,Box Score,,Vancouver Grizzlies,W,,99,95,27,23,W 5,17317,,,False,SAC,1999
+1,"Sat, May 8, 1999",,Box Score,@,Utah Jazz,L,,87,117,0,1,L 1,19911,,,True,SAC,1999
+2,"Mon, May 10, 1999",,Box Score,@,Utah Jazz,W,,101,90,1,1,W 1,19911,,,True,SAC,1999
+3,"Wed, May 12, 1999",,Box Score,,Utah Jazz,W,OT,84,81,2,1,W 2,17317,,,True,SAC,1999
+4,"Fri, May 14, 1999",,Box Score,,Utah Jazz,L,,89,90,2,2,L 1,17317,,,True,SAC,1999
+5,"Sun, May 16, 1999",,Box Score,@,Utah Jazz,L,OT,92,99,2,3,L 2,19911,,,True,SAC,1999

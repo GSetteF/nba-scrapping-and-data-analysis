@@ -1,0 +1,86 @@
+G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Opponent,Unnamed: 6,Unnamed: 7,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Fri, Nov 3, 1995",,Box Score,@,Orlando Magic,L,,88,99,0,1,L 1,17248,2:12,,False,CLE,1996
+2,"Sat, Nov 4, 1995",,Box Score,@,Miami Heat,L,,71,85,0,2,L 2,15200,2:18,,False,CLE,1996
+3,"Tue, Nov 7, 1995",,Box Score,,Indiana Pacers,L,,101,104,0,3,L 3,17218,,,False,CLE,1996
+4,"Thu, Nov 9, 1995",,Box Score,,Chicago Bulls,L,,88,106,0,4,L 4,20562,2:06,,False,CLE,1996
+5,"Fri, Nov 10, 1995",,Box Score,@,Detroit Pistons,L,,80,100,0,5,L 5,16489,,,False,CLE,1996
+6,"Sun, Nov 12, 1995",,Box Score,,San Antonio Spurs,L,,81,84,0,6,L 6,15137,,,False,CLE,1996
+7,"Wed, Nov 15, 1995",,Box Score,@,Chicago Bulls,L,,94,113,0,7,L 7,23257,,,False,CLE,1996
+8,"Fri, Nov 17, 1995",,Box Score,@,Philadelphia 76ers,W,,114,82,1,7,W 1,12679,,,False,CLE,1996
+9,"Sat, Nov 18, 1995",,Box Score,,Detroit Pistons,W,,93,90,2,7,W 2,17043,,,False,CLE,1996
+10,"Wed, Nov 22, 1995",,Box Score,,New York Knicks,L,,84,94,2,8,L 1,16710,,,False,CLE,1996
+11,"Fri, Nov 24, 1995",,Box Score,@,Indiana Pacers,W,,100,93,3,8,W 1,16647,,,False,CLE,1996
+12,"Sat, Nov 25, 1995",,Box Score,,Milwaukee Bucks,W,,89,87,4,8,W 2,17357,,,False,CLE,1996
+13,"Tue, Nov 28, 1995",,Box Score,,Toronto Raptors,W,,93,89,5,8,W 3,15188,,,False,CLE,1996
+14,"Thu, Nov 30, 1995",,Box Score,@,Washington Bullets,W,,97,85,6,8,W 4,11226,,,False,CLE,1996
+15,"Sat, Dec 2, 1995",,Box Score,@,New Jersey Nets,L,,78,79,6,9,L 1,10406,,,False,CLE,1996
+16,"Sun, Dec 3, 1995",,Box Score,,Dallas Mavericks,W,OT,108,107,7,9,W 1,16673,,,False,CLE,1996
+17,"Wed, Dec 6, 1995",,Box Score,@,Charlotte Hornets,L,,82,94,7,10,L 1,24042,,,False,CLE,1996
+18,"Fri, Dec 8, 1995",,Box Score,,Philadelphia 76ers,W,,113,85,8,10,W 1,17118,,,False,CLE,1996
+19,"Sat, Dec 9, 1995",,Box Score,,New Jersey Nets,L,,73,85,8,11,L 1,16251,,,False,CLE,1996
+20,"Tue, Dec 12, 1995",,Box Score,,Los Angeles Clippers,W,,97,86,9,11,W 1,14756,,,False,CLE,1996
+21,"Fri, Dec 15, 1995",,Box Score,@,Minnesota Timberwolves,W,,100,88,10,11,W 2,10722,,,False,CLE,1996
+22,"Sun, Dec 17, 1995",,Box Score,,Denver Nuggets,W,,92,79,11,11,W 3,14935,,,False,CLE,1996
+23,"Tue, Dec 19, 1995",,Box Score,,Minnesota Timberwolves,W,,100,95,12,11,W 4,14304,,,False,CLE,1996
+24,"Thu, Dec 21, 1995",,Box Score,,Utah Jazz,L,,87,89,12,12,L 1,16412,,,False,CLE,1996
+25,"Sat, Dec 23, 1995",,Box Score,,Indiana Pacers,W,,97,96,13,12,W 1,18264,,,False,CLE,1996
+26,"Thu, Dec 28, 1995",,Box Score,@,New York Knicks,W,,86,76,14,12,W 2,19763,,,False,CLE,1996
+27,"Sat, Dec 30, 1995",,Box Score,,Portland Trail Blazers,W,2OT,124,121,15,12,W 3,20173,,,False,CLE,1996
+28,"Tue, Jan 2, 1996",,Box Score,@,Washington Bullets,W,,108,100,16,12,W 4,13452,,,False,CLE,1996
+29,"Fri, Jan 5, 1996",,Box Score,@,Boston Celtics,L,,77,93,16,13,L 1,18028,2:03,,False,CLE,1996
+30,"Sat, Jan 6, 1996",,Box Score,,Orlando Magic,W,,105,94,17,13,W 1,20562,,,False,CLE,1996
+31,"Mon, Jan 8, 1996",,Box Score,,Washington Bullets,W,,109,91,18,13,W 2,17250,,,False,CLE,1996
+32,"Wed, Jan 10, 1996",,Box Score,@,San Antonio Spurs,L,,86,92,18,14,L 1,12150,,,False,CLE,1996
+33,"Fri, Jan 12, 1996",,Box Score,@,Denver Nuggets,L,,83,90,18,15,L 2,16670,,,False,CLE,1996
+34,"Sun, Jan 14, 1996",,Box Score,@,Phoenix Suns,W,,89,74,19,15,W 1,19023,,,False,CLE,1996
+35,"Tue, Jan 16, 1996",,Box Score,@,Seattle SuperSonics,L,,90,99,19,16,L 1,17072,,,False,CLE,1996
+36,"Thu, Jan 18, 1996",,Box Score,@,Vancouver Grizzlies,W,,98,90,20,16,W 1,16805,,,False,CLE,1996
+37,"Sat, Jan 20, 1996",,Box Score,@,Los Angeles Lakers,W,,93,82,21,16,W 2,15380,,,False,CLE,1996
+38,"Sun, Jan 21, 1996",,Box Score,@,Portland Trail Blazers,L,,81,88,21,17,L 1,20480,,,False,CLE,1996
+39,"Tue, Jan 23, 1996",,Box Score,,Atlanta Hawks,L,,72,84,21,18,L 2,16503,,,False,CLE,1996
+40,"Wed, Jan 24, 1996",,Box Score,@,Philadelphia 76ers,W,,91,88,22,18,W 1,8429,,,False,CLE,1996
+41,"Sat, Jan 27, 1996",,Box Score,,Miami Heat,L,,85,102,22,19,L 1,20562,,,False,CLE,1996
+42,"Mon, Jan 29, 1996",,Box Score,@,Charlotte Hornets,L,,86,88,22,20,L 2,24042,,,False,CLE,1996
+43,"Wed, Jan 31, 1996",,Box Score,,Milwaukee Bucks,W,,81,71,23,20,W 1,16187,,,False,CLE,1996
+44,"Fri, Feb 2, 1996",,Box Score,,Phoenix Suns,W,,107,85,24,20,W 2,20562,,,False,CLE,1996
+45,"Sat, Feb 3, 1996",,Box Score,@,Milwaukee Bucks,W,,111,88,25,20,W 3,17979,,,False,CLE,1996
+46,"Tue, Feb 6, 1996",,Box Score,,Boston Celtics,W,,91,73,26,20,W 4,15778,1:59,,False,CLE,1996
+47,"Tue, Feb 13, 1996",,Box Score,,Charlotte Hornets,W,,110,100,27,20,W 5,17771,,,False,CLE,1996
+48,"Thu, Feb 15, 1996",,Box Score,@,Toronto Raptors,W,,95,76,28,20,W 6,17242,,"at Hamilton, Canada",False,CLE,1996
+49,"Sat, Feb 17, 1996",,Box Score,,Philadelphia 76ers,W,,97,82,29,20,W 7,20367,,,False,CLE,1996
+50,"Mon, Feb 19, 1996",,Box Score,,Miami Heat,W,,73,70,30,20,W 8,18119,,,False,CLE,1996
+51,"Tue, Feb 20, 1996",,Box Score,@,Chicago Bulls,L,,76,102,30,21,L 1,23604,,,False,CLE,1996
+52,"Thu, Feb 22, 1996",,Box Score,,Houston Rockets,L,,80,86,30,22,L 2,19456,,,False,CLE,1996
+53,"Sat, Feb 24, 1996",,Box Score,,New Jersey Nets,W,,103,74,31,22,W 1,18623,,,False,CLE,1996
+54,"Tue, Feb 27, 1996",,Box Score,,Golden State Warriors,W,,92,80,32,22,W 2,15546,,,False,CLE,1996
+55,"Thu, Feb 29, 1996",,Box Score,@,Milwaukee Bucks,W,,95,86,33,22,W 3,14111,,,False,CLE,1996
+56,"Fri, Mar 1, 1996",,Box Score,@,Atlanta Hawks,L,,68,74,33,23,L 1,12342,,,False,CLE,1996
+57,"Sun, Mar 3, 1996",,Box Score,,Toronto Raptors,L,,89,100,33,24,L 2,18409,,,False,CLE,1996
+58,"Tue, Mar 5, 1996",,Box Score,,Seattle SuperSonics,L,2OT,101,107,33,25,L 3,17260,,,False,CLE,1996
+59,"Thu, Mar 7, 1996",,Box Score,,Atlanta Hawks,L,,72,83,33,26,L 4,15780,,,False,CLE,1996
+60,"Fri, Mar 8, 1996",,Box Score,@,Boston Celtics,W,,96,91,34,26,W 1,18308,2:09,,False,CLE,1996
+61,"Sun, Mar 10, 1996",,Box Score,@,Miami Heat,L,,81,88,34,27,L 1,15200,,,False,CLE,1996
+62,"Thu, Mar 14, 1996",,Box Score,,Boston Celtics,W,,98,73,35,27,W 1,16471,1:50,,False,CLE,1996
+63,"Fri, Mar 15, 1996",,Box Score,@,Detroit Pistons,L,,69,80,35,28,L 1,20135,,,False,CLE,1996
+64,"Sun, Mar 17, 1996",,Box Score,,Sacramento Kings,W,,115,84,36,28,W 1,17821,2:13,,False,CLE,1996
+65,"Tue, Mar 19, 1996",,Box Score,@,Dallas Mavericks,W,,81,72,37,28,W 2,17121,,,False,CLE,1996
+66,"Thu, Mar 21, 1996",,Box Score,@,Houston Rockets,W,,98,85,38,28,W 3,16285,2:04,,False,CLE,1996
+67,"Fri, Mar 22, 1996",,Box Score,@,Utah Jazz,L,,75,88,38,29,L 1,19911,2:02,,False,CLE,1996
+68,"Sun, Mar 24, 1996",,Box Score,,Vancouver Grizzlies,W,,90,85,39,29,W 1,18108,2:10,,False,CLE,1996
+69,"Tue, Mar 26, 1996",,Box Score,,Washington Bullets,L,,89,96,39,30,L 1,18049,2:00,,False,CLE,1996
+70,"Thu, Mar 28, 1996",,Box Score,@,Los Angeles Clippers,W,,83,81,40,30,W 1,11124,2:14,,False,CLE,1996
+71,"Sat, Mar 30, 1996",,Box Score,@,Golden State Warriors,W,,90,64,41,30,W 2,15025,1:59,,False,CLE,1996
+72,"Sun, Mar 31, 1996",,Box Score,@,Sacramento Kings,L,OT,100,105,41,31,L 1,17317,2:48,,False,CLE,1996
+73,"Wed, Apr 3, 1996",,Box Score,,Los Angeles Lakers,W,,105,89,42,31,W 1,20562,,,False,CLE,1996
+74,"Thu, Apr 4, 1996",,Box Score,@,Toronto Raptors,W,,98,77,43,31,W 2,21173,,,False,CLE,1996
+75,"Sat, Apr 6, 1996",,Box Score,,Charlotte Hornets,L,,89,93,43,32,L 1,20562,,,False,CLE,1996
+76,"Wed, Apr 10, 1996",,Box Score,@,Orlando Magic,L,,104,116,43,33,L 2,17248,,,False,CLE,1996
+77,"Thu, Apr 11, 1996",,Box Score,@,New York Knicks,W,,101,97,44,33,W 1,19763,,,False,CLE,1996
+78,"Sun, Apr 14, 1996",,Box Score,,Chicago Bulls,L,,72,98,44,34,L 1,20562,,,False,CLE,1996
+79,"Tue, Apr 16, 1996",,Box Score,@,Atlanta Hawks,W,,80,77,45,34,W 1,11615,,,False,CLE,1996
+80,"Thu, Apr 18, 1996",,Box Score,,New York Knicks,W,,92,77,46,34,W 2,20562,,,False,CLE,1996
+81,"Sat, Apr 20, 1996",,Box Score,,Detroit Pistons,W,,75,73,47,34,W 3,20562,,,False,CLE,1996
+82,"Sun, Apr 21, 1996",,Box Score,@,Indiana Pacers,L,,88,89,47,35,L 1,16708,,,False,CLE,1996
+1,"Thu, Apr 25, 1996",,Box Score,,New York Knicks,L,,83,106,0,1,L 1,16419,,,True,CLE,1996
+2,"Sat, Apr 27, 1996",,Box Score,,New York Knicks,L,,80,84,0,2,L 2,17232,,,True,CLE,1996
+3,"Wed, May 1, 1996",,Box Score,@,New York Knicks,L,,76,81,0,3,L 3,19763,,,True,CLE,1996

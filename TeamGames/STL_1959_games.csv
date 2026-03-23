@@ -1,0 +1,79 @@
+G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Opponent,Unnamed: 6,Unnamed: 7,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Thu, Oct 23, 1958",,Box Score,,Detroit Pistons,W,,104,103,1,0,W 1,,,,False,STL,1959
+2,"Sat, Oct 25, 1958",,Box Score,@,Detroit Pistons,L,,112,117,1,1,L 1,,,,False,STL,1959
+3,"Wed, Oct 29, 1958",,Box Score,@,Minneapolis Lakers,W,,112,100,2,1,W 1,,,,False,STL,1959
+4,"Sat, Nov 1, 1958",,Box Score,,Minneapolis Lakers,L,,101,108,2,2,L 1,,,,False,STL,1959
+5,"Sun, Nov 2, 1958",,Box Score,@,Cincinnati Royals,W,,97,90,3,2,W 1,,,,False,STL,1959
+6,"Sat, Nov 8, 1958",,Box Score,,Boston Celtics,W,,87,84,4,2,W 2,10174,,,False,STL,1959
+7,"Thu, Nov 13, 1958",,Box Score,@,New York Knicks,L,,102,119,4,3,L 1,,,,False,STL,1959
+8,"Fri, Nov 14, 1958",,Box Score,,Philadelphia Warriors,W,,110,100,5,3,W 1,,,,False,STL,1959
+9,"Sat, Nov 15, 1958",,Box Score,,Detroit Pistons,W,,102,91,6,3,W 2,,,,False,STL,1959
+10,"Tue, Nov 18, 1958",,Box Score,,Syracuse Nationals,L,,94,120,6,4,L 1,,,,False,STL,1959
+11,"Sat, Nov 22, 1958",,Box Score,,Minneapolis Lakers,W,,114,109,7,4,W 1,,,,False,STL,1959
+12,"Sun, Nov 23, 1958",,Box Score,@,Cincinnati Royals,W,,100,89,8,4,W 2,,,,False,STL,1959
+13,"Tue, Nov 25, 1958",,Box Score,N,Philadelphia Warriors,L,,105,106,8,5,L 1,,,"at New York, NY",False,STL,1959
+14,"Wed, Nov 26, 1958",,Box Score,@,Syracuse Nationals,W,,112,107,9,5,W 1,,,,False,STL,1959
+15,"Thu, Nov 27, 1958",,Box Score,,Syracuse Nationals,W,,107,98,10,5,W 2,,,,False,STL,1959
+16,"Sat, Nov 29, 1958",,Box Score,,Cincinnati Royals,W,,98,86,11,5,W 3,,,,False,STL,1959
+17,"Tue, Dec 2, 1958",,Box Score,N,Cincinnati Royals,W,,105,81,12,5,W 4,,,"at New York, NY",False,STL,1959
+18,"Wed, Dec 3, 1958",,Box Score,@,Boston Celtics,W,,119,110,13,5,W 5,5180,,,False,STL,1959
+19,"Thu, Dec 4, 1958",,Box Score,@,Philadelphia Warriors,W,,107,92,14,5,W 6,,,,False,STL,1959
+20,"Sat, Dec 6, 1958",,Box Score,,Philadelphia Warriors,W,,107,97,15,5,W 7,,,,False,STL,1959
+21,"Wed, Dec 10, 1958",,Box Score,N,Detroit Pistons,L,,82,89,15,6,L 1,,,"at Boston, MA",False,STL,1959
+22,"Thu, Dec 11, 1958",,Box Score,N,Detroit Pistons,L,,101,107,15,7,L 2,,,"at Philadelphia, PA",False,STL,1959
+23,"Fri, Dec 12, 1958",,Box Score,@,New York Knicks,L,,104,106,15,8,L 3,,,,False,STL,1959
+24,"Sat, Dec 13, 1958",,Box Score,,New York Knicks,W,,108,94,16,8,W 1,,,,False,STL,1959
+25,"Wed, Dec 17, 1958",,Box Score,N,New York Knicks,W,,136,122,17,8,W 2,,,"at Detroit, MI",False,STL,1959
+26,"Sat, Dec 20, 1958",,Box Score,@,Detroit Pistons,W,,111,104,18,8,W 3,,,,False,STL,1959
+27,"Sun, Dec 21, 1958",,Box Score,,Philadelphia Warriors,W,,98,86,19,8,W 4,,,,False,STL,1959
+28,"Thu, Dec 25, 1958",,Box Score,@,Cincinnati Royals,W,,100,92,20,8,W 5,,,,False,STL,1959
+29,"Sat, Dec 27, 1958",,Box Score,@,Philadelphia Warriors,L,OT,108,114,20,9,L 1,,,,False,STL,1959
+30,"Mon, Dec 29, 1958",,Box Score,,Cincinnati Royals,W,,124,112,21,9,W 1,,,,False,STL,1959
+31,"Tue, Dec 30, 1958",,Box Score,@,Cincinnati Royals,W,,119,104,22,9,W 2,,,,False,STL,1959
+32,"Sat, Jan 3, 1959",,Box Score,,Boston Celtics,W,,116,110,23,9,W 3,10412,,,False,STL,1959
+33,"Sun, Jan 4, 1959",,Box Score,,New York Knicks,L,,114,122,23,10,L 1,,,,False,STL,1959
+34,"Tue, Jan 6, 1959",,Box Score,N,Minneapolis Lakers,W,,112,95,24,10,W 1,,,"at New York, NY",False,STL,1959
+35,"Wed, Jan 7, 1959",,Box Score,N,Minneapolis Lakers,W,,89,78,25,10,W 2,,,"at Houston, TX",False,STL,1959
+36,"Thu, Jan 8, 1959",,Box Score,N,Minneapolis Lakers,L,,93,95,25,11,L 1,,,"at Dallas, TX",False,STL,1959
+37,"Fri, Jan 9, 1959",,Box Score,N,Cincinnati Royals,W,,112,101,26,11,W 1,,,"at Detroit, MI",False,STL,1959
+38,"Sun, Jan 11, 1959",,Box Score,,Detroit Pistons,W,,111,100,27,11,W 2,,,,False,STL,1959
+39,"Tue, Jan 13, 1959",,Box Score,,Minneapolis Lakers,W,,110,95,28,11,W 3,,,,False,STL,1959
+40,"Wed, Jan 14, 1959",,Box Score,@,Detroit Pistons,W,,114,108,29,11,W 4,,,,False,STL,1959
+41,"Fri, Jan 16, 1959",,Box Score,,Syracuse Nationals,W,,102,89,30,11,W 5,,,,False,STL,1959
+42,"Sun, Jan 18, 1959",,Box Score,@,Boston Celtics,L,,117,139,30,12,L 1,10665,,,False,STL,1959
+43,"Tue, Jan 20, 1959",,Box Score,,Boston Celtics,W,,119,114,31,12,W 1,9354,,,False,STL,1959
+44,"Sun, Jan 25, 1959",,Box Score,,New York Knicks,W,,115,111,32,12,W 2,,,,False,STL,1959
+45,"Tue, Jan 27, 1959",,Box Score,@,New York Knicks,W,OT,112,111,33,12,W 3,,,,False,STL,1959
+46,"Wed, Jan 28, 1959",,Box Score,@,Boston Celtics,L,OT,111,120,33,13,L 1,9420,,,False,STL,1959
+47,"Fri, Jan 30, 1959",,Box Score,,Cincinnati Royals,W,,118,87,34,13,W 1,,,,False,STL,1959
+48,"Sat, Jan 31, 1959",,Box Score,N,Minneapolis Lakers,W,,120,96,35,13,W 2,,,"at Detroit, MI",False,STL,1959
+49,"Sun, Feb 1, 1959",,Box Score,,Detroit Pistons,W,,130,96,36,13,W 3,,,,False,STL,1959
+50,"Tue, Feb 3, 1959",,Box Score,N,Boston Celtics,L,,97,104,36,14,L 1,18496,,"at New York, NY",False,STL,1959
+51,"Wed, Feb 4, 1959",,Box Score,@,Syracuse Nationals,W,,113,111,37,14,W 1,,,,False,STL,1959
+52,"Thu, Feb 5, 1959",,Box Score,@,Philadelphia Warriors,L,,95,106,37,15,L 1,,,,False,STL,1959
+53,"Fri, Feb 6, 1959",,Box Score,@,Boston Celtics,L,,95,122,37,16,L 2,13534,,,False,STL,1959
+54,"Sun, Feb 8, 1959",,Box Score,,Philadelphia Warriors,W,,100,93,38,16,W 1,,,,False,STL,1959
+55,"Mon, Feb 9, 1959",,Box Score,N,Syracuse Nationals,W,,99,94,39,16,W 2,,,"at Philadelphia, PA",False,STL,1959
+56,"Thu, Feb 12, 1959",,Box Score,,New York Knicks,W,,106,105,40,16,W 3,,,,False,STL,1959
+57,"Sat, Feb 14, 1959",,Box Score,,Minneapolis Lakers,W,,139,96,41,16,W 4,,,,False,STL,1959
+58,"Sun, Feb 15, 1959",,Box Score,@,Minneapolis Lakers,L,,98,109,41,17,L 1,,,,False,STL,1959
+59,"Tue, Feb 17, 1959",,Box Score,@,New York Knicks,L,,93,112,41,18,L 2,,,,False,STL,1959
+60,"Sat, Feb 21, 1959",,Box Score,,Cincinnati Royals,W,,121,120,42,18,W 1,,,,False,STL,1959
+61,"Sun, Feb 22, 1959",,Box Score,,Minneapolis Lakers,W,,120,106,43,18,W 2,,,,False,STL,1959
+62,"Wed, Feb 25, 1959",,Box Score,@,Detroit Pistons,W,,104,100,44,18,W 3,,,,False,STL,1959
+63,"Thu, Feb 26, 1959",,Box Score,@,Syracuse Nationals,L,,111,130,44,19,L 1,,,,False,STL,1959
+64,"Fri, Feb 27, 1959",,Box Score,,Syracuse Nationals,W,,128,113,45,19,W 1,,,,False,STL,1959
+65,"Sat, Feb 28, 1959",,Box Score,@,Cincinnati Royals,L,OT,122,124,45,20,L 1,,,,False,STL,1959
+66,"Sun, Mar 1, 1959",,Box Score,,Boston Celtics,W,,104,102,46,20,W 1,11067,,,False,STL,1959
+67,"Tue, Mar 3, 1959",,Box Score,,Cincinnati Royals,W,,113,102,47,20,W 2,,,,False,STL,1959
+68,"Wed, Mar 4, 1959",,Box Score,@,Detroit Pistons,L,,97,127,47,21,L 1,,,,False,STL,1959
+69,"Thu, Mar 5, 1959",,Box Score,@,Philadelphia Warriors,L,,101,106,47,22,L 2,,,,False,STL,1959
+70,"Sat, Mar 7, 1959",,Box Score,,Detroit Pistons,W,,137,128,48,22,W 1,,,,False,STL,1959
+71,"Sun, Mar 8, 1959",,Box Score,@,Minneapolis Lakers,L,,104,120,48,23,L 1,,,,False,STL,1959
+72,"Wed, Mar 11, 1959",,Box Score,@,Syracuse Nationals,W,OT,132,130,49,23,W 1,,,,False,STL,1959
+1,"Sat, Mar 21, 1959",,Box Score,,Minneapolis Lakers,W,,124,90,1,0,W 1,,,,True,STL,1959
+2,"Sun, Mar 22, 1959",,Box Score,@,Minneapolis Lakers,L,,98,106,1,1,L 1,,,,True,STL,1959
+3,"Tue, Mar 24, 1959",,Box Score,,Minneapolis Lakers,W,,127,97,2,1,W 1,,,,True,STL,1959
+4,"Thu, Mar 26, 1959",,Box Score,@,Minneapolis Lakers,L,,98,108,2,2,L 1,,,,True,STL,1959
+5,"Sat, Mar 28, 1959",,Box Score,,Minneapolis Lakers,L,OT,97,98,2,3,L 2,,,,True,STL,1959
+6,"Sun, Mar 29, 1959",,Box Score,@,Minneapolis Lakers,L,,104,106,2,4,L 3,,,,True,STL,1959

@@ -1,0 +1,103 @@
+G,Date,Start (ET),Unnamed: 3,Unnamed: 4,Unnamed: 5,Opponent,Unnamed: 7,Unnamed: 8,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Wed, Nov 1, 2006",8:00p,,Box Score,,Washington Wizards,W,,97,94,1,0,W 1,20562,,,False,CLE,2007
+2,"Fri, Nov 3, 2006",8:00p,,Box Score,@,San Antonio Spurs,W,,88,81,2,0,W 2,18797,,,False,CLE,2007
+3,"Sat, Nov 4, 2006",7:00p,,Box Score,@,Charlotte Bobcats,L,,88,92,2,1,L 1,19147,,,False,CLE,2007
+4,"Tue, Nov 7, 2006",7:00p,,Box Score,,Atlanta Hawks,L,OT,95,104,2,2,L 2,20562,,,False,CLE,2007
+5,"Thu, Nov 9, 2006",8:00p,,Box Score,,Chicago Bulls,W,,113,94,3,2,W 1,19947,,,False,CLE,2007
+6,"Sat, Nov 11, 2006",7:30p,,Box Score,,Boston Celtics,W,,94,93,4,2,W 2,20562,2:29,,False,CLE,2007
+7,"Mon, Nov 13, 2006",7:30p,,Box Score,@,New York Knicks,W,,102,96,5,2,W 3,18468,,,False,CLE,2007
+8,"Wed, Nov 15, 2006",7:00p,,Box Score,,Portland Trail Blazers,W,,100,87,6,2,W 4,20096,,,False,CLE,2007
+9,"Fri, Nov 17, 2006",7:30p,,Box Score,,Minnesota Timberwolves,W,,92,76,7,2,W 5,20562,,,False,CLE,2007
+10,"Sat, Nov 18, 2006",7:00p,,Box Score,@,Washington Wizards,L,,99,111,7,3,L 1,20173,,,False,CLE,2007
+11,"Tue, Nov 21, 2006",7:00p,,Box Score,,Memphis Grizzlies,W,,97,94,8,3,W 1,20562,,,False,CLE,2007
+12,"Wed, Nov 22, 2006",7:00p,,Box Score,@,Toronto Raptors,L,,87,95,8,4,L 1,19800,,,False,CLE,2007
+13,"Fri, Nov 24, 2006",8:00p,,Box Score,@,Indiana Pacers,L,,87,97,8,5,L 2,18165,,,False,CLE,2007
+14,"Sat, Nov 25, 2006",7:30p,,Box Score,,Philadelphia 76ers,W,,108,95,9,5,W 1,20562,,,False,CLE,2007
+15,"Wed, Nov 29, 2006",7:00p,,Box Score,,New York Knicks,L,,98,101,9,6,L 1,20192,,,False,CLE,2007
+16,"Fri, Dec 1, 2006",7:30p,,Box Score,@,Atlanta Hawks,W,,106,95,10,6,W 1,19650,,,False,CLE,2007
+17,"Sat, Dec 2, 2006",8:30p,,Box Score,@,Houston Rockets,L,,63,81,10,7,L 1,18260,,,False,CLE,2007
+18,"Wed, Dec 6, 2006",7:00p,,Box Score,,Toronto Raptors,W,,95,91,11,7,W 1,20119,,,False,CLE,2007
+19,"Sat, Dec 9, 2006",7:30p,,Box Score,,Indiana Pacers,W,,107,75,12,7,W 2,20562,,,False,CLE,2007
+20,"Mon, Dec 11, 2006",8:00p,,Box Score,@,New Orleans/Oklahoma City Hornets,L,,89,95,12,8,L 1,19164,,,False,CLE,2007
+21,"Wed, Dec 13, 2006",7:00p,,Box Score,,Charlotte Bobcats,W,,104,101,13,8,W 1,20562,,,False,CLE,2007
+22,"Fri, Dec 15, 2006",7:30p,,Box Score,,Seattle SuperSonics,W,,106,84,14,8,W 2,20562,,,False,CLE,2007
+23,"Sat, Dec 16, 2006",7:00p,,Box Score,@,Orlando Magic,L,,74,81,14,9,L 1,17451,,,False,CLE,2007
+24,"Wed, Dec 20, 2006",8:00p,,Box Score,@,New Jersey Nets,L,,111,113,14,10,L 2,17270,,,False,CLE,2007
+25,"Thu, Dec 21, 2006",8:00p,,Box Score,,Detroit Pistons,L,,71,87,14,11,L 3,20562,,,False,CLE,2007
+26,"Sat, Dec 23, 2006",7:30p,,Box Score,,Orlando Magic,W,,86,83,15,11,W 1,20562,,,False,CLE,2007
+27,"Wed, Dec 27, 2006",7:00p,,Box Score,@,Atlanta Hawks,W,,89,76,16,11,W 2,19467,,,False,CLE,2007
+28,"Fri, Dec 29, 2006",7:30p,,Box Score,,Milwaukee Bucks,W,,109,99,17,11,W 3,20562,,,False,CLE,2007
+29,"Sat, Dec 30, 2006",8:30p,,Box Score,@,Chicago Bulls,L,,96,103,17,12,L 1,22965,,,False,CLE,2007
+30,"Tue, Jan 2, 2007",7:00p,,Box Score,,San Antonio Spurs,W,,82,78,18,12,W 1,20214,,,False,CLE,2007
+31,"Wed, Jan 3, 2007",7:30p,,Box Score,@,Boston Celtics,W,,107,104,19,12,W 2,18624,2:21,,False,CLE,2007
+32,"Fri, Jan 5, 2007",8:30p,,Box Score,@,Milwaukee Bucks,W,,95,86,20,12,W 3,18717,,,False,CLE,2007
+33,"Sat, Jan 6, 2007",7:30p,,Box Score,,New Jersey Nets,W,,96,91,21,12,W 4,20562,,,False,CLE,2007
+34,"Tue, Jan 9, 2007",10:00p,,Box Score,@,Sacramento Kings,W,,108,98,22,12,W 5,17317,,,False,CLE,2007
+35,"Thu, Jan 11, 2007",10:30p,,Box Score,@,Phoenix Suns,L,,90,109,22,13,L 1,18422,,,False,CLE,2007
+36,"Sat, Jan 13, 2007",10:30p,,Box Score,@,Los Angeles Clippers,W,,104,92,23,13,W 1,20027,,,False,CLE,2007
+37,"Tue, Jan 16, 2007",10:00p,,Box Score,@,Seattle SuperSonics,L,,96,101,23,14,L 1,15619,,,False,CLE,2007
+38,"Wed, Jan 17, 2007",10:00p,,Box Score,@,Portland Trail Blazers,L,,76,94,23,15,L 2,19228,,,False,CLE,2007
+39,"Fri, Jan 19, 2007",10:30p,,Box Score,@,Denver Nuggets,L,,99,110,23,16,L 3,19155,,,False,CLE,2007
+40,"Sat, Jan 20, 2007",10:30p,,Box Score,@,Golden State Warriors,W,OT,106,104,24,16,W 1,19864,,,False,CLE,2007
+41,"Mon, Jan 22, 2007",7:00p,,Box Score,,Orlando Magic,L,,79,90,24,17,L 1,20562,,,False,CLE,2007
+42,"Wed, Jan 24, 2007",7:00p,,Box Score,,Philadelphia 76ers,L,2OT,115,118,24,18,L 2,20562,,,False,CLE,2007
+43,"Fri, Jan 26, 2007",7:00p,,Box Score,@,Philadelphia 76ers,W,,105,97,25,18,W 1,19523,,,False,CLE,2007
+44,"Sun, Jan 28, 2007",1:00p,,Box Score,,Phoenix Suns,L,,100,115,25,19,L 1,20562,,,False,CLE,2007
+45,"Tue, Jan 30, 2007",7:00p,,Box Score,,Golden State Warriors,W,,124,97,26,19,W 1,19443,,,False,CLE,2007
+46,"Thu, Feb 1, 2007",8:00p,,Box Score,@,Miami Heat,L,,89,92,26,20,L 1,20125,,,False,CLE,2007
+47,"Fri, Feb 2, 2007",7:30p,,Box Score,,Charlotte Bobcats,W,,101,81,27,20,W 1,20562,,,False,CLE,2007
+48,"Sun, Feb 4, 2007",2:30p,,Box Score,,Detroit Pistons,L,,78,90,27,21,L 1,20140,,,False,CLE,2007
+49,"Wed, Feb 7, 2007",7:00p,,Box Score,,Los Angeles Clippers,W,,94,77,28,21,W 1,20129,,,False,CLE,2007
+50,"Fri, Feb 9, 2007",8:00p,,Box Score,,Miami Heat,W,,103,79,29,21,W 2,20562,,,False,CLE,2007
+51,"Sun, Feb 11, 2007",3:30p,,Box Score,,Los Angeles Lakers,W,,99,90,30,21,W 3,20562,,,False,CLE,2007
+52,"Wed, Feb 14, 2007",9:00p,,Box Score,@,Utah Jazz,L,,98,99,30,22,L 1,19911,,,False,CLE,2007
+53,"Thu, Feb 15, 2007",10:30p,,Box Score,@,Los Angeles Lakers,W,,114,108,31,22,W 1,18997,,,False,CLE,2007
+54,"Wed, Feb 21, 2007",7:00p,,Box Score,@,Toronto Raptors,W,,86,85,32,22,W 2,19800,,,False,CLE,2007
+55,"Thu, Feb 22, 2007",7:00p,,Box Score,,Chicago Bulls,L,,78,84,32,23,L 1,20562,,,False,CLE,2007
+56,"Sun, Feb 25, 2007",3:30p,,Box Score,@,Miami Heat,L,,81,86,32,24,L 2,20255,,,False,CLE,2007
+57,"Tue, Feb 27, 2007",7:00p,,Box Score,,New Orleans/Oklahoma City Hornets,W,,97,89,33,24,W 1,19619,,,False,CLE,2007
+58,"Thu, Mar 1, 2007",8:00p,,Box Score,@,Dallas Mavericks,L,,92,95,33,25,L 1,20428,,,False,CLE,2007
+59,"Sat, Mar 3, 2007",7:30p,,Box Score,,Toronto Raptors,W,,120,97,34,25,W 1,20562,,,False,CLE,2007
+60,"Mon, Mar 5, 2007",7:00p,,Box Score,,Houston Rockets,W,,91,85,35,25,W 2,20562,,,False,CLE,2007
+61,"Wed, Mar 7, 2007",7:30p,,Box Score,@,Detroit Pistons,W,OT,101,97,36,25,W 3,22076,,,False,CLE,2007
+62,"Sat, Mar 10, 2007",8:30p,,Box Score,@,Milwaukee Bucks,W,,94,92,37,25,W 4,18081,,,False,CLE,2007
+63,"Sun, Mar 11, 2007",6:00p,,Box Score,,Indiana Pacers,W,,99,88,38,25,W 5,20562,,,False,CLE,2007
+64,"Tue, Mar 13, 2007",7:00p,,Box Score,,Sacramento Kings,W,,124,100,39,25,W 6,20562,,,False,CLE,2007
+65,"Wed, Mar 14, 2007",8:00p,,Box Score,@,Memphis Grizzlies,W,,118,96,40,25,W 7,14561,,,False,CLE,2007
+66,"Sat, Mar 17, 2007",7:30p,,Box Score,,Utah Jazz,W,,82,73,41,25,W 8,20562,,,False,CLE,2007
+67,"Tue, Mar 20, 2007",7:00p,,Box Score,@,Charlotte Bobcats,L,OT,100,108,41,26,L 1,17043,,,False,CLE,2007
+68,"Wed, Mar 21, 2007",8:00p,,Box Score,,Dallas Mavericks,L,,90,98,41,27,L 2,20562,,,False,CLE,2007
+69,"Fri, Mar 23, 2007",7:30p,,Box Score,,New York Knicks,W,,90,68,42,27,W 1,20562,,,False,CLE,2007
+70,"Sun, Mar 25, 2007",8:00p,,Box Score,,Denver Nuggets,L,,93,105,42,28,L 1,20562,,,False,CLE,2007
+71,"Tue, Mar 27, 2007",7:00p,,Box Score,@,Indiana Pacers,W,,105,94,43,28,W 1,14024,,,False,CLE,2007
+72,"Wed, Mar 28, 2007",7:30p,,Box Score,@,New York Knicks,L,,93,97,43,29,L 1,19763,,,False,CLE,2007
+73,"Sat, Mar 31, 2007",3:00p,,Box Score,@,Chicago Bulls,W,OT,112,108,44,29,W 1,22960,,,False,CLE,2007
+74,"Sun, Apr 1, 2007",6:00p,,Box Score,@,Boston Celtics,L,,96,98,44,30,L 1,17204,2:18,,False,CLE,2007
+75,"Tue, Apr 3, 2007",8:00p,,Box Score,@,Minnesota Timberwolves,W,,101,88,45,30,W 1,16118,,,False,CLE,2007
+76,"Thu, Apr 5, 2007",7:00p,,Box Score,,Miami Heat,L,OT,90,94,45,31,L 1,20562,,,False,CLE,2007
+77,"Fri, Apr 6, 2007",8:00p,,Box Score,@,Washington Wizards,W,,99,94,46,31,W 1,20173,,,False,CLE,2007
+78,"Sun, Apr 8, 2007",1:00p,,Box Score,@,Detroit Pistons,L,,82,87,46,32,L 1,22076,,,False,CLE,2007
+79,"Thu, Apr 12, 2007",8:00p,,Box Score,,New Jersey Nets,W,,94,76,47,32,W 1,20562,,,False,CLE,2007
+80,"Sat, Apr 14, 2007",7:30p,,Box Score,,Atlanta Hawks,W,,110,76,48,32,W 2,20562,,,False,CLE,2007
+81,"Tue, Apr 17, 2007",7:00p,,Box Score,@,Philadelphia 76ers,W,,98,92,49,32,W 3,17693,,,False,CLE,2007
+82,"Wed, Apr 18, 2007",7:00p,,Box Score,,Milwaukee Bucks,W,,109,96,50,32,W 4,20562,,,False,CLE,2007
+1,"Sun, Apr 22, 2007",12:30p,,Box Score,,Washington Wizards,W,,97,82,1,0,W 1,20562,,,True,CLE,2007
+2,"Wed, Apr 25, 2007",8:00p,,Box Score,,Washington Wizards,W,,109,102,2,0,W 2,20562,,,True,CLE,2007
+3,"Sat, Apr 28, 2007",5:30p,,Box Score,@,Washington Wizards,W,,98,92,3,0,W 3,20173,,,True,CLE,2007
+4,"Mon, Apr 30, 2007",7:00p,,Box Score,@,Washington Wizards,W,,97,90,4,0,W 4,20173,,,True,CLE,2007
+5,"Sun, May 6, 2007",1:00p,,Box Score,,New Jersey Nets,W,,81,77,5,0,W 5,20562,,,True,CLE,2007
+6,"Tue, May 8, 2007",8:00p,,Box Score,,New Jersey Nets,W,,102,92,6,0,W 6,20562,,,True,CLE,2007
+7,"Sat, May 12, 2007",5:00p,,Box Score,@,New Jersey Nets,L,,85,96,6,1,L 1,20032,,,True,CLE,2007
+8,"Mon, May 14, 2007",7:00p,,Box Score,@,New Jersey Nets,W,,87,85,7,1,W 1,20032,,,True,CLE,2007
+9,"Wed, May 16, 2007",8:00p,,Box Score,,New Jersey Nets,L,,72,83,7,2,L 1,20562,,,True,CLE,2007
+10,"Fri, May 18, 2007",7:00p,,Box Score,@,New Jersey Nets,W,,88,72,8,2,W 1,20032,,,True,CLE,2007
+11,"Mon, May 21, 2007",8:00p,,Box Score,@,Detroit Pistons,L,,76,79,8,3,L 1,22076,,,True,CLE,2007
+12,"Thu, May 24, 2007",8:00p,,Box Score,@,Detroit Pistons,L,,76,79,8,4,L 2,22076,,,True,CLE,2007
+13,"Sun, May 27, 2007",8:30p,,Box Score,,Detroit Pistons,W,,88,82,9,4,W 1,20562,,,True,CLE,2007
+14,"Tue, May 29, 2007",8:00p,,Box Score,,Detroit Pistons,W,,91,87,10,4,W 2,20562,,,True,CLE,2007
+15,"Thu, May 31, 2007",8:00p,,Box Score,@,Detroit Pistons,W,2OT,109,107,11,4,W 3,22076,,LeBron's 48 Special,True,CLE,2007
+16,"Sat, Jun 2, 2007",8:30p,,Box Score,,Detroit Pistons,W,,98,82,12,4,W 4,20562,,,True,CLE,2007
+17,"Thu, Jun 7, 2007",9:00p,,Box Score,@,San Antonio Spurs,L,,76,85,12,5,L 1,18797,,,True,CLE,2007
+18,"Sun, Jun 10, 2007",9:00p,,Box Score,@,San Antonio Spurs,L,,92,103,12,6,L 2,18797,,,True,CLE,2007
+19,"Tue, Jun 12, 2007",9:00p,,Box Score,,San Antonio Spurs,L,,72,75,12,7,L 3,20562,,,True,CLE,2007
+20,"Thu, Jun 14, 2007",9:00p,,Box Score,,San Antonio Spurs,L,,82,83,12,8,L 4,20562,,,True,CLE,2007

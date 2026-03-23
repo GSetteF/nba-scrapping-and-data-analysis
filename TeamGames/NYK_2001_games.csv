@@ -1,0 +1,88 @@
+G,Date,Start (ET),Unnamed: 3,Unnamed: 4,Unnamed: 5,Opponent,Unnamed: 7,Unnamed: 8,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Tue, Oct 31, 2000",8:00p,,Box Score,,Philadelphia 76ers,L,,72,101,0,1,L 1,19763,,,False,NYK,2001
+2,"Thu, Nov 2, 2000",7:30p,,Box Score,,Atlanta Hawks,W,,94,69,1,1,W 1,19763,,,False,NYK,2001
+3,"Fri, Nov 3, 2000",7:00p,,Box Score,@,Washington Wizards,W,,80,76,2,1,W 2,20674,,,False,NYK,2001
+4,"Tue, Nov 7, 2000",8:00p,,Box Score,@,Milwaukee Bucks,W,,103,89,3,1,W 3,14246,,,False,NYK,2001
+5,"Wed, Nov 8, 2000",7:30p,,Box Score,,Cleveland Cavaliers,L,,97,99,3,2,L 1,19763,,,False,NYK,2001
+6,"Fri, Nov 10, 2000",7:30p,,Box Score,@,Boston Celtics,W,OT,103,101,4,2,W 1,18624,2:40,,False,NYK,2001
+7,"Sat, Nov 11, 2000",7:30p,,Box Score,,Charlotte Hornets,W,,81,67,5,2,W 2,19763,,,False,NYK,2001
+8,"Tue, Nov 14, 2000",10:30p,,Box Score,@,Seattle SuperSonics,L,,75,96,5,3,L 1,17072,,,False,NYK,2001
+9,"Wed, Nov 15, 2000",10:30p,,Box Score,@,Los Angeles Clippers,L,,74,78,5,4,L 2,12516,,,False,NYK,2001
+10,"Fri, Nov 17, 2000",9:00p,,Box Score,@,Phoenix Suns,W,,90,85,6,4,W 1,18738,,,False,NYK,2001
+11,"Sun, Nov 19, 2000",8:00p,,Box Score,,Golden State Warriors,W,,88,71,7,4,W 2,19763,,,False,NYK,2001
+12,"Tue, Nov 21, 2000",8:00p,,Box Score,@,Orlando Magic,W,,85,84,8,4,W 3,14673,,,False,NYK,2001
+13,"Wed, Nov 22, 2000",7:30p,,Box Score,@,Atlanta Hawks,L,,74,78,8,5,L 1,12007,,,False,NYK,2001
+14,"Sat, Nov 25, 2000",1:00p,,Box Score,,Toronto Raptors,L,,75,79,8,6,L 2,19763,,,False,NYK,2001
+15,"Mon, Nov 27, 2000",7:30p,,Box Score,,Vancouver Grizzlies,W,,97,72,9,6,W 1,19763,,,False,NYK,2001
+16,"Wed, Nov 29, 2000",8:00p,,Box Score,,Miami Heat,L,,81,84,9,7,L 1,19763,,,False,NYK,2001
+17,"Fri, Dec 1, 2000",8:30p,,Box Score,@,Chicago Bulls,W,,91,86,10,7,W 1,22099,,,False,NYK,2001
+18,"Sat, Dec 2, 2000",7:30p,,Box Score,,Minnesota Timberwolves,W,,100,90,11,7,W 2,19763,,,False,NYK,2001
+19,"Mon, Dec 4, 2000",7:30p,,Box Score,,Los Angeles Clippers,W,,106,78,12,7,W 3,19763,,,False,NYK,2001
+20,"Wed, Dec 6, 2000",8:00p,,Box Score,@,Dallas Mavericks,L,,85,94,12,8,L 1,14551,,,False,NYK,2001
+21,"Thu, Dec 7, 2000",8:00p,,Box Score,@,San Antonio Spurs,W,,86,83,13,8,W 1,18370,,,False,NYK,2001
+22,"Sat, Dec 9, 2000",7:30p,,Box Score,,Denver Nuggets,W,,96,88,14,8,W 2,19763,,,False,NYK,2001
+23,"Thu, Dec 14, 2000",8:00p,,Box Score,@,Toronto Raptors,L,,68,70,14,9,L 1,19800,,,False,NYK,2001
+24,"Fri, Dec 15, 2000",7:30p,,Box Score,,Utah Jazz,L,,58,89,14,10,L 2,19763,,,False,NYK,2001
+25,"Sun, Dec 17, 2000",6:00p,,Box Score,,Milwaukee Bucks,W,OT,100,97,15,10,W 1,19763,,,False,NYK,2001
+26,"Tue, Dec 19, 2000",7:30p,,Box Score,@,Atlanta Hawks,L,,77,87,15,11,L 1,13621,,,False,NYK,2001
+27,"Thu, Dec 21, 2000",8:00p,,Box Score,,Boston Celtics,L,,86,92,15,12,L 2,19763,2:32,,False,NYK,2001
+28,"Fri, Dec 22, 2000",7:00p,,Box Score,@,Philadelphia 76ers,W,,91,71,16,12,W 1,20670,,,False,NYK,2001
+29,"Wed, Dec 27, 2000",7:00p,,Box Score,@,Washington Wizards,W,,89,82,17,12,W 2,20674,,,False,NYK,2001
+30,"Fri, Dec 29, 2000",7:30p,,Box Score,,Chicago Bulls,W,,95,68,18,12,W 3,19763,,,False,NYK,2001
+31,"Sat, Dec 30, 2000",7:30p,,Box Score,@,Minnesota Timberwolves,W,,88,79,19,12,W 4,18322,,,False,NYK,2001
+32,"Wed, Jan 3, 2001",7:00p,,Box Score,@,Boston Celtics,W,,100,91,20,12,W 5,15715,2:14,,False,NYK,2001
+33,"Thu, Jan 4, 2001",8:00p,,Box Score,,Orlando Magic,W,OT,95,92,21,12,W 6,19763,,,False,NYK,2001
+34,"Sun, Jan 7, 2001",7:30p,,Box Score,,Washington Wizards,W,,103,87,22,12,W 7,19763,,,False,NYK,2001
+35,"Thu, Jan 11, 2001",7:30p,,Box Score,,Houston Rockets,L,,75,76,22,13,L 1,19763,,,False,NYK,2001
+36,"Sat, Jan 13, 2001",5:30p,,Box Score,,Portland Trail Blazers,W,,91,78,23,13,W 1,19763,,,False,NYK,2001
+37,"Mon, Jan 15, 2001",1:00p,,Box Score,,San Antonio Spurs,W,,104,82,24,13,W 2,19763,,,False,NYK,2001
+38,"Fri, Jan 19, 2001",8:00p,,Box Score,@,Detroit Pistons,W,,97,91,25,13,W 3,16728,,,False,NYK,2001
+39,"Sun, Jan 21, 2001",12:00p,,Box Score,,Indiana Pacers,L,,74,87,25,14,L 1,19763,,,False,NYK,2001
+40,"Tue, Jan 23, 2001",8:00p,,Box Score,@,Milwaukee Bucks,L,,91,105,25,15,L 2,18717,,,False,NYK,2001
+41,"Wed, Jan 24, 2001",8:00p,,Box Score,@,Charlotte Hornets,L,,67,81,25,16,L 3,14469,,,False,NYK,2001
+42,"Sun, Jan 28, 2001",2:30p,,Box Score,,Los Angeles Lakers,W,,91,81,26,16,W 1,19763,,,False,NYK,2001
+43,"Thu, Feb 1, 2001",8:00p,,Box Score,,Philadelphia 76ers,L,,80,87,26,17,L 1,19763,,,False,NYK,2001
+44,"Fri, Feb 2, 2001",7:30p,,Box Score,@,New Jersey Nets,W,,95,71,27,17,W 1,20049,,,False,NYK,2001
+45,"Sun, Feb 4, 2001",1:00p,,Box Score,@,Miami Heat,W,OT,103,100,28,17,W 2,20058,,,False,NYK,2001
+46,"Mon, Feb 5, 2001",8:30p,,Box Score,@,Houston Rockets,L,,86,100,28,18,L 1,12632,,,False,NYK,2001
+47,"Wed, Feb 7, 2001",7:30p,,Box Score,,Dallas Mavericks,W,2OT,96,93,29,18,W 1,19763,,,False,NYK,2001
+48,"Tue, Feb 13, 2001",9:00p,,Box Score,@,Denver Nuggets,L,,77,96,29,19,L 1,16813,,,False,NYK,2001
+49,"Wed, Feb 14, 2001",9:00p,,Box Score,@,Utah Jazz,L,,90,106,29,20,L 2,19548,,,False,NYK,2001
+50,"Fri, Feb 16, 2001",7:30p,,Box Score,,New Jersey Nets,W,,114,104,30,20,W 1,19763,,,False,NYK,2001
+51,"Sun, Feb 18, 2001",7:30p,,Box Score,@,Orlando Magic,L,,88,96,30,21,L 1,17248,,,False,NYK,2001
+52,"Tue, Feb 20, 2001",8:00p,,Box Score,,Miami Heat,W,,76,74,31,21,W 1,19763,,,False,NYK,2001
+53,"Wed, Feb 21, 2001",7:30p,,Box Score,@,Detroit Pistons,L,,85,90,31,22,L 1,15129,,,False,NYK,2001
+54,"Fri, Feb 23, 2001",7:30p,,Box Score,,Phoenix Suns,L,OT,84,88,31,23,L 2,19763,,,False,NYK,2001
+55,"Sun, Feb 25, 2001",12:30p,,Box Score,,Sacramento Kings,W,,88,86,32,23,W 1,19763,,,False,NYK,2001
+56,"Tue, Feb 27, 2001",8:00p,,Box Score,,Seattle SuperSonics,W,,101,92,33,23,W 2,19763,,,False,NYK,2001
+57,"Thu, Mar 1, 2001",7:30p,,Box Score,,Boston Celtics,W,,95,88,34,23,W 3,19763,2:16,,False,NYK,2001
+58,"Fri, Mar 2, 2001",8:30p,,Box Score,@,Chicago Bulls,L,,72,81,34,24,L 1,21779,,,False,NYK,2001
+59,"Sun, Mar 4, 2001",12:30p,,Box Score,@,Toronto Raptors,L,,88,98,34,25,L 2,19800,,,False,NYK,2001
+60,"Tue, Mar 6, 2001",8:00p,,Box Score,,Indiana Pacers,W,,97,83,35,25,W 1,19763,,,False,NYK,2001
+61,"Wed, Mar 7, 2001",7:00p,,Box Score,@,Indiana Pacers,W,,79,75,36,25,W 2,18345,,,False,NYK,2001
+62,"Fri, Mar 9, 2001",7:30p,,Box Score,@,New Jersey Nets,L,,83,96,36,26,L 1,20049,,,False,NYK,2001
+63,"Sun, Mar 11, 2001",12:30p,,Box Score,,Miami Heat,W,,86,83,37,26,W 1,19763,,,False,NYK,2001
+64,"Tue, Mar 13, 2001",7:30p,,Box Score,,Cleveland Cavaliers,W,,98,79,38,26,W 2,19763,,,False,NYK,2001
+65,"Thu, Mar 15, 2001",7:30p,,Box Score,,Toronto Raptors,W,,88,72,39,26,W 3,19763,,,False,NYK,2001
+66,"Sat, Mar 17, 2001",7:30p,,Box Score,,Chicago Bulls,W,,101,80,40,26,W 4,19763,,,False,NYK,2001
+67,"Tue, Mar 20, 2001",7:30p,,Box Score,@,Cleveland Cavaliers,W,,110,75,41,26,W 5,16527,,,False,NYK,2001
+68,"Fri, Mar 23, 2001",7:30p,,Box Score,,New Jersey Nets,L,,86,95,41,27,L 1,19763,,,False,NYK,2001
+69,"Mon, Mar 26, 2001",10:30p,,Box Score,@,Golden State Warriors,W,OT,89,87,42,27,W 1,17207,,,False,NYK,2001
+70,"Tue, Mar 27, 2001",10:30p,,Box Score,@,Sacramento Kings,L,OT,117,124,42,28,L 1,17317,,,False,NYK,2001
+71,"Thu, Mar 29, 2001",10:00p,,Box Score,@,Vancouver Grizzlies,L,,68,89,42,29,L 2,15949,,,False,NYK,2001
+72,"Fri, Mar 30, 2001",10:00p,,Box Score,@,Portland Trail Blazers,L,,79,96,42,30,L 3,20580,,,False,NYK,2001
+73,"Sun, Apr 1, 2001",5:30p,,Box Score,@,Los Angeles Lakers,W,,79,78,43,30,W 1,18997,,,False,NYK,2001
+74,"Tue, Apr 3, 2001",7:30p,,Box Score,,Orlando Magic,W,,94,82,44,30,W 2,19763,,,False,NYK,2001
+75,"Thu, Apr 5, 2001",7:30p,,Box Score,,Washington Wizards,W,,93,80,45,30,W 3,19763,,,False,NYK,2001
+76,"Sun, Apr 8, 2001",12:30p,,Box Score,@,Miami Heat,L,,76,81,45,31,L 1,21103,,,False,NYK,2001
+77,"Mon, Apr 9, 2001",7:30p,,Box Score,,Charlotte Hornets,W,,113,98,46,31,W 1,19763,,,False,NYK,2001
+78,"Wed, Apr 11, 2001",8:00p,,Box Score,@,Indiana Pacers,L,,93,100,46,32,L 1,17857,,,False,NYK,2001
+79,"Fri, Apr 13, 2001",7:30p,,Box Score,,Atlanta Hawks,W,,101,65,47,32,W 1,19763,,,False,NYK,2001
+80,"Sun, Apr 15, 2001",12:30p,,Box Score,@,Philadelphia 76ers,L,,82,89,47,33,L 1,20699,,,False,NYK,2001
+81,"Mon, Apr 16, 2001",7:30p,,Box Score,@,Cleveland Cavaliers,L,,78,80,47,34,L 2,15908,,,False,NYK,2001
+82,"Wed, Apr 18, 2001",7:30p,,Box Score,,Detroit Pistons,W,,94,88,48,34,W 1,19763,,,False,NYK,2001
+1,"Sun, Apr 22, 2001",12:30p,,Box Score,,Toronto Raptors,W,,92,85,1,0,W 1,19763,,,True,NYK,2001
+2,"Thu, Apr 26, 2001",8:00p,,Box Score,,Toronto Raptors,L,,74,94,1,1,L 1,19763,,,True,NYK,2001
+3,"Sun, Apr 29, 2001",12:30p,,Box Score,@,Toronto Raptors,W,,97,89,2,1,W 1,20217,,,True,NYK,2001
+4,"Wed, May 2, 2001",8:00p,,Box Score,@,Toronto Raptors,L,,93,100,2,2,L 1,20282,,,True,NYK,2001
+5,"Fri, May 4, 2001",8:00p,,Box Score,,Toronto Raptors,L,,89,93,2,3,L 2,19763,,,True,NYK,2001

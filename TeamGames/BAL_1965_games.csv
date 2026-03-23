@@ -1,0 +1,91 @@
+G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Opponent,Unnamed: 6,Unnamed: 7,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Sat, Oct 17, 1964",,Box Score,,San Francisco Warriors,W,,121,101,1,0,W 1,,,,False,BAL,1965
+2,"Wed, Oct 21, 1964",,Box Score,,Los Angeles Lakers,L,,105,108,1,1,L 1,,,,False,BAL,1965
+3,"Thu, Oct 22, 1964",,Box Score,@,Philadelphia 76ers,W,OT,138,135,2,1,W 1,,,,False,BAL,1965
+4,"Sat, Oct 24, 1964",,Box Score,@,Boston Celtics,L,,103,131,2,2,L 1,6075,,,False,BAL,1965
+5,"Sun, Oct 25, 1964",,Box Score,,Boston Celtics,L,,100,112,2,3,L 2,3555,,,False,BAL,1965
+6,"Tue, Oct 27, 1964",,Box Score,@,San Francisco Warriors,L,,90,101,2,4,L 3,,,"at Oakland, CA",False,BAL,1965
+7,"Wed, Oct 28, 1964",,Box Score,@,Los Angeles Lakers,L,,102,112,2,5,L 4,,,,False,BAL,1965
+8,"Thu, Oct 29, 1964",,Box Score,@,Los Angeles Lakers,W,,98,95,3,5,W 1,,,,False,BAL,1965
+9,"Sat, Oct 31, 1964",,Box Score,@,San Francisco Warriors,W,,102,98,4,5,W 2,,,,False,BAL,1965
+10,"Wed, Nov 4, 1964",,Box Score,@,Detroit Pistons,W,,121,108,5,5,W 3,,,,False,BAL,1965
+11,"Fri, Nov 6, 1964",,Box Score,@,Cincinnati Royals,W,,111,106,6,5,W 4,,,,False,BAL,1965
+12,"Sat, Nov 7, 1964",,Box Score,@,St. Louis Hawks,L,,99,134,6,6,L 1,,,,False,BAL,1965
+13,"Tue, Nov 10, 1964",,Box Score,N,Detroit Pistons,L,,117,119,6,7,L 2,,,"at Philadelphia, PA",False,BAL,1965
+14,"Wed, Nov 11, 1964",,Box Score,,Philadelphia 76ers,L,,114,123,6,8,L 3,,,,False,BAL,1965
+15,"Sat, Nov 14, 1964",,Box Score,,Los Angeles Lakers,W,,127,115,7,8,W 1,,,,False,BAL,1965
+16,"Tue, Nov 17, 1964",,Box Score,,Boston Celtics,W,,102,99,8,8,W 2,4137,,,False,BAL,1965
+17,"Fri, Nov 20, 1964",,Box Score,,Detroit Pistons,L,,105,106,8,9,L 1,,,,False,BAL,1965
+18,"Sat, Nov 21, 1964",,Box Score,@,New York Knicks,L,,94,103,8,10,L 2,,,,False,BAL,1965
+19,"Tue, Nov 24, 1964",,Box Score,@,St. Louis Hawks,W,,109,108,9,10,W 1,,,,False,BAL,1965
+20,"Wed, Nov 25, 1964",,Box Score,,Cincinnati Royals,W,,125,116,10,10,W 2,,,,False,BAL,1965
+21,"Sun, Nov 29, 1964",,Box Score,@,Los Angeles Lakers,L,,110,126,10,11,L 1,,,,False,BAL,1965
+22,"Tue, Dec 1, 1964",,Box Score,@,San Francisco Warriors,L,2OT,136,137,10,12,L 2,,,,False,BAL,1965
+23,"Wed, Dec 2, 1964",,Box Score,N,San Francisco Warriors,W,,120,114,11,12,W 1,,,"at San Jose, CA",False,BAL,1965
+24,"Fri, Dec 4, 1964",,Box Score,,St. Louis Hawks,W,,108,106,12,12,W 2,,,,False,BAL,1965
+25,"Sat, Dec 5, 1964",,Box Score,N,Philadelphia 76ers,L,,108,125,12,13,L 1,,,"at Detroit, MI",False,BAL,1965
+26,"Sun, Dec 6, 1964",,Box Score,N,Cincinnati Royals,L,,113,124,12,14,L 2,,,"at Columbus, OH",False,BAL,1965
+27,"Tue, Dec 8, 1964",,Box Score,N,Philadelphia 76ers,L,,97,102,12,15,L 3,,,"at New York, NY",False,BAL,1965
+28,"Wed, Dec 9, 1964",,Box Score,,New York Knicks,L,,90,111,12,16,L 4,,,,False,BAL,1965
+29,"Sat, Dec 12, 1964",,Box Score,@,Boston Celtics,L,,99,112,12,17,L 5,12025,,,False,BAL,1965
+30,"Wed, Dec 16, 1964",,Box Score,,Philadelphia 76ers,W,,140,120,13,17,W 1,,,,False,BAL,1965
+31,"Sat, Dec 19, 1964",,Box Score,,Detroit Pistons,W,,104,99,14,17,W 2,,,,False,BAL,1965
+32,"Fri, Dec 25, 1964",,Box Score,@,New York Knicks,W,,114,108,15,17,W 3,,,,False,BAL,1965
+33,"Sat, Dec 26, 1964",,Box Score,,New York Knicks,L,,116,118,15,18,L 1,,,,False,BAL,1965
+34,"Sun, Dec 27, 1964",,Box Score,,Cincinnati Royals,W,,126,119,16,18,W 1,,,,False,BAL,1965
+35,"Wed, Dec 30, 1964",,Box Score,,Boston Celtics,L,,114,121,16,19,L 1,8390,,,False,BAL,1965
+36,"Fri, Jan 1, 1965",,Box Score,N,Cincinnati Royals,L,,124,140,16,20,L 2,,,"at Cleveland, OH",False,BAL,1965
+37,"Sat, Jan 2, 1965",,Box Score,,San Francisco Warriors,W,,129,103,17,20,W 1,,,,False,BAL,1965
+38,"Sun, Jan 3, 1965",,Box Score,,San Francisco Warriors,W,,142,132,18,20,W 2,,,,False,BAL,1965
+39,"Wed, Jan 6, 1965",,Box Score,@,Detroit Pistons,W,,129,121,19,20,W 3,,,,False,BAL,1965
+40,"Thu, Jan 7, 1965",,Box Score,,Detroit Pistons,W,,110,105,20,20,W 4,,,,False,BAL,1965
+41,"Sat, Jan 9, 1965",,Box Score,,Cincinnati Royals,L,,119,128,20,21,L 1,,,,False,BAL,1965
+42,"Sun, Jan 10, 1965",,Box Score,,New York Knicks,L,OT,120,122,20,22,L 2,,,,False,BAL,1965
+43,"Thu, Jan 14, 1965",,Box Score,@,Philadelphia 76ers,W,,138,126,21,22,W 1,,,,False,BAL,1965
+44,"Sat, Jan 16, 1965",,Box Score,N,St. Louis Hawks,L,,87,107,21,23,L 1,,,"at Chicago, IL",False,BAL,1965
+45,"Wed, Jan 20, 1965",,Box Score,,Boston Celtics,L,,105,131,21,24,L 2,5385,,,False,BAL,1965
+46,"Fri, Jan 22, 1965",,Box Score,@,St. Louis Hawks,W,,117,110,22,24,W 1,,,,False,BAL,1965
+47,"Sat, Jan 23, 1965",,Box Score,,St. Louis Hawks,W,,106,97,23,24,W 2,,,,False,BAL,1965
+48,"Sun, Jan 24, 1965",,Box Score,,St. Louis Hawks,W,,114,106,24,24,W 3,,,,False,BAL,1965
+49,"Mon, Jan 25, 1965",,Box Score,N,Boston Celtics,L,,104,142,24,25,L 1,4079,,"at Providence, RI",False,BAL,1965
+50,"Wed, Jan 27, 1965",,Box Score,@,Detroit Pistons,L,,108,122,24,26,L 2,,,,False,BAL,1965
+51,"Fri, Jan 29, 1965",,Box Score,@,St. Louis Hawks,L,,119,124,24,27,L 3,,,,False,BAL,1965
+52,"Wed, Feb 3, 1965",,Box Score,@,Boston Celtics,W,,122,114,25,27,W 1,5521,,,False,BAL,1965
+53,"Fri, Feb 5, 1965",,Box Score,N,San Francisco Warriors,L,,112,120,25,28,L 1,,,"at College Park, MD",False,BAL,1965
+54,"Sat, Feb 6, 1965",,Box Score,,Los Angeles Lakers,W,,116,112,26,28,W 1,,,,False,BAL,1965
+55,"Sun, Feb 7, 1965",,Box Score,@,Detroit Pistons,L,,112,119,26,29,L 1,,,,False,BAL,1965
+56,"Thu, Feb 11, 1965",,Box Score,,St. Louis Hawks,L,,94,124,26,30,L 2,,,,False,BAL,1965
+57,"Fri, Feb 12, 1965",,Box Score,@,St. Louis Hawks,L,,100,144,26,31,L 3,,,,False,BAL,1965
+58,"Sat, Feb 13, 1965",,Box Score,,Detroit Pistons,W,,123,117,27,31,W 1,,,,False,BAL,1965
+59,"Sun, Feb 14, 1965",,Box Score,@,Boston Celtics,L,,111,126,27,32,L 1,9052,,,False,BAL,1965
+60,"Tue, Feb 16, 1965",,Box Score,N,New York Knicks,L,,102,106,27,33,L 2,,,"at Cincinnati, OH",False,BAL,1965
+61,"Wed, Feb 17, 1965",,Box Score,,Cincinnati Royals,W,,125,114,28,33,W 1,,,,False,BAL,1965
+62,"Fri, Feb 19, 1965",,Box Score,,Los Angeles Lakers,L,,111,119,28,34,L 1,,,,False,BAL,1965
+63,"Sun, Feb 21, 1965",,Box Score,,Philadelphia 76ers,L,,106,107,28,35,L 2,,,,False,BAL,1965
+64,"Mon, Feb 22, 1965",,Box Score,N,Philadelphia 76ers,L,,112,122,28,36,L 3,,,"at Washington, DC",False,BAL,1965
+65,"Tue, Feb 23, 1965",,Box Score,N,Cincinnati Royals,W,,131,127,29,36,W 1,,,"at New York, NY",False,BAL,1965
+66,"Wed, Feb 24, 1965",,Box Score,,New York Knicks,W,,111,100,30,36,W 2,,,,False,BAL,1965
+67,"Sat, Feb 27, 1965",,Box Score,@,New York Knicks,L,,99,102,30,37,L 1,,,,False,BAL,1965
+68,"Sun, Feb 28, 1965",,Box Score,,San Francisco Warriors,W,OT,129,116,31,37,W 1,,,,False,BAL,1965
+69,"Wed, Mar 3, 1965",,Box Score,,Cincinnati Royals,W,,151,108,32,37,W 2,,,,False,BAL,1965
+70,"Fri, Mar 5, 1965",,Box Score,,Boston Celtics,W,OT,128,124,33,37,W 3,8371,,,False,BAL,1965
+71,"Sun, Mar 7, 1965",,Box Score,,Detroit Pistons,W,,111,105,34,37,W 4,,,,False,BAL,1965
+72,"Mon, Mar 8, 1965",,Box Score,@,San Francisco Warriors,W,,111,102,35,37,W 5,,,,False,BAL,1965
+73,"Tue, Mar 9, 1965",,Box Score,@,Los Angeles Lakers,L,,114,123,35,38,L 1,,,,False,BAL,1965
+74,"Thu, Mar 11, 1965",,Box Score,@,Los Angeles Lakers,L,OT,116,121,35,39,L 2,,,,False,BAL,1965
+75,"Sat, Mar 13, 1965",,Box Score,,New York Knicks,L,,102,114,35,40,L 3,,,,False,BAL,1965
+76,"Sun, Mar 14, 1965",,Box Score,,Philadelphia 76ers,W,,143,126,36,40,W 1,,,,False,BAL,1965
+77,"Wed, Mar 17, 1965",,Box Score,,Los Angeles Lakers,W,,117,106,37,40,W 2,,,,False,BAL,1965
+78,"Thu, Mar 18, 1965",,Box Score,@,Cincinnati Royals,L,,110,113,37,41,L 1,,,,False,BAL,1965
+79,"Sat, Mar 20, 1965",,Box Score,@,New York Knicks,L,,114,118,37,42,L 2,,,,False,BAL,1965
+80,"Sun, Mar 21, 1965",,Box Score,@,Philadelphia 76ers,L,,105,127,37,43,L 3,,,,False,BAL,1965
+1,"Wed, Mar 24, 1965",,Box Score,@,St. Louis Hawks,W,,108,105,1,0,W 1,,,,True,BAL,1965
+2,"Fri, Mar 26, 1965",,Box Score,@,St. Louis Hawks,L,,105,129,1,1,L 1,,,,True,BAL,1965
+3,"Sat, Mar 27, 1965",,Box Score,,St. Louis Hawks,W,,131,99,2,1,W 1,,,,True,BAL,1965
+4,"Tue, Mar 30, 1965",,Box Score,,St. Louis Hawks,W,,109,103,3,1,W 2,,,,True,BAL,1965
+5,"Sat, Apr 3, 1965",,Box Score,@,Los Angeles Lakers,L,,115,121,3,2,L 1,,,,True,BAL,1965
+6,"Mon, Apr 5, 1965",,Box Score,@,Los Angeles Lakers,L,,115,118,3,3,L 2,,,,True,BAL,1965
+7,"Wed, Apr 7, 1965",,Box Score,,Los Angeles Lakers,W,,122,115,4,3,W 1,,,,True,BAL,1965
+8,"Fri, Apr 9, 1965",,Box Score,,Los Angeles Lakers,W,,114,112,5,3,W 2,,,,True,BAL,1965
+9,"Sun, Apr 11, 1965",,Box Score,@,Los Angeles Lakers,L,,112,120,5,4,L 1,,,,True,BAL,1965
+10,"Tue, Apr 13, 1965",,Box Score,,Los Angeles Lakers,L,,115,117,5,5,L 2,,,,True,BAL,1965

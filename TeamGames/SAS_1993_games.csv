@@ -1,0 +1,93 @@
+G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Opponent,Unnamed: 6,Unnamed: 7,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Fri, Nov 6, 1992",,Box Score,@,Sacramento Kings,L,,106,114,0,1,L 1,17317,,,False,SAS,1993
+2,"Sat, Nov 7, 1992",,Box Score,@,Denver Nuggets,L,2OT,121,125,0,2,L 2,17022,,,False,SAS,1993
+3,"Tue, Nov 10, 1992",,Box Score,,Milwaukee Bucks,W,,104,98,1,2,W 1,16057,,,False,SAS,1993
+4,"Thu, Nov 12, 1992",,Box Score,,Atlanta Hawks,L,,97,104,1,3,L 1,16057,,,False,SAS,1993
+5,"Sat, Nov 14, 1992",,Box Score,,Houston Rockets,L,,87,93,1,4,L 2,16057,,,False,SAS,1993
+6,"Tue, Nov 17, 1992",,Box Score,,Cleveland Cavaliers,W,,106,95,2,4,W 1,16057,,,False,SAS,1993
+7,"Thu, Nov 19, 1992",,Box Score,,Dallas Mavericks,W,,123,95,3,4,W 2,16057,,,False,SAS,1993
+8,"Sat, Nov 21, 1992",,Box Score,@,Houston Rockets,L,,100,103,3,5,L 1,12229,,,False,SAS,1993
+9,"Tue, Nov 24, 1992",,Box Score,@,Portland Trail Blazers,L,,91,95,3,6,L 2,12888,,,False,SAS,1993
+10,"Wed, Nov 25, 1992",,Box Score,@,Utah Jazz,W,,128,102,4,6,W 1,19911,,,False,SAS,1993
+11,"Sat, Nov 28, 1992",,Box Score,,Seattle SuperSonics,W,,104,97,5,6,W 2,16057,,,False,SAS,1993
+12,"Tue, Dec 1, 1992",,Box Score,@,Washington Bullets,L,,106,119,5,7,L 1,15642,,,False,SAS,1993
+13,"Wed, Dec 2, 1992",,Box Score,@,Philadelphia 76ers,W,,98,82,6,7,W 1,12731,,,False,SAS,1993
+14,"Fri, Dec 4, 1992",,Box Score,@,New Jersey Nets,L,OT,103,108,6,8,L 1,15068,,,False,SAS,1993
+15,"Sat, Dec 5, 1992",,Box Score,@,Atlanta Hawks,L,,105,113,6,9,L 2,11301,,,False,SAS,1993
+16,"Tue, Dec 8, 1992",,Box Score,,Utah Jazz,W,,121,103,7,9,W 1,16057,,,False,SAS,1993
+17,"Thu, Dec 10, 1992",,Box Score,,Miami Heat,W,,101,91,8,9,W 2,16057,,,False,SAS,1993
+18,"Sat, Dec 12, 1992",,Box Score,@,Dallas Mavericks,W,,113,91,9,9,W 3,13903,,,False,SAS,1993
+19,"Tue, Dec 15, 1992",,Box Score,,Los Angeles Lakers,L,,101,107,9,10,L 1,16057,,,False,SAS,1993
+20,"Thu, Dec 17, 1992",,Box Score,@,Houston Rockets,L,,109,121,9,11,L 2,13706,,,False,SAS,1993
+21,"Fri, Dec 18, 1992",,Box Score,,Dallas Mavericks,W,,122,101,10,11,W 1,16057,,,False,SAS,1993
+22,"Tue, Dec 22, 1992",,Box Score,,Denver Nuggets,W,,113,108,11,11,W 2,16057,,,False,SAS,1993
+23,"Fri, Dec 25, 1992",,Box Score,@,Los Angeles Clippers,W,,103,94,12,11,W 3,13780,,,False,SAS,1993
+24,"Sat, Dec 26, 1992",,Box Score,@,Los Angeles Lakers,W,,104,92,13,11,W 4,17505,,,False,SAS,1993
+25,"Mon, Dec 28, 1992",,Box Score,,Golden State Warriors,L,,105,106,13,12,L 1,16057,,,False,SAS,1993
+26,"Wed, Dec 30, 1992",,Box Score,@,Denver Nuggets,W,,114,94,14,12,W 1,17022,,,False,SAS,1993
+27,"Sun, Jan 3, 1993",,Box Score,,Phoenix Suns,W,OT,114,113,15,12,W 2,16057,,,False,SAS,1993
+28,"Tue, Jan 5, 1993",,Box Score,@,Utah Jazz,L,,87,113,15,13,L 1,19911,,,False,SAS,1993
+29,"Thu, Jan 7, 1993",,Box Score,,Utah Jazz,W,,109,99,16,13,W 1,16057,,,False,SAS,1993
+30,"Sat, Jan 9, 1993",,Box Score,,Portland Trail Blazers,W,,109,93,17,13,W 2,16057,,,False,SAS,1993
+31,"Mon, Jan 11, 1993",,Box Score,@,Detroit Pistons,W,,109,91,18,13,W 3,21454,,,False,SAS,1993
+32,"Wed, Jan 13, 1993",,Box Score,@,Minnesota Timberwolves,W,,89,81,19,13,W 4,17852,,,False,SAS,1993
+33,"Thu, Jan 14, 1993",,Box Score,@,Milwaukee Bucks,W,,108,93,20,13,W 5,13254,,,False,SAS,1993
+34,"Sat, Jan 16, 1993",,Box Score,,Charlotte Hornets,W,,124,111,21,13,W 6,16057,,,False,SAS,1993
+35,"Tue, Jan 19, 1993",,Box Score,,Denver Nuggets,W,,121,110,22,13,W 7,16057,,,False,SAS,1993
+36,"Fri, Jan 22, 1993",,Box Score,,Detroit Pistons,W,,123,109,23,13,W 8,16057,,,False,SAS,1993
+37,"Sun, Jan 24, 1993",,Box Score,,Chicago Bulls,W,,103,99,24,13,W 9,16057,,,False,SAS,1993
+38,"Wed, Jan 27, 1993",,Box Score,@,Seattle SuperSonics,W,,119,99,25,13,W 10,14651,,,False,SAS,1993
+39,"Fri, Jan 29, 1993",,Box Score,@,Phoenix Suns,L,,110,125,25,14,L 1,19023,,,False,SAS,1993
+40,"Sat, Jan 30, 1993",,Box Score,,Sacramento Kings,W,,129,124,26,14,W 1,16057,,,False,SAS,1993
+41,"Tue, Feb 2, 1993",,Box Score,,New Jersey Nets,W,,111,93,27,14,W 2,16057,,,False,SAS,1993
+42,"Thu, Feb 4, 1993",,Box Score,,Indiana Pacers,W,,133,115,28,14,W 3,16057,,,False,SAS,1993
+43,"Sat, Feb 6, 1993",,Box Score,,Minnesota Timberwolves,W,,104,95,29,14,W 4,16057,,,False,SAS,1993
+44,"Tue, Feb 9, 1993",,Box Score,,Los Angeles Clippers,W,,112,97,30,14,W 5,16057,,,False,SAS,1993
+45,"Thu, Feb 11, 1993",,Box Score,,Washington Bullets,W,,105,95,31,14,W 6,16057,,,False,SAS,1993
+46,"Sat, Feb 13, 1993",,Box Score,,Boston Celtics,W,,90,85,32,14,W 7,16057,2:00,,False,SAS,1993
+47,"Mon, Feb 15, 1993",,Box Score,@,Los Angeles Clippers,W,,102,99,33,14,W 8,15989,,,False,SAS,1993
+48,"Tue, Feb 16, 1993",,Box Score,@,Golden State Warriors,L,,112,133,33,15,L 1,15025,,,False,SAS,1993
+49,"Thu, Feb 18, 1993",,Box Score,,Philadelphia 76ers,W,,103,98,34,15,W 1,16057,,,False,SAS,1993
+50,"Tue, Feb 23, 1993",,Box Score,,Phoenix Suns,L,,103,105,34,16,L 1,16057,,,False,SAS,1993
+51,"Thu, Feb 25, 1993",,Box Score,@,Charlotte Hornets,L,,104,111,34,17,L 2,23698,,,False,SAS,1993
+52,"Fri, Feb 26, 1993",,Box Score,@,Miami Heat,L,,86,93,34,18,L 3,15008,,,False,SAS,1993
+53,"Sun, Feb 28, 1993",,Box Score,@,Orlando Magic,W,,94,90,35,18,W 1,15151,,,False,SAS,1993
+54,"Tue, Mar 2, 1993",,Box Score,@,Indiana Pacers,L,,95,109,35,19,L 1,11467,,,False,SAS,1993
+55,"Wed, Mar 3, 1993",,Box Score,@,Boston Celtics,L,,91,132,35,20,L 2,14890,1:59,,False,SAS,1993
+56,"Fri, Mar 5, 1993",,Box Score,@,Chicago Bulls,W,OT,107,102,36,20,W 1,18676,,,False,SAS,1993
+57,"Sat, Mar 6, 1993",,Box Score,@,Minnesota Timberwolves,L,,105,106,36,21,L 1,18844,,,False,SAS,1993
+58,"Tue, Mar 9, 1993",,Box Score,,Dallas Mavericks,W,,119,84,37,21,W 1,16057,,,False,SAS,1993
+59,"Sat, Mar 13, 1993",,Box Score,,Portland Trail Blazers,W,,108,99,38,21,W 2,16057,,,False,SAS,1993
+60,"Mon, Mar 15, 1993",,Box Score,,Los Angeles Lakers,L,,87,92,38,22,L 1,16057,,,False,SAS,1993
+61,"Wed, Mar 17, 1993",,Box Score,@,Los Angeles Lakers,W,,101,100,39,22,W 1,15000,,,False,SAS,1993
+62,"Fri, Mar 19, 1993",,Box Score,,Orlando Magic,W,,96,93,40,22,W 2,16057,,,False,SAS,1993
+63,"Sun, Mar 21, 1993",,Box Score,@,New York Knicks,L,,96,115,40,23,L 1,19763,,,False,SAS,1993
+64,"Tue, Mar 23, 1993",,Box Score,@,Cleveland Cavaliers,L,,90,127,40,24,L 2,20273,,,False,SAS,1993
+65,"Wed, Mar 24, 1993",,Box Score,@,Minnesota Timberwolves,W,,105,92,41,24,W 1,17806,,,False,SAS,1993
+66,"Fri, Mar 26, 1993",,Box Score,,Utah Jazz,L,,98,104,41,25,L 1,16057,,,False,SAS,1993
+67,"Sun, Mar 28, 1993",,Box Score,@,Dallas Mavericks,W,,114,107,42,25,W 1,17336,,,False,SAS,1993
+68,"Tue, Mar 30, 1993",,Box Score,,Seattle SuperSonics,W,,99,97,43,25,W 2,16057,,,False,SAS,1993
+69,"Wed, Mar 31, 1993",,Box Score,@,Utah Jazz,L,,85,93,43,26,L 1,19911,,,False,SAS,1993
+70,"Fri, Apr 2, 1993",,Box Score,,Minnesota Timberwolves,W,,108,101,44,26,W 1,16057,,,False,SAS,1993
+71,"Sun, Apr 4, 1993",,Box Score,,New York Knicks,L,OT,103,108,44,27,L 1,16057,,,False,SAS,1993
+72,"Tue, Apr 6, 1993",,Box Score,,Golden State Warriors,L,,111,125,44,28,L 2,16057,,,False,SAS,1993
+73,"Thu, Apr 8, 1993",,Box Score,,Los Angeles Clippers,W,,112,108,45,28,W 1,16057,,,False,SAS,1993
+74,"Sat, Apr 10, 1993",,Box Score,@,Houston Rockets,L,,88,98,45,29,L 1,16611,,,False,SAS,1993
+75,"Tue, Apr 13, 1993",,Box Score,@,Sacramento Kings,W,,110,100,46,29,W 1,17317,,,False,SAS,1993
+76,"Wed, Apr 14, 1993",,Box Score,@,Golden State Warriors,W,,96,93,47,29,W 2,15025,,,False,SAS,1993
+77,"Fri, Apr 16, 1993",,Box Score,,Sacramento Kings,L,,93,100,47,30,L 1,16057,,,False,SAS,1993
+78,"Sun, Apr 18, 1993",,Box Score,@,Portland Trail Blazers,L,,101,105,47,31,L 2,12888,,,False,SAS,1993
+79,"Mon, Apr 19, 1993",,Box Score,@,Seattle SuperSonics,L,,89,96,47,32,L 3,14526,,,False,SAS,1993
+80,"Thu, Apr 22, 1993",,Box Score,,Denver Nuggets,W,,131,111,48,32,W 1,16057,,,False,SAS,1993
+81,"Sat, Apr 24, 1993",,Box Score,@,Phoenix Suns,L,,97,99,48,33,L 1,19023,,,False,SAS,1993
+82,"Sun, Apr 25, 1993",,Box Score,,Houston Rockets,W,OT,119,117,49,33,W 1,16057,,,False,SAS,1993
+1,"Thu, Apr 29, 1993",,Box Score,@,Portland Trail Blazers,W,,87,86,1,0,W 1,12888,,,True,SAS,1993
+2,"Sat, May 1, 1993",,Box Score,@,Portland Trail Blazers,L,,96,105,1,1,L 1,12888,,,True,SAS,1993
+3,"Wed, May 5, 1993",,Box Score,,Portland Trail Blazers,W,,107,101,2,1,W 1,16057,,,True,SAS,1993
+4,"Fri, May 7, 1993",,Box Score,,Portland Trail Blazers,W,OT,100,97,3,1,W 2,16057,,,True,SAS,1993
+5,"Tue, May 11, 1993",,Box Score,@,Phoenix Suns,L,,89,98,3,2,L 1,19023,,,True,SAS,1993
+6,"Thu, May 13, 1993",,Box Score,@,Phoenix Suns,L,,103,109,3,3,L 2,19023,,,True,SAS,1993
+7,"Sat, May 15, 1993",,Box Score,,Phoenix Suns,W,,111,96,4,3,W 1,16057,,,True,SAS,1993
+8,"Sun, May 16, 1993",,Box Score,,Phoenix Suns,W,,117,103,5,3,W 2,16057,,,True,SAS,1993
+9,"Tue, May 18, 1993",,Box Score,@,Phoenix Suns,L,,97,109,5,4,L 1,19023,,,True,SAS,1993
+10,"Thu, May 20, 1993",,Box Score,,Phoenix Suns,L,,100,102,5,5,L 2,16057,,,True,SAS,1993

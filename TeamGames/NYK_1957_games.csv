@@ -1,0 +1,73 @@
+G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Opponent,Unnamed: 6,Unnamed: 7,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Sat, Oct 27, 1956",,Box Score,,Boston Celtics,L,,112,115,0,1,L 1,15000,,,False,NYK,1957
+2,"Sat, Nov 3, 1956",,Box Score,@,Boston Celtics,W,,113,107,1,1,W 1,12469,,,False,NYK,1957
+3,"Sun, Nov 4, 1956",,Box Score,@,Fort Wayne Pistons,W,,96,83,2,1,W 2,,,,False,NYK,1957
+4,"Wed, Nov 7, 1956",,Box Score,@,St. Louis Hawks,L,,101,107,2,2,L 1,,,,False,NYK,1957
+5,"Sat, Nov 10, 1956",,Box Score,@,Philadelphia Warriors,L,,81,83,2,3,L 2,,,,False,NYK,1957
+6,"Sun, Nov 11, 1956",,Box Score,,Philadelphia Warriors,W,,106,95,3,3,W 1,,,,False,NYK,1957
+7,"Wed, Nov 14, 1956",,Box Score,@,Rochester Royals,L,,87,90,3,4,L 1,,,,False,NYK,1957
+8,"Sun, Nov 18, 1956",,Box Score,,St. Louis Hawks,W,,102,69,4,4,W 1,,,,False,NYK,1957
+9,"Wed, Nov 21, 1956",,Box Score,N,Fort Wayne Pistons,L,OT,103,104,4,5,L 1,,,"at Boston, MA",False,NYK,1957
+10,"Sat, Nov 24, 1956",,Box Score,,Rochester Royals,L,,87,96,4,6,L 2,,,,False,NYK,1957
+11,"Sun, Nov 25, 1956",,Box Score,@,Rochester Royals,L,,93,95,4,7,L 3,,,,False,NYK,1957
+12,"Tue, Nov 27, 1956",,Box Score,,Fort Wayne Pistons,W,,105,98,5,7,W 1,,,,False,NYK,1957
+13,"Fri, Nov 30, 1956",,Box Score,@,Philadelphia Warriors,L,,99,110,5,8,L 1,,,,False,NYK,1957
+14,"Sat, Dec 1, 1956",,Box Score,,Syracuse Nationals,W,,117,100,6,8,W 1,,,,False,NYK,1957
+15,"Sun, Dec 2, 1956",,Box Score,@,Syracuse Nationals,L,,100,110,6,9,L 1,,,,False,NYK,1957
+16,"Tue, Dec 4, 1956",,Box Score,,Minneapolis Lakers,W,,101,88,7,9,W 1,,,,False,NYK,1957
+17,"Thu, Dec 6, 1956",,Box Score,N,Rochester Royals,W,,95,92,8,9,W 2,,,"at Fort Wayne, IN",False,NYK,1957
+18,"Fri, Dec 7, 1956",,Box Score,@,St. Louis Hawks,W,,107,101,9,9,W 3,,,,False,NYK,1957
+19,"Sat, Dec 8, 1956",,Box Score,N,St. Louis Hawks,W,,109,104,10,9,W 4,,,"at Milwaukee, WI",False,NYK,1957
+20,"Sun, Dec 9, 1956",,Box Score,@,Minneapolis Lakers,W,,100,91,11,9,W 5,,,,False,NYK,1957
+21,"Tue, Dec 11, 1956",,Box Score,,St. Louis Hawks,L,,128,137,11,10,L 1,,,,False,NYK,1957
+22,"Wed, Dec 12, 1956",,Box Score,N,Minneapolis Lakers,L,,103,121,11,11,L 2,,,"at Boston, MA",False,NYK,1957
+23,"Sat, Dec 15, 1956",,Box Score,@,Rochester Royals,W,,91,76,12,11,W 1,,,,False,NYK,1957
+24,"Sun, Dec 16, 1956",,Box Score,@,Fort Wayne Pistons,L,,80,84,12,12,L 1,,,,False,NYK,1957
+25,"Tue, Dec 18, 1956",,Box Score,,Boston Celtics,W,,110,99,13,12,W 1,12824,,,False,NYK,1957
+26,"Sun, Dec 23, 1956",,Box Score,,Philadelphia Warriors,L,,90,95,13,13,L 1,,,,False,NYK,1957
+27,"Tue, Dec 25, 1956",,Box Score,,St. Louis Hawks,L,OT,105,107,13,14,L 2,,,,False,NYK,1957
+28,"Thu, Dec 27, 1956",,Box Score,@,Philadelphia Warriors,L,,87,112,13,15,L 3,,,,False,NYK,1957
+29,"Sun, Dec 30, 1956",,Box Score,,Rochester Royals,W,,96,88,14,15,W 1,,,,False,NYK,1957
+30,"Tue, Jan 1, 1957",,Box Score,@,Syracuse Nationals,L,,102,106,14,16,L 1,,,,False,NYK,1957
+31,"Thu, Jan 3, 1957",,Box Score,,Syracuse Nationals,W,,126,111,15,16,W 1,,,,False,NYK,1957
+32,"Sat, Jan 5, 1957",,Box Score,@,Fort Wayne Pistons,L,,96,109,15,17,L 1,,,,False,NYK,1957
+33,"Sun, Jan 6, 1957",,Box Score,@,Minneapolis Lakers,W,,111,101,16,17,W 1,,,,False,NYK,1957
+34,"Tue, Jan 8, 1957",,Box Score,,Boston Celtics,W,,113,102,17,17,W 2,15128,,,False,NYK,1957
+35,"Thu, Jan 10, 1957",,Box Score,N,St. Louis Hawks,W,OT,89,84,18,17,W 3,,,"at Philadelphia, PA",False,NYK,1957
+36,"Sat, Jan 12, 1957",,Box Score,@,Philadelphia Warriors,L,,82,116,18,18,L 1,,,,False,NYK,1957
+37,"Sun, Jan 13, 1957",,Box Score,,Philadelphia Warriors,W,,101,90,19,18,W 1,,,,False,NYK,1957
+38,"Thu, Jan 17, 1957",,Box Score,N,Minneapolis Lakers,W,,94,93,20,18,W 2,,,"at Lacrosse, WI",False,NYK,1957
+39,"Sat, Jan 19, 1957",,Box Score,,Fort Wayne Pistons,W,,102,100,21,18,W 3,,,,False,NYK,1957
+40,"Sun, Jan 20, 1957",,Box Score,@,Boston Celtics,L,,78,114,21,19,L 1,11082,,,False,NYK,1957
+41,"Tue, Jan 22, 1957",,Box Score,,Syracuse Nationals,W,,90,88,22,19,W 1,,,,False,NYK,1957
+42,"Wed, Jan 23, 1957",,Box Score,N,Philadelphia Warriors,L,,93,99,22,20,L 1,,,"at Boston, MA",False,NYK,1957
+43,"Thu, Jan 24, 1957",,Box Score,@,Syracuse Nationals,L,,97,115,22,21,L 2,,,,False,NYK,1957
+44,"Sat, Jan 26, 1957",,Box Score,,Minneapolis Lakers,W,,122,107,23,21,W 1,,,,False,NYK,1957
+45,"Sun, Jan 27, 1957",,Box Score,@,Fort Wayne Pistons,L,OT,102,103,23,22,L 1,,,,False,NYK,1957
+46,"Tue, Jan 29, 1957",,Box Score,,Philadelphia Warriors,W,,114,110,24,22,W 1,,,,False,NYK,1957
+47,"Wed, Jan 30, 1957",,Box Score,N,Rochester Royals,W,,92,80,25,22,W 2,,,"at Boston, MA",False,NYK,1957
+48,"Thu, Jan 31, 1957",,Box Score,N,Philadelphia Warriors,L,,102,106,25,23,L 1,,,"at Syracuse, NY",False,NYK,1957
+49,"Sat, Feb 2, 1957",,Box Score,,Boston Celtics,L,,111,114,25,24,L 2,15352,,,False,NYK,1957
+50,"Sun, Feb 3, 1957",,Box Score,@,Boston Celtics,L,,98,116,25,25,L 3,13909,,,False,NYK,1957
+51,"Tue, Feb 5, 1957",,Box Score,,Rochester Royals,L,,88,91,25,26,L 4,,,,False,NYK,1957
+52,"Wed, Feb 6, 1957",,Box Score,N,Syracuse Nationals,W,,119,100,26,26,W 1,,,"at Boston, MA",False,NYK,1957
+53,"Fri, Feb 8, 1957",,Box Score,N,Boston Celtics,W,,92,90,27,26,W 2,9031,,"at Philadelphia, PA",False,NYK,1957
+54,"Sat, Feb 9, 1957",,Box Score,,Syracuse Nationals,L,,89,101,27,27,L 1,,,,False,NYK,1957
+55,"Sun, Feb 10, 1957",,Box Score,@,Syracuse Nationals,L,,100,102,27,28,L 2,,,,False,NYK,1957
+56,"Wed, Feb 13, 1957",,Box Score,@,Rochester Royals,W,,85,82,28,28,W 1,,,,False,NYK,1957
+57,"Thu, Feb 14, 1957",,Box Score,N,Minneapolis Lakers,L,,97,99,28,29,L 1,,,"at Fort Wayne, IN",False,NYK,1957
+58,"Sat, Feb 16, 1957",,Box Score,,Minneapolis Lakers,W,,120,112,29,29,W 1,,,,False,NYK,1957
+59,"Sun, Feb 17, 1957",,Box Score,@,Philadelphia Warriors,L,,115,123,29,30,L 1,,,,False,NYK,1957
+60,"Tue, Feb 19, 1957",,Box Score,,Boston Celtics,L,,110,112,29,31,L 2,10135,,,False,NYK,1957
+61,"Thu, Feb 21, 1957",,Box Score,N,Fort Wayne Pistons,L,,114,120,29,32,L 3,,,"at Boston, MA",False,NYK,1957
+62,"Sat, Feb 23, 1957",,Box Score,,Fort Wayne Pistons,W,,102,94,30,32,W 1,,,,False,NYK,1957
+63,"Sun, Feb 24, 1957",,Box Score,@,Boston Celtics,L,,85,97,30,33,L 1,5886,,"at Providence, RI",False,NYK,1957
+64,"Tue, Feb 26, 1957",,Box Score,,St. Louis Hawks,W,,107,76,31,33,W 1,,,,False,NYK,1957
+65,"Thu, Feb 28, 1957",,Box Score,N,Boston Celtics,W,OT,122,121,32,33,W 2,5768,,"at Syracuse, NY",False,NYK,1957
+66,"Sat, Mar 2, 1957",,Box Score,@,St. Louis Hawks,W,,97,94,33,33,W 3,,,,False,NYK,1957
+67,"Sun, Mar 3, 1957",,Box Score,@,Minneapolis Lakers,L,,108,119,33,34,L 1,,,,False,NYK,1957
+68,"Tue, Mar 5, 1957",,Box Score,,Syracuse Nationals,L,,92,99,33,35,L 2,,,,False,NYK,1957
+69,"Wed, Mar 6, 1957",,Box Score,@,Syracuse Nationals,W,,100,93,34,35,W 1,,,,False,NYK,1957
+70,"Thu, Mar 7, 1957",,Box Score,N,Syracuse Nationals,W,,99,94,35,35,W 2,,,"at Philadelphia, PA",False,NYK,1957
+71,"Sun, Mar 10, 1957",,Box Score,,Philadelphia Warriors,W,,104,103,36,35,W 3,,,,False,NYK,1957
+72,"Wed, Mar 13, 1957",,Box Score,@,Boston Celtics,L,,91,122,36,36,L 1,8514,,,False,NYK,1957

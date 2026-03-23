@@ -1,0 +1,90 @@
+G,Date,Start (ET),Unnamed: 3,Unnamed: 4,Unnamed: 5,Opponent,Unnamed: 7,Unnamed: 8,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Wed, Oct 28, 2015",7:30p,,Box Score,@,Miami Heat,L,,94,104,0,1,L 1,19724,2:19,,False,CHO,2016
+2,"Fri, Oct 30, 2015",8:00p,,Box Score,@,Atlanta Hawks,L,,94,97,0,2,L 2,17024,2:19,,False,CHO,2016
+3,"Sun, Nov 1, 2015",2:00p,,Box Score,,Atlanta Hawks,L,,92,94,0,3,L 3,18691,2:08,,False,CHO,2016
+4,"Tue, Nov 3, 2015",7:00p,,Box Score,,Chicago Bulls,W,,130,105,1,3,W 1,15136,2:00,,False,CHO,2016
+5,"Thu, Nov 5, 2015",8:30p,,Box Score,@,Dallas Mavericks,W,,108,94,2,3,W 2,19635,2:09,,False,CHO,2016
+6,"Sat, Nov 7, 2015",8:30p,,Box Score,@,San Antonio Spurs,L,,94,114,2,4,L 1,18418,2:09,,False,CHO,2016
+7,"Tue, Nov 10, 2015",8:00p,,Box Score,@,Minnesota Timberwolves,W,,104,95,3,4,W 1,14722,2:09,,False,CHO,2016
+8,"Wed, Nov 11, 2015",7:00p,,Box Score,,New York Knicks,W,,95,93,4,4,W 2,16643,2:11,,False,CHO,2016
+9,"Fri, Nov 13, 2015",8:00p,,Box Score,@,Chicago Bulls,L,,97,102,4,5,L 1,21749,2:08,,False,CHO,2016
+10,"Sun, Nov 15, 2015",5:00p,,Box Score,,Portland Trail Blazers,W,,106,94,5,5,W 1,15317,2:10,,False,CHO,2016
+11,"Tue, Nov 17, 2015",7:30p,,Box Score,@,New York Knicks,L,,94,102,5,6,L 1,19812,2:15,,False,CHO,2016
+12,"Wed, Nov 18, 2015",7:00p,,Box Score,,Brooklyn Nets,W,,116,111,6,6,W 1,14040,2:15,,False,CHO,2016
+13,"Fri, Nov 20, 2015",7:00p,,Box Score,,Philadelphia 76ers,W,,113,88,7,6,W 2,17926,2:07,,False,CHO,2016
+14,"Mon, Nov 23, 2015",7:00p,,Box Score,,Sacramento Kings,W,OT,127,122,8,6,W 3,14163,2:32,,False,CHO,2016
+15,"Wed, Nov 25, 2015",7:00p,,Box Score,,Washington Wizards,W,,101,87,9,6,W 4,17064,2:08,,False,CHO,2016
+16,"Fri, Nov 27, 2015",7:00p,,Box Score,,Cleveland Cavaliers,L,,90,95,9,7,L 1,19093,2:23,,False,CHO,2016
+17,"Sun, Nov 29, 2015",2:00p,,Box Score,,Milwaukee Bucks,W,,87,82,10,7,W 1,14224,2:04,,False,CHO,2016
+18,"Wed, Dec 2, 2015",7:00p,,Box Score,,Golden State Warriors,L,,99,116,10,8,L 1,19542,2:06,,False,CHO,2016
+19,"Sat, Dec 5, 2015",8:00p,,Box Score,@,Chicago Bulls,W,,102,96,11,8,W 1,21770,2:09,,False,CHO,2016
+20,"Mon, Dec 7, 2015",7:00p,,Box Score,,Detroit Pistons,W,,104,84,12,8,W 2,15481,2:08,,False,CHO,2016
+21,"Wed, Dec 9, 2015",7:00p,,Box Score,,Miami Heat,W,,99,81,13,8,W 3,17404,2:01,,False,CHO,2016
+22,"Fri, Dec 11, 2015",8:00p,,Box Score,@,Memphis Grizzlies,W,,123,99,14,8,W 4,17111,2:17,,False,CHO,2016
+23,"Sat, Dec 12, 2015",7:00p,,Box Score,,Boston Celtics,L,,93,98,14,9,L 1,18490,2:04,,False,CHO,2016
+24,"Wed, Dec 16, 2015",7:00p,,Box Score,@,Orlando Magic,L,,98,113,14,10,L 2,16019,2:01,,False,CHO,2016
+25,"Thu, Dec 17, 2015",7:00p,,Box Score,,Toronto Raptors,W,OT,109,99,15,10,W 1,15817,2:33,,False,CHO,2016
+26,"Sat, Dec 19, 2015",7:00p,,Box Score,@,Washington Wizards,L,,101,109,15,11,L 1,16987,2:03,,False,CHO,2016
+27,"Mon, Dec 21, 2015",8:00p,,Box Score,@,Houston Rockets,L,,95,102,15,12,L 2,18236,2:30,,False,CHO,2016
+28,"Wed, Dec 23, 2015",7:00p,,Box Score,,Boston Celtics,L,,89,102,15,13,L 3,19082,2:15,,False,CHO,2016
+29,"Sat, Dec 26, 2015",7:00p,,Box Score,,Memphis Grizzlies,W,,98,92,16,13,W 1,19091,2:17,,False,CHO,2016
+30,"Mon, Dec 28, 2015",7:00p,,Box Score,,Los Angeles Lakers,W,,108,98,17,13,W 2,19632,2:00,,False,CHO,2016
+31,"Wed, Dec 30, 2015",7:00p,,Box Score,,Los Angeles Clippers,L,,117,122,17,14,L 1,19145,2:23,,False,CHO,2016
+32,"Fri, Jan 1, 2016",7:30p,,Box Score,@,Toronto Raptors,L,,94,104,17,15,L 2,19800,2:08,,False,CHO,2016
+33,"Sat, Jan 2, 2016",7:00p,,Box Score,,Oklahoma City Thunder,L,,90,109,17,16,L 3,19387,2:22,,False,CHO,2016
+34,"Mon, Jan 4, 2016",10:30p,,Box Score,@,Golden State Warriors,L,,101,111,17,17,L 4,19596,1:58,,False,CHO,2016
+35,"Wed, Jan 6, 2016",9:00p,,Box Score,@,Phoenix Suns,L,,102,111,17,18,L 5,16910,2:06,,False,CHO,2016
+36,"Sat, Jan 9, 2016",3:30p,,Box Score,@,Los Angeles Clippers,L,,83,97,17,19,L 6,19060,2:02,,False,CHO,2016
+37,"Sun, Jan 10, 2016",8:00p,,Box Score,@,Denver Nuggets,L,,92,95,17,20,L 7,11343,2:07,,False,CHO,2016
+38,"Wed, Jan 13, 2016",7:00p,,Box Score,,Atlanta Hawks,W,,107,84,18,20,W 1,15334,2:08,,False,CHO,2016
+39,"Fri, Jan 15, 2016",8:00p,,Box Score,@,New Orleans Pelicans,L,,107,109,18,21,L 1,16876,2:08,,False,CHO,2016
+40,"Sat, Jan 16, 2016",7:00p,,Box Score,,Milwaukee Bucks,L,,92,105,18,22,L 2,18288,2:08,,False,CHO,2016
+41,"Mon, Jan 18, 2016",2:00p,,Box Score,,Utah Jazz,W,2OT,124,119,19,22,W 1,17459,2:52,,False,CHO,2016
+42,"Wed, Jan 20, 2016",8:00p,,Box Score,@,Oklahoma City Thunder,L,,95,109,19,23,L 1,18203,2:10,,False,CHO,2016
+43,"Fri, Jan 22, 2016",7:00p,,Box Score,@,Orlando Magic,W,OT,120,116,20,23,W 1,18083,2:33,,False,CHO,2016
+44,"Sat, Jan 23, 2016",7:00p,,Box Score,,New York Knicks,W,,97,84,21,23,W 2,17768,2:18,,False,CHO,2016
+45,"Mon, Jan 25, 2016",10:00p,,Box Score,@,Sacramento Kings,W,2OT,129,128,22,23,W 3,16991,3:10,,False,CHO,2016
+46,"Wed, Jan 27, 2016",9:00p,,Box Score,@,Utah Jazz,L,,73,102,22,24,L 1,16683,2:06,,False,CHO,2016
+47,"Fri, Jan 29, 2016",10:00p,,Box Score,@,Portland Trail Blazers,L,,91,109,22,25,L 2,19393,2:04,,False,CHO,2016
+48,"Sun, Jan 31, 2016",9:30p,,Box Score,@,Los Angeles Lakers,W,,101,82,23,25,W 1,18997,2:08,,False,CHO,2016
+49,"Wed, Feb 3, 2016",7:00p,,Box Score,,Cleveland Cavaliers,W,,106,97,24,25,W 2,19189,2:10,,False,CHO,2016
+50,"Fri, Feb 5, 2016",7:00p,,Box Score,,Miami Heat,L,,95,98,24,26,L 1,19147,2:14,,False,CHO,2016
+51,"Sat, Feb 6, 2016",7:00p,,Box Score,,Washington Wizards,W,,108,104,25,26,W 1,18450,2:13,,False,CHO,2016
+52,"Mon, Feb 8, 2016",7:00p,,Box Score,,Chicago Bulls,W,,108,91,26,26,W 2,15886,2:03,,False,CHO,2016
+53,"Wed, Feb 10, 2016",7:00p,,Box Score,@,Indiana Pacers,W,,117,95,27,26,W 3,15653,2:05,,False,CHO,2016
+54,"Fri, Feb 19, 2016",8:00p,,Box Score,@,Milwaukee Bucks,W,,98,95,28,26,W 4,16370,2:12,,False,CHO,2016
+55,"Sun, Feb 21, 2016",6:00p,,Box Score,@,Brooklyn Nets,W,,104,96,29,26,W 5,16155,2:05,,False,CHO,2016
+56,"Wed, Feb 24, 2016",7:00p,,Box Score,@,Cleveland Cavaliers,L,,103,114,29,27,L 1,20562,2:08,,False,CHO,2016
+57,"Fri, Feb 26, 2016",7:00p,,Box Score,@,Indiana Pacers,W,,96,95,30,27,W 1,18165,2:16,,False,CHO,2016
+58,"Sun, Feb 28, 2016",3:30p,,Box Score,@,Atlanta Hawks,L,,76,87,30,28,L 1,17156,2:02,,False,CHO,2016
+59,"Tue, Mar 1, 2016",7:00p,,Box Score,,Phoenix Suns,W,,126,92,31,28,W 1,16849,2:05,,False,CHO,2016
+60,"Wed, Mar 2, 2016",7:00p,,Box Score,@,Philadelphia 76ers,W,,119,99,32,28,W 2,11143,2:15,,False,CHO,2016
+61,"Fri, Mar 4, 2016",7:00p,,Box Score,,Indiana Pacers,W,,108,101,33,28,W 3,19099,2:05,,False,CHO,2016
+62,"Mon, Mar 7, 2016",7:00p,,Box Score,,Minnesota Timberwolves,W,,108,103,34,28,W 4,15912,2:17,,False,CHO,2016
+63,"Wed, Mar 9, 2016",7:00p,,Box Score,,New Orleans Pelicans,W,,122,113,35,28,W 5,16335,2:20,,False,CHO,2016
+64,"Fri, Mar 11, 2016",7:00p,,Box Score,,Detroit Pistons,W,,118,103,36,28,W 6,18189,2:17,,False,CHO,2016
+65,"Sat, Mar 12, 2016",7:00p,,Box Score,,Houston Rockets,W,,125,109,37,28,W 7,19303,2:06,,False,CHO,2016
+66,"Mon, Mar 14, 2016",7:00p,,Box Score,,Dallas Mavericks,L,,96,107,37,29,L 1,15686,2:21,,False,CHO,2016
+67,"Wed, Mar 16, 2016",7:00p,,Box Score,,Orlando Magic,W,,107,99,38,29,W 1,16148,2:01,,False,CHO,2016
+68,"Thu, Mar 17, 2016",7:30p,,Box Score,@,Miami Heat,W,,109,106,39,29,W 2,19848,2:19,,False,CHO,2016
+69,"Sat, Mar 19, 2016",6:00p,,Box Score,,Denver Nuggets,L,,93,101,39,30,L 1,19271,2:08,,False,CHO,2016
+70,"Mon, Mar 21, 2016",7:00p,,Box Score,,San Antonio Spurs,W,,91,88,40,30,W 1,18260,2:03,,False,CHO,2016
+71,"Tue, Mar 22, 2016",7:30p,,Box Score,@,Brooklyn Nets,W,,105,100,41,30,W 2,15739,2:10,,False,CHO,2016
+72,"Fri, Mar 25, 2016",7:30p,,Box Score,@,Detroit Pistons,L,,105,112,41,31,L 1,17209,2:15,,False,CHO,2016
+73,"Sat, Mar 26, 2016",8:30p,,Box Score,@,Milwaukee Bucks,W,,115,91,42,31,W 1,15544,1:57,,False,CHO,2016
+74,"Tue, Mar 29, 2016",7:00p,,Box Score,@,Philadelphia 76ers,W,,100,85,43,31,W 2,14486,1:57,,False,CHO,2016
+75,"Fri, Apr 1, 2016",7:00p,,Box Score,,Philadelphia 76ers,W,,100,91,44,31,W 3,19244,2:10,,False,CHO,2016
+76,"Sun, Apr 3, 2016",3:30p,,Box Score,@,Cleveland Cavaliers,L,,103,112,44,32,L 1,20562,2:14,,False,CHO,2016
+77,"Tue, Apr 5, 2016",7:30p,,Box Score,@,Toronto Raptors,L,,90,96,44,33,L 2,19800,2:19,,False,CHO,2016
+78,"Wed, Apr 6, 2016",7:30p,,Box Score,@,New York Knicks,W,,111,97,45,33,W 1,19812,2:01,,False,CHO,2016
+79,"Fri, Apr 8, 2016",7:00p,,Box Score,,Brooklyn Nets,W,,113,99,46,33,W 2,18337,2:00,,False,CHO,2016
+80,"Sun, Apr 10, 2016",12:00p,,Box Score,@,Washington Wizards,L,,98,113,46,34,L 1,19187,2:14,,False,CHO,2016
+81,"Mon, Apr 11, 2016",7:30p,,Box Score,@,Boston Celtics,W,,114,100,47,34,W 1,18624,2:08,,False,CHO,2016
+82,"Wed, Apr 13, 2016",8:00p,,Box Score,,Orlando Magic,W,,117,103,48,34,W 2,17372,1:58,,False,CHO,2016
+1,"Sun, Apr 17, 2016",5:30p,,Box Score,@,Miami Heat,L,,91,123,0,1,L 1,19600,2:22,,True,CHO,2016
+2,"Wed, Apr 20, 2016",7:00p,,Box Score,@,Miami Heat,L,,103,115,0,2,L 2,19650,2:23,,True,CHO,2016
+3,"Sat, Apr 23, 2016",5:30p,,Box Score,,Miami Heat,W,,96,80,1,2,W 1,19604,2:22,,True,CHO,2016
+4,"Mon, Apr 25, 2016",7:00p,,Box Score,,Miami Heat,W,,89,85,2,2,W 2,19156,2:28,,True,CHO,2016
+5,"Wed, Apr 27, 2016",8:00p,,Box Score,@,Miami Heat,W,,90,88,3,2,W 3,19685,2:23,,True,CHO,2016
+6,"Fri, Apr 29, 2016",8:00p,,Box Score,,Miami Heat,L,,90,97,3,3,L 1,19636,2:28,,True,CHO,2016
+7,"Sun, May 1, 2016",1:00p,,Box Score,@,Miami Heat,L,,73,106,3,4,L 2,19868,2:12,,True,CHO,2016

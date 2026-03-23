@@ -1,0 +1,90 @@
+G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Opponent,Unnamed: 6,Unnamed: 7,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Thu, Oct 16, 1969",,Box Score,,San Diego Rockets,W,,116,114,1,0,W 1,,,,False,PHO,1970
+2,"Sat, Oct 18, 1969",,Box Score,@,Atlanta Hawks,L,,116,121,1,1,L 1,,,,False,PHO,1970
+3,"Tue, Oct 21, 1969",,Box Score,@,New York Knicks,L,,116,140,1,2,L 2,,,,False,PHO,1970
+4,"Wed, Oct 22, 1969",,Box Score,@,Philadelphia 76ers,L,,119,122,1,3,L 3,,,,False,PHO,1970
+5,"Fri, Oct 24, 1969",,Box Score,,Chicago Bulls,L,OT,115,116,1,4,L 4,,,,False,PHO,1970
+6,"Sat, Oct 25, 1969",,Box Score,@,San Diego Rockets,W,,115,107,2,4,W 1,,,,False,PHO,1970
+7,"Sun, Oct 26, 1969",,Box Score,,Milwaukee Bucks,L,,99,119,2,5,L 1,,,,False,PHO,1970
+8,"Thu, Oct 30, 1969",,Box Score,,Cincinnati Royals,W,,106,104,3,5,W 1,,,,False,PHO,1970
+9,"Tue, Nov 4, 1969",,Box Score,,New York Knicks,L,,99,116,3,6,L 1,,,,False,PHO,1970
+10,"Fri, Nov 7, 1969",,Box Score,@,Los Angeles Lakers,W,,122,120,4,6,W 1,,,,False,PHO,1970
+11,"Sun, Nov 9, 1969",,Box Score,,Detroit Pistons,W,,140,129,5,6,W 2,,,,False,PHO,1970
+12,"Thu, Nov 13, 1969",,Box Score,,Philadelphia 76ers,L,,110,124,5,7,L 1,,,,False,PHO,1970
+13,"Fri, Nov 14, 1969",,Box Score,@,Los Angeles Lakers,L,,112,127,5,8,L 2,8902,,,False,PHO,1970
+14,"Sat, Nov 15, 1969",,Box Score,,Los Angeles Lakers,W,,114,111,6,8,W 1,,,,False,PHO,1970
+15,"Sun, Nov 16, 1969",,Box Score,N,Atlanta Hawks,W,,139,118,7,8,W 2,,,"at Albuquerque, NM",False,PHO,1970
+16,"Tue, Nov 18, 1969",,Box Score,N,Boston Celtics,L,OT,119,120,7,9,L 1,6028,,"at Baltimore, MD",False,PHO,1970
+17,"Wed, Nov 19, 1969",,Box Score,N,Baltimore Bullets,L,,118,133,7,10,L 2,,,"at Philadelphia, PA",False,PHO,1970
+18,"Fri, Nov 21, 1969",,Box Score,@,Baltimore Bullets,L,,116,126,7,11,L 3,,,,False,PHO,1970
+19,"Sat, Nov 22, 1969",,Box Score,@,New York Knicks,L,,114,128,7,12,L 4,,,,False,PHO,1970
+20,"Sun, Nov 23, 1969",,Box Score,@,Cincinnati Royals,L,,123,137,7,13,L 5,,,,False,PHO,1970
+21,"Tue, Nov 25, 1969",,Box Score,,Baltimore Bullets,L,,124,134,7,14,L 6,,,,False,PHO,1970
+22,"Sat, Nov 29, 1969",,Box Score,@,Seattle SuperSonics,L,,129,130,7,15,L 7,,,,False,PHO,1970
+23,"Sun, Nov 30, 1969",,Box Score,,Seattle SuperSonics,W,,116,108,8,15,W 1,,,,False,PHO,1970
+24,"Tue, Dec 2, 1969",,Box Score,N,Chicago Bulls,W,,121,110,9,15,W 2,,,"at Salt Lake City, UT",False,PHO,1970
+25,"Thu, Dec 4, 1969",,Box Score,,Los Angeles Lakers,W,,119,109,10,15,W 3,,,,False,PHO,1970
+26,"Fri, Dec 5, 1969",,Box Score,,Chicago Bulls,W,,114,113,11,15,W 4,,,,False,PHO,1970
+27,"Sun, Dec 7, 1969",,Box Score,,Detroit Pistons,L,,113,118,11,16,L 1,,,,False,PHO,1970
+28,"Tue, Dec 9, 1969",,Box Score,@,Chicago Bulls,L,,102,109,11,17,L 2,,,,False,PHO,1970
+29,"Wed, Dec 10, 1969",,Box Score,@,Baltimore Bullets,W,,137,107,12,17,W 1,,,,False,PHO,1970
+30,"Fri, Dec 12, 1969",,Box Score,@,Seattle SuperSonics,W,,130,116,13,17,W 2,,,,False,PHO,1970
+31,"Sat, Dec 13, 1969",,Box Score,,Cincinnati Royals,W,,126,110,14,17,W 3,,,,False,PHO,1970
+32,"Sun, Dec 14, 1969",,Box Score,,Cincinnati Royals,L,2OT,130,137,14,18,L 1,,,,False,PHO,1970
+33,"Tue, Dec 16, 1969",,Box Score,,Philadelphia 76ers,L,,119,141,14,19,L 2,,,,False,PHO,1970
+34,"Sat, Dec 20, 1969",,Box Score,@,Detroit Pistons,L,,113,114,14,20,L 3,,,,False,PHO,1970
+35,"Sun, Dec 21, 1969",,Box Score,@,Milwaukee Bucks,L,,111,118,14,21,L 4,,,,False,PHO,1970
+36,"Thu, Dec 25, 1969",,Box Score,,Boston Celtics,W,,127,116,15,21,W 1,10137,,,False,PHO,1970
+37,"Sun, Dec 28, 1969",,Box Score,,New York Knicks,L,,116,135,15,22,L 1,,,,False,PHO,1970
+38,"Tue, Dec 30, 1969",,Box Score,@,Seattle SuperSonics,L,,121,134,15,23,L 2,,,,False,PHO,1970
+39,"Fri, Jan 2, 1970",,Box Score,,San Diego Rockets,W,,121,120,16,23,W 1,,,,False,PHO,1970
+40,"Sat, Jan 3, 1970",,Box Score,,Detroit Pistons,W,,114,109,17,23,W 2,,,,False,PHO,1970
+41,"Sun, Jan 4, 1970",,Box Score,@,Los Angeles Lakers,L,,112,120,17,24,L 1,,,,False,PHO,1970
+42,"Tue, Jan 6, 1970",,Box Score,@,Cincinnati Royals,L,,124,128,17,25,L 2,,,,False,PHO,1970
+43,"Thu, Jan 8, 1970",,Box Score,@,Chicago Bulls,L,,123,152,17,26,L 3,,,,False,PHO,1970
+44,"Fri, Jan 9, 1970",,Box Score,@,Milwaukee Bucks,L,,116,120,17,27,L 4,,,,False,PHO,1970
+45,"Sat, Jan 10, 1970",,Box Score,N,Philadelphia 76ers,W,,119,117,18,27,W 1,,,"at Baltimore, MD",False,PHO,1970
+46,"Sun, Jan 11, 1970",,Box Score,N,Cincinnati Royals,W,,125,118,19,27,W 2,,,"at Omaha, NE",False,PHO,1970
+47,"Mon, Jan 12, 1970",,Box Score,N,New York Knicks,L,,114,130,19,28,L 1,,,"at Salt Lake City, UT",False,PHO,1970
+48,"Thu, Jan 15, 1970",,Box Score,,Baltimore Bullets,W,,124,115,20,28,W 1,,,,False,PHO,1970
+49,"Sat, Jan 17, 1970",,Box Score,,Seattle SuperSonics,L,,131,134,20,29,L 1,,,,False,PHO,1970
+50,"Sun, Jan 18, 1970",,Box Score,,Baltimore Bullets,W,,134,133,21,29,W 1,,,,False,PHO,1970
+51,"Thu, Jan 22, 1970",,Box Score,N,Seattle SuperSonics,W,,129,120,22,29,W 2,,,"at Las Cruces, NM",False,PHO,1970
+52,"Fri, Jan 23, 1970",,Box Score,,San Francisco Warriors,L,,132,138,22,30,L 1,,,,False,PHO,1970
+53,"Sat, Jan 24, 1970",,Box Score,@,San Francisco Warriors,W,,109,99,23,30,W 1,,,"at Oakland, CA",False,PHO,1970
+54,"Sun, Jan 25, 1970",,Box Score,@,Los Angeles Lakers,L,,106,118,23,31,L 1,,,,False,PHO,1970
+55,"Thu, Jan 29, 1970",,Box Score,,Atlanta Hawks,W,,111,102,24,31,W 1,,,,False,PHO,1970
+56,"Fri, Jan 30, 1970",,Box Score,@,San Francisco Warriors,L,,116,125,24,32,L 1,,,,False,PHO,1970
+57,"Sat, Jan 31, 1970",,Box Score,,Milwaukee Bucks,L,,106,107,24,33,L 2,,,,False,PHO,1970
+58,"Sun, Feb 1, 1970",,Box Score,@,San Diego Rockets,W,,105,103,25,33,W 1,,,,False,PHO,1970
+59,"Tue, Feb 3, 1970",,Box Score,,Philadelphia 76ers,W,,131,123,26,33,W 2,,,,False,PHO,1970
+60,"Fri, Feb 6, 1970",,Box Score,,San Francisco Warriors,W,,122,117,27,33,W 3,,,,False,PHO,1970
+61,"Sat, Feb 7, 1970",,Box Score,,Los Angeles Lakers,W,OT,121,117,28,33,W 4,,,,False,PHO,1970
+62,"Tue, Feb 10, 1970",,Box Score,@,Boston Celtics,W,,122,117,29,33,W 5,4761,,,False,PHO,1970
+63,"Wed, Feb 11, 1970",,Box Score,@,Milwaukee Bucks,L,,120,127,29,34,L 1,,,,False,PHO,1970
+64,"Thu, Feb 12, 1970",,Box Score,@,Chicago Bulls,L,,121,122,29,35,L 2,,,,False,PHO,1970
+65,"Fri, Feb 13, 1970",,Box Score,@,Detroit Pistons,L,,120,132,29,36,L 3,,,,False,PHO,1970
+66,"Sun, Feb 15, 1970",,Box Score,@,Philadelphia 76ers,L,,125,159,29,37,L 4,,,,False,PHO,1970
+67,"Tue, Feb 17, 1970",,Box Score,@,Seattle SuperSonics,W,,129,118,30,37,W 1,,,,False,PHO,1970
+68,"Wed, Feb 18, 1970",,Box Score,,Boston Celtics,L,,113,116,30,38,L 1,6818,,,False,PHO,1970
+69,"Fri, Feb 20, 1970",,Box Score,,San Diego Rockets,W,,126,117,31,38,W 1,,,,False,PHO,1970
+70,"Sun, Feb 22, 1970",,Box Score,,Milwaukee Bucks,L,,124,144,31,39,L 1,,,,False,PHO,1970
+71,"Tue, Feb 24, 1970",,Box Score,@,New York Knicks,L,,105,121,31,40,L 2,,,,False,PHO,1970
+72,"Thu, Feb 26, 1970",,Box Score,@,Detroit Pistons,W,,131,123,32,40,W 1,,,,False,PHO,1970
+73,"Fri, Feb 27, 1970",,Box Score,@,Boston Celtics,W,,134,125,33,40,W 2,8933,,,False,PHO,1970
+74,"Sun, Mar 1, 1970",,Box Score,@,Atlanta Hawks,W,,109,98,34,40,W 3,,,,False,PHO,1970
+75,"Tue, Mar 3, 1970",,Box Score,,Chicago Bulls,L,,111,123,34,41,L 1,,,,False,PHO,1970
+76,"Fri, Mar 6, 1970",,Box Score,@,San Francisco Warriors,L,,97,107,34,42,L 2,,,,False,PHO,1970
+77,"Sun, Mar 8, 1970",,Box Score,,Atlanta Hawks,W,,130,119,35,42,W 1,,,,False,PHO,1970
+78,"Sun, Mar 15, 1970",,Box Score,@,Atlanta Hawks,L,,111,126,35,43,L 1,,,,False,PHO,1970
+79,"Tue, Mar 17, 1970",,Box Score,,San Francisco Warriors,W,,133,121,36,43,W 1,,,,False,PHO,1970
+80,"Thu, Mar 19, 1970",,Box Score,,Boston Celtics,W,,127,123,37,43,W 2,9570,,,False,PHO,1970
+81,"Fri, Mar 20, 1970",,Box Score,,San Diego Rockets,W,,127,104,38,43,W 3,,,,False,PHO,1970
+82,"Sun, Mar 22, 1970",,Box Score,@,San Diego Rockets,W,,130,129,39,43,W 4,,,,False,PHO,1970
+1,"Wed, Mar 25, 1970",,Box Score,@,Los Angeles Lakers,L,,112,128,0,1,L 1,,,,True,PHO,1970
+2,"Sun, Mar 29, 1970",,Box Score,@,Los Angeles Lakers,W,,114,101,1,1,W 1,,,,True,PHO,1970
+3,"Thu, Apr 2, 1970",,Box Score,,Los Angeles Lakers,W,,112,98,2,1,W 2,,,,True,PHO,1970
+4,"Sat, Apr 4, 1970",,Box Score,,Los Angeles Lakers,W,,112,102,3,1,W 3,,,,True,PHO,1970
+5,"Sun, Apr 5, 1970",,Box Score,@,Los Angeles Lakers,L,,121,138,3,2,L 1,,,,True,PHO,1970
+6,"Tue, Apr 7, 1970",,Box Score,,Los Angeles Lakers,L,,93,104,3,3,L 2,,,,True,PHO,1970
+7,"Thu, Apr 9, 1970",,Box Score,@,Los Angeles Lakers,L,,94,129,3,4,L 3,,,,True,PHO,1970

@@ -1,0 +1,83 @@
+G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Opponent,Unnamed: 6,Unnamed: 7,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Fri, Nov 3, 1989",,Box Score,@,Phoenix Suns,L,,106,136,0,1,L 1,14144,,,False,GSW,1990
+2,"Sat, Nov 4, 1989",,Box Score,,Houston Rockets,L,,105,132,0,2,L 2,15025,,,False,GSW,1990
+3,"Tue, Nov 7, 1989",,Box Score,,Los Angeles Clippers,W,,118,94,1,2,W 1,15025,,,False,GSW,1990
+4,"Thu, Nov 9, 1989",,Box Score,,Los Angeles Lakers,L,,95,106,1,3,L 1,15025,,,False,GSW,1990
+5,"Sat, Nov 11, 1989",,Box Score,,Charlotte Hornets,W,,115,104,2,3,W 1,15025,,,False,GSW,1990
+6,"Tue, Nov 14, 1989",,Box Score,@,Minnesota Timberwolves,L,,98,101,2,4,L 1,24961,,,False,GSW,1990
+7,"Wed, Nov 15, 1989",,Box Score,@,Cleveland Cavaliers,L,,104,129,2,5,L 2,13706,,,False,GSW,1990
+8,"Fri, Nov 17, 1989",,Box Score,@,Charlotte Hornets,L,,98,99,2,6,L 3,23901,,,False,GSW,1990
+9,"Sat, Nov 18, 1989",,Box Score,@,Atlanta Hawks,L,,96,112,2,7,L 4,14176,,,False,GSW,1990
+10,"Wed, Nov 22, 1989",,Box Score,,Sacramento Kings,W,,133,109,3,7,W 1,15025,,,False,GSW,1990
+11,"Sat, Nov 25, 1989",,Box Score,,Chicago Bulls,L,,91,104,3,8,L 1,15025,,,False,GSW,1990
+12,"Tue, Nov 28, 1989",,Box Score,@,Denver Nuggets,L,,120,141,3,9,L 2,8392,,,False,GSW,1990
+13,"Wed, Nov 29, 1989",,Box Score,,New York Knicks,L,,111,129,3,10,L 3,15025,,,False,GSW,1990
+14,"Fri, Dec 1, 1989",,Box Score,@,Portland Trail Blazers,L,,110,123,3,11,L 4,12884,,,False,GSW,1990
+15,"Sat, Dec 2, 1989",,Box Score,,Milwaukee Bucks,W,,101,98,4,11,W 1,15025,,,False,GSW,1990
+16,"Tue, Dec 5, 1989",,Box Score,@,Dallas Mavericks,L,,88,107,4,12,L 1,16457,,,False,GSW,1990
+17,"Wed, Dec 6, 1989",,Box Score,@,San Antonio Spurs,L,,119,121,4,13,L 2,10588,,,False,GSW,1990
+18,"Fri, Dec 8, 1989",,Box Score,,Sacramento Kings,L,,121,126,4,14,L 3,15025,,,False,GSW,1990
+19,"Tue, Dec 12, 1989",,Box Score,@,Sacramento Kings,W,,118,103,5,14,W 1,17014,,,False,GSW,1990
+20,"Wed, Dec 13, 1989",,Box Score,,Denver Nuggets,W,,134,114,6,14,W 2,15025,,,False,GSW,1990
+21,"Fri, Dec 15, 1989",,Box Score,@,Portland Trail Blazers,W,,116,111,7,14,W 3,12884,,,False,GSW,1990
+22,"Sat, Dec 16, 1989",,Box Score,,Detroit Pistons,W,,104,92,8,14,W 4,15025,,,False,GSW,1990
+23,"Wed, Dec 20, 1989",,Box Score,,Houston Rockets,W,,118,112,9,14,W 5,15025,,,False,GSW,1990
+24,"Fri, Dec 22, 1989",,Box Score,,Indiana Pacers,W,,150,124,10,14,W 6,15025,,,False,GSW,1990
+25,"Tue, Dec 26, 1989",,Box Score,@,Utah Jazz,L,,118,133,10,15,L 1,12616,,,False,GSW,1990
+26,"Thu, Dec 28, 1989",,Box Score,@,Los Angeles Clippers,L,,119,139,10,16,L 2,10014,,,False,GSW,1990
+27,"Fri, Dec 29, 1989",,Box Score,@,Los Angeles Lakers,L,,111,130,10,17,L 3,17505,,,False,GSW,1990
+28,"Tue, Jan 2, 1990",,Box Score,,Utah Jazz,W,,133,120,11,17,W 1,15025,,,False,GSW,1990
+29,"Thu, Jan 4, 1990",,Box Score,,Miami Heat,W,,119,117,12,17,W 2,15025,,,False,GSW,1990
+30,"Sat, Jan 6, 1990",,Box Score,,Los Angeles Lakers,W,,133,131,13,17,W 3,15025,,,False,GSW,1990
+31,"Mon, Jan 8, 1990",,Box Score,,Denver Nuggets,W,,139,122,14,17,W 4,15025,,,False,GSW,1990
+32,"Wed, Jan 10, 1990",,Box Score,,Dallas Mavericks,W,,123,119,15,17,W 5,15025,,,False,GSW,1990
+33,"Sat, Jan 13, 1990",,Box Score,,Orlando Magic,W,,138,127,16,17,W 6,15025,,,False,GSW,1990
+34,"Mon, Jan 15, 1990",,Box Score,@,Indiana Pacers,L,,105,144,16,18,L 1,11189,,,False,GSW,1990
+35,"Tue, Jan 16, 1990",,Box Score,@,Milwaukee Bucks,L,,126,134,16,19,L 2,18633,,,False,GSW,1990
+36,"Thu, Jan 18, 1990",,Box Score,@,Chicago Bulls,L,,107,132,16,20,L 3,18676,,,False,GSW,1990
+37,"Fri, Jan 19, 1990",,Box Score,@,Detroit Pistons,L,,118,125,16,21,L 4,21454,,,False,GSW,1990
+38,"Sun, Jan 21, 1990",,Box Score,@,Boston Celtics,W,,120,115,17,21,W 1,14890,1:59,,False,GSW,1990
+39,"Tue, Jan 23, 1990",,Box Score,,Minnesota Timberwolves,W,,109,102,18,21,W 2,15025,,,False,GSW,1990
+40,"Wed, Jan 24, 1990",,Box Score,@,Sacramento Kings,L,,99,129,18,22,L 1,17014,,,False,GSW,1990
+41,"Fri, Jan 26, 1990",,Box Score,,Seattle SuperSonics,W,,114,102,19,22,W 1,15025,,,False,GSW,1990
+42,"Wed, Jan 31, 1990",,Box Score,,Portland Trail Blazers,W,,135,130,20,22,W 2,15025,,,False,GSW,1990
+43,"Fri, Feb 2, 1990",,Box Score,,New Jersey Nets,W,,128,109,21,22,W 3,15025,,,False,GSW,1990
+44,"Sun, Feb 4, 1990",,Box Score,@,Minnesota Timberwolves,W,,105,95,22,22,W 4,29434,,,False,GSW,1990
+45,"Mon, Feb 5, 1990",,Box Score,@,Washington Bullets,L,,129,135,22,23,L 1,7926,,,False,GSW,1990
+46,"Wed, Feb 7, 1990",,Box Score,@,Philadelphia 76ers,W,,113,112,23,23,W 1,12246,,,False,GSW,1990
+47,"Thu, Feb 8, 1990",,Box Score,@,New York Knicks,L,,118,122,23,24,L 1,18212,,,False,GSW,1990
+48,"Thu, Feb 15, 1990",,Box Score,,Washington Bullets,W,,113,107,24,24,W 1,15025,,,False,GSW,1990
+49,"Fri, Feb 16, 1990",,Box Score,@,Phoenix Suns,L,,114,135,24,25,L 1,14487,,,False,GSW,1990
+50,"Sun, Feb 18, 1990",,Box Score,,Phoenix Suns,L,,113,131,24,26,L 2,15025,,,False,GSW,1990
+51,"Mon, Feb 19, 1990",,Box Score,@,Denver Nuggets,L,,109,114,24,27,L 3,8213,,,False,GSW,1990
+52,"Wed, Feb 21, 1990",,Box Score,,Philadelphia 76ers,L,,95,96,24,28,L 4,15025,,,False,GSW,1990
+53,"Fri, Feb 23, 1990",,Box Score,,Boston Celtics,L,,111,123,24,29,L 5,15025,2:14,,False,GSW,1990
+54,"Sun, Feb 25, 1990",,Box Score,@,Seattle SuperSonics,L,,102,110,24,30,L 6,11775,,,False,GSW,1990
+55,"Wed, Feb 28, 1990",,Box Score,,San Antonio Spurs,W,OT,144,135,25,30,W 1,15025,,,False,GSW,1990
+56,"Fri, Mar 2, 1990",,Box Score,@,San Antonio Spurs,L,,115,131,25,31,L 1,15910,,,False,GSW,1990
+57,"Sat, Mar 3, 1990",,Box Score,@,Houston Rockets,L,,109,129,25,32,L 2,16611,,,False,GSW,1990
+58,"Mon, Mar 5, 1990",,Box Score,,Charlotte Hornets,W,,138,117,26,32,W 1,15025,,,False,GSW,1990
+59,"Thu, Mar 8, 1990",,Box Score,,Cleveland Cavaliers,W,,145,105,27,32,W 2,15025,,,False,GSW,1990
+60,"Fri, Mar 9, 1990",,Box Score,@,Los Angeles Lakers,L,,115,131,27,33,L 1,17505,,,False,GSW,1990
+61,"Sun, Mar 11, 1990",,Box Score,,Sacramento Kings,W,,123,116,28,33,W 1,15025,,,False,GSW,1990
+62,"Mon, Mar 12, 1990",,Box Score,@,Los Angeles Clippers,W,,112,109,29,33,W 2,12847,,,False,GSW,1990
+63,"Thu, Mar 15, 1990",,Box Score,,Portland Trail Blazers,L,,121,128,29,34,L 1,15025,,,False,GSW,1990
+64,"Sun, Mar 18, 1990",,Box Score,,Seattle SuperSonics,L,,116,121,29,35,L 2,15025,,,False,GSW,1990
+65,"Tue, Mar 20, 1990",,Box Score,,Minnesota Timberwolves,W,,105,101,30,35,W 1,15025,,,False,GSW,1990
+66,"Fri, Mar 23, 1990",,Box Score,@,Utah Jazz,L,,91,106,30,36,L 1,12616,,,False,GSW,1990
+67,"Sat, Mar 24, 1990",,Box Score,@,Houston Rockets,W,,102,97,31,36,W 1,16611,,,False,GSW,1990
+68,"Tue, Mar 27, 1990",,Box Score,@,Dallas Mavericks,L,,108,118,31,37,L 1,17007,,,False,GSW,1990
+69,"Thu, Mar 29, 1990",,Box Score,,Utah Jazz,W,,128,123,32,37,W 1,15025,,,False,GSW,1990
+70,"Fri, Mar 30, 1990",,Box Score,@,Seattle SuperSonics,L,,108,139,32,38,L 1,13542,,,False,GSW,1990
+71,"Sun, Apr 1, 1990",,Box Score,,Atlanta Hawks,L,,116,142,32,39,L 2,15025,,,False,GSW,1990
+72,"Tue, Apr 3, 1990",,Box Score,@,Orlando Magic,W,,127,126,33,39,W 1,15077,,,False,GSW,1990
+73,"Wed, Apr 4, 1990",,Box Score,@,Miami Heat,W,,128,114,34,39,W 2,15008,,,False,GSW,1990
+74,"Fri, Apr 6, 1990",,Box Score,@,New Jersey Nets,W,,123,117,35,39,W 3,14233,,,False,GSW,1990
+75,"Sun, Apr 8, 1990",,Box Score,@,Charlotte Hornets,L,,109,110,35,40,L 1,23901,,,False,GSW,1990
+76,"Tue, Apr 10, 1990",,Box Score,,San Antonio Spurs,L,,122,132,35,41,L 2,15025,,,False,GSW,1990
+77,"Thu, Apr 12, 1990",,Box Score,,Dallas Mavericks,L,,133,140,35,42,L 3,15025,,,False,GSW,1990
+78,"Fri, Apr 13, 1990",,Box Score,@,Los Angeles Lakers,L,,119,131,35,43,L 4,17505,,,False,GSW,1990
+79,"Mon, Apr 16, 1990",,Box Score,,Phoenix Suns,L,,129,141,35,44,L 5,15025,,,False,GSW,1990
+80,"Wed, Apr 18, 1990",,Box Score,,Los Angeles Clippers,W,,133,120,36,44,W 1,15025,,,False,GSW,1990
+81,"Fri, Apr 20, 1990",,Box Score,@,Phoenix Suns,L,,106,123,36,45,L 1,14487,,,False,GSW,1990
+82,"Sun, Apr 22, 1990",,Box Score,,Seattle SuperSonics,W,,124,122,37,45,W 1,15025,,,False,GSW,1990

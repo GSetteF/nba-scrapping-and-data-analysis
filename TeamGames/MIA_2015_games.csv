@@ -1,0 +1,83 @@
+G,Date,Start (ET),Unnamed: 3,Unnamed: 4,Unnamed: 5,Opponent,Unnamed: 7,Unnamed: 8,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Wed, Oct 29, 2014",7:30p,,Box Score,,Washington Wizards,W,,107,95,1,0,W 1,19744,2:14,,False,MIA,2015
+2,"Sat, Nov 1, 2014",7:00p,,Box Score,@,Philadelphia 76ers,W,,114,96,2,0,W 2,19753,2:23,,False,MIA,2015
+3,"Sun, Nov 2, 2014",6:00p,,Box Score,,Toronto Raptors,W,,107,102,3,0,W 3,19666,2:37,,False,MIA,2015
+4,"Tue, Nov 4, 2014",7:30p,,Box Score,,Houston Rockets,L,,91,108,3,1,L 1,19666,2:24,,False,MIA,2015
+5,"Wed, Nov 5, 2014",7:00p,,Box Score,@,Charlotte Hornets,L,,89,96,3,2,L 2,15874,2:24,,False,MIA,2015
+6,"Sat, Nov 8, 2014",7:30p,,Box Score,,Minnesota Timberwolves,W,,102,92,4,2,W 1,19735,2:06,,False,MIA,2015
+7,"Sun, Nov 9, 2014",7:30p,,Box Score,@,Dallas Mavericks,W,,105,96,5,2,W 2,20195,2:23,,False,MIA,2015
+8,"Wed, Nov 12, 2014",7:30p,,Box Score,,Indiana Pacers,L,,75,81,5,3,L 1,19658,2:14,,False,MIA,2015
+9,"Fri, Nov 14, 2014",7:30p,,Box Score,@,Atlanta Hawks,L,,103,114,5,4,L 2,17090,2:08,,False,MIA,2015
+10,"Sun, Nov 16, 2014",6:00p,,Box Score,,Milwaukee Bucks,L,,84,91,5,5,L 3,19680,2:17,,False,MIA,2015
+11,"Mon, Nov 17, 2014",7:30p,,Box Score,@,Brooklyn Nets,W,,95,83,6,5,W 1,17732,2:20,,False,MIA,2015
+12,"Thu, Nov 20, 2014",8:00p,,Box Score,,Los Angeles Clippers,L,,93,110,6,6,L 1,19685,2:21,,False,MIA,2015
+13,"Sat, Nov 22, 2014",7:00p,,Box Score,@,Orlando Magic,W,,99,92,7,6,W 1,18846,2:19,,False,MIA,2015
+14,"Sun, Nov 23, 2014",6:00p,,Box Score,,Charlotte Hornets,W,,94,93,8,6,W 2,19639,2:12,,False,MIA,2015
+15,"Tue, Nov 25, 2014",7:30p,,Box Score,,Golden State Warriors,L,,97,114,8,7,L 1,19647,2:19,,False,MIA,2015
+16,"Sun, Nov 30, 2014",7:30p,,Box Score,@,New York Knicks,W,,86,79,9,7,W 1,19812,2:23,,False,MIA,2015
+17,"Mon, Dec 1, 2014",7:00p,,Box Score,@,Washington Wizards,L,,86,107,9,8,L 1,15150,2:10,,False,MIA,2015
+18,"Wed, Dec 3, 2014",7:30p,,Box Score,,Atlanta Hawks,L,,102,112,9,9,L 2,19600,2:20,,False,MIA,2015
+19,"Fri, Dec 5, 2014",8:30p,,Box Score,@,Milwaukee Bucks,L,,85,109,9,10,L 3,16325,2:14,,False,MIA,2015
+20,"Sun, Dec 7, 2014",6:00p,,Box Score,@,Memphis Grizzlies,L,,87,103,9,11,L 4,16572,1:58,,False,MIA,2015
+21,"Tue, Dec 9, 2014",9:00p,,Box Score,@,Phoenix Suns,W,,103,97,10,11,W 1,14963,2:07,,False,MIA,2015
+22,"Wed, Dec 10, 2014",10:30p,,Box Score,@,Denver Nuggets,L,,82,102,10,12,L 1,13433,2:18,,False,MIA,2015
+23,"Fri, Dec 12, 2014",9:00p,,Box Score,@,Utah Jazz,W,,100,95,11,12,W 1,19911,2:16,,False,MIA,2015
+24,"Sun, Dec 14, 2014",6:00p,,Box Score,,Chicago Bulls,L,,75,93,11,13,L 1,19600,2:10,,False,MIA,2015
+25,"Tue, Dec 16, 2014",7:30p,,Box Score,@,Brooklyn Nets,W,,95,91,12,13,W 1,16827,2:56,,False,MIA,2015
+26,"Wed, Dec 17, 2014",7:30p,,Box Score,,Utah Jazz,L,,87,105,12,14,L 1,19633,2:21,,False,MIA,2015
+27,"Fri, Dec 19, 2014",7:30p,,Box Score,,Washington Wizards,L,,103,105,12,15,L 2,19600,2:23,,False,MIA,2015
+28,"Sun, Dec 21, 2014",6:00p,,Box Score,,Boston Celtics,W,,100,84,13,15,W 1,19720,2:08,,False,MIA,2015
+29,"Tue, Dec 23, 2014",7:30p,,Box Score,,Philadelphia 76ers,L,,87,91,13,16,L 1,19600,2:23,,False,MIA,2015
+30,"Thu, Dec 25, 2014",5:00p,,Box Score,,Cleveland Cavaliers,W,,101,91,14,16,W 1,19817,2:31,,False,MIA,2015
+31,"Sat, Dec 27, 2014",7:30p,,Box Score,,Memphis Grizzlies,L,,95,103,14,17,L 1,19744,2:28,,False,MIA,2015
+32,"Mon, Dec 29, 2014",7:30p,,Box Score,,Orlando Magic,L,,101,102,14,18,L 2,19887,2:14,,False,MIA,2015
+33,"Wed, Dec 31, 2014",3:00p,,Box Score,@,Indiana Pacers,L,,95,106,14,19,L 3,18165,2:15,,False,MIA,2015
+34,"Sat, Jan 3, 2015",8:00p,,Box Score,@,Houston Rockets,L,,79,115,14,20,L 4,18338,2:22,,False,MIA,2015
+35,"Sun, Jan 4, 2015",6:00p,,Box Score,,Brooklyn Nets,W,,88,84,15,20,W 1,20181,2:21,,False,MIA,2015
+36,"Thu, Jan 8, 2015",10:30p,,Box Score,@,Portland Trail Blazers,L,,83,99,15,21,L 1,19441,2:14,,False,MIA,2015
+37,"Sun, Jan 11, 2015",3:30p,,Box Score,@,Los Angeles Clippers,W,,104,90,16,21,W 1,19060,2:23,,False,MIA,2015
+38,"Tue, Jan 13, 2015",10:30p,,Box Score,@,Los Angeles Lakers,W,,78,75,17,21,W 2,18997,2:07,,False,MIA,2015
+39,"Wed, Jan 14, 2015",10:30p,,Box Score,@,Golden State Warriors,L,,89,104,17,22,L 1,19596,2:11,,False,MIA,2015
+40,"Fri, Jan 16, 2015",10:00p,,Box Score,@,Sacramento Kings,W,,95,83,18,22,W 1,16350,2:05,,False,MIA,2015
+41,"Tue, Jan 20, 2015",7:30p,,Box Score,,Oklahoma City Thunder,L,,86,94,18,23,L 1,19735,2:15,,False,MIA,2015
+42,"Wed, Jan 21, 2015",7:00p,,Box Score,@,Charlotte Hornets,L,,76,78,18,24,L 2,16914,2:12,,False,MIA,2015
+43,"Fri, Jan 23, 2015",7:30p,,Box Score,,Indiana Pacers,W,,89,87,19,24,W 1,19693,2:23,,False,MIA,2015
+44,"Sun, Jan 25, 2015",1:00p,,Box Score,@,Chicago Bulls,W,,96,84,20,24,W 2,21918,2:19,,False,MIA,2015
+45,"Tue, Jan 27, 2015",7:30p,,Box Score,,Milwaukee Bucks,L,,102,109,20,25,L 1,19789,2:17,,False,MIA,2015
+46,"Fri, Jan 30, 2015",8:00p,,Box Score,,Dallas Mavericks,L,,72,93,20,26,L 2,19823,2:12,,False,MIA,2015
+47,"Sun, Feb 1, 2015",1:00p,,Box Score,@,Boston Celtics,W,,83,75,21,26,W 1,17366,2:12,,False,MIA,2015
+48,"Tue, Feb 3, 2015",7:30p,,Box Score,@,Detroit Pistons,L,,91,108,21,27,L 1,12768,2:01,,False,MIA,2015
+49,"Wed, Feb 4, 2015",8:00p,,Box Score,@,Minnesota Timberwolves,L,,101,102,21,28,L 2,11517,2:15,,False,MIA,2015
+50,"Fri, Feb 6, 2015",9:30p,,Box Score,@,San Antonio Spurs,L,,85,98,21,29,L 3,18581,2:07,,False,MIA,2015
+51,"Mon, Feb 9, 2015",7:30p,,Box Score,,New York Knicks,W,,109,95,22,29,W 1,19851,2:21,,False,MIA,2015
+52,"Wed, Feb 11, 2015",8:00p,,Box Score,@,Cleveland Cavaliers,L,,93,113,22,30,L 1,20562,2:16,,False,MIA,2015
+53,"Fri, Feb 20, 2015",7:30p,,Box Score,@,New York Knicks,W,,111,87,23,30,W 1,19812,2:16,,False,MIA,2015
+54,"Sat, Feb 21, 2015",7:30p,,Box Score,,New Orleans Pelicans,L,,91,105,23,31,L 1,19982,2:20,,False,MIA,2015
+55,"Mon, Feb 23, 2015",7:30p,,Box Score,,Philadelphia 76ers,W,,119,108,24,31,W 1,19802,2:20,,False,MIA,2015
+56,"Wed, Feb 25, 2015",7:00p,,Box Score,@,Orlando Magic,W,OT,93,90,25,31,W 2,18309,2:51,,False,MIA,2015
+57,"Fri, Feb 27, 2015",8:00p,ESPN,Box Score,@,New Orleans Pelicans,L,,102,104,25,32,L 1,17797,2:24,,False,MIA,2015
+58,"Sat, Feb 28, 2015",7:30p,,Box Score,,Atlanta Hawks,L,,91,93,25,33,L 2,19733,2:20,,False,MIA,2015
+59,"Mon, Mar 2, 2015",7:30p,NBATV,Box Score,,Phoenix Suns,W,,115,98,26,33,W 1,19600,2:42,,False,MIA,2015
+60,"Wed, Mar 4, 2015",8:00p,ESPN,Box Score,,Los Angeles Lakers,W,,100,94,27,33,W 2,19600,2:21,,False,MIA,2015
+61,"Fri, Mar 6, 2015",7:00p,ESPN,Box Score,@,Washington Wizards,L,,97,99,27,34,L 1,20356,2:20,,False,MIA,2015
+62,"Sat, Mar 7, 2015",7:30p,,Box Score,,Sacramento Kings,W,OT,114,109,28,34,W 1,19600,2:51,,False,MIA,2015
+63,"Mon, Mar 9, 2015",7:30p,,Box Score,,Boston Celtics,L,,90,100,28,35,L 1,19600,2:24,,False,MIA,2015
+64,"Wed, Mar 11, 2015",7:30p,,Box Score,,Brooklyn Nets,W,,104,98,29,35,W 1,19600,2:34,,False,MIA,2015
+65,"Fri, Mar 13, 2015",7:30p,,Box Score,@,Toronto Raptors,L,,92,102,29,36,L 1,19800,2:24,,False,MIA,2015
+66,"Mon, Mar 16, 2015",8:00p,ESPN,Box Score,,Cleveland Cavaliers,W,,106,92,30,36,W 1,19626,2:17,,False,MIA,2015
+67,"Wed, Mar 18, 2015",7:30p,,Box Score,,Portland Trail Blazers,W,,108,104,31,36,W 2,19621,2:18,,False,MIA,2015
+68,"Fri, Mar 20, 2015",7:30p,,Box Score,,Denver Nuggets,W,,108,91,32,36,W 3,19710,2:15,,False,MIA,2015
+69,"Sun, Mar 22, 2015",3:00p,,Box Score,@,Oklahoma City Thunder,L,,75,93,32,37,L 1,18203,2:08,,False,MIA,2015
+70,"Tue, Mar 24, 2015",8:00p,,Box Score,@,Milwaukee Bucks,L,,88,89,32,38,L 2,12313,2:26,,False,MIA,2015
+71,"Wed, Mar 25, 2015",7:30p,,Box Score,@,Boston Celtics,W,,93,86,33,38,W 1,18624,2:31,,False,MIA,2015
+72,"Fri, Mar 27, 2015",7:30p,,Box Score,@,Atlanta Hawks,L,,86,99,33,39,L 1,19233,2:04,,False,MIA,2015
+73,"Sun, Mar 29, 2015",6:00p,,Box Score,,Detroit Pistons,W,,109,102,34,39,W 1,19685,2:22,,False,MIA,2015
+74,"Tue, Mar 31, 2015",8:00p,TNT,Box Score,,San Antonio Spurs,L,,81,95,34,40,L 1,20047,2:28,,False,MIA,2015
+75,"Thu, Apr 2, 2015",8:00p,TNT,Box Score,@,Cleveland Cavaliers,L,,88,114,34,41,L 2,20562,2:26,,False,MIA,2015
+76,"Sat, Apr 4, 2015",7:30p,,Box Score,@,Detroit Pistons,L,,98,99,34,42,L 3,16133,2:24,,False,MIA,2015
+77,"Sun, Apr 5, 2015",6:00p,,Box Score,@,Indiana Pacers,L,,89,112,34,43,L 4,18165,2:26,,False,MIA,2015
+78,"Tue, Apr 7, 2015",7:30p,,Box Score,,Charlotte Hornets,W,,105,100,35,43,W 1,19694,2:21,,False,MIA,2015
+79,"Thu, Apr 9, 2015",8:00p,TNT,Box Score,,Chicago Bulls,L,,78,89,35,44,L 1,19641,2:13,,False,MIA,2015
+80,"Sat, Apr 11, 2015",7:30p,NBA TV,Box Score,,Toronto Raptors,L,,104,107,35,45,L 2,19689,2:31,,False,MIA,2015
+81,"Mon, Apr 13, 2015",7:30p,,Box Score,,Orlando Magic,W,,100,93,36,45,W 1,19600,2:19,,False,MIA,2015
+82,"Wed, Apr 15, 2015",8:00p,,Box Score,@,Philadelphia 76ers,W,,105,101,37,45,W 2,14476,2:19,,False,MIA,2015

@@ -1,0 +1,83 @@
+G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Opponent,Unnamed: 6,Unnamed: 7,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Fri, Nov 2, 1990",,Box Score,,Golden State Warriors,L,,158,162,0,1,L 1,9838,,,False,DEN,1991
+2,"Sat, Nov 3, 1990",,Box Score,@,Dallas Mavericks,L,,110,140,0,2,L 2,17007,,,False,DEN,1991
+3,"Tue, Nov 6, 1990",,Box Score,@,Houston Rockets,L,,135,145,0,3,L 3,14002,,,False,DEN,1991
+4,"Wed, Nov 7, 1990",,Box Score,@,San Antonio Spurs,L,,153,161,0,4,L 4,15908,,,False,DEN,1991
+5,"Fri, Nov 9, 1990",,Box Score,,Seattle SuperSonics,L,,129,135,0,5,L 5,10571,,,False,DEN,1991
+6,"Sat, Nov 10, 1990",,Box Score,@,Phoenix Suns,L,,143,173,0,6,L 6,14487,,,False,DEN,1991
+7,"Tue, Nov 13, 1990",,Box Score,@,Portland Trail Blazers,L,,129,155,0,7,L 7,12884,,,False,DEN,1991
+8,"Thu, Nov 15, 1990",,Box Score,,Minnesota Timberwolves,W,,121,108,1,7,W 1,6663,,,False,DEN,1991
+9,"Sat, Nov 17, 1990",,Box Score,,Portland Trail Blazers,L,,112,143,1,8,L 1,12356,,,False,DEN,1991
+10,"Mon, Nov 19, 1990",,Box Score,,Los Angeles Lakers,L,,105,122,1,9,L 2,11549,,,False,DEN,1991
+11,"Wed, Nov 21, 1990",,Box Score,@,Los Angeles Lakers,L,,121,141,1,10,L 3,15941,,,False,DEN,1991
+12,"Sat, Nov 24, 1990",,Box Score,,Chicago Bulls,L,,145,151,1,11,L 4,17022,,,False,DEN,1991
+13,"Tue, Nov 27, 1990",,Box Score,,Orlando Magic,W,,124,113,2,11,W 1,6184,,,False,DEN,1991
+14,"Thu, Nov 29, 1990",,Box Score,,Sacramento Kings,W,,136,128,3,11,W 2,6379,,,False,DEN,1991
+15,"Sat, Dec 1, 1990",,Box Score,,Los Angeles Clippers,L,,121,137,3,12,L 1,10036,,,False,DEN,1991
+16,"Tue, Dec 4, 1990",,Box Score,@,Cleveland Cavaliers,L,,117,121,3,13,L 2,13116,,,False,DEN,1991
+17,"Wed, Dec 5, 1990",,Box Score,@,Boston Celtics,L,,140,148,3,14,L 3,14890,2:04,,False,DEN,1991
+18,"Fri, Dec 7, 1990",,Box Score,@,Philadelphia 76ers,L,,126,135,3,15,L 4,15325,,,False,DEN,1991
+19,"Sat, Dec 8, 1990",,Box Score,@,Charlotte Hornets,W,,126,119,4,15,W 1,23901,,,False,DEN,1991
+20,"Tue, Dec 11, 1990",,Box Score,,Washington Bullets,W,,128,125,5,15,W 2,8291,,,False,DEN,1991
+21,"Thu, Dec 13, 1990",,Box Score,@,Utah Jazz,L,,126,141,5,16,L 1,12616,,,False,DEN,1991
+22,"Sat, Dec 15, 1990",,Box Score,,Phoenix Suns,L,,134,142,5,17,L 2,13696,,,False,DEN,1991
+23,"Wed, Dec 19, 1990",,Box Score,@,San Antonio Spurs,L,,109,144,5,18,L 3,15909,,,False,DEN,1991
+24,"Sat, Dec 22, 1990",,Box Score,,Dallas Mavericks,L,,110,119,5,19,L 4,8595,,,False,DEN,1991
+25,"Sun, Dec 23, 1990",,Box Score,@,Portland Trail Blazers,L,,101,132,5,20,L 5,12884,,,False,DEN,1991
+26,"Wed, Dec 26, 1990",,Box Score,@,Sacramento Kings,W,,128,112,6,20,W 1,17014,,,False,DEN,1991
+27,"Thu, Dec 27, 1990",,Box Score,,Miami Heat,L,,114,124,6,21,L 1,8878,,,False,DEN,1991
+28,"Sat, Dec 29, 1990",,Box Score,@,Washington Bullets,L,,133,161,6,22,L 2,18758,,,False,DEN,1991
+29,"Sun, Dec 30, 1990",,Box Score,@,Orlando Magic,L,,116,155,6,23,L 3,15077,,,False,DEN,1991
+30,"Wed, Jan 2, 1991",,Box Score,@,Detroit Pistons,L,,107,118,6,24,L 4,21454,,,False,DEN,1991
+31,"Thu, Jan 3, 1991",,Box Score,@,New York Knicks,L,,108,135,6,25,L 5,15440,,,False,DEN,1991
+32,"Sat, Jan 5, 1991",,Box Score,,Philadelphia 76ers,L,,104,120,6,26,L 6,14742,,,False,DEN,1991
+33,"Tue, Jan 8, 1991",,Box Score,@,Golden State Warriors,L,,125,147,6,27,L 7,15025,,,False,DEN,1991
+34,"Thu, Jan 10, 1991",,Box Score,,Houston Rockets,L,,133,156,6,28,L 8,7087,,,False,DEN,1991
+35,"Sat, Jan 12, 1991",,Box Score,,Cleveland Cavaliers,W,,128,120,7,28,W 1,10327,,,False,DEN,1991
+36,"Tue, Jan 15, 1991",,Box Score,@,Seattle SuperSonics,L,,99,146,7,29,L 1,9618,,,False,DEN,1991
+37,"Wed, Jan 16, 1991",,Box Score,,Charlotte Hornets,W,,111,104,8,29,W 1,11275,,,False,DEN,1991
+38,"Sat, Jan 19, 1991",,Box Score,,San Antonio Spurs,L,,108,117,8,30,L 1,13851,,,False,DEN,1991
+39,"Mon, Jan 21, 1991",,Box Score,,Minnesota Timberwolves,W,,115,110,9,30,W 1,7292,,,False,DEN,1991
+40,"Thu, Jan 24, 1991",,Box Score,,New York Knicks,W,,120,117,10,30,W 2,10144,,,False,DEN,1991
+41,"Sat, Jan 26, 1991",,Box Score,,Utah Jazz,W,,120,115,11,30,W 3,10935,,,False,DEN,1991
+42,"Tue, Jan 29, 1991",,Box Score,@,Milwaukee Bucks,W,,126,122,12,30,W 4,15993,,,False,DEN,1991
+43,"Thu, Jan 31, 1991",,Box Score,,New Jersey Nets,W,,123,119,13,30,W 5,9087,,,False,DEN,1991
+44,"Sat, Feb 2, 1991",,Box Score,,Atlanta Hawks,W,,126,125,14,30,W 6,14683,,,False,DEN,1991
+45,"Tue, Feb 5, 1991",,Box Score,@,Phoenix Suns,L,,103,126,14,31,L 1,14487,,,False,DEN,1991
+46,"Tue, Feb 12, 1991",,Box Score,@,Orlando Magic,L,,122,129,14,32,L 2,15077,,,False,DEN,1991
+47,"Thu, Feb 14, 1991",,Box Score,@,Miami Heat,L,,112,141,14,33,L 3,15008,,,False,DEN,1991
+48,"Fri, Feb 15, 1991",,Box Score,@,New Jersey Nets,L,,110,138,14,34,L 4,11335,,,False,DEN,1991
+49,"Sun, Feb 17, 1991",,Box Score,,Boston Celtics,L,,108,126,14,35,L 5,17022,1:57,,False,DEN,1991
+50,"Mon, Feb 18, 1991",,Box Score,@,Minnesota Timberwolves,L,,114,128,14,36,L 6,19006,,,False,DEN,1991
+51,"Thu, Feb 21, 1991",,Box Score,,Portland Trail Blazers,L,,111,122,14,37,L 7,9757,,,False,DEN,1991
+52,"Sat, Feb 23, 1991",,Box Score,,Golden State Warriors,W,,150,145,15,37,W 1,14519,,,False,DEN,1991
+53,"Sun, Feb 24, 1991",,Box Score,@,Los Angeles Clippers,L,,112,129,15,38,L 1,13280,,,False,DEN,1991
+54,"Tue, Feb 26, 1991",,Box Score,,Houston Rockets,L,,99,129,15,39,L 2,7969,,,False,DEN,1991
+55,"Thu, Feb 28, 1991",,Box Score,,Los Angeles Lakers,L,,108,121,15,40,L 3,13962,,,False,DEN,1991
+56,"Sat, Mar 2, 1991",,Box Score,,Orlando Magic,W,,126,111,16,40,W 1,7519,,,False,DEN,1991
+57,"Tue, Mar 5, 1991",,Box Score,@,Atlanta Hawks,L,,127,139,16,41,L 1,13500,,,False,DEN,1991
+58,"Thu, Mar 7, 1991",,Box Score,@,Indiana Pacers,L,,125,145,16,42,L 2,9598,,,False,DEN,1991
+59,"Fri, Mar 8, 1991",,Box Score,@,Orlando Magic,L,,113,129,16,43,L 3,15077,,,False,DEN,1991
+60,"Sun, Mar 10, 1991",,Box Score,,Dallas Mavericks,W,,124,110,17,43,W 1,11520,,,False,DEN,1991
+61,"Tue, Mar 12, 1991",,Box Score,,Los Angeles Clippers,L,OT,123,126,17,44,L 1,7424,,,False,DEN,1991
+62,"Thu, Mar 14, 1991",,Box Score,,Minnesota Timberwolves,W,,112,105,18,44,W 1,7308,,,False,DEN,1991
+63,"Fri, Mar 15, 1991",,Box Score,@,Los Angeles Lakers,L,,117,127,18,45,L 1,17506,,,False,DEN,1991
+64,"Sun, Mar 17, 1991",,Box Score,,Indiana Pacers,L,,92,130,18,46,L 2,10027,,,False,DEN,1991
+65,"Mon, Mar 18, 1991",,Box Score,@,Chicago Bulls,L,,108,121,18,47,L 3,18163,,,False,DEN,1991
+66,"Wed, Mar 20, 1991",,Box Score,,Utah Jazz,L,,98,106,18,48,L 4,10631,,,False,DEN,1991
+67,"Thu, Mar 21, 1991",,Box Score,@,Golden State Warriors,L,,116,136,18,49,L 5,15025,,,False,DEN,1991
+68,"Sat, Mar 23, 1991",,Box Score,,Milwaukee Bucks,L,OT,136,140,18,50,L 6,10750,,,False,DEN,1991
+69,"Mon, Mar 25, 1991",,Box Score,,Detroit Pistons,L,,94,118,18,51,L 7,13553,,,False,DEN,1991
+70,"Fri, Mar 29, 1991",,Box Score,,Sacramento Kings,W,,140,122,19,51,W 1,9554,,,False,DEN,1991
+71,"Sat, Mar 30, 1991",,Box Score,@,San Antonio Spurs,L,,116,130,19,52,L 1,15908,,,False,DEN,1991
+72,"Tue, Apr 2, 1991",,Box Score,@,Dallas Mavericks,L,,126,133,19,53,L 2,16105,,,False,DEN,1991
+73,"Thu, Apr 4, 1991",,Box Score,@,Minnesota Timberwolves,L,,122,134,19,54,L 3,19006,,,False,DEN,1991
+74,"Fri, Apr 5, 1991",,Box Score,,Houston Rockets,L,,120,126,19,55,L 4,12434,,,False,DEN,1991
+75,"Sun, Apr 7, 1991",,Box Score,,Seattle SuperSonics,L,,117,124,19,56,L 5,13779,,,False,DEN,1991
+76,"Mon, Apr 8, 1991",,Box Score,@,Seattle SuperSonics,L,,112,118,19,57,L 6,12811,,,False,DEN,1991
+77,"Fri, Apr 12, 1991",,Box Score,@,Los Angeles Clippers,L,,130,146,19,58,L 7,13455,,,False,DEN,1991
+78,"Sat, Apr 13, 1991",,Box Score,@,Utah Jazz,L,,110,121,19,59,L 8,12616,,,False,DEN,1991
+79,"Tue, Apr 16, 1991",,Box Score,,Phoenix Suns,L,,118,153,19,60,L 9,8298,,,False,DEN,1991
+80,"Thu, Apr 18, 1991",,Box Score,@,Sacramento Kings,L,,104,123,19,61,L 10,17014,,,False,DEN,1991
+81,"Fri, Apr 19, 1991",,Box Score,,San Antonio Spurs,W,,125,122,20,61,W 1,12596,,,False,DEN,1991
+82,"Sun, Apr 21, 1991",,Box Score,@,Houston Rockets,L,,125,131,20,62,L 1,16611,,,False,DEN,1991

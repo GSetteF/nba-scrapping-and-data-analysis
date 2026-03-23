@@ -1,0 +1,83 @@
+G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Opponent,Unnamed: 6,Unnamed: 7,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Fri, Oct 30, 1981",,Box Score,,Milwaukee Bucks,W,,118,113,1,0,W 1,9182,,,False,DET,1982
+2,"Sat, Oct 31, 1981",,Box Score,@,Chicago Bulls,W,,119,106,2,0,W 2,18633,,,False,DET,1982
+3,"Thu, Nov 5, 1981",,Box Score,,New Jersey Nets,W,,109,103,3,0,W 3,5116,,,False,DET,1982
+4,"Fri, Nov 6, 1981",,Box Score,@,Washington Bullets,L,,82,86,3,1,L 1,6817,,,False,DET,1982
+5,"Sat, Nov 7, 1981",,Box Score,,Boston Celtics,L,,88,129,3,2,L 2,15035,2:09,,False,DET,1982
+6,"Tue, Nov 10, 1981",,Box Score,,Philadelphia 76ers,L,,93,95,3,3,L 3,10314,1:58,,False,DET,1982
+7,"Thu, Nov 12, 1981",,Box Score,,Cleveland Cavaliers,W,,130,99,4,3,W 1,3586,,,False,DET,1982
+8,"Sat, Nov 14, 1981",,Box Score,@,Atlanta Hawks,W,,117,104,5,3,W 2,8208,,,False,DET,1982
+9,"Wed, Nov 18, 1981",,Box Score,@,Cleveland Cavaliers,L,,103,110,5,4,L 1,4957,,,False,DET,1982
+10,"Thu, Nov 19, 1981",,Box Score,,Washington Bullets,W,,122,97,6,4,W 1,3691,,,False,DET,1982
+11,"Sat, Nov 21, 1981",,Box Score,,Utah Jazz,W,,95,86,7,4,W 2,11103,,,False,DET,1982
+12,"Tue, Nov 24, 1981",,Box Score,@,Milwaukee Bucks,L,,95,103,7,5,L 1,10275,,,False,DET,1982
+13,"Wed, Nov 25, 1981",,Box Score,@,Kansas City Kings,W,OT,129,122,8,5,W 1,8824,,,False,DET,1982
+14,"Fri, Nov 27, 1981",,Box Score,,Atlanta Hawks,L,OT,112,114,8,6,L 1,20128,,,False,DET,1982
+15,"Sat, Nov 28, 1981",,Box Score,@,Philadelphia 76ers,L,,103,116,8,7,L 2,18026,2:04,,False,DET,1982
+16,"Tue, Dec 1, 1981",,Box Score,@,New York Knicks,L,,100,112,8,8,L 3,9578,,,False,DET,1982
+17,"Wed, Dec 2, 1981",,Box Score,@,Boston Celtics,L,,114,115,8,9,L 4,15320,2:10,,False,DET,1982
+18,"Fri, Dec 4, 1981",,Box Score,@,Indiana Pacers,L,,95,105,8,10,L 5,15410,,,False,DET,1982
+19,"Sat, Dec 5, 1981",,Box Score,,Milwaukee Bucks,L,,108,111,8,11,L 6,15289,,,False,DET,1982
+20,"Thu, Dec 10, 1981",,Box Score,,New York Knicks,L,OT,101,106,8,12,L 7,5084,,,False,DET,1982
+21,"Sat, Dec 12, 1981",,Box Score,@,Seattle SuperSonics,L,,111,117,8,13,L 8,13880,,,False,DET,1982
+22,"Sun, Dec 13, 1981",,Box Score,@,Portland Trail Blazers,L,,99,105,8,14,L 9,12666,,,False,DET,1982
+23,"Tue, Dec 15, 1981",,Box Score,@,Golden State Warriors,W,,108,104,9,14,W 1,6568,,,False,DET,1982
+24,"Thu, Dec 17, 1981",,Box Score,,Indiana Pacers,L,,96,100,9,15,L 1,3542,,,False,DET,1982
+25,"Sat, Dec 19, 1981",,Box Score,,New York Knicks,W,,132,104,10,15,W 1,5679,,,False,DET,1982
+26,"Tue, Dec 22, 1981",,Box Score,@,Dallas Mavericks,W,,106,98,11,15,W 2,7978,,,False,DET,1982
+27,"Wed, Dec 23, 1981",,Box Score,@,Denver Nuggets,W,,124,119,12,15,W 3,11340,,,False,DET,1982
+28,"Sat, Dec 26, 1981",,Box Score,,Chicago Bulls,W,,96,94,13,15,W 4,10092,,,False,DET,1982
+29,"Tue, Dec 29, 1981",,Box Score,@,Washington Bullets,L,,125,129,13,16,L 1,8843,,,False,DET,1982
+30,"Wed, Dec 30, 1981",,Box Score,@,New Jersey Nets,L,,119,130,13,17,L 2,14981,,,False,DET,1982
+31,"Sat, Jan 2, 1982",,Box Score,@,New York Knicks,L,,108,121,13,18,L 3,10134,,,False,DET,1982
+32,"Tue, Jan 5, 1982",,Box Score,,Philadelphia 76ers,W,,124,101,14,18,W 1,9282,1:58,,False,DET,1982
+33,"Thu, Jan 7, 1982",,Box Score,,Phoenix Suns,L,,94,110,14,19,L 1,5290,,,False,DET,1982
+34,"Sat, Jan 9, 1982",,Box Score,,Los Angeles Lakers,L,,127,130,14,20,L 2,21045,,,False,DET,1982
+35,"Sun, Jan 10, 1982",,Box Score,@,Boston Celtics,L,,124,134,14,21,L 3,15429,2:01,"at Hartford, CT",False,DET,1982
+36,"Tue, Jan 12, 1982",,Box Score,@,Chicago Bulls,W,,122,111,15,21,W 1,9612,,,False,DET,1982
+37,"Thu, Jan 14, 1982",,Box Score,,Washington Bullets,L,,114,121,15,22,L 1,4186,,,False,DET,1982
+38,"Sat, Jan 16, 1982",,Box Score,,Boston Celtics,L,,120,128,15,23,L 2,20140,2:08,,False,DET,1982
+39,"Sun, Jan 17, 1982",,Box Score,@,Milwaukee Bucks,W,,108,103,16,23,W 1,11052,,,False,DET,1982
+40,"Tue, Jan 19, 1982",,Box Score,@,Utah Jazz,L,,117,123,16,24,L 1,10194,,,False,DET,1982
+41,"Thu, Jan 21, 1982",,Box Score,@,San Diego Clippers,W,,120,110,17,24,W 1,6074,,,False,DET,1982
+42,"Fri, Jan 22, 1982",,Box Score,@,Los Angeles Lakers,L,,111,123,17,25,L 1,14955,,,False,DET,1982
+43,"Sat, Jan 23, 1982",,Box Score,@,Phoenix Suns,L,,90,113,17,26,L 2,13518,,,False,DET,1982
+44,"Wed, Jan 27, 1982",,Box Score,,Atlanta Hawks,W,,108,107,18,26,W 1,4143,,,False,DET,1982
+45,"Tue, Feb 2, 1982",,Box Score,@,Atlanta Hawks,W,,106,105,19,26,W 2,6016,,,False,DET,1982
+46,"Fri, Feb 5, 1982",,Box Score,@,Chicago Bulls,W,,110,103,20,26,W 3,14126,2:03,,False,DET,1982
+47,"Sat, Feb 6, 1982",,Box Score,,New Jersey Nets,L,,120,125,20,27,L 1,12080,,,False,DET,1982
+48,"Tue, Feb 9, 1982",,Box Score,,Chicago Bulls,W,OT,128,123,21,27,W 1,3270,,,False,DET,1982
+49,"Wed, Feb 10, 1982",,Box Score,@,New Jersey Nets,L,,108,115,21,28,L 1,14013,,,False,DET,1982
+50,"Thu, Feb 11, 1982",,Box Score,,Cleveland Cavaliers,W,,123,113,22,28,W 1,3205,,,False,DET,1982
+51,"Sat, Feb 13, 1982",,Box Score,,Portland Trail Blazers,L,,120,128,22,29,L 1,14199,,,False,DET,1982
+52,"Tue, Feb 16, 1982",,Box Score,,Houston Rockets,W,,111,109,23,29,W 1,5370,,,False,DET,1982
+53,"Wed, Feb 17, 1982",,Box Score,@,San Antonio Spurs,L,,112,126,23,30,L 1,8736,,,False,DET,1982
+54,"Sat, Feb 20, 1982",,Box Score,,Indiana Pacers,W,,115,100,24,30,W 1,14484,,,False,DET,1982
+55,"Thu, Feb 25, 1982",,Box Score,,San Antonio Spurs,L,,116,119,24,31,L 1,11368,,,False,DET,1982
+56,"Sat, Feb 27, 1982",,Box Score,,Kansas City Kings,W,OT,127,119,25,31,W 1,25012,,,False,DET,1982
+57,"Sun, Feb 28, 1982",,Box Score,@,Indiana Pacers,L,,101,112,25,32,L 1,11835,,,False,DET,1982
+58,"Tue, Mar 2, 1982",,Box Score,@,Milwaukee Bucks,L,,91,101,25,33,L 2,11052,,,False,DET,1982
+59,"Thu, Mar 4, 1982",,Box Score,,Chicago Bulls,W,,122,97,26,33,W 1,3439,,,False,DET,1982
+60,"Sat, Mar 6, 1982",,Box Score,@,New York Knicks,W,,115,111,27,33,W 2,14577,,,False,DET,1982
+61,"Mon, Mar 8, 1982",,Box Score,,Boston Celtics,L,,101,111,27,34,L 1,11179,2:09,,False,DET,1982
+62,"Wed, Mar 10, 1982",,Box Score,,Denver Nuggets,L,,113,124,27,35,L 2,4162,,,False,DET,1982
+63,"Fri, Mar 12, 1982",,Box Score,,Golden State Warriors,W,,121,117,28,35,W 1,13204,,,False,DET,1982
+64,"Sun, Mar 14, 1982",,Box Score,@,Cleveland Cavaliers,W,,109,103,29,35,W 2,6120,,,False,DET,1982
+65,"Tue, Mar 16, 1982",,Box Score,,San Diego Clippers,W,,114,110,30,35,W 3,4185,,,False,DET,1982
+66,"Thu, Mar 18, 1982",,Box Score,,Seattle SuperSonics,W,,119,115,31,35,W 4,10315,,,False,DET,1982
+67,"Fri, Mar 19, 1982",,Box Score,@,Houston Rockets,W,,111,102,32,35,W 5,12562,,,False,DET,1982
+68,"Sun, Mar 21, 1982",,Box Score,@,Atlanta Hawks,L,,111,119,32,36,L 1,10106,2:04,,False,DET,1982
+69,"Thu, Mar 25, 1982",,Box Score,,Philadelphia 76ers,W,,100,98,33,36,W 1,21114,2:03,,False,DET,1982
+70,"Fri, Mar 26, 1982",,Box Score,@,Boston Celtics,L,,104,125,33,37,L 1,15320,2:00,,False,DET,1982
+71,"Sat, Mar 27, 1982",,Box Score,@,New Jersey Nets,W,,123,121,34,37,W 1,14230,,,False,DET,1982
+72,"Tue, Mar 30, 1982",,Box Score,@,Washington Bullets,L,,98,127,34,38,L 1,8671,,,False,DET,1982
+73,"Wed, Mar 31, 1982",,Box Score,@,Indiana Pacers,L,,106,108,34,39,L 2,8934,,,False,DET,1982
+74,"Thu, Apr 1, 1982",,Box Score,,Dallas Mavericks,L,,120,121,34,40,L 3,8162,,,False,DET,1982
+75,"Sat, Apr 3, 1982",,Box Score,,Indiana Pacers,W,,105,102,35,40,W 1,13045,,,False,DET,1982
+76,"Wed, Apr 7, 1982",,Box Score,,Atlanta Hawks,W,,120,115,36,40,W 2,8177,,,False,DET,1982
+77,"Fri, Apr 9, 1982",,Box Score,,Milwaukee Bucks,L,,100,118,36,41,L 1,15047,,,False,DET,1982
+78,"Sun, Apr 11, 1982",,Box Score,,New York Knicks,W,,97,89,37,41,W 1,4585,,,False,DET,1982
+79,"Wed, Apr 14, 1982",,Box Score,@,Philadelphia 76ers,L,,111,119,37,42,L 1,11364,2:29,,False,DET,1982
+80,"Thu, Apr 15, 1982",,Box Score,,Cleveland Cavaliers,W,,120,110,38,42,W 1,4418,,,False,DET,1982
+81,"Sat, Apr 17, 1982",,Box Score,,New Jersey Nets,L,,132,147,38,43,L 1,14293,,,False,DET,1982
+82,"Sun, Apr 18, 1982",,Box Score,@,Cleveland Cavaliers,W,OT,116,113,39,43,W 1,5580,,,False,DET,1982

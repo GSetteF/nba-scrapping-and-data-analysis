@@ -1,0 +1,83 @@
+G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Opponent,Unnamed: 6,Unnamed: 7,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Fri, Oct 28, 1983",,Box Score,,New York Knicks,L,,106,113,0,1,L 1,6082,,,False,CLE,1984
+2,"Sat, Oct 29, 1983",,Box Score,,Boston Celtics,L,,89,108,0,2,L 2,8194,1:57,,False,CLE,1984
+3,"Tue, Nov 1, 1983",,Box Score,@,New Jersey Nets,L,,113,125,0,3,L 3,9178,,,False,CLE,1984
+4,"Wed, Nov 2, 1983",,Box Score,,Houston Rockets,W,,103,94,1,3,W 1,11155,,,False,CLE,1984
+5,"Fri, Nov 4, 1983",,Box Score,,Dallas Mavericks,W,,105,84,2,3,W 2,3426,,,False,CLE,1984
+6,"Sat, Nov 5, 1983",,Box Score,@,Indiana Pacers,L,,87,99,2,4,L 1,7115,,,False,CLE,1984
+7,"Wed, Nov 9, 1983",,Box Score,@,Seattle SuperSonics,L,,101,113,2,5,L 2,7189,,,False,CLE,1984
+8,"Thu, Nov 10, 1983",,Box Score,@,Portland Trail Blazers,L,,110,115,2,6,L 3,12666,,,False,CLE,1984
+9,"Sat, Nov 12, 1983",,Box Score,@,Golden State Warriors,L,,102,109,2,7,L 4,6770,,,False,CLE,1984
+10,"Wed, Nov 16, 1983",,Box Score,@,Phoenix Suns,L,,104,115,2,8,L 5,8200,,,False,CLE,1984
+11,"Thu, Nov 17, 1983",,Box Score,@,Los Angeles Lakers,L,,114,127,2,9,L 6,11467,,,False,CLE,1984
+12,"Sun, Nov 20, 1983",,Box Score,@,San Diego Clippers,L,,97,99,2,10,L 7,4056,,,False,CLE,1984
+13,"Wed, Nov 23, 1983",,Box Score,,Washington Bullets,W,,107,98,3,10,W 1,3245,,,False,CLE,1984
+14,"Sat, Nov 26, 1983",,Box Score,@,New York Knicks,L,,84,96,3,11,L 1,9621,,,False,CLE,1984
+15,"Sun, Nov 27, 1983",,Box Score,,San Antonio Spurs,W,,114,106,4,11,W 1,3782,,,False,CLE,1984
+16,"Tue, Nov 29, 1983",,Box Score,@,Detroit Pistons,L,,93,103,4,12,L 1,6259,,,False,CLE,1984
+17,"Wed, Nov 30, 1983",,Box Score,,Portland Trail Blazers,W,,112,105,5,12,W 1,2598,,,False,CLE,1984
+18,"Fri, Dec 2, 1983",,Box Score,,Indiana Pacers,W,,108,99,6,12,W 2,3246,,,False,CLE,1984
+19,"Sat, Dec 3, 1983",,Box Score,@,Atlanta Hawks,L,,91,102,6,13,L 1,,,,False,CLE,1984
+20,"Tue, Dec 6, 1983",,Box Score,@,New Jersey Nets,L,,105,114,6,14,L 2,9085,,,False,CLE,1984
+21,"Wed, Dec 7, 1983",,Box Score,,Atlanta Hawks,W,,106,92,7,14,W 1,2589,,,False,CLE,1984
+22,"Fri, Dec 9, 1983",,Box Score,,Milwaukee Bucks,L,,83,96,7,15,L 1,3487,,,False,CLE,1984
+23,"Sat, Dec 10, 1983",,Box Score,@,Chicago Bulls,W,,101,95,8,15,W 1,3849,,,False,CLE,1984
+24,"Tue, Dec 13, 1983",,Box Score,,Utah Jazz,L,,105,107,8,16,L 1,2525,,,False,CLE,1984
+25,"Wed, Dec 14, 1983",,Box Score,@,Boston Celtics,L,,108,110,8,17,L 2,14890,2:08,,False,CLE,1984
+26,"Fri, Dec 16, 1983",,Box Score,@,Philadelphia 76ers,L,,105,115,8,18,L 3,12452,1:59,,False,CLE,1984
+27,"Sat, Dec 17, 1983",,Box Score,@,Washington Bullets,L,,95,119,8,19,L 4,6207,,,False,CLE,1984
+28,"Wed, Dec 21, 1983",,Box Score,,Detroit Pistons,L,,112,119,8,20,L 5,2529,,,False,CLE,1984
+29,"Fri, Dec 23, 1983",,Box Score,,Milwaukee Bucks,L,,83,89,8,21,L 6,4245,,,False,CLE,1984
+30,"Thu, Dec 29, 1983",,Box Score,,Atlanta Hawks,W,,88,77,9,21,W 1,3822,,,False,CLE,1984
+31,"Fri, Dec 30, 1983",,Box Score,@,Atlanta Hawks,L,,98,109,9,22,L 1,5201,,,False,CLE,1984
+32,"Tue, Jan 3, 1984",,Box Score,@,Milwaukee Bucks,L,,92,104,9,23,L 2,8910,,,False,CLE,1984
+33,"Wed, Jan 4, 1984",,Box Score,,Los Angeles Lakers,L,,99,106,9,24,L 3,8027,,,False,CLE,1984
+34,"Fri, Jan 6, 1984",,Box Score,@,Boston Celtics,L,,97,115,9,25,L 4,14890,1:58,,False,CLE,1984
+35,"Sat, Jan 7, 1984",,Box Score,,Philadelphia 76ers,W,,106,98,10,25,W 1,13625,2:13,,False,CLE,1984
+36,"Tue, Jan 10, 1984",,Box Score,@,Milwaukee Bucks,W,,116,104,11,25,W 2,8874,,,False,CLE,1984
+37,"Sat, Jan 14, 1984",,Box Score,,Detroit Pistons,L,OT,131,132,11,26,L 1,7625,,,False,CLE,1984
+38,"Tue, Jan 17, 1984",,Box Score,@,Chicago Bulls,W,,105,103,12,26,W 1,3877,,,False,CLE,1984
+39,"Wed, Jan 18, 1984",,Box Score,,Philadelphia 76ers,L,,107,109,12,27,L 1,7444,2:13,,False,CLE,1984
+40,"Fri, Jan 20, 1984",,Box Score,@,Philadelphia 76ers,L,,106,109,12,28,L 2,14071,2:14,,False,CLE,1984
+41,"Sat, Jan 21, 1984",,Box Score,,Chicago Bulls,L,,94,111,12,29,L 3,3957,,,False,CLE,1984
+42,"Tue, Jan 24, 1984",,Box Score,,Boston Celtics,L,,97,118,12,30,L 4,5830,2:01,,False,CLE,1984
+43,"Tue, Jan 31, 1984",,Box Score,,Detroit Pistons,W,OT,114,112,13,30,W 1,3548,,,False,CLE,1984
+44,"Fri, Feb 3, 1984",,Box Score,,Chicago Bulls,W,,106,76,14,30,W 2,3438,,,False,CLE,1984
+45,"Sat, Feb 4, 1984",,Box Score,,San Diego Clippers,W,,108,100,15,30,W 3,4278,,,False,CLE,1984
+46,"Tue, Feb 7, 1984",,Box Score,@,Detroit Pistons,L,,99,130,15,31,L 1,8332,,,False,CLE,1984
+47,"Wed, Feb 8, 1984",,Box Score,,Golden State Warriors,W,,119,108,16,31,W 1,2675,,,False,CLE,1984
+48,"Fri, Feb 10, 1984",,Box Score,,Seattle SuperSonics,W,,95,90,17,31,W 2,3543,,,False,CLE,1984
+49,"Sat, Feb 11, 1984",,Box Score,@,Indiana Pacers,W,,86,83,18,31,W 3,10618,,,False,CLE,1984
+50,"Tue, Feb 14, 1984",,Box Score,,New Jersey Nets,W,,103,93,19,31,W 4,3052,,,False,CLE,1984
+51,"Wed, Feb 15, 1984",,Box Score,,Phoenix Suns,W,,104,90,20,31,W 5,4096,,,False,CLE,1984
+52,"Sat, Feb 18, 1984",,Box Score,,Indiana Pacers,L,,93,118,20,32,L 1,10105,,,False,CLE,1984
+53,"Tue, Feb 21, 1984",,Box Score,@,Atlanta Hawks,L,,84,102,20,33,L 2,4940,,,False,CLE,1984
+54,"Thu, Feb 23, 1984",,Box Score,,Philadelphia 76ers,W,OT,116,109,21,33,W 1,14517,2:31,,False,CLE,1984
+55,"Sat, Feb 25, 1984",,Box Score,,Washington Bullets,W,,94,83,22,33,W 2,5183,,,False,CLE,1984
+56,"Sun, Feb 26, 1984",,Box Score,@,Detroit Pistons,L,,109,121,22,34,L 1,8560,,,False,CLE,1984
+57,"Tue, Feb 28, 1984",,Box Score,@,Kansas City Kings,L,2OT,137,142,22,35,L 2,11220,,,False,CLE,1984
+58,"Thu, Mar 1, 1984",,Box Score,@,Denver Nuggets,L,,113,119,22,36,L 3,10033,,,False,CLE,1984
+59,"Fri, Mar 2, 1984",,Box Score,@,Utah Jazz,L,,104,110,22,37,L 4,10495,,,False,CLE,1984
+60,"Tue, Mar 6, 1984",,Box Score,@,San Antonio Spurs,L,,122,129,22,38,L 5,5833,,,False,CLE,1984
+61,"Wed, Mar 7, 1984",,Box Score,@,Dallas Mavericks,L,,103,115,22,39,L 6,11558,,,False,CLE,1984
+62,"Sun, Mar 11, 1984",,Box Score,@,Houston Rockets,L,,101,108,22,40,L 7,7912,,,False,CLE,1984
+63,"Tue, Mar 13, 1984",,Box Score,,Atlanta Hawks,W,,92,83,23,40,W 1,3103,,,False,CLE,1984
+64,"Thu, Mar 15, 1984",,Box Score,@,New York Knicks,L,,82,105,23,41,L 1,7922,,,False,CLE,1984
+65,"Fri, Mar 16, 1984",,Box Score,,Denver Nuggets,L,,102,118,23,42,L 2,4682,,,False,CLE,1984
+66,"Sun, Mar 18, 1984",,Box Score,,Kansas City Kings,L,,97,108,23,43,L 3,2796,,,False,CLE,1984
+67,"Tue, Mar 20, 1984",,Box Score,@,Chicago Bulls,L,OT,104,108,23,44,L 4,3518,,,False,CLE,1984
+68,"Wed, Mar 21, 1984",,Box Score,,New York Knicks,W,,100,99,24,44,W 1,3552,,,False,CLE,1984
+69,"Fri, Mar 23, 1984",,Box Score,@,Philadelphia 76ers,L,,95,100,24,45,L 1,11402,2:07,,False,CLE,1984
+70,"Sun, Mar 25, 1984",,Box Score,,Washington Bullets,W,,101,96,25,45,W 1,3370,,,False,CLE,1984
+71,"Tue, Mar 27, 1984",,Box Score,,New Jersey Nets,W,,106,103,26,45,W 2,3638,,,False,CLE,1984
+72,"Wed, Mar 28, 1984",,Box Score,@,Milwaukee Bucks,L,,98,130,26,46,L 1,9187,,,False,CLE,1984
+73,"Fri, Mar 30, 1984",,Box Score,@,Indiana Pacers,L,,87,90,26,47,L 2,7530,,,False,CLE,1984
+74,"Sat, Mar 31, 1984",,Box Score,,Indiana Pacers,L,OT,119,120,26,48,L 3,6598,,,False,CLE,1984
+75,"Tue, Apr 3, 1984",,Box Score,,Boston Celtics,L,,86,98,26,49,L 4,7094,1:57,,False,CLE,1984
+76,"Thu, Apr 5, 1984",,Box Score,,Chicago Bulls,W,,114,99,27,49,W 1,2804,,,False,CLE,1984
+77,"Fri, Apr 6, 1984",,Box Score,@,Boston Celtics,L,,94,113,27,50,L 1,14890,1:50,,False,CLE,1984
+78,"Sun, Apr 8, 1984",,Box Score,@,New Jersey Nets,L,,97,124,27,51,L 2,12252,,,False,CLE,1984
+79,"Mon, Apr 9, 1984",,Box Score,@,New York Knicks,L,,113,118,27,52,L 3,8242,,,False,CLE,1984
+80,"Wed, Apr 11, 1984",,Box Score,,Milwaukee Bucks,L,,95,108,27,53,L 4,3412,,,False,CLE,1984
+81,"Fri, Apr 13, 1984",,Box Score,,New York Knicks,L,,98,107,27,54,L 5,5177,,,False,CLE,1984
+82,"Sat, Apr 14, 1984",,Box Score,@,Washington Bullets,W,,117,109,28,54,W 1,8033,,,False,CLE,1984

@@ -1,0 +1,83 @@
+G,Date,Start (ET),Unnamed: 3,Unnamed: 4,Unnamed: 5,Opponent,Unnamed: 7,Unnamed: 8,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Fri, Oct 31, 1986",7:55p,,Box Score,@,New Jersey Nets,L,,97,108,0,1,L 1,17684,2:18,,False,NYK,1987
+2,"Sat, Nov 1, 1986",,,Box Score,,Chicago Bulls,L,,103,108,0,2,L 2,19325,,,False,NYK,1987
+3,"Mon, Nov 3, 1986",,,Box Score,@,Golden State Warriors,L,,95,104,0,3,L 3,9016,,,False,NYK,1987
+4,"Tue, Nov 4, 1986",,,Box Score,@,Denver Nuggets,L,,103,118,0,4,L 4,11383,,,False,NYK,1987
+5,"Thu, Nov 6, 1986",,,Box Score,@,Sacramento Kings,W,,106,95,1,4,W 1,10333,,,False,NYK,1987
+6,"Sat, Nov 8, 1986",,,Box Score,@,Seattle SuperSonics,L,,102,105,1,5,L 1,9280,,,False,NYK,1987
+7,"Sun, Nov 9, 1986",,,Box Score,@,Los Angeles Lakers,L,,88,111,1,6,L 2,17505,,,False,NYK,1987
+8,"Tue, Nov 11, 1986",,,Box Score,,Phoenix Suns,W,,111,105,2,6,W 1,10987,,,False,NYK,1987
+9,"Fri, Nov 14, 1986",,,Box Score,@,Milwaukee Bucks,L,,103,106,2,7,L 1,11052,,,False,NYK,1987
+10,"Sat, Nov 15, 1986",,,Box Score,,Washington Bullets,W,,104,97,3,7,W 1,14386,,,False,NYK,1987
+11,"Wed, Nov 19, 1986",,,Box Score,@,Philadelphia 76ers,L,,94,98,3,8,L 1,12468,,,False,NYK,1987
+12,"Fri, Nov 21, 1986",,,Box Score,@,Chicago Bulls,L,,99,101,3,9,L 2,14328,,,False,NYK,1987
+13,"Sat, Nov 22, 1986",,,Box Score,,Golden State Warriors,L,,93,97,3,10,L 3,12688,,,False,NYK,1987
+14,"Tue, Nov 25, 1986",,,Box Score,,Houston Rockets,W,,102,93,4,10,W 1,15243,,,False,NYK,1987
+15,"Wed, Nov 26, 1986",,,Box Score,@,Boston Celtics,L,,90,101,4,11,L 1,14890,1:55,,False,NYK,1987
+16,"Sat, Nov 29, 1986",,,Box Score,,Cleveland Cavaliers,L,,88,90,4,12,L 2,14884,,,False,NYK,1987
+17,"Tue, Dec 2, 1986",,,Box Score,@,Phoenix Suns,L,,100,124,4,13,L 3,10284,,,False,NYK,1987
+18,"Thu, Dec 4, 1986",,,Box Score,@,Los Angeles Clippers,W,,95,91,5,13,W 1,6316,,,False,NYK,1987
+19,"Fri, Dec 5, 1986",,,Box Score,@,Utah Jazz,L,,96,123,5,14,L 1,12212,,,False,NYK,1987
+20,"Sun, Dec 7, 1986",,,Box Score,@,Portland Trail Blazers,L,OT,104,107,5,15,L 2,12666,,,False,NYK,1987
+21,"Tue, Dec 9, 1986",,,Box Score,,Los Angeles Lakers,L,,87,113,5,16,L 3,19320,,,False,NYK,1987
+22,"Wed, Dec 10, 1986",,,Box Score,@,Washington Bullets,L,,105,106,5,17,L 4,13273,,,False,NYK,1987
+23,"Sat, Dec 13, 1986",,,Box Score,,Atlanta Hawks,L,,110,122,5,18,L 5,14425,,,False,NYK,1987
+24,"Tue, Dec 16, 1986",,,Box Score,,Boston Celtics,L,,96,107,5,19,L 6,18694,2:01,,False,NYK,1987
+25,"Thu, Dec 18, 1986",,,Box Score,,New Jersey Nets,L,,93,94,5,20,L 7,9978,,,False,NYK,1987
+26,"Sat, Dec 20, 1986",,,Box Score,,Indiana Pacers,L,,99,123,5,21,L 8,9535,,,False,NYK,1987
+27,"Mon, Dec 22, 1986",,,Box Score,,San Antonio Spurs,W,,103,99,6,21,W 1,9807,,,False,NYK,1987
+28,"Thu, Dec 25, 1986",,,Box Score,,Chicago Bulls,W,,86,85,7,21,W 2,15811,,,False,NYK,1987
+29,"Sat, Dec 27, 1986",,,Box Score,,Milwaukee Bucks,W,,114,100,8,21,W 3,12726,,,False,NYK,1987
+30,"Tue, Dec 30, 1986",,,Box Score,,Washington Bullets,W,,103,97,9,21,W 4,13201,,,False,NYK,1987
+31,"Sat, Jan 3, 1987",,,Box Score,@,Atlanta Hawks,L,,92,114,9,22,L 1,16522,,,False,NYK,1987
+32,"Tue, Jan 6, 1987",,,Box Score,,Atlanta Hawks,W,,118,86,10,22,W 1,13248,,,False,NYK,1987
+33,"Wed, Jan 7, 1987",,,Box Score,@,Detroit Pistons,L,,111,122,10,23,L 1,13364,,,False,NYK,1987
+34,"Fri, Jan 9, 1987",,,Box Score,@,Philadelphia 76ers,W,,94,84,11,23,W 1,17967,,,False,NYK,1987
+35,"Sat, Jan 10, 1987",,,Box Score,,Sacramento Kings,W,,119,115,12,23,W 2,12423,,,False,NYK,1987
+36,"Tue, Jan 13, 1987",,,Box Score,,Dallas Mavericks,L,,103,108,12,24,L 1,12024,,,False,NYK,1987
+37,"Sat, Jan 17, 1987",,,Box Score,@,Cleveland Cavaliers,L,,110,116,12,25,L 2,11023,,,False,NYK,1987
+38,"Mon, Jan 19, 1987",,,Box Score,,Boston Celtics,W,,111,109,13,25,W 1,19431,2:10,,False,NYK,1987
+39,"Wed, Jan 21, 1987",,,Box Score,@,Dallas Mavericks,L,,93,113,13,26,L 1,17007,,,False,NYK,1987
+40,"Fri, Jan 23, 1987",,,Box Score,@,Houston Rockets,L,,95,109,13,27,L 2,16016,,,False,NYK,1987
+41,"Sat, Jan 24, 1987",,,Box Score,@,San Antonio Spurs,L,,101,108,13,28,L 3,9149,,,False,NYK,1987
+42,"Tue, Jan 27, 1987",,,Box Score,,Philadelphia 76ers,L,,103,108,13,29,L 4,15556,,,False,NYK,1987
+43,"Fri, Jan 30, 1987",,,Box Score,@,Atlanta Hawks,L,,98,106,13,30,L 5,14906,,,False,NYK,1987
+44,"Sat, Jan 31, 1987",,,Box Score,,Detroit Pistons,L,,113,114,13,31,L 6,13616,,,False,NYK,1987
+45,"Mon, Feb 2, 1987",,,Box Score,@,Washington Bullets,L,,98,104,13,32,L 7,8799,,,False,NYK,1987
+46,"Tue, Feb 3, 1987",,,Box Score,@,Milwaukee Bucks,W,,110,109,14,32,W 1,11052,,,False,NYK,1987
+47,"Thu, Feb 5, 1987",,,Box Score,,New Jersey Nets,W,,135,118,15,32,W 2,11198,,,False,NYK,1987
+48,"Tue, Feb 10, 1987",,,Box Score,@,Cleveland Cavaliers,L,,95,100,15,33,L 1,6803,,,False,NYK,1987
+49,"Wed, Feb 11, 1987",,,Box Score,,Milwaukee Bucks,L,,104,127,15,34,L 2,10869,,,False,NYK,1987
+50,"Sat, Feb 14, 1987",,,Box Score,,Chicago Bulls,L,,108,112,15,35,L 3,19591,,,False,NYK,1987
+51,"Mon, Feb 16, 1987",,,Box Score,,Philadelphia 76ers,L,,101,111,15,36,L 4,14620,,,False,NYK,1987
+52,"Thu, Feb 19, 1987",,,Box Score,,Cleveland Cavaliers,W,,120,105,16,36,W 1,10575,,,False,NYK,1987
+53,"Sat, Feb 21, 1987",7:39p,,Box Score,@,New Jersey Nets,L,,107,111,16,37,L 1,12859,2:22,,False,NYK,1987
+54,"Sun, Feb 22, 1987",,,Box Score,@,Detroit Pistons,L,,110,122,16,38,L 2,15887,,,False,NYK,1987
+55,"Tue, Feb 24, 1987",,,Box Score,,Portland Trail Blazers,L,,109,122,16,39,L 3,9738,,,False,NYK,1987
+56,"Sat, Feb 28, 1987",,,Box Score,@,Washington Bullets,L,,117,137,16,40,L 4,19411,,,False,NYK,1987
+57,"Sun, Mar 1, 1987",,,Box Score,@,Indiana Pacers,L,OT,115,122,16,41,L 5,11404,,,False,NYK,1987
+58,"Tue, Mar 3, 1987",,,Box Score,,Utah Jazz,W,,99,86,17,41,W 1,8916,,,False,NYK,1987
+59,"Wed, Mar 4, 1987",,,Box Score,@,Philadelphia 76ers,W,,102,99,18,41,W 2,12286,,,False,NYK,1987
+60,"Fri, Mar 6, 1987",,,Box Score,@,Chicago Bulls,W,,110,109,19,41,W 3,18217,,,False,NYK,1987
+61,"Sat, Mar 7, 1987",,,Box Score,,Los Angeles Clippers,W,,115,93,20,41,W 4,9405,,,False,NYK,1987
+62,"Tue, Mar 10, 1987",,,Box Score,,Detroit Pistons,L,,93,116,20,42,L 1,10612,,,False,NYK,1987
+63,"Fri, Mar 13, 1987",,,Box Score,,New Jersey Nets,L,,121,126,20,43,L 2,10346,,,False,NYK,1987
+64,"Sun, Mar 15, 1987",,,Box Score,@,Boston Celtics,L,,104,113,20,44,L 3,14890,1:57,,False,NYK,1987
+65,"Tue, Mar 17, 1987",,,Box Score,,Denver Nuggets,L,,111,133,20,45,L 4,10241,,,False,NYK,1987
+66,"Thu, Mar 19, 1987",,,Box Score,,Indiana Pacers,W,OT,111,105,21,45,W 1,8950,,,False,NYK,1987
+67,"Sat, Mar 21, 1987",,,Box Score,,Atlanta Hawks,L,,85,97,21,46,L 1,14824,,,False,NYK,1987
+68,"Mon, Mar 23, 1987",,,Box Score,,Seattle SuperSonics,L,OT,121,126,21,47,L 2,9038,,,False,NYK,1987
+69,"Tue, Mar 24, 1987",,,Box Score,@,Milwaukee Bucks,L,,96,135,21,48,L 3,11052,,,False,NYK,1987
+70,"Fri, Mar 27, 1987",,,Box Score,@,Indiana Pacers,L,,91,100,21,49,L 4,13167,,,False,NYK,1987
+71,"Sun, Mar 29, 1987",,,Box Score,@,Chicago Bulls,L,,96,115,21,50,L 5,17516,,,False,NYK,1987
+72,"Tue, Mar 31, 1987",,,Box Score,,Boston Celtics,W,,128,120,22,50,W 1,17582,2:02,,False,NYK,1987
+73,"Wed, Apr 1, 1987",7:40p,,Box Score,@,New Jersey Nets,L,,120,121,22,51,L 1,10292,2:28,,False,NYK,1987
+74,"Fri, Apr 3, 1987",,,Box Score,@,Atlanta Hawks,L,,89,126,22,52,L 2,13766,,,False,NYK,1987
+75,"Sat, Apr 4, 1987",,,Box Score,,Indiana Pacers,W,,112,108,23,52,W 1,10518,,,False,NYK,1987
+76,"Mon, Apr 6, 1987",,,Box Score,,Philadelphia 76ers,W,,108,101,24,52,W 2,17146,,,False,NYK,1987
+77,"Fri, Apr 10, 1987",,,Box Score,,Milwaukee Bucks,L,,93,132,24,53,L 1,15852,,,False,NYK,1987
+78,"Sun, Apr 12, 1987",,,Box Score,@,Boston Celtics,L,,107,119,24,54,L 2,14890,2:06,,False,NYK,1987
+79,"Mon, Apr 13, 1987",,,Box Score,,Detroit Pistons,L,,100,120,24,55,L 3,9625,,,False,NYK,1987
+80,"Wed, Apr 15, 1987",,,Box Score,@,Detroit Pistons,L,,114,118,24,56,L 4,20244,,,False,NYK,1987
+81,"Fri, Apr 17, 1987",,,Box Score,,Washington Bullets,L,,110,142,24,57,L 5,11094,,,False,NYK,1987
+82,"Sat, Apr 18, 1987",,,Box Score,@,Cleveland Cavaliers,L,,113,122,24,58,L 6,11585,,,False,NYK,1987

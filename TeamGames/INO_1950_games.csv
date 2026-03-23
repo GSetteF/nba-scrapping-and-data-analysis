@@ -1,0 +1,71 @@
+G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Opponent,Unnamed: 6,Unnamed: 7,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Tue, Nov 1, 1949",,Box Score,,Denver Nuggets,W,,71,64,1,0,W 1,,,,False,INO,1950
+2,"Tue, Nov 8, 1949",,Box Score,,New York Knicks,L,,64,79,1,1,L 1,,,,False,INO,1950
+3,"Wed, Nov 9, 1949",,Box Score,@,Syracuse Nationals,L,,73,103,1,2,L 2,,,,False,INO,1950
+4,"Thu, Nov 10, 1949",,Box Score,@,New York Knicks,W,,83,79,2,2,W 1,,,,False,INO,1950
+5,"Fri, Nov 11, 1949",,Box Score,@,Philadelphia Warriors,W,,91,84,3,2,W 2,,,,False,INO,1950
+6,"Sat, Nov 12, 1949",,Box Score,,St. Louis Bombers,W,,94,71,4,2,W 3,,,,False,INO,1950
+7,"Sun, Nov 13, 1949",,Box Score,@,Sheboygan Red Skins,L,,101,104,4,3,L 1,,,,False,INO,1950
+8,"Tue, Nov 15, 1949",,Box Score,,Anderson Packers,L,,72,83,4,4,L 2,,,,False,INO,1950
+9,"Thu, Nov 17, 1949",,Box Score,@,Boston Celtics,L,,68,90,4,5,L 3,5073,,,False,INO,1950
+10,"Sat, Nov 19, 1949",,Box Score,,Waterloo Hawks,W,,106,74,5,5,W 1,,,,False,INO,1950
+11,"Sun, Nov 20, 1949",,Box Score,@,Minneapolis Lakers,L,,95,121,5,6,L 1,,,,False,INO,1950
+12,"Tue, Nov 22, 1949",,Box Score,,Rochester Royals,W,,80,74,6,6,W 1,,,,False,INO,1950
+13,"Wed, Nov 23, 1949",,Box Score,@,Chicago Stags,L,,72,92,6,7,L 1,,,,False,INO,1950
+14,"Sat, Nov 26, 1949",,Box Score,,Sheboygan Red Skins,W,,85,59,7,7,W 1,,,,False,INO,1950
+15,"Sun, Nov 27, 1949",,Box Score,@,Tri-Cities Blackhawks,L,,88,104,7,8,L 1,,,,False,INO,1950
+16,"Tue, Nov 29, 1949",,Box Score,,Tri-Cities Blackhawks,W,,92,76,8,8,W 1,,,,False,INO,1950
+17,"Thu, Dec 1, 1949",,Box Score,,Minneapolis Lakers,W,,86,68,9,8,W 2,,,,False,INO,1950
+18,"Sat, Dec 3, 1949",,Box Score,@,Rochester Royals,L,,77,99,9,9,L 1,,,,False,INO,1950
+19,"Sun, Dec 4, 1949",,Box Score,@,Syracuse Nationals,L,,61,67,9,10,L 2,,,,False,INO,1950
+20,"Tue, Dec 6, 1949",,Box Score,,Boston Celtics,W,,93,82,10,10,W 1,2957,,,False,INO,1950
+21,"Thu, Dec 8, 1949",,Box Score,@,Anderson Packers,W,,72,69,11,10,W 2,,,,False,INO,1950
+22,"Fri, Dec 9, 1949",,Box Score,,Denver Nuggets,W,,78,75,12,10,W 3,,,,False,INO,1950
+23,"Sun, Dec 11, 1949",,Box Score,@,Fort Wayne Pistons,L,,74,90,12,11,L 1,,,,False,INO,1950
+24,"Tue, Dec 13, 1949",,Box Score,,Tri-Cities Blackhawks,W,,84,63,13,11,W 1,,,,False,INO,1950
+25,"Fri, Dec 16, 1949",,Box Score,@,Denver Nuggets,W,,81,79,14,11,W 2,,,,False,INO,1950
+26,"Sun, Dec 18, 1949",,Box Score,@,Denver Nuggets,W,,83,79,15,11,W 3,,,,False,INO,1950
+27,"Tue, Dec 20, 1949",,Box Score,,Baltimore Bullets,L,,79,88,15,12,L 1,,,,False,INO,1950
+28,"Thu, Dec 22, 1949",,Box Score,,Chicago Stags,W,,104,92,16,12,W 1,,,,False,INO,1950
+29,"Sun, Dec 25, 1949",,Box Score,@,Waterloo Hawks,L,OT,93,97,16,13,L 1,,,,False,INO,1950
+30,"Tue, Dec 27, 1949",,Box Score,,Anderson Packers,W,,89,82,17,13,W 1,,,,False,INO,1950
+31,"Sun, Jan 1, 1950",,Box Score,@,Sheboygan Red Skins,W,,89,75,18,13,W 2,,,,False,INO,1950
+32,"Tue, Jan 3, 1950",,Box Score,,Tri-Cities Blackhawks,W,,78,76,19,13,W 3,,,,False,INO,1950
+33,"Sat, Jan 7, 1950",,Box Score,@,Baltimore Bullets,W,,85,61,20,13,W 4,,,,False,INO,1950
+34,"Tue, Jan 10, 1950",,Box Score,,Sheboygan Red Skins,W,,107,77,21,13,W 5,,,,False,INO,1950
+35,"Fri, Jan 13, 1950",,Box Score,,Waterloo Hawks,W,,80,64,22,13,W 6,,,,False,INO,1950
+36,"Sun, Jan 15, 1950",,Box Score,@,Syracuse Nationals,L,,69,82,22,14,L 1,,,,False,INO,1950
+37,"Tue, Jan 17, 1950",,Box Score,,Denver Nuggets,W,,101,81,23,14,W 1,,,,False,INO,1950
+38,"Thu, Jan 19, 1950",,Box Score,N,Waterloo Hawks,W,,104,87,24,14,W 2,,,"at Chicago, IL",False,INO,1950
+39,"Sat, Jan 21, 1950",,Box Score,,Fort Wayne Pistons,W,,112,94,25,14,W 3,,,,False,INO,1950
+40,"Tue, Jan 24, 1950",,Box Score,,Waterloo Hawks,W,,107,69,26,14,W 4,,,,False,INO,1950
+41,"Fri, Jan 27, 1950",,Box Score,@,Anderson Packers,W,,91,78,27,14,W 5,,,,False,INO,1950
+42,"Sat, Jan 28, 1950",,Box Score,@,Tri-Cities Blackhawks,L,,81,97,27,15,L 1,,,,False,INO,1950
+43,"Mon, Jan 30, 1950",,Box Score,N,Syracuse Nationals,L,,75,91,27,16,L 2,,,"at Louisville, KY",False,INO,1950
+44,"Thu, Feb 2, 1950",,Box Score,,Syracuse Nationals,L,,67,73,27,17,L 3,,,,False,INO,1950
+45,"Sun, Feb 5, 1950",,Box Score,@,St. Louis Bombers,L,,64,76,27,18,L 4,,,,False,INO,1950
+46,"Tue, Feb 7, 1950",,Box Score,,Washington Capitols,W,,88,81,28,18,W 1,,,,False,INO,1950
+47,"Fri, Feb 10, 1950",,Box Score,,Anderson Packers,L,,76,107,28,19,L 1,,,,False,INO,1950
+48,"Sun, Feb 12, 1950",,Box Score,@,Tri-Cities Blackhawks,W,,95,89,29,19,W 1,,,,False,INO,1950
+49,"Tue, Feb 14, 1950",,Box Score,,Philadelphia Warriors,W,,86,67,30,19,W 2,,,,False,INO,1950
+50,"Wed, Feb 15, 1950",,Box Score,@,Waterloo Hawks,L,,74,76,30,20,L 1,,,,False,INO,1950
+51,"Sat, Feb 18, 1950",,Box Score,@,Washington Capitols,L,,79,81,30,21,L 2,,,,False,INO,1950
+52,"Sun, Feb 19, 1950",,Box Score,@,Syracuse Nationals,L,,78,82,30,22,L 3,,,,False,INO,1950
+53,"Tue, Feb 21, 1950",,Box Score,,Sheboygan Red Skins,L,,78,83,30,23,L 4,,,,False,INO,1950
+54,"Fri, Feb 24, 1950",,Box Score,N,Syracuse Nationals,L,,67,72,30,24,L 5,,,"at Chicago, IL",False,INO,1950
+55,"Sun, Feb 26, 1950",,Box Score,@,Sheboygan Red Skins,W,,107,86,31,24,W 1,,,,False,INO,1950
+56,"Tue, Feb 28, 1950",,Box Score,,Syracuse Nationals,W,,110,72,32,24,W 2,,,,False,INO,1950
+57,"Fri, Mar 3, 1950",,Box Score,,Tri-Cities Blackhawks,L,,83,96,32,25,L 1,,,,False,INO,1950
+58,"Sun, Mar 5, 1950",,Box Score,@,Sheboygan Red Skins,W,,92,87,33,25,W 1,,,,False,INO,1950
+59,"Tue, Mar 7, 1950",,Box Score,,Anderson Packers,W,,107,93,34,25,W 2,,,,False,INO,1950
+60,"Thu, Mar 9, 1950",,Box Score,@,Anderson Packers,W,,97,90,35,25,W 3,,,,False,INO,1950
+61,"Sun, Mar 12, 1950",,Box Score,,Waterloo Hawks,W,,90,89,36,25,W 4,,,,False,INO,1950
+62,"Tue, Mar 14, 1950",,Box Score,,Syracuse Nationals,W,,68,65,37,25,W 5,,,,False,INO,1950
+63,"Thu, Mar 16, 1950",,Box Score,N,Denver Nuggets,W,,111,99,38,25,W 6,,,"at Vincennes, IN",False,INO,1950
+64,"Sat, Mar 18, 1950",,Box Score,N,Denver Nuggets,W,,110,73,39,25,W 7,,,"at Owensboro, KY",False,INO,1950
+1,"Tue, Mar 21, 1950",,Box Score,,Sheboygan Red Skins,W,,86,85,1,0,W 1,,,,True,INO,1950
+2,"Thu, Mar 23, 1950",,Box Score,@,Sheboygan Red Skins,L,,85,95,1,1,L 1,,,,True,INO,1950
+3,"Sat, Mar 25, 1950",,Box Score,,Sheboygan Red Skins,W,,91,84,2,1,W 1,,,,True,INO,1950
+4,"Tue, Mar 28, 1950",,Box Score,,Anderson Packers,W,,77,74,3,1,W 2,,,,True,INO,1950
+5,"Thu, Mar 30, 1950",,Box Score,@,Anderson Packers,L,,67,84,3,2,L 1,,,,True,INO,1950
+6,"Sat, Apr 1, 1950",,Box Score,,Anderson Packers,L,,65,67,3,3,L 2,,,,True,INO,1950

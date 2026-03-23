@@ -1,0 +1,88 @@
+G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Opponent,Unnamed: 6,Unnamed: 7,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Sat, Oct 17, 1970",,Box Score,,Milwaukee Bucks,L,,98,107,0,1,L 1,,,,False,ATL,1971
+2,"Wed, Oct 21, 1970",,Box Score,,San Francisco Warriors,W,,102,100,1,1,W 1,,,,False,ATL,1971
+3,"Thu, Oct 22, 1970",,Box Score,@,Detroit Pistons,L,,101,120,1,2,L 1,,,,False,ATL,1971
+4,"Sat, Oct 24, 1970",,Box Score,,Boston Celtics,L,,109,113,1,3,L 2,5800,,,False,ATL,1971
+5,"Mon, Oct 26, 1970",,Box Score,@,Cincinnati Royals,L,,107,126,1,4,L 3,,,,False,ATL,1971
+6,"Sat, Oct 31, 1970",,Box Score,,San Diego Rockets,L,,117,121,1,5,L 4,,,,False,ATL,1971
+7,"Sun, Nov 1, 1970",,Box Score,@,Cleveland Cavaliers,W,,131,107,2,5,W 1,,,,False,ATL,1971
+8,"Wed, Nov 4, 1970",,Box Score,,Detroit Pistons,L,,105,117,2,6,L 1,,,,False,ATL,1971
+9,"Fri, Nov 6, 1970",,Box Score,@,Philadelphia 76ers,L,,112,118,2,7,L 2,,,,False,ATL,1971
+10,"Sat, Nov 7, 1970",,Box Score,,Phoenix Suns,L,,100,107,2,8,L 3,,,,False,ATL,1971
+11,"Tue, Nov 10, 1970",,Box Score,,Philadelphia 76ers,W,,109,104,3,8,W 1,,,,False,ATL,1971
+12,"Wed, Nov 11, 1970",,Box Score,@,Buffalo Braves,L,,118,134,3,9,L 1,,,,False,ATL,1971
+13,"Fri, Nov 13, 1970",,Box Score,@,Boston Celtics,W,,116,114,4,9,W 1,12005,,,False,ATL,1971
+14,"Sat, Nov 14, 1970",,Box Score,,Chicago Bulls,L,,116,120,4,10,L 1,,,,False,ATL,1971
+15,"Tue, Nov 17, 1970",,Box Score,@,Los Angeles Lakers,L,,105,116,4,11,L 2,,,,False,ATL,1971
+16,"Wed, Nov 18, 1970",,Box Score,@,Portland Trail Blazers,L,,131,146,4,12,L 3,,,,False,ATL,1971
+17,"Sat, Nov 21, 1970",,Box Score,,Baltimore Bullets,W,,130,103,5,12,W 1,,,,False,ATL,1971
+18,"Sun, Nov 22, 1970",,Box Score,,Philadelphia 76ers,W,,125,115,6,12,W 2,,,,False,ATL,1971
+19,"Tue, Nov 24, 1970",,Box Score,@,New York Knicks,L,,119,128,6,13,L 1,,,,False,ATL,1971
+20,"Wed, Nov 25, 1970",,Box Score,,New York Knicks,L,,111,114,6,14,L 2,,,,False,ATL,1971
+21,"Fri, Nov 27, 1970",,Box Score,@,San Diego Rockets,L,,127,128,6,15,L 3,,,,False,ATL,1971
+22,"Sun, Nov 29, 1970",,Box Score,@,Seattle SuperSonics,L,,107,130,6,16,L 4,,,,False,ATL,1971
+23,"Tue, Dec 1, 1970",,Box Score,@,San Francisco Warriors,L,,106,113,6,17,L 5,,,,False,ATL,1971
+24,"Wed, Dec 2, 1970",,Box Score,@,Phoenix Suns,L,,112,126,6,18,L 6,,,,False,ATL,1971
+25,"Sat, Dec 5, 1970",,Box Score,,Seattle SuperSonics,W,,106,100,7,18,W 1,,,,False,ATL,1971
+26,"Tue, Dec 8, 1970",,Box Score,@,Milwaukee Bucks,L,,104,125,7,19,L 1,,,,False,ATL,1971
+27,"Wed, Dec 9, 1970",,Box Score,@,Cincinnati Royals,L,,106,118,7,20,L 2,,,,False,ATL,1971
+28,"Fri, Dec 11, 1970",,Box Score,@,Chicago Bulls,L,,86,87,7,21,L 3,,,,False,ATL,1971
+29,"Sat, Dec 12, 1970",,Box Score,,Portland Trail Blazers,W,,107,101,8,21,W 1,,,,False,ATL,1971
+30,"Sun, Dec 13, 1970",,Box Score,,Buffalo Braves,W,,110,91,9,21,W 2,,,,False,ATL,1971
+31,"Wed, Dec 16, 1970",,Box Score,,San Diego Rockets,W,,128,117,10,21,W 3,,,,False,ATL,1971
+32,"Fri, Dec 18, 1970",,Box Score,N,Baltimore Bullets,W,,116,112,11,21,W 4,,,"at College Park, MD",False,ATL,1971
+33,"Sat, Dec 19, 1970",,Box Score,,Los Angeles Lakers,L,,104,116,11,22,L 1,,,,False,ATL,1971
+34,"Tue, Dec 22, 1970",,Box Score,@,Los Angeles Lakers,W,,119,115,12,22,W 1,,,,False,ATL,1971
+35,"Wed, Dec 23, 1970",,Box Score,@,San Diego Rockets,L,,102,133,12,23,L 1,,,,False,ATL,1971
+36,"Fri, Dec 25, 1970",,Box Score,@,Phoenix Suns,L,,115,127,12,24,L 2,,,,False,ATL,1971
+37,"Sat, Dec 26, 1970",,Box Score,,Cincinnati Royals,L,,118,130,12,25,L 3,,,,False,ATL,1971
+38,"Mon, Dec 28, 1970",,Box Score,,San Francisco Warriors,L,,104,115,12,26,L 4,,,,False,ATL,1971
+39,"Tue, Dec 29, 1970",,Box Score,@,Detroit Pistons,L,,97,99,12,27,L 5,,,,False,ATL,1971
+40,"Thu, Dec 31, 1970",,Box Score,,Cleveland Cavaliers,W,,119,85,13,27,W 1,,,,False,ATL,1971
+41,"Sat, Jan 2, 1971",,Box Score,@,New York Knicks,W,,112,108,14,27,W 2,,,,False,ATL,1971
+42,"Sun, Jan 3, 1971",,Box Score,,Boston Celtics,L,,128,140,14,28,L 1,4669,,,False,ATL,1971
+43,"Tue, Jan 5, 1971",,Box Score,,Detroit Pistons,L,,90,98,14,29,L 2,,,,False,ATL,1971
+44,"Thu, Jan 7, 1971",,Box Score,,Baltimore Bullets,L,,102,110,14,30,L 3,,,,False,ATL,1971
+45,"Fri, Jan 8, 1971",,Box Score,@,Baltimore Bullets,L,,104,115,14,31,L 4,,,,False,ATL,1971
+46,"Sun, Jan 10, 1971",,Box Score,,Phoenix Suns,L,,105,116,14,32,L 5,,,,False,ATL,1971
+47,"Fri, Jan 15, 1971",,Box Score,@,Boston Celtics,L,,123,134,14,33,L 6,10048,,,False,ATL,1971
+48,"Sat, Jan 16, 1971",,Box Score,,Los Angeles Lakers,W,,127,123,15,33,W 1,,,,False,ATL,1971
+49,"Mon, Jan 18, 1971",,Box Score,@,Buffalo Braves,W,,123,113,16,33,W 2,,,,False,ATL,1971
+50,"Wed, Jan 20, 1971",,Box Score,,Seattle SuperSonics,L,,108,112,16,34,L 1,,,,False,ATL,1971
+51,"Fri, Jan 22, 1971",,Box Score,@,Milwaukee Bucks,W,,117,110,17,34,W 1,,,,False,ATL,1971
+52,"Sun, Jan 24, 1971",,Box Score,,Milwaukee Bucks,L,,120,142,17,35,L 1,,,,False,ATL,1971
+53,"Tue, Jan 26, 1971",,Box Score,@,Philadelphia 76ers,L,,122,129,17,36,L 2,,,,False,ATL,1971
+54,"Wed, Jan 27, 1971",,Box Score,,New York Knicks,L,,108,116,17,37,L 3,,,,False,ATL,1971
+55,"Fri, Jan 29, 1971",,Box Score,,Cleveland Cavaliers,W,,119,111,18,37,W 1,,,,False,ATL,1971
+56,"Sun, Jan 31, 1971",,Box Score,,San Diego Rockets,W,,131,120,19,37,W 2,,,,False,ATL,1971
+57,"Tue, Feb 2, 1971",,Box Score,@,San Francisco Warriors,L,,99,101,19,38,L 1,,,,False,ATL,1971
+58,"Thu, Feb 4, 1971",,Box Score,@,Portland Trail Blazers,L,,123,137,19,39,L 2,,,,False,ATL,1971
+59,"Fri, Feb 5, 1971",,Box Score,@,Seattle SuperSonics,W,OT,121,120,20,39,W 1,,,,False,ATL,1971
+60,"Sun, Feb 7, 1971",,Box Score,,Cincinnati Royals,W,,121,118,21,39,W 2,,,,False,ATL,1971
+61,"Tue, Feb 9, 1971",,Box Score,@,New York Knicks,W,,114,109,22,39,W 3,,,,False,ATL,1971
+62,"Wed, Feb 10, 1971",,Box Score,,Boston Celtics,W,,114,102,23,39,W 4,5724,,,False,ATL,1971
+63,"Fri, Feb 12, 1971",,Box Score,,New York Knicks,W,,125,116,24,39,W 5,,,,False,ATL,1971
+64,"Sun, Feb 14, 1971",,Box Score,,Milwaukee Bucks,L,,88,124,24,40,L 1,,,,False,ATL,1971
+65,"Tue, Feb 16, 1971",,Box Score,@,Chicago Bulls,L,,102,118,24,41,L 2,,,,False,ATL,1971
+66,"Sat, Feb 20, 1971",,Box Score,@,Baltimore Bullets,W,,122,115,25,41,W 1,,,,False,ATL,1971
+67,"Sun, Feb 21, 1971",,Box Score,,Baltimore Bullets,L,,119,121,25,42,L 1,,,,False,ATL,1971
+68,"Wed, Feb 24, 1971",,Box Score,,Portland Trail Blazers,W,,118,107,26,42,W 1,,,,False,ATL,1971
+69,"Fri, Feb 26, 1971",,Box Score,@,Boston Celtics,L,OT,129,136,26,43,L 1,11757,,,False,ATL,1971
+70,"Sat, Feb 27, 1971",,Box Score,,Buffalo Braves,W,,134,117,27,43,W 1,,,,False,ATL,1971
+71,"Sun, Feb 28, 1971",,Box Score,,Detroit Pistons,L,,105,106,27,44,L 1,,,,False,ATL,1971
+72,"Tue, Mar 2, 1971",,Box Score,@,Seattle SuperSonics,W,,128,116,28,44,W 1,,,,False,ATL,1971
+73,"Wed, Mar 3, 1971",,Box Score,@,San Francisco Warriors,W,,109,105,29,44,W 2,,,"at Oakland, CA",False,ATL,1971
+74,"Fri, Mar 5, 1971",,Box Score,@,Los Angeles Lakers,W,,105,104,30,44,W 3,,,,False,ATL,1971
+75,"Sun, Mar 7, 1971",,Box Score,,Cincinnati Royals,W,,122,112,31,44,W 4,,,,False,ATL,1971
+76,"Wed, Mar 10, 1971",,Box Score,,Phoenix Suns,W,,139,98,32,44,W 5,,,,False,ATL,1971
+77,"Fri, Mar 12, 1971",,Box Score,@,Cleveland Cavaliers,W,,119,107,33,44,W 6,,,,False,ATL,1971
+78,"Sat, Mar 13, 1971",,Box Score,@,Cincinnati Royals,L,,127,136,33,45,L 1,,,,False,ATL,1971
+79,"Sun, Mar 14, 1971",,Box Score,,Philadelphia 76ers,W,,108,101,34,45,W 1,,,,False,ATL,1971
+80,"Tue, Mar 16, 1971",,Box Score,@,Philadelphia 76ers,W,,130,125,35,45,W 2,,,,False,ATL,1971
+81,"Fri, Mar 19, 1971",,Box Score,,Chicago Bulls,W,OT,112,111,36,45,W 3,,,,False,ATL,1971
+82,"Sat, Mar 20, 1971",,Box Score,@,Chicago Bulls,L,,121,138,36,46,L 1,,,,False,ATL,1971
+1,"Thu, Mar 25, 1971",,Box Score,@,New York Knicks,L,,101,112,0,1,L 1,,,,True,ATL,1971
+2,"Sat, Mar 27, 1971",,Box Score,@,New York Knicks,W,,113,104,1,1,W 1,,,,True,ATL,1971
+3,"Sun, Mar 28, 1971",,Box Score,,New York Knicks,L,,95,110,1,2,L 1,,,,True,ATL,1971
+4,"Tue, Mar 30, 1971",,Box Score,,New York Knicks,L,,107,113,1,3,L 2,,,,True,ATL,1971
+5,"Thu, Apr 1, 1971",,Box Score,@,New York Knicks,L,,107,111,1,4,L 3,,,,True,ATL,1971

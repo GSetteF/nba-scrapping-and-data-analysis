@@ -1,0 +1,86 @@
+G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Opponent,Unnamed: 6,Unnamed: 7,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Fri, Nov 4, 1994",,Box Score,,Minnesota Timberwolves,W,,130,108,1,0,W 1,17171,,,False,DEN,1995
+2,"Sat, Nov 5, 1994",,Box Score,,Golden State Warriors,L,,104,108,1,1,L 1,17171,,,False,DEN,1995
+3,"Tue, Nov 8, 1994",,Box Score,@,Dallas Mavericks,W,,115,107,2,1,W 1,12526,,,False,DEN,1995
+4,"Fri, Nov 11, 1994",,Box Score,@,Los Angeles Lakers,W,OT,124,117,3,1,W 2,16950,,,False,DEN,1995
+5,"Sat, Nov 12, 1994",,Box Score,,Utah Jazz,W,,119,110,4,1,W 3,17171,,,False,DEN,1995
+6,"Tue, Nov 15, 1994",,Box Score,,San Antonio Spurs,W,,112,99,5,1,W 4,17171,,,False,DEN,1995
+7,"Thu, Nov 17, 1994",,Box Score,,Detroit Pistons,L,,92,94,5,2,L 1,17171,,,False,DEN,1995
+8,"Sat, Nov 19, 1994",,Box Score,,Houston Rockets,L,,101,109,5,3,L 2,17171,,,False,DEN,1995
+9,"Wed, Nov 23, 1994",,Box Score,,Chicago Bulls,W,,113,111,6,3,W 1,17171,,,False,DEN,1995
+10,"Fri, Nov 25, 1994",,Box Score,@,Sacramento Kings,L,OT,105,108,6,4,L 1,17317,,,False,DEN,1995
+11,"Sat, Nov 26, 1994",,Box Score,,Dallas Mavericks,L,OT,123,124,6,5,L 2,17171,,,False,DEN,1995
+12,"Tue, Nov 29, 1994",,Box Score,@,Houston Rockets,L,,81,96,6,6,L 3,14295,,,False,DEN,1995
+13,"Thu, Dec 1, 1994",,Box Score,@,Dallas Mavericks,W,,89,80,7,6,W 1,13929,,,False,DEN,1995
+14,"Sat, Dec 3, 1994",,Box Score,,Charlotte Hornets,W,,99,88,8,6,W 2,17171,,,False,DEN,1995
+15,"Tue, Dec 6, 1994",,Box Score,@,Minnesota Timberwolves,W,,102,95,9,6,W 3,13669,,,False,DEN,1995
+16,"Sat, Dec 10, 1994",,Box Score,,Washington Bullets,W,,111,89,10,6,W 4,17171,,,False,DEN,1995
+17,"Mon, Dec 12, 1994",,Box Score,@,Boston Celtics,L,,103,113,10,7,L 1,14890,2:06,,False,DEN,1995
+18,"Wed, Dec 14, 1994",,Box Score,@,Orlando Magic,L,,96,120,10,8,L 2,16010,,,False,DEN,1995
+19,"Thu, Dec 15, 1994",,Box Score,@,Miami Heat,W,,101,99,11,8,W 1,14531,,,False,DEN,1995
+20,"Sat, Dec 17, 1994",,Box Score,@,Charlotte Hornets,L,,92,111,11,9,L 1,23698,,,False,DEN,1995
+21,"Mon, Dec 19, 1994",,Box Score,,Boston Celtics,W,,104,85,12,9,W 1,17171,2:07,,False,DEN,1995
+22,"Wed, Dec 21, 1994",,Box Score,,San Antonio Spurs,L,,97,111,12,10,L 1,17171,,,False,DEN,1995
+23,"Fri, Dec 23, 1994",,Box Score,@,Phoenix Suns,L,,110,126,12,11,L 2,19023,,,False,DEN,1995
+24,"Sun, Dec 25, 1994",,Box Score,,Seattle SuperSonics,W,,105,96,13,11,W 1,17171,,,False,DEN,1995
+25,"Tue, Dec 27, 1994",,Box Score,,Indiana Pacers,L,,91,95,13,12,L 1,17171,,,False,DEN,1995
+26,"Thu, Dec 29, 1994",,Box Score,@,Portland Trail Blazers,L,,93,104,13,13,L 2,12888,,,False,DEN,1995
+27,"Fri, Dec 30, 1994",,Box Score,,Portland Trail Blazers,W,,118,114,14,13,W 1,17171,,,False,DEN,1995
+28,"Tue, Jan 3, 1995",,Box Score,@,Minnesota Timberwolves,W,2OT,108,99,15,13,W 2,12739,,,False,DEN,1995
+29,"Wed, Jan 4, 1995",,Box Score,@,Chicago Bulls,L,,80,86,15,14,L 1,22198,,,False,DEN,1995
+30,"Sat, Jan 7, 1995",,Box Score,,Phoenix Suns,L,,100,109,15,15,L 2,17171,,,False,DEN,1995
+31,"Sun, Jan 8, 1995",,Box Score,,Milwaukee Bucks,W,OT,102,96,16,15,W 1,17171,,,False,DEN,1995
+32,"Wed, Jan 11, 1995",,Box Score,@,Utah Jazz,L,,88,114,16,16,L 1,19911,,,False,DEN,1995
+33,"Thu, Jan 12, 1995",,Box Score,,Dallas Mavericks,W,,94,78,17,16,W 1,17171,,,False,DEN,1995
+34,"Sat, Jan 14, 1995",,Box Score,,Houston Rockets,W,,118,104,18,16,W 2,17171,,,False,DEN,1995
+35,"Mon, Jan 16, 1995",,Box Score,@,Golden State Warriors,L,,73,77,18,17,L 1,15025,,,False,DEN,1995
+36,"Tue, Jan 17, 1995",,Box Score,@,Phoenix Suns,L,,113,129,18,18,L 2,19023,,,False,DEN,1995
+37,"Fri, Jan 20, 1995",,Box Score,,Orlando Magic,L,OT,108,112,18,19,L 3,17171,,,False,DEN,1995
+38,"Sat, Jan 21, 1995",,Box Score,,Cleveland Cavaliers,L,2OT,100,101,18,20,L 4,17171,,,False,DEN,1995
+39,"Tue, Jan 24, 1995",,Box Score,@,Seattle SuperSonics,L,,89,111,18,21,L 5,16352,,,False,DEN,1995
+40,"Fri, Jan 27, 1995",,Box Score,,New Jersey Nets,W,,96,90,19,21,W 1,17171,,,False,DEN,1995
+41,"Sat, Jan 28, 1995",,Box Score,@,San Antonio Spurs,L,,77,103,19,22,L 1,32820,,,False,DEN,1995
+42,"Tue, Jan 31, 1995",,Box Score,@,Houston Rockets,L,,74,86,19,23,L 2,14761,,,False,DEN,1995
+43,"Wed, Feb 1, 1995",,Box Score,@,Utah Jazz,L,,88,129,19,24,L 3,19911,,,False,DEN,1995
+44,"Fri, Feb 3, 1995",,Box Score,@,Los Angeles Lakers,W,,88,74,20,24,W 1,14493,,,False,DEN,1995
+45,"Tue, Feb 7, 1995",,Box Score,,Los Angeles Lakers,L,,83,85,20,25,L 1,17171,,,False,DEN,1995
+46,"Thu, Feb 9, 1995",,Box Score,,Golden State Warriors,L,,101,109,20,26,L 2,17171,,,False,DEN,1995
+47,"Tue, Feb 14, 1995",,Box Score,,Atlanta Hawks,L,,88,99,20,27,L 3,17171,2:13,,False,DEN,1995
+48,"Thu, Feb 16, 1995",,Box Score,@,New Jersey Nets,L,,94,100,20,28,L 4,15692,,,False,DEN,1995
+49,"Sat, Feb 18, 1995",,Box Score,@,Philadelphia 76ers,L,,89,95,20,29,L 5,16084,,,False,DEN,1995
+50,"Sun, Feb 19, 1995",,Box Score,@,Washington Bullets,W,,94,92,21,29,W 1,18756,,,False,DEN,1995
+51,"Tue, Feb 21, 1995",,Box Score,,Los Angeles Clippers,W,,118,80,22,29,W 2,17171,,,False,DEN,1995
+52,"Thu, Feb 23, 1995",,Box Score,,Philadelphia 76ers,W,,105,75,23,29,W 3,17171,,,False,DEN,1995
+53,"Fri, Feb 24, 1995",,Box Score,@,Seattle SuperSonics,L,,86,90,23,30,L 1,18056,,,False,DEN,1995
+54,"Sun, Feb 26, 1995",,Box Score,,Utah Jazz,L,,96,110,23,31,L 2,17171,,,False,DEN,1995
+55,"Tue, Feb 28, 1995",,Box Score,,Minnesota Timberwolves,W,,114,101,24,31,W 1,17171,,,False,DEN,1995
+56,"Fri, Mar 3, 1995",,Box Score,,Miami Heat,W,,100,98,25,31,W 2,17171,,,False,DEN,1995
+57,"Sat, Mar 4, 1995",,Box Score,@,Los Angeles Clippers,W,,101,89,26,31,W 3,9334,,,False,DEN,1995
+58,"Tue, Mar 7, 1995",,Box Score,@,Dallas Mavericks,W,,99,96,27,31,W 4,14954,,,False,DEN,1995
+59,"Wed, Mar 8, 1995",,Box Score,@,Atlanta Hawks,L,,88,99,27,32,L 1,11424,2:06,,False,DEN,1995
+60,"Fri, Mar 10, 1995",,Box Score,@,Detroit Pistons,W,,99,88,28,32,W 1,21454,,,False,DEN,1995
+61,"Sun, Mar 12, 1995",,Box Score,@,Milwaukee Bucks,W,,109,93,29,32,W 2,17189,,,False,DEN,1995
+62,"Tue, Mar 14, 1995",,Box Score,@,New York Knicks,L,,74,94,29,33,L 1,19763,,,False,DEN,1995
+63,"Thu, Mar 16, 1995",,Box Score,,Sacramento Kings,W,,123,101,30,33,W 1,17171,,,False,DEN,1995
+64,"Sat, Mar 18, 1995",,Box Score,,Portland Trail Blazers,W,,110,90,31,33,W 2,17171,,,False,DEN,1995
+65,"Mon, Mar 20, 1995",,Box Score,@,Sacramento Kings,L,,89,91,31,34,L 1,17317,,,False,DEN,1995
+66,"Wed, Mar 22, 1995",,Box Score,@,Utah Jazz,L,,91,103,31,35,L 2,19911,,,False,DEN,1995
+67,"Thu, Mar 23, 1995",,Box Score,,New York Knicks,L,,101,104,31,36,L 3,17171,,,False,DEN,1995
+68,"Sun, Mar 26, 1995",,Box Score,@,Portland Trail Blazers,W,,102,98,32,36,W 1,12888,,,False,DEN,1995
+69,"Mon, Mar 27, 1995",,Box Score,,Los Angeles Clippers,W,,113,104,33,36,W 2,17171,,,False,DEN,1995
+70,"Fri, Mar 31, 1995",,Box Score,@,Indiana Pacers,W,,107,92,34,36,W 3,16705,,,False,DEN,1995
+71,"Sun, Apr 2, 1995",,Box Score,@,Cleveland Cavaliers,W,,104,101,35,36,W 4,20562,,,False,DEN,1995
+72,"Tue, Apr 4, 1995",,Box Score,,Los Angeles Lakers,L,,101,104,35,37,L 1,17171,,,False,DEN,1995
+73,"Thu, Apr 6, 1995",,Box Score,,Seattle SuperSonics,L,,100,106,35,38,L 2,17171,,,False,DEN,1995
+74,"Sun, Apr 9, 1995",,Box Score,,Houston Rockets,L,,120,123,35,39,L 3,17171,,,False,DEN,1995
+75,"Mon, Apr 10, 1995",,Box Score,@,Minnesota Timberwolves,W,,114,107,36,39,W 1,16161,,,False,DEN,1995
+76,"Thu, Apr 13, 1995",,Box Score,@,Los Angeles Clippers,W,,125,103,37,39,W 2,9481,,,False,DEN,1995
+77,"Fri, Apr 14, 1995",,Box Score,,Phoenix Suns,W,,102,87,38,39,W 3,17171,,,False,DEN,1995
+78,"Sun, Apr 16, 1995",,Box Score,,San Antonio Spurs,L,OT,109,112,38,40,L 1,17171,,,False,DEN,1995
+79,"Tue, Apr 18, 1995",,Box Score,@,San Antonio Spurs,L,,96,107,38,41,L 2,18481,,,False,DEN,1995
+80,"Wed, Apr 19, 1995",,Box Score,,Minnesota Timberwolves,W,,106,81,39,41,W 1,17171,,,False,DEN,1995
+81,"Sat, Apr 22, 1995",,Box Score,@,Golden State Warriors,W,2OT,130,129,40,41,W 2,15025,,,False,DEN,1995
+82,"Sun, Apr 23, 1995",,Box Score,,Sacramento Kings,W,,102,89,41,41,W 3,17171,,,False,DEN,1995
+1,"Fri, Apr 28, 1995",,Box Score,@,San Antonio Spurs,L,,88,104,0,1,L 1,25235.0,,,True,DEN,1995
+2,"Sun, Apr 30, 1995",,Box Score,@,San Antonio Spurs,L,,96,122,0,2,L 2,,,,True,DEN,1995
+3,"Tue, May 2, 1995",,Box Score,,San Antonio Spurs,L,,95,99,0,3,L 3,17171.0,,,True,DEN,1995

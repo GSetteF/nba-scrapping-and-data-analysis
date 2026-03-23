@@ -1,0 +1,75 @@
+G,Date,Start (ET),Unnamed: 3,Unnamed: 4,Unnamed: 5,Opponent,Unnamed: 7,Unnamed: 8,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Tue, Dec 22, 2020",7:00p,,Box Score,@,Brooklyn Nets,L,,99,125,0,1,L 1,,2:14,,False,GSW,2021
+2,"Fri, Dec 25, 2020",2:30p,,Box Score,@,Milwaukee Bucks,L,,99,138,0,2,L 2,,2:17,,False,GSW,2021
+3,"Sun, Dec 27, 2020",8:00p,,Box Score,@,Chicago Bulls,W,,129,128,1,2,W 1,,2:22,,False,GSW,2021
+4,"Tue, Dec 29, 2020",7:00p,,Box Score,@,Detroit Pistons,W,,116,106,2,2,W 2,,2:31,,False,GSW,2021
+5,"Fri, Jan 1, 2021",10:30p,,Box Score,,Portland Trail Blazers,L,,98,123,2,3,L 1,,2:15,,False,GSW,2021
+6,"Sun, Jan 3, 2021",8:30p,,Box Score,,Portland Trail Blazers,W,,137,122,3,3,W 1,,2:22,,False,GSW,2021
+7,"Mon, Jan 4, 2021",10:00p,,Box Score,,Sacramento Kings,W,,137,106,4,3,W 2,,2:06,,False,GSW,2021
+8,"Wed, Jan 6, 2021",10:00p,,Box Score,,Los Angeles Clippers,L,,101,108,4,4,L 1,,2:19,,False,GSW,2021
+9,"Fri, Jan 8, 2021",10:00p,,Box Score,,Los Angeles Clippers,W,,115,105,5,4,W 1,,2:17,,False,GSW,2021
+10,"Sun, Jan 10, 2021",8:30p,,Box Score,,Toronto Raptors,W,,106,105,6,4,W 2,,2:22,,False,GSW,2021
+11,"Tue, Jan 12, 2021",10:30p,,Box Score,,Indiana Pacers,L,,95,104,6,5,L 1,,2:23,,False,GSW,2021
+12,"Thu, Jan 14, 2021",10:00p,,Box Score,@,Denver Nuggets,L,,104,114,6,6,L 2,,2:14,,False,GSW,2021
+13,"Mon, Jan 18, 2021",10:00p,,Box Score,@,Los Angeles Lakers,W,,115,113,7,6,W 1,,2:29,,False,GSW,2021
+14,"Wed, Jan 20, 2021",10:00p,,Box Score,,San Antonio Spurs,W,,121,99,8,6,W 2,,2:09,,False,GSW,2021
+15,"Thu, Jan 21, 2021",10:00p,,Box Score,,New York Knicks,L,,104,119,8,7,L 1,,2:24,,False,GSW,2021
+16,"Sat, Jan 23, 2021",9:00p,,Box Score,@,Utah Jazz,L,,108,127,8,8,L 2,1932,2:05,,False,GSW,2021
+17,"Mon, Jan 25, 2021",10:00p,,Box Score,,Minnesota Timberwolves,W,,130,108,9,8,W 1,,2:20,,False,GSW,2021
+18,"Wed, Jan 27, 2021",10:00p,,Box Score,,Minnesota Timberwolves,W,,123,111,10,8,W 2,,2:26,,False,GSW,2021
+19,"Thu, Jan 28, 2021",10:00p,,Box Score,@,Phoenix Suns,L,,93,114,10,9,L 1,,2:05,,False,GSW,2021
+20,"Sat, Jan 30, 2021",10:00p,,Box Score,,Detroit Pistons,W,,118,91,11,9,W 1,,2:04,,False,GSW,2021
+21,"Tue, Feb 2, 2021",10:00p,,Box Score,,Boston Celtics,L,,107,111,11,10,L 1,,2:28,,False,GSW,2021
+22,"Thu, Feb 4, 2021",7:30p,,Box Score,@,Dallas Mavericks,W,,147,116,12,10,W 1,,2:20,,False,GSW,2021
+23,"Sat, Feb 6, 2021",8:30p,,Box Score,@,Dallas Mavericks,L,,132,134,12,11,L 1,,2:26,,False,GSW,2021
+24,"Mon, Feb 8, 2021",8:30p,,Box Score,@,San Antonio Spurs,L,,100,105,12,12,L 2,,2:17,,False,GSW,2021
+25,"Tue, Feb 9, 2021",8:30p,,Box Score,@,San Antonio Spurs,W,,114,91,13,12,W 1,,2:11,,False,GSW,2021
+26,"Thu, Feb 11, 2021",10:00p,,Box Score,,Orlando Magic,W,,111,105,14,12,W 2,,2:07,,False,GSW,2021
+27,"Sat, Feb 13, 2021",8:30p,,Box Score,,Brooklyn Nets,L,,117,134,14,13,L 1,,2:08,,False,GSW,2021
+28,"Mon, Feb 15, 2021",10:00p,,Box Score,,Cleveland Cavaliers,W,,129,98,15,13,W 1,,2:13,,False,GSW,2021
+29,"Wed, Feb 17, 2021",10:00p,,Box Score,,Miami Heat,W,OT,120,112,16,13,W 2,,2:30,,False,GSW,2021
+30,"Fri, Feb 19, 2021",7:00p,,Box Score,@,Orlando Magic,L,,120,124,16,14,L 1,4287,2:09,,False,GSW,2021
+31,"Sat, Feb 20, 2021",8:00p,,Box Score,@,Charlotte Hornets,L,,100,102,16,15,L 2,,2:08,,False,GSW,2021
+32,"Tue, Feb 23, 2021",7:30p,,Box Score,@,New York Knicks,W,,114,106,17,15,W 1,1981,2:16,,False,GSW,2021
+33,"Wed, Feb 24, 2021",7:30p,,Box Score,@,Indiana Pacers,W,,111,107,18,15,W 2,,2:27,,False,GSW,2021
+34,"Fri, Feb 26, 2021",10:00p,,Box Score,,Charlotte Hornets,W,,130,121,19,15,W 3,,2:18,,False,GSW,2021
+35,"Sun, Feb 28, 2021",8:00p,,Box Score,@,Los Angeles Lakers,L,,91,117,19,16,L 1,,2:22,,False,GSW,2021
+36,"Wed, Mar 3, 2021",10:00p,,Box Score,@,Portland Trail Blazers,L,,106,108,19,17,L 2,,2:13,,False,GSW,2021
+37,"Thu, Mar 4, 2021",10:00p,,Box Score,@,Phoenix Suns,L,,98,120,19,18,L 3,3233,1:59,,False,GSW,2021
+38,"Thu, Mar 11, 2021",10:00p,,Box Score,@,Los Angeles Clippers,L,,104,130,19,19,L 4,,2:15,,False,GSW,2021
+39,"Sun, Mar 14, 2021",4:00p,,Box Score,,Utah Jazz,W,,131,119,20,19,W 1,,2:15,,False,GSW,2021
+40,"Mon, Mar 15, 2021",10:30p,,Box Score,,Los Angeles Lakers,L,,97,128,20,20,L 1,,2:18,,False,GSW,2021
+41,"Wed, Mar 17, 2021",8:00p,,Box Score,@,Houston Rockets,W,,108,94,21,20,W 1,3259,2:10,,False,GSW,2021
+42,"Fri, Mar 19, 2021",8:00p,,Box Score,@,Memphis Grizzlies,W,,116,103,22,20,W 2,2716,2:13,,False,GSW,2021
+43,"Sat, Mar 20, 2021",8:00p,,Box Score,@,Memphis Grizzlies,L,,103,111,22,21,L 1,,2:17,,False,GSW,2021
+44,"Tue, Mar 23, 2021",10:00p,,Box Score,,Philadelphia 76ers,L,,98,108,22,22,L 2,,2:28,,False,GSW,2021
+45,"Thu, Mar 25, 2021",10:00p,,Box Score,@,Sacramento Kings,L,,119,141,22,23,L 3,,2:02,,False,GSW,2021
+46,"Fri, Mar 26, 2021",10:00p,,Box Score,,Atlanta Hawks,L,,108,124,22,24,L 4,,2:10,,False,GSW,2021
+47,"Mon, Mar 29, 2021",10:00p,,Box Score,,Chicago Bulls,W,,116,102,23,24,W 1,,2:05,,False,GSW,2021
+48,"Thu, Apr 1, 2021",8:00p,,Box Score,@,Miami Heat,L,,109,116,23,25,L 1,,2:22,,False,GSW,2021
+49,"Fri, Apr 2, 2021",7:00p,,Box Score,@,Toronto Raptors,L,,77,130,23,26,L 2,3085,2:11,,False,GSW,2021
+50,"Sun, Apr 4, 2021",7:30p,,Box Score,@,Atlanta Hawks,L,,111,117,23,27,L 3,2937,2:27,,False,GSW,2021
+51,"Tue, Apr 6, 2021",10:00p,,Box Score,,Milwaukee Bucks,W,,122,121,24,27,W 1,,2:20,,False,GSW,2021
+52,"Fri, Apr 9, 2021",10:00p,,Box Score,,Washington Wizards,L,,107,110,24,28,L 1,,2:10,,False,GSW,2021
+53,"Sat, Apr 10, 2021",10:00p,,Box Score,,Houston Rockets,W,,125,109,25,28,W 1,,2:05,,False,GSW,2021
+54,"Mon, Apr 12, 2021",10:00p,,Box Score,,Denver Nuggets,W,,116,107,26,28,W 2,,2:31,,False,GSW,2021
+55,"Wed, Apr 14, 2021",9:00p,,Box Score,@,Oklahoma City Thunder,W,,147,109,27,28,W 3,,2:06,,False,GSW,2021
+56,"Thu, Apr 15, 2021",8:00p,,Box Score,@,Cleveland Cavaliers,W,,119,101,28,28,W 4,4148,2:14,,False,GSW,2021
+57,"Sat, Apr 17, 2021",8:30p,,Box Score,@,Boston Celtics,L,,114,119,28,29,L 1,2298,2:24,,False,GSW,2021
+58,"Mon, Apr 19, 2021",7:30p,,Box Score,@,Philadelphia 76ers,W,,107,96,29,29,W 1,4094,2:26,,False,GSW,2021
+59,"Wed, Apr 21, 2021",7:00p,,Box Score,@,Washington Wizards,L,,114,118,29,30,L 1,2133,2:22,,False,GSW,2021
+60,"Fri, Apr 23, 2021",10:00p,,Box Score,,Denver Nuggets,W,,118,97,30,30,W 1,1935,2:14,,False,GSW,2021
+61,"Sun, Apr 25, 2021",10:00p,,Box Score,,Sacramento Kings,W,,117,113,31,30,W 2,3252,2:12,,False,GSW,2021
+62,"Tue, Apr 27, 2021",9:30p,,Box Score,,Dallas Mavericks,L,,103,133,31,31,L 1,3613,2:15,,False,GSW,2021
+63,"Thu, Apr 29, 2021",8:00p,,Box Score,@,Minnesota Timberwolves,L,,114,126,31,32,L 2,1638,2:16,,False,GSW,2021
+64,"Sat, May 1, 2021",7:30p,,Box Score,@,Houston Rockets,W,,113,87,32,32,W 1,3702,2:09,,False,GSW,2021
+65,"Mon, May 3, 2021",7:30p,,Box Score,@,New Orleans Pelicans,W,,123,108,33,32,W 2,3700,2:19,,False,GSW,2021
+66,"Tue, May 4, 2021",8:00p,,Box Score,@,New Orleans Pelicans,L,,103,108,33,33,L 1,3700,2:10,,False,GSW,2021
+67,"Thu, May 6, 2021",10:00p,,Box Score,,Oklahoma City Thunder,W,,118,97,34,33,W 1,3621,2:06,,False,GSW,2021
+68,"Sat, May 8, 2021",10:00p,,Box Score,,Oklahoma City Thunder,W,,136,97,35,33,W 2,4155,2:00,,False,GSW,2021
+69,"Mon, May 10, 2021",10:00p,,Box Score,,Utah Jazz,W,,119,116,36,33,W 3,4155,2:15,,False,GSW,2021
+70,"Tue, May 11, 2021",10:00p,,Box Score,,Phoenix Suns,W,,122,116,37,33,W 4,4155,2:11,,False,GSW,2021
+71,"Fri, May 14, 2021",9:30p,,Box Score,,New Orleans Pelicans,W,,125,122,38,33,W 5,4155,2:22,,False,GSW,2021
+72,"Sun, May 16, 2021",3:30p,,Box Score,,Memphis Grizzlies,W,,113,101,39,33,W 6,4416,2:23,,False,GSW,2021
+73,"Wed, May 19, 2021",10:00p,,Box Score,@,Los Angeles Lakers,L,,100,103,39,34,L 1,6022,2:25,Play-In Game,False,GSW,2021
+74,"Fri, May 21, 2021",9:00p,,Box Score,,Memphis Grizzlies,L,OT,112,117,39,35,L 2,7505,2:42,Play-In Game,False,GSW,2021

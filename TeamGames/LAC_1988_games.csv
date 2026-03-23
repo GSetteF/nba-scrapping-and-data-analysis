@@ -1,0 +1,83 @@
+G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Opponent,Unnamed: 6,Unnamed: 7,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Fri, Nov 6, 1987",,Box Score,@,Denver Nuggets,L,,93,139,0,1,L 1,11534,,,False,LAC,1988
+2,"Sat, Nov 7, 1987",,Box Score,,Portland Trail Blazers,L,,99,124,0,2,L 2,10045,,,False,LAC,1988
+3,"Tue, Nov 10, 1987",,Box Score,,Utah Jazz,W,,100,88,1,2,W 1,6104,,,False,LAC,1988
+4,"Thu, Nov 12, 1987",,Box Score,@,Los Angeles Lakers,L,,82,111,1,3,L 1,15569,,,False,LAC,1988
+5,"Fri, Nov 13, 1987",,Box Score,,Golden State Warriors,W,,97,94,2,3,W 1,5760,,,False,LAC,1988
+6,"Tue, Nov 17, 1987",,Box Score,@,San Antonio Spurs,L,OT,121,122,2,4,L 1,8892,,,False,LAC,1988
+7,"Wed, Nov 18, 1987",,Box Score,@,Dallas Mavericks,L,,87,97,2,5,L 2,16785,,,False,LAC,1988
+8,"Fri, Nov 20, 1987",,Box Score,@,Phoenix Suns,W,,112,96,3,5,W 1,9464,,,False,LAC,1988
+9,"Sat, Nov 21, 1987",,Box Score,,Denver Nuggets,L,,91,97,3,6,L 1,6131,,,False,LAC,1988
+10,"Tue, Nov 24, 1987",,Box Score,@,Golden State Warriors,W,2OT,123,120,4,6,W 1,8361,,,False,LAC,1988
+11,"Wed, Nov 25, 1987",,Box Score,,Washington Bullets,L,,96,101,4,7,L 1,6852,,,False,LAC,1988
+12,"Fri, Nov 27, 1987",,Box Score,@,Portland Trail Blazers,L,,87,97,4,8,L 2,12666,,,False,LAC,1988
+13,"Wed, Dec 2, 1987",,Box Score,,Philadelphia 76ers,W,,88,85,5,8,W 1,8232,,,False,LAC,1988
+14,"Fri, Dec 4, 1987",,Box Score,,Sacramento Kings,W,,98,84,6,8,W 2,3205,,,False,LAC,1988
+15,"Sun, Dec 6, 1987",,Box Score,,Phoenix Suns,L,,96,97,6,9,L 1,5467,,,False,LAC,1988
+16,"Tue, Dec 8, 1987",,Box Score,,Atlanta Hawks,L,,79,90,6,10,L 2,9245,,,False,LAC,1988
+17,"Thu, Dec 10, 1987",,Box Score,,Seattle SuperSonics,W,,113,96,7,10,W 1,5852,,,False,LAC,1988
+18,"Sat, Dec 12, 1987",,Box Score,@,Seattle SuperSonics,L,,95,116,7,11,L 1,10623,,,False,LAC,1988
+19,"Tue, Dec 15, 1987",,Box Score,@,Sacramento Kings,L,,108,128,7,12,L 2,10333,,,False,LAC,1988
+20,"Thu, Dec 17, 1987",,Box Score,,Houston Rockets,W,,98,92,8,12,W 1,6519,,,False,LAC,1988
+21,"Sat, Dec 19, 1987",,Box Score,,Los Angeles Lakers,L,,97,108,8,13,L 1,14417,,,False,LAC,1988
+22,"Wed, Dec 23, 1987",,Box Score,,San Antonio Spurs,L,,97,111,8,14,L 2,7763,,,False,LAC,1988
+23,"Sat, Dec 26, 1987",,Box Score,,Boston Celtics,L,,97,106,8,15,L 3,15167,2:05,,False,LAC,1988
+24,"Wed, Dec 30, 1987",,Box Score,,Phoenix Suns,L,,102,121,8,16,L 4,7420,,,False,LAC,1988
+25,"Fri, Jan 1, 1988",,Box Score,@,New York Knicks,L,,96,115,8,17,L 5,11820,,,False,LAC,1988
+26,"Sun, Jan 3, 1988",,Box Score,@,Atlanta Hawks,L,,84,121,8,18,L 6,9456,,,False,LAC,1988
+27,"Tue, Jan 5, 1988",,Box Score,@,Milwaukee Bucks,L,,82,98,8,19,L 7,11062,,,False,LAC,1988
+28,"Wed, Jan 6, 1988",,Box Score,@,Cleveland Cavaliers,L,,100,116,8,20,L 8,7017,,,False,LAC,1988
+29,"Fri, Jan 8, 1988",,Box Score,@,Philadelphia 76ers,L,,103,117,8,21,L 9,8045,,,False,LAC,1988
+30,"Sat, Jan 9, 1988",,Box Score,@,Washington Bullets,L,,76,108,8,22,L 10,6213,,,False,LAC,1988
+31,"Mon, Jan 11, 1988",,Box Score,@,Indiana Pacers,L,,90,111,8,23,L 11,7230,,,False,LAC,1988
+32,"Wed, Jan 13, 1988",,Box Score,,Los Angeles Lakers,W,OT,110,109,9,23,W 1,14906,,,False,LAC,1988
+33,"Fri, Jan 15, 1988",,Box Score,@,Golden State Warriors,L,,116,123,9,24,L 1,9108,,,False,LAC,1988
+34,"Sat, Jan 16, 1988",,Box Score,,Seattle SuperSonics,L,OT,112,114,9,25,L 2,8697,,,False,LAC,1988
+35,"Mon, Jan 18, 1988",,Box Score,,Dallas Mavericks,L,,87,99,9,26,L 3,6936,,,False,LAC,1988
+36,"Wed, Jan 20, 1988",,Box Score,,Indiana Pacers,W,,104,97,10,26,W 1,6773,,,False,LAC,1988
+37,"Fri, Jan 22, 1988",,Box Score,@,Dallas Mavericks,L,,87,110,10,27,L 1,17007,,,False,LAC,1988
+38,"Sat, Jan 23, 1988",,Box Score,@,San Antonio Spurs,L,,100,106,10,28,L 2,7369,,,False,LAC,1988
+39,"Tue, Jan 26, 1988",,Box Score,@,Houston Rockets,L,,104,124,10,29,L 3,16611,,,False,LAC,1988
+40,"Fri, Jan 29, 1988",,Box Score,,Milwaukee Bucks,L,,88,97,10,30,L 4,9239,,,False,LAC,1988
+41,"Sat, Jan 30, 1988",,Box Score,@,Denver Nuggets,L,,106,124,10,31,L 5,11488,,,False,LAC,1988
+42,"Thu, Feb 4, 1988",,Box Score,,Los Angeles Lakers,L,,86,117,10,32,L 6,15371,,,False,LAC,1988
+43,"Tue, Feb 9, 1988",,Box Score,@,Phoenix Suns,L,,100,106,10,33,L 7,8756,,,False,LAC,1988
+44,"Wed, Feb 10, 1988",,Box Score,,Phoenix Suns,W,,101,95,11,33,W 1,5670,,,False,LAC,1988
+45,"Fri, Feb 12, 1988",,Box Score,,Houston Rockets,L,,105,112,11,34,L 1,11003,,,False,LAC,1988
+46,"Sun, Feb 14, 1988",,Box Score,,Dallas Mavericks,L,,100,110,11,35,L 2,6535,,,False,LAC,1988
+47,"Tue, Feb 16, 1988",,Box Score,@,Los Angeles Lakers,L,,100,119,11,36,L 3,17505,,,False,LAC,1988
+48,"Wed, Feb 17, 1988",,Box Score,,Portland Trail Blazers,L,,96,110,11,37,L 4,7710,,,False,LAC,1988
+49,"Fri, Feb 19, 1988",,Box Score,,Utah Jazz,L,,88,98,11,38,L 5,8208,,,False,LAC,1988
+50,"Sat, Feb 20, 1988",,Box Score,@,Utah Jazz,L,,103,120,11,39,L 6,12444,,,False,LAC,1988
+51,"Thu, Feb 25, 1988",,Box Score,,New York Knicks,L,,96,106,11,40,L 7,12129,,,False,LAC,1988
+52,"Sat, Feb 27, 1988",,Box Score,,Cleveland Cavaliers,W,,97,96,12,40,W 1,11224,,,False,LAC,1988
+53,"Tue, Mar 1, 1988",,Box Score,@,New Jersey Nets,L,,75,104,12,41,L 1,8036,,,False,LAC,1988
+54,"Wed, Mar 2, 1988",,Box Score,@,Detroit Pistons,L,,90,103,12,42,L 2,16554,,,False,LAC,1988
+55,"Fri, Mar 4, 1988",,Box Score,@,Boston Celtics,L,,90,121,12,43,L 3,14890,2:00,,False,LAC,1988
+56,"Sat, Mar 5, 1988",,Box Score,@,Chicago Bulls,L,,76,100,12,44,L 4,18025,,,False,LAC,1988
+57,"Wed, Mar 9, 1988",,Box Score,,New Jersey Nets,L,,93,97,12,45,L 5,7782,,,False,LAC,1988
+58,"Fri, Mar 11, 1988",,Box Score,,Golden State Warriors,L,,96,101,12,46,L 6,7276,,,False,LAC,1988
+59,"Sun, Mar 13, 1988",,Box Score,@,Portland Trail Blazers,L,,100,121,12,47,L 7,12666,,,False,LAC,1988
+60,"Tue, Mar 15, 1988",,Box Score,@,Houston Rockets,L,,110,116,12,48,L 8,16611,,,False,LAC,1988
+61,"Wed, Mar 16, 1988",,Box Score,@,San Antonio Spurs,L,,110,113,12,49,L 9,5086,,,False,LAC,1988
+62,"Fri, Mar 18, 1988",,Box Score,,Dallas Mavericks,L,,98,106,12,50,L 10,12036,,,False,LAC,1988
+63,"Sun, Mar 20, 1988",,Box Score,,Sacramento Kings,W,,116,112,13,50,W 1,4920,,,False,LAC,1988
+64,"Mon, Mar 21, 1988",,Box Score,@,Phoenix Suns,L,,99,107,13,51,L 1,10602,,,False,LAC,1988
+65,"Wed, Mar 23, 1988",,Box Score,,Denver Nuggets,L,,108,118,13,52,L 2,8569,,,False,LAC,1988
+66,"Fri, Mar 25, 1988",,Box Score,,Golden State Warriors,W,,113,98,14,52,W 1,7884,,,False,LAC,1988
+67,"Sat, Mar 26, 1988",,Box Score,@,Seattle SuperSonics,L,,98,131,14,53,L 1,11650,,,False,LAC,1988
+68,"Mon, Mar 28, 1988",,Box Score,,Detroit Pistons,W,,102,100,15,53,W 1,12156,,,False,LAC,1988
+69,"Wed, Mar 30, 1988",,Box Score,,Chicago Bulls,L,,94,111,15,54,L 1,15167,,,False,LAC,1988
+70,"Fri, Apr 1, 1988",,Box Score,,San Antonio Spurs,L,,91,105,15,55,L 2,8966,,,False,LAC,1988
+71,"Sat, Apr 2, 1988",,Box Score,@,Sacramento Kings,W,,105,103,16,55,W 1,10333,,,False,LAC,1988
+72,"Tue, Apr 5, 1988",,Box Score,@,Portland Trail Blazers,L,,119,141,16,56,L 1,12666,,,False,LAC,1988
+73,"Wed, Apr 6, 1988",,Box Score,,Portland Trail Blazers,L,,103,111,16,57,L 2,7593,,,False,LAC,1988
+74,"Fri, Apr 8, 1988",,Box Score,@,Los Angeles Lakers,L,,107,126,16,58,L 3,17505,,,False,LAC,1988
+75,"Sun, Apr 10, 1988",,Box Score,,Houston Rockets,W,,122,105,17,58,W 1,10660,,,False,LAC,1988
+76,"Tue, Apr 12, 1988",,Box Score,@,Utah Jazz,L,,93,100,17,59,L 1,12444,,,False,LAC,1988
+77,"Wed, Apr 13, 1988",,Box Score,@,Seattle SuperSonics,L,,92,113,17,60,L 2,,,,False,LAC,1988
+78,"Sat, Apr 16, 1988",,Box Score,@,Golden State Warriors,L,,110,113,17,61,L 3,,,,False,LAC,1988
+79,"Tue, Apr 19, 1988",,Box Score,@,Sacramento Kings,L,,105,120,17,62,L 4,10333,,,False,LAC,1988
+80,"Wed, Apr 20, 1988",,Box Score,,Utah Jazz,L,,106,112,17,63,L 5,,,,False,LAC,1988
+81,"Sat, Apr 23, 1988",,Box Score,@,Denver Nuggets,L,,109,134,17,64,L 6,17022,,,False,LAC,1988
+82,"Sun, Apr 24, 1988",,Box Score,,Seattle SuperSonics,L,,100,109,17,65,L 7,,,,False,LAC,1988

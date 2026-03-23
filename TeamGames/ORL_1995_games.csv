@@ -1,0 +1,104 @@
+G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Opponent,Unnamed: 6,Unnamed: 7,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Fri, Nov 4, 1994",,Box Score,@,Washington Bullets,L,,108,110,0,1,L 1,18756,,,False,ORL,1995
+2,"Sat, Nov 5, 1994",,Box Score,,Philadelphia 76ers,W,,122,107,1,1,W 1,16010,,,False,ORL,1995
+3,"Wed, Nov 9, 1994",,Box Score,@,Charlotte Hornets,W,OT,130,128,2,1,W 2,23698,,,False,ORL,1995
+4,"Thu, Nov 10, 1994",,Box Score,@,New York Knicks,L,,99,101,2,2,L 1,19763,,,False,ORL,1995
+5,"Sat, Nov 12, 1994",,Box Score,@,Philadelphia 76ers,W,,116,103,3,2,W 1,17247,,,False,ORL,1995
+6,"Tue, Nov 15, 1994",,Box Score,,Washington Bullets,W,,122,102,4,2,W 2,16010,,,False,ORL,1995
+7,"Fri, Nov 18, 1994",,Box Score,,New Jersey Nets,W,,113,103,5,2,W 3,16010,,,False,ORL,1995
+8,"Mon, Nov 21, 1994",,Box Score,,Miami Heat,W,,124,89,6,2,W 4,16010,,,False,ORL,1995
+9,"Wed, Nov 23, 1994",,Box Score,,Houston Rockets,W,,117,94,7,2,W 5,16010,2:13,,False,ORL,1995
+10,"Fri, Nov 25, 1994",,Box Score,@,Boston Celtics,W,,124,118,8,2,W 6,14890,2:12,,False,ORL,1995
+11,"Sat, Nov 26, 1994",,Box Score,@,Milwaukee Bucks,W,,113,105,9,2,W 7,18633,,,False,ORL,1995
+12,"Wed, Nov 30, 1994",,Box Score,,Sacramento Kings,W,,114,107,10,2,W 8,16010,,,False,ORL,1995
+13,"Fri, Dec 2, 1994",,Box Score,,New York Knicks,W,,125,100,11,2,W 9,16010,,,False,ORL,1995
+14,"Sat, Dec 3, 1994",,Box Score,@,Atlanta Hawks,L,,105,107,11,3,L 1,15752,2:12,,False,ORL,1995
+15,"Tue, Dec 6, 1994",,Box Score,@,Cleveland Cavaliers,W,,114,97,12,3,W 1,20562,,,False,ORL,1995
+16,"Wed, Dec 7, 1994",,Box Score,,Cleveland Cavaliers,W,,90,75,13,3,W 2,16010,,,False,ORL,1995
+17,"Fri, Dec 9, 1994",,Box Score,@,Miami Heat,W,,110,96,14,3,W 3,15200,,,False,ORL,1995
+18,"Sat, Dec 10, 1994",,Box Score,,Atlanta Hawks,W,,109,98,15,3,W 4,16010,,,False,ORL,1995
+19,"Mon, Dec 12, 1994",,Box Score,@,New Jersey Nets,L,,101,128,15,4,L 1,20049,,,False,ORL,1995
+20,"Wed, Dec 14, 1994",,Box Score,,Denver Nuggets,W,,120,96,16,4,W 1,16010,,,False,ORL,1995
+21,"Fri, Dec 16, 1994",,Box Score,@,Golden State Warriors,W,OT,131,128,17,4,W 2,15025,,,False,ORL,1995
+22,"Sat, Dec 17, 1994",,Box Score,@,Seattle SuperSonics,L,,84,124,17,5,L 1,16832,,,False,ORL,1995
+23,"Tue, Dec 20, 1994",,Box Score,@,Portland Trail Blazers,W,,108,104,18,5,W 1,12888,,,False,ORL,1995
+24,"Wed, Dec 21, 1994",,Box Score,@,Los Angeles Clippers,W,,102,91,19,5,W 2,12498,,,False,ORL,1995
+25,"Fri, Dec 23, 1994",,Box Score,,Milwaukee Bucks,W,,123,91,20,5,W 3,16010,,,False,ORL,1995
+26,"Mon, Dec 26, 1994",,Box Score,@,Washington Bullets,W,OT,128,121,21,5,W 4,18756,,,False,ORL,1995
+27,"Tue, Dec 27, 1994",,Box Score,,Miami Heat,W,,103,83,22,5,W 5,16010,,,False,ORL,1995
+28,"Thu, Dec 29, 1994",,Box Score,@,Charlotte Hornets,L,,123,125,22,6,L 1,23698,,,False,ORL,1995
+29,"Fri, Dec 30, 1994",,Box Score,,Los Angeles Clippers,W,OT,116,105,23,6,W 1,16010,,,False,ORL,1995
+30,"Wed, Jan 4, 1995",,Box Score,,New Jersey Nets,W,,113,110,24,6,W 2,16010,,,False,ORL,1995
+31,"Fri, Jan 6, 1995",,Box Score,,Minnesota Timberwolves,W,,121,99,25,6,W 3,16010,,,False,ORL,1995
+32,"Sun, Jan 8, 1995",,Box Score,@,Detroit Pistons,W,,108,88,26,6,W 4,21454,,,False,ORL,1995
+33,"Tue, Jan 10, 1995",,Box Score,@,Chicago Bulls,L,,77,109,26,7,L 1,22529,,,False,ORL,1995
+34,"Wed, Jan 11, 1995",,Box Score,,Detroit Pistons,W,,124,107,27,7,W 1,16010,,,False,ORL,1995
+35,"Fri, Jan 13, 1995",,Box Score,@,Atlanta Hawks,W,,101,96,28,7,W 2,16378,2:15,,False,ORL,1995
+36,"Sat, Jan 14, 1995",,Box Score,,Philadelphia 76ers,W,,91,70,29,7,W 3,16010,,,False,ORL,1995
+37,"Tue, Jan 17, 1995",,Box Score,,Charlotte Hornets,W,,109,98,30,7,W 4,16010,,,False,ORL,1995
+38,"Wed, Jan 18, 1995",,Box Score,@,Dallas Mavericks,W,,108,97,31,7,W 5,17502,,,False,ORL,1995
+39,"Fri, Jan 20, 1995",,Box Score,@,Denver Nuggets,W,OT,112,108,32,7,W 6,17171,,,False,ORL,1995
+40,"Sun, Jan 22, 1995",,Box Score,@,Phoenix Suns,L,OT,110,111,32,8,L 1,19023,,,False,ORL,1995
+41,"Tue, Jan 24, 1995",,Box Score,,Boston Celtics,W,,110,97,33,8,W 1,16010,2:05,,False,ORL,1995
+42,"Thu, Jan 26, 1995",,Box Score,,Chicago Bulls,W,,102,99,34,8,W 2,16010,,,False,ORL,1995
+43,"Sat, Jan 28, 1995",,Box Score,,Milwaukee Bucks,W,,107,103,35,8,W 3,16010,,,False,ORL,1995
+44,"Thu, Feb 2, 1995",,Box Score,,Seattle SuperSonics,L,,103,106,35,9,L 1,16010,,,False,ORL,1995
+45,"Fri, Feb 3, 1995",,Box Score,@,Indiana Pacers,L,,106,118,35,10,L 2,16749,,,False,ORL,1995
+46,"Sun, Feb 5, 1995",,Box Score,,New York Knicks,W,OT,103,100,36,10,W 1,16010,,,False,ORL,1995
+47,"Wed, Feb 8, 1995",,Box Score,,Dallas Mavericks,W,,110,92,37,10,W 2,16010,,,False,ORL,1995
+48,"Tue, Feb 14, 1995",,Box Score,,Indiana Pacers,W,,111,92,38,10,W 3,16010,,,False,ORL,1995
+49,"Wed, Feb 15, 1995",,Box Score,@,Cleveland Cavaliers,L,OT,99,100,38,11,L 1,20562,,,False,ORL,1995
+50,"Fri, Feb 17, 1995",,Box Score,,Philadelphia 76ers,W,,129,83,39,11,W 1,16010,,,False,ORL,1995
+51,"Sun, Feb 19, 1995",,Box Score,@,Minnesota Timberwolves,L,,95,100,39,12,L 1,19934,,,False,ORL,1995
+52,"Mon, Feb 20, 1995",,Box Score,@,Milwaukee Bucks,W,,152,104,40,12,W 1,18633,,,False,ORL,1995
+53,"Thu, Feb 23, 1995",,Box Score,@,Boston Celtics,L,,117,119,40,13,L 1,15242,2:20,"at Hartford, CT",False,ORL,1995
+54,"Fri, Feb 24, 1995",,Box Score,,Boston Celtics,W,,129,103,41,13,W 1,16010,2:16,,False,ORL,1995
+55,"Sun, Feb 26, 1995",,Box Score,,Chicago Bulls,W,,105,103,42,13,W 2,16010,,,False,ORL,1995
+56,"Tue, Feb 28, 1995",,Box Score,,New York Knicks,W,,118,106,43,13,W 3,16010,,,False,ORL,1995
+57,"Thu, Mar 2, 1995",,Box Score,@,Houston Rockets,W,,107,96,44,13,W 4,16611,2:06,,False,ORL,1995
+58,"Fri, Mar 3, 1995",,Box Score,@,San Antonio Spurs,L,,111,112,44,14,L 1,35818,,,False,ORL,1995
+59,"Sun, Mar 5, 1995",,Box Score,,Atlanta Hawks,W,OT,113,111,45,14,W 1,16010,2:45,,False,ORL,1995
+60,"Wed, Mar 8, 1995",,Box Score,,Los Angeles Lakers,W,,114,110,46,14,W 2,16010,,,False,ORL,1995
+61,"Fri, Mar 10, 1995",,Box Score,,Portland Trail Blazers,W,,97,85,47,14,W 3,16010,,,False,ORL,1995
+62,"Sun, Mar 12, 1995",,Box Score,,San Antonio Spurs,W,,110,104,48,14,W 4,16010,,,False,ORL,1995
+63,"Tue, Mar 14, 1995",,Box Score,,Utah Jazz,L,,95,107,48,15,L 1,16010,,,False,ORL,1995
+64,"Wed, Mar 15, 1995",,Box Score,@,New Jersey Nets,L,,99,108,48,16,L 2,20049,,,False,ORL,1995
+65,"Fri, Mar 17, 1995",,Box Score,@,Indiana Pacers,L,,97,107,48,17,L 3,16706,,,False,ORL,1995
+66,"Tue, Mar 21, 1995",,Box Score,,Phoenix Suns,W,,126,102,49,17,W 1,16010,,,False,ORL,1995
+67,"Thu, Mar 23, 1995",,Box Score,,Charlotte Hornets,W,,105,93,50,17,W 2,16010,,,False,ORL,1995
+68,"Fri, Mar 24, 1995",,Box Score,@,Chicago Bulls,W,,106,99,51,17,W 3,24247,,,False,ORL,1995
+69,"Sun, Mar 26, 1995",,Box Score,,Golden State Warriors,W,,132,98,52,17,W 4,16010,,,False,ORL,1995
+70,"Tue, Mar 28, 1995",,Box Score,@,Sacramento Kings,L,,106,117,52,18,L 1,17317,,,False,ORL,1995
+71,"Fri, Mar 31, 1995",,Box Score,@,Utah Jazz,W,,101,98,53,18,W 1,19911,,,False,ORL,1995
+72,"Sun, Apr 2, 1995",,Box Score,@,Los Angeles Lakers,L,,112,119,53,19,L 1,17505,,,False,ORL,1995
+73,"Wed, Apr 5, 1995",,Box Score,,Detroit Pistons,W,,128,125,54,19,W 1,16010,,,False,ORL,1995
+74,"Fri, Apr 7, 1995",,Box Score,@,Detroit Pistons,L,,94,104,54,20,L 1,21454,,,False,ORL,1995
+75,"Sat, Apr 8, 1995",,Box Score,@,Philadelphia 76ers,L,,99,109,54,21,L 2,18168,,,False,ORL,1995
+76,"Tue, Apr 11, 1995",,Box Score,,Cleveland Cavaliers,W,,107,90,55,21,W 1,16010,,,False,ORL,1995
+77,"Thu, Apr 13, 1995",,Box Score,@,Boston Celtics,L,,114,119,55,22,L 1,14890,2:28,,False,ORL,1995
+78,"Sat, Apr 15, 1995",,Box Score,@,Miami Heat,L,,117,123,55,23,L 2,15200,,,False,ORL,1995
+79,"Mon, Apr 17, 1995",,Box Score,,Washington Bullets,W,,111,100,56,23,W 1,16010,,,False,ORL,1995
+80,"Wed, Apr 19, 1995",,Box Score,@,Washington Bullets,L,OT,117,123,56,24,L 1,18756,,,False,ORL,1995
+81,"Fri, Apr 21, 1995",,Box Score,,Indiana Pacers,W,,110,86,57,24,W 1,16010,,,False,ORL,1995
+82,"Sun, Apr 23, 1995",,Box Score,@,New York Knicks,L,,99,113,57,25,L 1,19763,,,False,ORL,1995
+1,"Fri, Apr 28, 1995",,Box Score,,Boston Celtics,W,,124,77,1,0,W 1,16010,2:20,,True,ORL,1995
+2,"Sun, Apr 30, 1995",,Box Score,,Boston Celtics,L,,92,99,1,1,L 1,16010,2:30,,True,ORL,1995
+3,"Wed, May 3, 1995",,Box Score,@,Boston Celtics,W,,82,77,2,1,W 1,14890,2:21,,True,ORL,1995
+4,"Fri, May 5, 1995",,Box Score,@,Boston Celtics,W,,95,92,3,1,W 2,14890,2:27,,True,ORL,1995
+5,"Sun, May 7, 1995",,Box Score,,Chicago Bulls,W,,94,91,4,1,W 3,16010,2:38,,True,ORL,1995
+6,"Wed, May 10, 1995",,Box Score,,Chicago Bulls,L,,94,104,4,2,L 1,16010,2:26,,True,ORL,1995
+7,"Fri, May 12, 1995",,Box Score,@,Chicago Bulls,W,,110,101,5,2,W 1,24281,,,True,ORL,1995
+8,"Sun, May 14, 1995",,Box Score,@,Chicago Bulls,L,,95,106,5,3,L 1,24358,,,True,ORL,1995
+9,"Tue, May 16, 1995",,Box Score,,Chicago Bulls,W,,103,95,6,3,W 1,16010,2:17,,True,ORL,1995
+10,"Thu, May 18, 1995",,Box Score,@,Chicago Bulls,W,,108,102,7,3,W 2,24322,2:30,,True,ORL,1995
+11,"Tue, May 23, 1995",,Box Score,,Indiana Pacers,W,,105,101,8,3,W 3,16010,2:25,,True,ORL,1995
+12,"Thu, May 25, 1995",,Box Score,,Indiana Pacers,W,,119,114,9,3,W 4,16010,2:36,,True,ORL,1995
+13,"Sat, May 27, 1995",,Box Score,@,Indiana Pacers,L,,100,105,9,4,L 1,16477,2:42,,True,ORL,1995
+14,"Mon, May 29, 1995",,Box Score,@,Indiana Pacers,L,,93,94,9,5,L 2,16477,2:41,,True,ORL,1995
+15,"Wed, May 31, 1995",,Box Score,,Indiana Pacers,W,,108,106,10,5,W 1,16010,2:46,,True,ORL,1995
+16,"Fri, Jun 2, 1995",,Box Score,@,Indiana Pacers,L,,96,123,10,6,L 1,16477,2:17,,True,ORL,1995
+17,"Sun, Jun 4, 1995",,Box Score,,Indiana Pacers,W,,105,81,11,6,W 1,16010,2:29,,True,ORL,1995
+18,"Wed, Jun 7, 1995",,Box Score,,Houston Rockets,L,OT,118,120,11,7,L 1,16010,2:46,,True,ORL,1995
+19,"Fri, Jun 9, 1995",,Box Score,,Houston Rockets,L,,106,117,11,8,L 2,16010,,,True,ORL,1995
+20,"Sun, Jun 11, 1995",,Box Score,@,Houston Rockets,L,,103,106,11,9,L 3,16611,,,True,ORL,1995
+21,"Wed, Jun 14, 1995",,Box Score,@,Houston Rockets,L,,101,113,11,10,L 4,16611,,,True,ORL,1995

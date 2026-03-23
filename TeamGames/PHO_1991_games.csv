@@ -1,0 +1,87 @@
+G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Opponent,Unnamed: 6,Unnamed: 7,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Fri, Nov 2, 1990",,Box Score,@,Utah Jazz,W,,119,96,1,0,W 1,10111,,"at Tokyo, Japan (Tokyo Metropolitan Gymnasium)",False,PHO,1991
+2,"Sat, Nov 3, 1990",,Box Score,,Utah Jazz,L,,101,102,1,1,L 1,10111,,"at Tokyo, Japan (Tokyo Metropolitan Gymnasium)",False,PHO,1991
+3,"Wed, Nov 7, 1990",,Box Score,,Golden State Warriors,W,,126,119,2,1,W 1,14487,,,False,PHO,1991
+4,"Sat, Nov 10, 1990",,Box Score,,Denver Nuggets,W,,173,143,3,1,W 2,14487,,,False,PHO,1991
+5,"Tue, Nov 13, 1990",,Box Score,@,Los Angeles Lakers,W,,112,111,4,1,W 3,16512,,,False,PHO,1991
+6,"Wed, Nov 14, 1990",,Box Score,@,Los Angeles Clippers,L,,102,108,4,2,L 1,11812,,,False,PHO,1991
+7,"Fri, Nov 16, 1990",,Box Score,,Los Angeles Clippers,W,OT,121,110,5,2,W 1,14487,,,False,PHO,1991
+8,"Sat, Nov 17, 1990",,Box Score,@,San Antonio Spurs,L,,114,128,5,3,L 1,15908,,,False,PHO,1991
+9,"Wed, Nov 21, 1990",,Box Score,,Chicago Bulls,W,,109,107,6,3,W 1,14487,,,False,PHO,1991
+10,"Fri, Nov 23, 1990",,Box Score,,New Jersey Nets,L,,114,116,6,4,L 1,14487,,,False,PHO,1991
+11,"Tue, Nov 27, 1990",,Box Score,@,Portland Trail Blazers,W,,123,109,7,4,W 1,12884,,,False,PHO,1991
+12,"Thu, Nov 29, 1990",,Box Score,,Seattle SuperSonics,W,,128,110,8,4,W 2,14487,,,False,PHO,1991
+13,"Sat, Dec 1, 1990",,Box Score,,Los Angeles Lakers,L,,98,108,8,5,L 1,14487,,,False,PHO,1991
+14,"Tue, Dec 4, 1990",,Box Score,@,Chicago Bulls,L,,127,155,8,6,L 2,18094,,,False,PHO,1991
+15,"Wed, Dec 5, 1990",,Box Score,@,Indiana Pacers,L,,121,126,8,7,L 3,6557,,,False,PHO,1991
+16,"Fri, Dec 7, 1990",,Box Score,@,New Jersey Nets,W,,129,110,9,7,W 1,11019,,,False,PHO,1991
+17,"Sat, Dec 8, 1990",,Box Score,@,Orlando Magic,W,,113,109,10,7,W 2,15077,,,False,PHO,1991
+18,"Tue, Dec 11, 1990",,Box Score,,Sacramento Kings,W,,113,90,11,7,W 3,14487,,,False,PHO,1991
+19,"Thu, Dec 13, 1990",,Box Score,,Orlando Magic,W,,125,114,12,7,W 4,14487,,,False,PHO,1991
+20,"Sat, Dec 15, 1990",,Box Score,@,Denver Nuggets,W,,142,134,13,7,W 5,13696,,,False,PHO,1991
+21,"Tue, Dec 18, 1990",,Box Score,@,Dallas Mavericks,W,,114,95,14,7,W 6,17007,,,False,PHO,1991
+22,"Wed, Dec 19, 1990",,Box Score,,Minnesota Timberwolves,W,,112,96,15,7,W 7,14487,,,False,PHO,1991
+23,"Fri, Dec 21, 1990",,Box Score,,San Antonio Spurs,L,OT,128,132,15,8,L 1,14487,,,False,PHO,1991
+24,"Sat, Dec 22, 1990",,Box Score,@,Houston Rockets,L,,102,122,15,9,L 2,14996,,,False,PHO,1991
+25,"Wed, Dec 26, 1990",,Box Score,,Dallas Mavericks,W,,115,88,16,9,W 1,14487,,,False,PHO,1991
+26,"Fri, Dec 28, 1990",,Box Score,,Philadelphia 76ers,W,,115,96,17,9,W 2,14487,,,False,PHO,1991
+27,"Sat, Dec 29, 1990",,Box Score,,Miami Heat,W,,134,95,18,9,W 3,14487,,,False,PHO,1991
+28,"Wed, Jan 2, 1991",,Box Score,@,Cleveland Cavaliers,W,,105,83,19,9,W 4,15808,,,False,PHO,1991
+29,"Fri, Jan 4, 1991",,Box Score,@,Boston Celtics,L,,103,132,19,10,L 1,14890,1:56,,False,PHO,1991
+30,"Sat, Jan 5, 1991",,Box Score,@,Milwaukee Bucks,L,,86,88,19,11,L 2,18633,,,False,PHO,1991
+31,"Mon, Jan 7, 1991",,Box Score,@,Minnesota Timberwolves,W,,119,106,20,11,W 1,16008,,,False,PHO,1991
+32,"Wed, Jan 9, 1991",,Box Score,,Cleveland Cavaliers,W,,113,105,21,11,W 2,14487,,,False,PHO,1991
+33,"Fri, Jan 11, 1991",,Box Score,,Houston Rockets,W,,114,110,22,11,W 3,14487,,,False,PHO,1991
+34,"Sat, Jan 12, 1991",,Box Score,@,Golden State Warriors,W,,127,118,23,11,W 4,15025,,,False,PHO,1991
+35,"Tue, Jan 15, 1991",,Box Score,,Washington Bullets,W,,127,97,24,11,W 5,14487,,,False,PHO,1991
+36,"Fri, Jan 18, 1991",,Box Score,,Detroit Pistons,W,,103,102,25,11,W 6,14487,,,False,PHO,1991
+37,"Sat, Jan 19, 1991",,Box Score,@,Sacramento Kings,L,,97,101,25,12,L 1,17014,,,False,PHO,1991
+38,"Tue, Jan 22, 1991",,Box Score,@,Portland Trail Blazers,L,,116,123,25,13,L 2,12884,,,False,PHO,1991
+39,"Fri, Jan 25, 1991",,Box Score,,Seattle SuperSonics,W,,128,113,26,13,W 1,14487,,,False,PHO,1991
+40,"Sat, Jan 26, 1991",,Box Score,,New York Knicks,W,,112,94,27,13,W 2,14487,,,False,PHO,1991
+41,"Tue, Jan 29, 1991",,Box Score,@,Orlando Magic,L,,112,114,27,14,L 1,15077,,,False,PHO,1991
+42,"Wed, Jan 30, 1991",,Box Score,@,Miami Heat,W,,115,104,28,14,W 1,15008,,,False,PHO,1991
+43,"Fri, Feb 1, 1991",,Box Score,@,Philadelphia 76ers,L,,89,96,28,15,L 1,17611,,,False,PHO,1991
+44,"Sun, Feb 3, 1991",,Box Score,@,Detroit Pistons,W,,112,97,29,15,W 1,21454,,,False,PHO,1991
+45,"Tue, Feb 5, 1991",,Box Score,,Denver Nuggets,W,,126,103,30,15,W 2,14487,,,False,PHO,1991
+46,"Wed, Feb 6, 1991",,Box Score,@,Utah Jazz,L,,99,103,30,16,L 1,12616,,,False,PHO,1991
+47,"Tue, Feb 12, 1991",,Box Score,,Los Angeles Lakers,W,,99,95,31,16,W 1,14487,,,False,PHO,1991
+48,"Thu, Feb 14, 1991",,Box Score,@,San Antonio Spurs,W,,106,97,32,16,W 2,15908,,,False,PHO,1991
+49,"Sat, Feb 16, 1991",,Box Score,@,Houston Rockets,L,,91,100,32,17,L 1,16611,,,False,PHO,1991
+50,"Tue, Feb 19, 1991",,Box Score,,Boston Celtics,W,,109,105,33,17,W 1,14487,2:17,,False,PHO,1991
+51,"Wed, Feb 20, 1991",,Box Score,@,Los Angeles Clippers,W,,113,93,34,17,W 2,11068,,,False,PHO,1991
+52,"Fri, Feb 22, 1991",,Box Score,@,Portland Trail Blazers,L,,106,127,34,18,L 1,12884,,,False,PHO,1991
+53,"Sat, Feb 23, 1991",,Box Score,@,Seattle SuperSonics,W,,120,110,35,18,W 1,14692,,,False,PHO,1991
+54,"Mon, Feb 25, 1991",,Box Score,,Charlotte Hornets,W,,128,108,36,18,W 2,14487,,,False,PHO,1991
+55,"Wed, Feb 27, 1991",,Box Score,,Orlando Magic,L,,116,124,36,19,L 1,14487,,,False,PHO,1991
+56,"Fri, Mar 1, 1991",,Box Score,,Sacramento Kings,W,,112,106,37,19,W 1,14487,,,False,PHO,1991
+57,"Mon, Mar 4, 1991",,Box Score,@,Charlotte Hornets,W,,126,93,38,19,W 2,23901,,,False,PHO,1991
+58,"Tue, Mar 5, 1991",,Box Score,@,New York Knicks,W,,107,102,39,19,W 3,16420,,,False,PHO,1991
+59,"Thu, Mar 7, 1991",,Box Score,@,Atlanta Hawks,W,,106,104,40,19,W 4,12184,,,False,PHO,1991
+60,"Fri, Mar 8, 1991",,Box Score,@,Washington Bullets,W,,117,91,41,19,W 5,15311,,,False,PHO,1991
+61,"Sun, Mar 10, 1991",,Box Score,@,Minnesota Timberwolves,W,,123,109,42,19,W 6,19006,,,False,PHO,1991
+62,"Wed, Mar 13, 1991",,Box Score,,Portland Trail Blazers,W,,116,108,43,19,W 7,14487,,,False,PHO,1991
+63,"Fri, Mar 15, 1991",,Box Score,,Houston Rockets,L,,128,135,43,20,L 1,14487,,,False,PHO,1991
+64,"Sat, Mar 16, 1991",,Box Score,,Atlanta Hawks,W,,128,116,44,20,W 1,14487,,,False,PHO,1991
+65,"Mon, Mar 18, 1991",,Box Score,,Indiana Pacers,W,,111,103,45,20,W 2,14487,,,False,PHO,1991
+66,"Wed, Mar 20, 1991",,Box Score,@,Dallas Mavericks,W,,110,96,46,20,W 3,17007,,,False,PHO,1991
+67,"Fri, Mar 22, 1991",,Box Score,,Seattle SuperSonics,L,,105,111,46,21,L 1,14487,,,False,PHO,1991
+68,"Sat, Mar 23, 1991",,Box Score,@,Sacramento Kings,W,,100,95,47,21,W 1,17014,,,False,PHO,1991
+69,"Mon, Mar 25, 1991",,Box Score,@,Los Angeles Clippers,L,,94,106,47,22,L 1,12000,,,False,PHO,1991
+70,"Tue, Mar 26, 1991",,Box Score,,Minnesota Timberwolves,W,,117,95,48,22,W 1,14487,,,False,PHO,1991
+71,"Thu, Mar 28, 1991",,Box Score,,Milwaukee Bucks,W,,102,88,49,22,W 2,14487,,,False,PHO,1991
+72,"Tue, Apr 2, 1991",,Box Score,,Utah Jazz,W,,131,117,50,22,W 3,14487,,,False,PHO,1991
+73,"Thu, Apr 4, 1991",,Box Score,,Los Angeles Lakers,L,,98,102,50,23,L 1,14487,,,False,PHO,1991
+74,"Fri, Apr 5, 1991",,Box Score,@,Golden State Warriors,L,,101,118,50,24,L 2,15025,,,False,PHO,1991
+75,"Sun, Apr 7, 1991",,Box Score,@,Los Angeles Lakers,L,,85,93,50,25,L 3,17505,,,False,PHO,1991
+76,"Tue, Apr 9, 1991",,Box Score,,Golden State Warriors,W,,120,106,51,25,W 1,14487,,,False,PHO,1991
+77,"Fri, Apr 12, 1991",,Box Score,,Dallas Mavericks,W,,103,91,52,25,W 2,14487,,,False,PHO,1991
+78,"Sun, Apr 14, 1991",,Box Score,,San Antonio Spurs,L,,101,109,52,26,L 1,14487,,,False,PHO,1991
+79,"Tue, Apr 16, 1991",,Box Score,@,Denver Nuggets,W,,153,118,53,26,W 1,8298,,,False,PHO,1991
+80,"Wed, Apr 17, 1991",,Box Score,,Los Angeles Clippers,W,,105,100,54,26,W 2,14487,,,False,PHO,1991
+81,"Fri, Apr 19, 1991",,Box Score,@,Seattle SuperSonics,L,,93,104,54,27,L 1,12591,,,False,PHO,1991
+82,"Sun, Apr 21, 1991",,Box Score,,Portland Trail Blazers,W,,135,118,55,27,W 1,14487,,,False,PHO,1991
+1,"Thu, Apr 25, 1991",,Box Score,,Utah Jazz,L,,90,129,0,1,L 1,14487,,,True,PHO,1991
+2,"Sat, Apr 27, 1991",,Box Score,,Utah Jazz,W,,102,92,1,1,W 1,14487,,,True,PHO,1991
+3,"Tue, Apr 30, 1991",,Box Score,@,Utah Jazz,L,,98,107,1,2,L 1,12616,,,True,PHO,1991
+4,"Thu, May 2, 1991",,Box Score,@,Utah Jazz,L,,93,101,1,3,L 2,12616,,,True,PHO,1991

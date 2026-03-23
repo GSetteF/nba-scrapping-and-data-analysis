@@ -1,0 +1,91 @@
+G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Opponent,Unnamed: 6,Unnamed: 7,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Sat, Nov 5, 1988",,Box Score,,Phoenix Suns,W,,117,104,1,0,W 1,15025,,,False,GSW,1989
+2,"Tue, Nov 8, 1988",,Box Score,,Los Angeles Lakers,L,,102,114,1,1,L 1,15025,,,False,GSW,1989
+3,"Wed, Nov 9, 1988",,Box Score,@,Seattle SuperSonics,W,,113,108,2,1,W 1,,,,False,GSW,1989
+4,"Fri, Nov 11, 1988",,Box Score,@,Phoenix Suns,L,,103,141,2,2,L 1,10045,,,False,GSW,1989
+5,"Sat, Nov 12, 1988",,Box Score,,Portland Trail Blazers,W,,107,100,3,2,W 1,12470,,,False,GSW,1989
+6,"Mon, Nov 14, 1988",,Box Score,@,New Jersey Nets,W,,100,96,4,2,W 2,,,,False,GSW,1989
+7,"Wed, Nov 16, 1988",,Box Score,@,Boston Celtics,L,,104,107,4,3,L 1,14890,2:06,,False,GSW,1989
+8,"Fri, Nov 18, 1988",,Box Score,@,Miami Heat,W,OT,123,117,5,3,W 1,13907,,,False,GSW,1989
+9,"Sat, Nov 19, 1988",,Box Score,@,Atlanta Hawks,L,,92,111,5,4,L 1,15929,,,False,GSW,1989
+10,"Wed, Nov 23, 1988",,Box Score,,Seattle SuperSonics,L,,85,93,5,5,L 2,13770,,,False,GSW,1989
+11,"Sat, Nov 26, 1988",,Box Score,,Houston Rockets,L,,109,119,5,6,L 3,15025,,,False,GSW,1989
+12,"Sun, Nov 27, 1988",,Box Score,@,Portland Trail Blazers,L,,94,109,5,7,L 4,12848,,,False,GSW,1989
+13,"Tue, Nov 29, 1988",,Box Score,,Chicago Bulls,W,,109,99,6,7,W 1,15025,,,False,GSW,1989
+14,"Fri, Dec 2, 1988",,Box Score,@,Denver Nuggets,L,,102,129,6,8,L 1,12922,,,False,GSW,1989
+15,"Sat, Dec 3, 1988",,Box Score,@,Seattle SuperSonics,L,,106,136,6,9,L 2,10571,,,False,GSW,1989
+16,"Tue, Dec 6, 1988",,Box Score,,Utah Jazz,W,,114,103,7,9,W 1,13043,,,False,GSW,1989
+17,"Fri, Dec 9, 1988",,Box Score,@,Phoenix Suns,L,,105,110,7,10,L 1,11636,,,False,GSW,1989
+18,"Sat, Dec 10, 1988",,Box Score,,Washington Bullets,W,,109,102,8,10,W 1,13485,,,False,GSW,1989
+19,"Tue, Dec 13, 1988",,Box Score,@,Dallas Mavericks,L,,111,117,8,11,L 1,17007,,,False,GSW,1989
+20,"Thu, Dec 15, 1988",,Box Score,@,Houston Rockets,L,2OT,115,124,8,12,L 2,16611,,,False,GSW,1989
+21,"Sat, Dec 17, 1988",,Box Score,@,San Antonio Spurs,W,,123,113,9,12,W 1,,,,False,GSW,1989
+22,"Tue, Dec 20, 1988",,Box Score,,Los Angeles Clippers,W,,113,111,10,12,W 2,12772,,,False,GSW,1989
+23,"Thu, Dec 22, 1988",,Box Score,,Portland Trail Blazers,L,,109,117,10,13,L 1,13948,,,False,GSW,1989
+24,"Fri, Dec 23, 1988",,Box Score,@,Portland Trail Blazers,L,,107,111,10,14,L 2,12848,,,False,GSW,1989
+25,"Tue, Dec 27, 1988",,Box Score,,Philadelphia 76ers,W,,119,112,11,14,W 1,15025,,,False,GSW,1989
+26,"Wed, Jan 4, 1989",,Box Score,,Miami Heat,W,,109,100,12,14,W 2,12831,,,False,GSW,1989
+27,"Thu, Jan 5, 1989",,Box Score,@,Denver Nuggets,L,,129,131,12,15,L 1,10649,,,False,GSW,1989
+28,"Sat, Jan 7, 1989",,Box Score,,San Antonio Spurs,L,,102,104,12,16,L 2,13913,,,False,GSW,1989
+29,"Mon, Jan 9, 1989",,Box Score,,Phoenix Suns,W,,130,124,13,16,W 1,11029,,,False,GSW,1989
+30,"Wed, Jan 11, 1989",,Box Score,,Dallas Mavericks,W,,107,106,14,16,W 2,12341,,,False,GSW,1989
+31,"Fri, Jan 13, 1989",,Box Score,@,Los Angeles Clippers,W,,127,113,15,16,W 3,,,,False,GSW,1989
+32,"Sat, Jan 14, 1989",,Box Score,,Utah Jazz,W,,131,105,16,16,W 4,15025,,,False,GSW,1989
+33,"Mon, Jan 16, 1989",,Box Score,,Seattle SuperSonics,W,,146,117,17,16,W 5,12340,,,False,GSW,1989
+34,"Wed, Jan 18, 1989",,Box Score,,New York Knicks,W,,133,119,18,16,W 6,15025,,,False,GSW,1989
+35,"Fri, Jan 20, 1989",,Box Score,,Houston Rockets,W,,121,114,19,16,W 7,15025,,,False,GSW,1989
+36,"Sat, Jan 21, 1989",,Box Score,@,Sacramento Kings,W,,136,111,20,16,W 8,16517,,,False,GSW,1989
+37,"Mon, Jan 23, 1989",,Box Score,@,Cleveland Cavaliers,L,,109,142,20,17,L 1,15045,,,False,GSW,1989
+38,"Wed, Jan 25, 1989",,Box Score,@,Detroit Pistons,L,,104,105,20,18,L 2,21454,,,False,GSW,1989
+39,"Fri, Jan 27, 1989",,Box Score,@,Philadelphia 76ers,L,,112,113,20,19,L 3,11846,,,False,GSW,1989
+40,"Sat, Jan 28, 1989",,Box Score,@,Indiana Pacers,W,,114,112,21,19,W 1,11808,,,False,GSW,1989
+41,"Mon, Jan 30, 1989",,Box Score,@,Miami Heat,W,,105,98,22,19,W 2,14880,,,False,GSW,1989
+42,"Thu, Feb 2, 1989",,Box Score,,New Jersey Nets,W,,127,113,23,19,W 3,14611,,,False,GSW,1989
+43,"Sat, Feb 4, 1989",,Box Score,,Los Angeles Clippers,W,,116,107,24,19,W 4,15025,,,False,GSW,1989
+44,"Wed, Feb 8, 1989",,Box Score,@,Los Angeles Lakers,W,,121,118,25,19,W 5,17505,,,False,GSW,1989
+45,"Thu, Feb 9, 1989",,Box Score,@,Sacramento Kings,L,,117,142,25,20,L 1,16517,,,False,GSW,1989
+46,"Wed, Feb 15, 1989",,Box Score,,San Antonio Spurs,W,,133,96,26,20,W 1,13941,,,False,GSW,1989
+47,"Thu, Feb 16, 1989",,Box Score,@,Los Angeles Clippers,W,OT,143,138,27,20,W 2,,,,False,GSW,1989
+48,"Sat, Feb 18, 1989",,Box Score,,Detroit Pistons,W,OT,121,119,28,20,W 3,15025,,,False,GSW,1989
+49,"Tue, Feb 21, 1989",,Box Score,@,Phoenix Suns,L,,121,139,28,21,L 1,12468,,,False,GSW,1989
+50,"Wed, Feb 22, 1989",,Box Score,@,San Antonio Spurs,W,,118,107,29,21,W 1,,,,False,GSW,1989
+51,"Fri, Feb 24, 1989",,Box Score,@,Dallas Mavericks,W,,127,92,30,21,W 2,17007,,,False,GSW,1989
+52,"Mon, Feb 27, 1989",,Box Score,,Denver Nuggets,W,,141,132,31,21,W 3,15025,,,False,GSW,1989
+53,"Wed, Mar 1, 1989",,Box Score,@,Los Angeles Lakers,L,,121,142,31,22,L 1,17505,,,False,GSW,1989
+54,"Thu, Mar 2, 1989",,Box Score,,Indiana Pacers,L,OT,127,131,31,23,L 2,13614,,,False,GSW,1989
+55,"Sat, Mar 4, 1989",,Box Score,,Sacramento Kings,W,,155,143,32,23,W 1,15025,,,False,GSW,1989
+56,"Sun, Mar 5, 1989",,Box Score,@,Sacramento Kings,L,,96,110,32,24,L 1,16517,,,False,GSW,1989
+57,"Tue, Mar 7, 1989",,Box Score,,Los Angeles Clippers,W,,138,112,33,24,W 1,13062,,,False,GSW,1989
+58,"Thu, Mar 9, 1989",,Box Score,,Cleveland Cavaliers,W,,120,114,34,24,W 2,15025,,,False,GSW,1989
+59,"Fri, Mar 10, 1989",,Box Score,@,Utah Jazz,L,,112,126,34,25,L 1,12444,,,False,GSW,1989
+60,"Sun, Mar 12, 1989",,Box Score,,Los Angeles Lakers,L,,115,126,34,26,L 2,15025,,,False,GSW,1989
+61,"Tue, Mar 14, 1989",,Box Score,@,Portland Trail Blazers,L,,110,139,34,27,L 3,12880,,,False,GSW,1989
+62,"Wed, Mar 15, 1989",,Box Score,,Dallas Mavericks,W,,113,100,35,27,W 1,15025,,,False,GSW,1989
+63,"Fri, Mar 17, 1989",,Box Score,,Atlanta Hawks,W,OT,127,118,36,27,W 2,15025,,,False,GSW,1989
+64,"Sun, Mar 19, 1989",,Box Score,,Charlotte Hornets,W,,124,117,37,27,W 3,15025,,,False,GSW,1989
+65,"Tue, Mar 21, 1989",,Box Score,,Portland Trail Blazers,W,,151,127,38,27,W 4,15025,,,False,GSW,1989
+66,"Thu, Mar 23, 1989",,Box Score,,Phoenix Suns,L,,124,154,38,28,L 1,15025,,,False,GSW,1989
+67,"Sat, Mar 25, 1989",,Box Score,@,Houston Rockets,L,,104,144,38,29,L 2,16611,,,False,GSW,1989
+68,"Mon, Mar 27, 1989",,Box Score,@,Milwaukee Bucks,L,,109,121,38,30,L 3,18633,,,False,GSW,1989
+69,"Tue, Mar 28, 1989",,Box Score,@,Chicago Bulls,L,,106,115,38,31,L 4,18013,,,False,GSW,1989
+70,"Thu, Mar 30, 1989",,Box Score,@,Charlotte Hornets,W,,113,104,39,31,W 1,23388,,,False,GSW,1989
+71,"Fri, Mar 31, 1989",,Box Score,@,New York Knicks,W,,134,114,40,31,W 2,19591,,,False,GSW,1989
+72,"Sun, Apr 2, 1989",,Box Score,@,Washington Bullets,L,,103,120,40,32,L 1,,,,False,GSW,1989
+73,"Tue, Apr 4, 1989",,Box Score,,Milwaukee Bucks,L,,118,124,40,33,L 2,15025,,,False,GSW,1989
+74,"Thu, Apr 6, 1989",,Box Score,,Boston Celtics,W,,132,118,41,33,W 1,15025,2:13,,False,GSW,1989
+75,"Sat, Apr 8, 1989",,Box Score,,Los Angeles Lakers,W,,122,116,42,33,W 2,15025,,,False,GSW,1989
+76,"Tue, Apr 11, 1989",,Box Score,,Miami Heat,W,,114,98,43,33,W 3,15025,,,False,GSW,1989
+77,"Thu, Apr 13, 1989",,Box Score,@,Los Angeles Clippers,L,OT,126,128,43,34,L 1,,,,False,GSW,1989
+78,"Sat, Apr 15, 1989",,Box Score,,Sacramento Kings,L,,110,114,43,35,L 2,15025,,,False,GSW,1989
+79,"Mon, Apr 17, 1989",,Box Score,,Seattle SuperSonics,L,OT,109,116,43,36,L 3,15025,,,False,GSW,1989
+80,"Tue, Apr 18, 1989",,Box Score,@,Seattle SuperSonics,L,,118,122,43,37,L 4,13568,,,False,GSW,1989
+81,"Fri, Apr 21, 1989",,Box Score,,Denver Nuggets,L,,121,139,43,38,L 5,15025,,,False,GSW,1989
+82,"Sat, Apr 22, 1989",,Box Score,@,Utah Jazz,L,,95,111,43,39,L 6,12444,,,False,GSW,1989
+1,"Thu, Apr 27, 1989",,Box Score,@,Utah Jazz,W,,123,119,1,0,W 1,12444,2:10,,True,GSW,1989
+2,"Sat, Apr 29, 1989",,Box Score,@,Utah Jazz,W,,99,91,2,0,W 2,12444,2:10,,True,GSW,1989
+3,"Tue, May 2, 1989",,Box Score,,Utah Jazz,W,,120,106,3,0,W 3,15025,2:16,,True,GSW,1989
+4,"Sat, May 6, 1989",,Box Score,@,Phoenix Suns,L,,103,130,3,1,L 1,14471,2:18,,True,GSW,1989
+5,"Tue, May 9, 1989",,Box Score,@,Phoenix Suns,W,,127,122,4,1,W 1,14471,2:07,,True,GSW,1989
+6,"Thu, May 11, 1989",,Box Score,,Phoenix Suns,L,,104,113,4,2,L 1,15025,2:07,,True,GSW,1989
+7,"Sat, May 13, 1989",,Box Score,,Phoenix Suns,L,,99,135,4,3,L 2,15025,2:15,,True,GSW,1989
+8,"Tue, May 16, 1989",,Box Score,@,Phoenix Suns,L,,104,116,4,4,L 3,14471,2:08,,True,GSW,1989

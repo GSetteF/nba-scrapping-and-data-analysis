@@ -1,0 +1,87 @@
+G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Opponent,Unnamed: 6,Unnamed: 7,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Fri, Oct 31, 1997",,Box Score,@,Orlando Magic,W,,105,99,1,0,W 1,17248,,,False,ATL,1998
+2,"Sat, Nov 1, 1997",,Box Score,,Toronto Raptors,W,,90,85,2,0,W 2,8539,,"at Atlanta, GA (Alexander Memorial Coliseum at McDonald's Center)",False,ATL,1998
+3,"Tue, Nov 4, 1997",,Box Score,,Detroit Pistons,W,,82,71,3,0,W 3,13961,,,False,ATL,1998
+4,"Wed, Nov 5, 1997",,Box Score,@,Philadelphia 76ers,W,,93,88,4,0,W 4,13624,,,False,ATL,1998
+5,"Fri, Nov 7, 1997",,Box Score,,Chicago Bulls,W,,80,78,5,0,W 5,45790,,,False,ATL,1998
+6,"Sat, Nov 8, 1997",,Box Score,@,Cleveland Cavaliers,W,OT,99,97,6,0,W 6,14356,,,False,ATL,1998
+7,"Tue, Nov 11, 1997",,Box Score,,Seattle SuperSonics,W,,89,87,7,0,W 7,18122,,,False,ATL,1998
+8,"Wed, Nov 12, 1997",,Box Score,@,Indiana Pacers,W,,89,86,8,0,W 8,13400,,,False,ATL,1998
+9,"Fri, Nov 14, 1997",,Box Score,,Sacramento Kings,W,,104,103,9,0,W 9,21529,,,False,ATL,1998
+10,"Sun, Nov 16, 1997",,Box Score,,Los Angeles Clippers,W,,89,83,10,0,W 10,8388,,"at Atlanta, GA (Alexander Memorial Coliseum at McDonald's Center)",False,ATL,1998
+11,"Tue, Nov 18, 1997",,Box Score,,Washington Wizards,W,OT,98,89,11,0,W 11,12809,,,False,ATL,1998
+12,"Thu, Nov 20, 1997",,Box Score,,New York Knicks,L,,79,100,11,1,L 1,21366,,,False,ATL,1998
+13,"Sat, Nov 22, 1997",,Box Score,@,Detroit Pistons,L,,85,87,11,2,L 2,18481,,,False,ATL,1998
+14,"Wed, Nov 26, 1997",,Box Score,@,Toronto Raptors,W,2OT,109,104,12,2,W 1,15639,,,False,ATL,1998
+15,"Sat, Nov 29, 1997",,Box Score,,Charlotte Hornets,W,,98,80,13,2,W 2,21938,,,False,ATL,1998
+16,"Sun, Nov 30, 1997",,Box Score,,San Antonio Spurs,W,,108,96,14,2,W 3,15294,,,False,ATL,1998
+17,"Tue, Dec 2, 1997",,Box Score,@,Dallas Mavericks,W,,112,79,15,2,W 4,10170,,,False,ATL,1998
+18,"Thu, Dec 4, 1997",,Box Score,@,Houston Rockets,L,,87,94,15,3,L 1,16285,,,False,ATL,1998
+19,"Tue, Dec 9, 1997",,Box Score,,Miami Heat,L,,81,97,15,4,L 2,9156,,"at Atlanta, GA (Alexander Memorial Coliseum at McDonald's Center)",False,ATL,1998
+20,"Thu, Dec 11, 1997",,Box Score,@,Phoenix Suns,L,,78,94,15,5,L 3,19023,,,False,ATL,1998
+21,"Fri, Dec 12, 1997",,Box Score,@,Los Angeles Clippers,W,,83,74,16,5,W 1,6227,,,False,ATL,1998
+22,"Sun, Dec 14, 1997",,Box Score,@,Sacramento Kings,W,,93,89,17,5,W 2,13380,,,False,ATL,1998
+23,"Mon, Dec 15, 1997",,Box Score,@,Portland Trail Blazers,W,,99,90,18,5,W 3,19952,,,False,ATL,1998
+24,"Wed, Dec 17, 1997",,Box Score,,Cleveland Cavaliers,W,,94,83,19,5,W 4,16956,,,False,ATL,1998
+25,"Fri, Dec 19, 1997",,Box Score,,Los Angeles Lakers,L,,96,98,19,6,L 1,25288,,,False,ATL,1998
+26,"Sat, Dec 20, 1997",,Box Score,@,Miami Heat,L,,92,99,19,7,L 2,15200,,,False,ATL,1998
+27,"Mon, Dec 22, 1997",,Box Score,,Utah Jazz,L,,99,101,19,8,L 3,28371,,,False,ATL,1998
+28,"Fri, Dec 26, 1997",,Box Score,@,Milwaukee Bucks,L,OT,94,99,19,9,L 4,17038,,,False,ATL,1998
+29,"Sat, Dec 27, 1997",,Box Score,@,Chicago Bulls,L,,90,97,19,10,L 5,24131,,,False,ATL,1998
+30,"Fri, Jan 2, 1998",,Box Score,@,Los Angeles Lakers,L,,106,116,19,11,L 6,17505,,,False,ATL,1998
+31,"Sat, Jan 3, 1998",,Box Score,@,Utah Jazz,L,,82,97,19,12,L 7,19911,,,False,ATL,1998
+32,"Wed, Jan 7, 1998",,Box Score,@,Golden State Warriors,W,,106,86,20,12,W 1,11023,,,False,ATL,1998
+33,"Fri, Jan 9, 1998",,Box Score,,Washington Wizards,W,,82,77,21,12,W 2,9356,,"at Atlanta, GA (Alexander Memorial Coliseum at McDonald's Center)",False,ATL,1998
+34,"Sun, Jan 11, 1998",,Box Score,@,Washington Wizards,W,OT,107,102,22,12,W 3,19046,,,False,ATL,1998
+35,"Tue, Jan 13, 1998",,Box Score,@,New York Knicks,W,,91,89,23,12,W 4,19763,,,False,ATL,1998
+36,"Wed, Jan 14, 1998",,Box Score,,Dallas Mavericks,W,,108,82,24,12,W 5,8592,,"at Atlanta, GA (Alexander Memorial Coliseum at McDonald's Center)",False,ATL,1998
+37,"Fri, Jan 16, 1998",,Box Score,,Golden State Warriors,W,,102,89,25,12,W 6,8778,,"at Atlanta, GA (Alexander Memorial Coliseum at McDonald's Center)",False,ATL,1998
+38,"Sat, Jan 17, 1998",,Box Score,@,New Jersey Nets,L,,81,97,25,13,L 1,20049,,,False,ATL,1998
+39,"Tue, Jan 20, 1998",,Box Score,,Milwaukee Bucks,W,,103,93,26,13,W 1,10974,,,False,ATL,1998
+40,"Wed, Jan 21, 1998",,Box Score,@,San Antonio Spurs,L,,76,90,26,14,L 1,15853,,,False,ATL,1998
+41,"Fri, Jan 23, 1998",,Box Score,,Boston Celtics,L,,85,89,26,15,L 2,31820,2:20,,False,ATL,1998
+42,"Sat, Jan 24, 1998",,Box Score,,Portland Trail Blazers,L,,77,92,26,16,L 3,24680,,,False,ATL,1998
+43,"Mon, Jan 26, 1998",,Box Score,,Phoenix Suns,L,,91,96,26,17,L 4,13539,,,False,ATL,1998
+44,"Tue, Jan 27, 1998",,Box Score,@,Minnesota Timberwolves,L,,96,113,26,18,L 5,16842,,,False,ATL,1998
+45,"Thu, Jan 29, 1998",,Box Score,,Philadelphia 76ers,W,OT,109,99,27,18,W 1,8533,,"at Atlanta, GA (Alexander Memorial Coliseum at McDonald's Center)",False,ATL,1998
+46,"Sat, Jan 31, 1998",,Box Score,@,Charlotte Hornets,W,,103,83,28,18,W 2,24042,,,False,ATL,1998
+47,"Mon, Feb 2, 1998",,Box Score,@,Miami Heat,L,,83,90,28,19,L 1,14723,,,False,ATL,1998
+48,"Tue, Feb 3, 1998",,Box Score,@,Orlando Magic,L,,90,91,28,20,L 2,17248,,,False,ATL,1998
+49,"Thu, Feb 5, 1998",,Box Score,@,Cleveland Cavaliers,W,,108,94,29,20,W 1,15914,,,False,ATL,1998
+50,"Tue, Feb 10, 1998",,Box Score,@,Milwaukee Bucks,W,,108,100,30,20,W 2,13621,,,False,ATL,1998
+51,"Fri, Feb 13, 1998",,Box Score,@,Chicago Bulls,L,,110,112,30,21,L 1,24207,,,False,ATL,1998
+52,"Sat, Feb 14, 1998",,Box Score,,Indiana Pacers,L,,92,96,30,22,L 2,25679,,,False,ATL,1998
+53,"Mon, Feb 16, 1998",,Box Score,,Orlando Magic,L,,81,85,30,23,L 3,20105,,,False,ATL,1998
+54,"Wed, Feb 18, 1998",,Box Score,,New Jersey Nets,W,,114,104,31,23,W 1,8449,,"at Atlanta, GA (Alexander Memorial Coliseum at McDonald's Center)",False,ATL,1998
+55,"Fri, Feb 20, 1998",,Box Score,,Vancouver Grizzlies,W,,115,92,32,23,W 2,9022,,"at Atlanta, GA (Alexander Memorial Coliseum at McDonald's Center)",False,ATL,1998
+56,"Wed, Feb 25, 1998",,Box Score,@,Denver Nuggets,W,,112,88,33,23,W 3,7525,,,False,ATL,1998
+57,"Fri, Feb 27, 1998",,Box Score,@,Seattle SuperSonics,L,,88,90,33,24,L 1,17072,,,False,ATL,1998
+58,"Sun, Mar 1, 1998",,Box Score,@,Vancouver Grizzlies,W,,101,76,34,24,W 1,15371,,,False,ATL,1998
+59,"Fri, Mar 6, 1998",,Box Score,,Denver Nuggets,W,,115,94,35,24,W 2,8827,,"at Atlanta, GA (Alexander Memorial Coliseum at McDonald's Center)",False,ATL,1998
+60,"Sun, Mar 8, 1998",,Box Score,,Cleveland Cavaliers,W,,101,96,36,24,W 3,8512,,"at Atlanta, GA (Alexander Memorial Coliseum at McDonald's Center)",False,ATL,1998
+61,"Wed, Mar 11, 1998",,Box Score,@,Boston Celtics,W,,110,105,37,24,W 4,18624,2:04,,False,ATL,1998
+62,"Fri, Mar 13, 1998",,Box Score,@,Philadelphia 76ers,L,,86,107,37,25,L 1,19604,,,False,ATL,1998
+63,"Sun, Mar 15, 1998",,Box Score,,Boston Celtics,W,,93,77,38,25,W 1,9036,2:04,"at Atlanta, GA (Alexander Memorial Coliseum at McDonald's Center)",False,ATL,1998
+64,"Tue, Mar 17, 1998",,Box Score,@,Toronto Raptors,W,,117,105,39,25,W 2,16546,,,False,ATL,1998
+65,"Thu, Mar 19, 1998",,Box Score,,Milwaukee Bucks,W,,84,81,40,25,W 3,8685,,"at Atlanta, GA (Alexander Memorial Coliseum at McDonald's Center)",False,ATL,1998
+66,"Fri, Mar 20, 1998",,Box Score,@,New York Knicks,L,,108,109,40,26,L 1,19763,,,False,ATL,1998
+67,"Sun, Mar 22, 1998",,Box Score,@,Detroit Pistons,L,,98,105,40,27,L 2,22076,,,False,ATL,1998
+68,"Tue, Mar 24, 1998",,Box Score,,Orlando Magic,W,,85,73,41,27,W 1,14592,,,False,ATL,1998
+69,"Fri, Mar 27, 1998",,Box Score,,Chicago Bulls,L,,74,89,41,28,L 1,62046,,,False,ATL,1998
+70,"Sun, Mar 29, 1998",,Box Score,,Detroit Pistons,W,,118,95,42,28,W 1,24693,,,False,ATL,1998
+71,"Tue, Mar 31, 1998",,Box Score,@,New Jersey Nets,L,,90,105,42,29,L 1,17576,,,False,ATL,1998
+72,"Wed, Apr 1, 1998",,Box Score,,Toronto Raptors,W,,105,91,43,29,W 1,10441,,,False,ATL,1998
+73,"Fri, Apr 3, 1998",,Box Score,,Houston Rockets,W,,107,87,44,29,W 2,21828,,,False,ATL,1998
+74,"Sun, Apr 5, 1998",,Box Score,,Minnesota Timberwolves,L,,96,97,44,30,L 1,15165,,,False,ATL,1998
+75,"Tue, Apr 7, 1998",,Box Score,,New York Knicks,W,,92,79,45,30,W 1,17702,,,False,ATL,1998
+76,"Thu, Apr 9, 1998",,Box Score,,Indiana Pacers,L,OT,102,105,45,31,L 1,16104,,,False,ATL,1998
+77,"Fri, Apr 10, 1998",,Box Score,@,Charlotte Hornets,W,,99,87,46,31,W 1,24042,,,False,ATL,1998
+78,"Sun, Apr 12, 1998",,Box Score,@,Washington Wizards,W,,91,81,47,31,W 2,20674,,,False,ATL,1998
+79,"Tue, Apr 14, 1998",,Box Score,,Philadelphia 76ers,W,,95,94,48,31,W 3,13908,,,False,ATL,1998
+80,"Wed, Apr 15, 1998",,Box Score,@,Indiana Pacers,L,,70,82,48,32,L 1,16170,,,False,ATL,1998
+81,"Fri, Apr 17, 1998",,Box Score,,Charlotte Hornets,W,,121,104,49,32,W 1,15899,,,False,ATL,1998
+82,"Sun, Apr 19, 1998",,Box Score,,Miami Heat,W,,101,89,50,32,W 2,20980,,,False,ATL,1998
+1,"Thu, Apr 23, 1998",,Box Score,@,Charlotte Hornets,L,,87,97,0,1,L 1,19176,,,True,ATL,1998
+2,"Sat, Apr 25, 1998",,Box Score,@,Charlotte Hornets,L,,85,92,0,2,L 2,20390,,,True,ATL,1998
+3,"Tue, Apr 28, 1998",,Box Score,,Charlotte Hornets,W,,96,64,1,2,W 1,19745,,,True,ATL,1998
+4,"Fri, May 1, 1998",,Box Score,,Charlotte Hornets,L,,82,91,1,3,L 1,22074,,,True,ATL,1998

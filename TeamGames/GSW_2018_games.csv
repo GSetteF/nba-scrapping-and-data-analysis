@@ -1,0 +1,104 @@
+G,Date,Start (ET),Unnamed: 3,Unnamed: 4,Unnamed: 5,Opponent,Unnamed: 7,Unnamed: 8,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Tue, Oct 17, 2017",10:30p,,Box Score,,Houston Rockets,L,,121,122,0,1,L 1,19596,2:28,,False,GSW,2018
+2,"Fri, Oct 20, 2017",9:30p,,Box Score,@,New Orleans Pelicans,W,,128,120,1,1,W 1,18171,,,False,GSW,2018
+3,"Sat, Oct 21, 2017",8:00p,,Box Score,@,Memphis Grizzlies,L,,101,111,1,2,L 1,17794,2:19,,False,GSW,2018
+4,"Mon, Oct 23, 2017",8:30p,,Box Score,@,Dallas Mavericks,W,,133,103,2,2,W 1,19875,2:13,,False,GSW,2018
+5,"Wed, Oct 25, 2017",10:30p,,Box Score,,Toronto Raptors,W,,117,112,3,2,W 2,19596,2:14,,False,GSW,2018
+6,"Fri, Oct 27, 2017",10:30p,,Box Score,,Washington Wizards,W,,120,117,4,2,W 3,19596,2:24,,False,GSW,2018
+7,"Sun, Oct 29, 2017",8:30p,,Box Score,,Detroit Pistons,L,,107,115,4,3,L 1,19596,2:09,,False,GSW,2018
+8,"Mon, Oct 30, 2017",10:30p,,Box Score,@,Los Angeles Clippers,W,,141,113,5,3,W 1,19068,2:11,,False,GSW,2018
+9,"Thu, Nov 2, 2017",8:00p,,Box Score,@,San Antonio Spurs,W,,112,92,6,3,W 2,18418,2:14,,False,GSW,2018
+10,"Sat, Nov 4, 2017",9:00p,,Box Score,@,Denver Nuggets,W,,127,108,7,3,W 3,19711,2:05,,False,GSW,2018
+11,"Mon, Nov 6, 2017",10:30p,,Box Score,,Miami Heat,W,,97,80,8,3,W 4,19596,2:12,,False,GSW,2018
+12,"Wed, Nov 8, 2017",10:30p,,Box Score,,Minnesota Timberwolves,W,,125,101,9,3,W 5,19596,2:09,,False,GSW,2018
+13,"Sat, Nov 11, 2017",8:30p,,Box Score,,Philadelphia 76ers,W,,135,114,10,3,W 6,19596,2:14,,False,GSW,2018
+14,"Mon, Nov 13, 2017",10:30p,,Box Score,,Orlando Magic,W,,110,100,11,3,W 7,19596,2:04,,False,GSW,2018
+15,"Thu, Nov 16, 2017",8:00p,,Box Score,@,Boston Celtics,L,,88,92,11,4,L 1,18624,2:25,,False,GSW,2018
+16,"Sat, Nov 18, 2017",7:30p,,Box Score,@,Philadelphia 76ers,W,,124,116,12,4,W 1,20848,2:14,,False,GSW,2018
+17,"Sun, Nov 19, 2017",6:00p,,Box Score,@,Brooklyn Nets,W,,118,111,13,4,W 2,17732,2:13,,False,GSW,2018
+18,"Wed, Nov 22, 2017",8:00p,,Box Score,@,Oklahoma City Thunder,L,,91,108,13,5,L 1,18203,2:13,,False,GSW,2018
+19,"Fri, Nov 24, 2017",10:30p,,Box Score,,Chicago Bulls,W,,143,94,14,5,W 1,19596,2:04,,False,GSW,2018
+20,"Sat, Nov 25, 2017",8:30p,,Box Score,,New Orleans Pelicans,W,,110,95,15,5,W 2,19596,2:15,,False,GSW,2018
+21,"Mon, Nov 27, 2017",10:30p,,Box Score,,Sacramento Kings,L,,106,110,15,6,L 1,19596,2:13,,False,GSW,2018
+22,"Wed, Nov 29, 2017",10:30p,,Box Score,@,Los Angeles Lakers,W,OT,127,123,16,6,W 1,18997,2:32,,False,GSW,2018
+23,"Fri, Dec 1, 2017",7:00p,,Box Score,@,Orlando Magic,W,,133,112,17,6,W 2,18846,2:09,,False,GSW,2018
+24,"Sun, Dec 3, 2017",7:00p,,Box Score,@,Miami Heat,W,,123,95,18,6,W 3,19600,2:04,,False,GSW,2018
+25,"Mon, Dec 4, 2017",8:00p,,Box Score,@,New Orleans Pelicans,W,,125,115,19,6,W 4,17004,2:19,,False,GSW,2018
+26,"Wed, Dec 6, 2017",8:00p,,Box Score,@,Charlotte Hornets,W,,101,87,20,6,W 5,19334,2:08,,False,GSW,2018
+27,"Fri, Dec 8, 2017",7:00p,,Box Score,@,Detroit Pistons,W,,102,98,21,6,W 6,20491,2:18,,False,GSW,2018
+28,"Mon, Dec 11, 2017",10:30p,,Box Score,,Portland Trail Blazers,W,,111,104,22,6,W 7,19596,2:03,,False,GSW,2018
+29,"Thu, Dec 14, 2017",10:30p,,Box Score,,Dallas Mavericks,W,,112,97,23,6,W 8,19596,2:10,,False,GSW,2018
+30,"Mon, Dec 18, 2017",10:30p,,Box Score,@,Los Angeles Lakers,W,OT,116,114,24,6,W 9,18997,2:46,,False,GSW,2018
+31,"Wed, Dec 20, 2017",10:30p,,Box Score,,Memphis Grizzlies,W,,97,84,25,6,W 10,19596,2:15,,False,GSW,2018
+32,"Fri, Dec 22, 2017",10:30p,,Box Score,,Los Angeles Lakers,W,,113,106,26,6,W 11,19596,2:17,,False,GSW,2018
+33,"Sat, Dec 23, 2017",8:30p,,Box Score,,Denver Nuggets,L,,81,96,26,7,L 1,19596,2:04,,False,GSW,2018
+34,"Mon, Dec 25, 2017",3:00p,,Box Score,,Cleveland Cavaliers,W,,99,92,27,7,W 1,19596,2:24,,False,GSW,2018
+35,"Wed, Dec 27, 2017",10:30p,,Box Score,,Utah Jazz,W,,126,101,28,7,W 2,19596,2:11,,False,GSW,2018
+36,"Fri, Dec 29, 2017",10:30p,,Box Score,,Charlotte Hornets,L,,100,111,28,8,L 1,19596,2:02,,False,GSW,2018
+37,"Sat, Dec 30, 2017",8:30p,,Box Score,,Memphis Grizzlies,W,,141,128,29,8,W 1,19596,2:03,,False,GSW,2018
+38,"Wed, Jan 3, 2018",8:30p,,Box Score,@,Dallas Mavericks,W,,125,122,30,8,W 2,20212,2:14,,False,GSW,2018
+39,"Thu, Jan 4, 2018",8:00p,,Box Score,@,Houston Rockets,W,,124,114,31,8,W 3,18055,2:14,,False,GSW,2018
+40,"Sat, Jan 6, 2018",3:30p,,Box Score,@,Los Angeles Clippers,W,,121,105,32,8,W 4,19068,2:18,,False,GSW,2018
+41,"Mon, Jan 8, 2018",10:30p,,Box Score,,Denver Nuggets,W,,124,114,33,8,W 5,19596,2:04,,False,GSW,2018
+42,"Wed, Jan 10, 2018",10:30p,,Box Score,,Los Angeles Clippers,L,,106,125,33,9,L 1,19596,2:15,,False,GSW,2018
+43,"Fri, Jan 12, 2018",8:00p,,Box Score,@,Milwaukee Bucks,W,,108,94,34,9,W 1,18717,2:06,,False,GSW,2018
+44,"Sat, Jan 13, 2018",7:30p,,Box Score,@,Toronto Raptors,W,,127,125,35,9,W 2,20078,2:23,,False,GSW,2018
+45,"Mon, Jan 15, 2018",8:00p,,Box Score,@,Cleveland Cavaliers,W,,118,108,36,9,W 3,20562,2:25,,False,GSW,2018
+46,"Wed, Jan 17, 2018",8:00p,,Box Score,@,Chicago Bulls,W,,119,112,37,9,W 4,21372,2:09,,False,GSW,2018
+47,"Sat, Jan 20, 2018",8:30p,,Box Score,@,Houston Rockets,L,,108,116,37,10,L 1,18055,2:16,,False,GSW,2018
+48,"Tue, Jan 23, 2018",10:30p,,Box Score,,New York Knicks,W,,123,112,38,10,W 1,19596,2:06,,False,GSW,2018
+49,"Thu, Jan 25, 2018",10:30p,,Box Score,,Minnesota Timberwolves,W,,126,113,39,10,W 2,19596,2:09,,False,GSW,2018
+50,"Sat, Jan 27, 2018",8:30p,,Box Score,,Boston Celtics,W,,109,105,40,10,W 3,19596,2:29,,False,GSW,2018
+51,"Tue, Jan 30, 2018",9:00p,,Box Score,@,Utah Jazz,L,,99,129,40,11,L 1,18306,2:02,,False,GSW,2018
+52,"Fri, Feb 2, 2018",10:30p,,Box Score,@,Sacramento Kings,W,,119,104,41,11,W 1,17583,2:12,,False,GSW,2018
+53,"Sat, Feb 3, 2018",9:00p,,Box Score,@,Denver Nuggets,L,,108,115,41,12,L 1,20103,2:18,,False,GSW,2018
+54,"Tue, Feb 6, 2018",10:30p,,Box Score,,Oklahoma City Thunder,L,,105,125,41,13,L 2,19596,2:26,,False,GSW,2018
+55,"Thu, Feb 8, 2018",10:30p,,Box Score,,Dallas Mavericks,W,,121,103,42,13,W 1,19596,2:05,,False,GSW,2018
+56,"Sat, Feb 10, 2018",8:30p,,Box Score,,San Antonio Spurs,W,,122,105,43,13,W 2,19596,2:11,,False,GSW,2018
+57,"Mon, Feb 12, 2018",10:30p,,Box Score,,Phoenix Suns,W,,129,83,44,13,W 3,19596,2:04,,False,GSW,2018
+58,"Wed, Feb 14, 2018",10:30p,,Box Score,@,Portland Trail Blazers,L,,117,123,44,14,L 1,19520,2:21,,False,GSW,2018
+59,"Thu, Feb 22, 2018",10:30p,,Box Score,,Los Angeles Clippers,W,,134,127,45,14,W 1,19596,2:27,,False,GSW,2018
+60,"Sat, Feb 24, 2018",8:30p,,Box Score,,Oklahoma City Thunder,W,,112,80,46,14,W 2,19596,2:15,,False,GSW,2018
+61,"Mon, Feb 26, 2018",7:30p,,Box Score,@,New York Knicks,W,,125,111,47,14,W 3,19812,2:06,,False,GSW,2018
+62,"Wed, Feb 28, 2018",8:00p,,Box Score,@,Washington Wizards,W,,109,101,48,14,W 4,20356,2:18,,False,GSW,2018
+63,"Fri, Mar 2, 2018",7:30p,,Box Score,@,Atlanta Hawks,W,,114,109,49,14,W 5,16728,2:17,,False,GSW,2018
+64,"Tue, Mar 6, 2018",10:30p,,Box Score,,Brooklyn Nets,W,,114,101,50,14,W 6,19596,2:07,,False,GSW,2018
+65,"Thu, Mar 8, 2018",10:30p,,Box Score,,San Antonio Spurs,W,,110,107,51,14,W 7,19596,2:20,,False,GSW,2018
+66,"Fri, Mar 9, 2018",10:00p,,Box Score,@,Portland Trail Blazers,L,,108,125,51,15,L 1,19487,2:16,,False,GSW,2018
+67,"Sun, Mar 11, 2018",3:30p,,Box Score,@,Minnesota Timberwolves,L,,103,109,51,16,L 2,18978,2:12,,False,GSW,2018
+68,"Wed, Mar 14, 2018",10:30p,,Box Score,,Los Angeles Lakers,W,,117,106,52,16,W 1,19596,2:16,,False,GSW,2018
+69,"Fri, Mar 16, 2018",10:30p,,Box Score,,Sacramento Kings,L,,93,98,52,17,L 1,19596,2:08,,False,GSW,2018
+70,"Sat, Mar 17, 2018",10:00p,,Box Score,@,Phoenix Suns,W,,124,109,53,17,W 1,18055,2:08,,False,GSW,2018
+71,"Mon, Mar 19, 2018",9:30p,,Box Score,@,San Antonio Spurs,L,,75,89,53,18,L 1,18418,2:13,,False,GSW,2018
+72,"Fri, Mar 23, 2018",10:30p,,Box Score,,Atlanta Hawks,W,,106,94,54,18,W 1,19596,2:01,,False,GSW,2018
+73,"Sun, Mar 25, 2018",8:30p,,Box Score,,Utah Jazz,L,,91,110,54,19,L 1,19596,2:02,,False,GSW,2018
+74,"Tue, Mar 27, 2018",10:30p,,Box Score,,Indiana Pacers,L,,81,92,54,20,L 2,19596,2:03,,False,GSW,2018
+75,"Thu, Mar 29, 2018",10:30p,,Box Score,,Milwaukee Bucks,L,,107,116,54,21,L 3,19596,2:04,,False,GSW,2018
+76,"Sat, Mar 31, 2018",10:00p,,Box Score,@,Sacramento Kings,W,,112,96,55,21,W 1,17583,2:23,,False,GSW,2018
+77,"Sun, Apr 1, 2018",8:30p,,Box Score,,Phoenix Suns,W,,117,107,56,21,W 2,19596,1:54,,False,GSW,2018
+78,"Tue, Apr 3, 2018",8:00p,,Box Score,@,Oklahoma City Thunder,W,,111,107,57,21,W 3,18203,2:25,,False,GSW,2018
+79,"Thu, Apr 5, 2018",7:00p,,Box Score,@,Indiana Pacers,L,,106,126,57,22,L 1,17923,2:05,,False,GSW,2018
+80,"Sat, Apr 7, 2018",8:30p,,Box Score,,New Orleans Pelicans,L,,120,126,57,23,L 2,19596,2:08,,False,GSW,2018
+81,"Sun, Apr 8, 2018",9:00p,,Box Score,@,Phoenix Suns,W,,117,100,58,23,W 1,18055,1:56,,False,GSW,2018
+82,"Tue, Apr 10, 2018",9:00p,,Box Score,@,Utah Jazz,L,,79,119,58,24,L 1,18306,1:59,,False,GSW,2018
+1,"Sat, Apr 14, 2018",3:00p,,Box Score,,San Antonio Spurs,W,,113,92,1,0,W 1,19596,2:17,,True,GSW,2018
+2,"Mon, Apr 16, 2018",10:30p,,Box Score,,San Antonio Spurs,W,,116,101,2,0,W 2,19596,2:30,,True,GSW,2018
+3,"Thu, Apr 19, 2018",9:30p,,Box Score,@,San Antonio Spurs,W,,110,97,3,0,W 3,18418,2:14,,True,GSW,2018
+4,"Sun, Apr 22, 2018",3:30p,,Box Score,@,San Antonio Spurs,L,,90,103,3,1,L 1,18418,2:13,,True,GSW,2018
+5,"Tue, Apr 24, 2018",10:30p,,Box Score,,San Antonio Spurs,W,,99,91,4,1,W 1,19596,2:25,,True,GSW,2018
+6,"Sat, Apr 28, 2018",10:30p,,Box Score,,New Orleans Pelicans,W,,123,101,5,1,W 2,19596,2:18,,True,GSW,2018
+7,"Tue, May 1, 2018",10:30p,,Box Score,,New Orleans Pelicans,W,,121,116,6,1,W 3,19596,2:27,,True,GSW,2018
+8,"Fri, May 4, 2018",8:00p,,Box Score,@,New Orleans Pelicans,L,,100,119,6,2,L 1,18551,2:11,,True,GSW,2018
+9,"Sun, May 6, 2018",3:30p,,Box Score,@,New Orleans Pelicans,W,,118,92,7,2,W 1,18513,2:17,,True,GSW,2018
+10,"Tue, May 8, 2018",10:30p,,Box Score,,New Orleans Pelicans,W,,113,104,8,2,W 2,19596,2:15,,True,GSW,2018
+11,"Mon, May 14, 2018",9:00p,,Box Score,@,Houston Rockets,W,,119,106,9,2,W 3,18055,2:21,,True,GSW,2018
+12,"Wed, May 16, 2018",9:00p,,Box Score,@,Houston Rockets,L,,105,127,9,3,L 1,18119,2:19,,True,GSW,2018
+13,"Sun, May 20, 2018",8:00p,,Box Score,,Houston Rockets,W,,126,85,10,3,W 1,19596,2:12,,True,GSW,2018
+14,"Tue, May 22, 2018",9:00p,,Box Score,,Houston Rockets,L,,92,95,10,4,L 1,19596,2:26,,True,GSW,2018
+15,"Thu, May 24, 2018",9:00p,,Box Score,@,Houston Rockets,L,,94,98,10,5,L 2,18208,2:27,,True,GSW,2018
+16,"Sat, May 26, 2018",9:00p,,Box Score,,Houston Rockets,W,,115,86,11,5,W 1,19596,2:16,,True,GSW,2018
+17,"Mon, May 28, 2018",9:00p,,Box Score,@,Houston Rockets,W,,101,92,12,5,W 2,18055,2:23,,True,GSW,2018
+18,"Thu, May 31, 2018",9:00p,,Box Score,,Cleveland Cavaliers,W,OT,124,114,13,5,W 3,19596,2:38,,True,GSW,2018
+19,"Sun, Jun 3, 2018",8:00p,,Box Score,,Cleveland Cavaliers,W,,122,103,14,5,W 4,19596,2:25,,True,GSW,2018
+20,"Wed, Jun 6, 2018",9:00p,,Box Score,@,Cleveland Cavaliers,W,,110,102,15,5,W 5,20562,2:19,,True,GSW,2018
+21,"Fri, Jun 8, 2018",9:00p,,Box Score,@,Cleveland Cavaliers,W,,108,85,16,5,W 6,20562,2:19,,True,GSW,2018

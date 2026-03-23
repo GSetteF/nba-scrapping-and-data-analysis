@@ -1,0 +1,87 @@
+G,Date,Start (ET),Unnamed: 3,Unnamed: 4,Unnamed: 5,Opponent,Unnamed: 7,Unnamed: 8,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Wed, Oct 30, 2013",8:00p,,Box Score,@,Houston Rockets,L,,83,96,0,1,L 1,18083,2:09,,False,CHA,2014
+2,"Fri, Nov 1, 2013",7:00p,,Box Score,,Cleveland Cavaliers,W,,90,84,1,1,W 1,18017,2:23,,False,CHA,2014
+3,"Sat, Nov 2, 2013",8:00p,,Box Score,@,New Orleans Pelicans,L,,84,105,1,2,L 1,15232,2:11,,False,CHA,2014
+4,"Tue, Nov 5, 2013",7:30p,,Box Score,@,New York Knicks,W,,102,97,2,2,W 1,19812,2:42,,False,CHA,2014
+5,"Wed, Nov 6, 2013",7:00p,,Box Score,,Toronto Raptors,W,,92,90,3,2,W 2,11118,2:13,,False,CHA,2014
+6,"Fri, Nov 8, 2013",7:00p,,Box Score,,New York Knicks,L,,91,101,3,3,L 1,16465,2:16,,False,CHA,2014
+7,"Mon, Nov 11, 2013",7:00p,,Box Score,,Atlanta Hawks,L,,94,103,3,4,L 2,13996,2:21,,False,CHA,2014
+8,"Wed, Nov 13, 2013",7:30p,,Box Score,@,Boston Celtics,W,,89,83,4,4,W 1,17032,2:21,,False,CHA,2014
+9,"Fri, Nov 15, 2013",7:30p,,Box Score,@,Cleveland Cavaliers,W,,86,80,5,4,W 2,18679,2:04,,False,CHA,2014
+10,"Sat, Nov 16, 2013",7:00p,,Box Score,,Miami Heat,L,,81,97,5,5,L 1,19084,2:05,,False,CHA,2014
+11,"Mon, Nov 18, 2013",8:00p,,Box Score,@,Chicago Bulls,L,,81,86,5,6,L 2,21628,2:15,,False,CHA,2014
+12,"Wed, Nov 20, 2013",7:00p,,Box Score,,Brooklyn Nets,W,,95,91,6,6,W 1,13843,2:18,,False,CHA,2014
+13,"Fri, Nov 22, 2013",7:00p,,Box Score,,Phoenix Suns,L,,91,98,6,7,L 1,14916,2:32,,False,CHA,2014
+14,"Sat, Nov 23, 2013",8:30p,,Box Score,@,Milwaukee Bucks,W,,96,72,7,7,W 1,14871,1:58,,False,CHA,2014
+15,"Mon, Nov 25, 2013",7:00p,,Box Score,,Boston Celtics,L,,86,96,7,8,L 1,13558,2:12,,False,CHA,2014
+16,"Wed, Nov 27, 2013",7:00p,,Box Score,,Indiana Pacers,L,,74,99,7,9,L 2,15170,2:30,,False,CHA,2014
+17,"Fri, Nov 29, 2013",7:00p,,Box Score,,Milwaukee Bucks,W,,92,76,8,9,W 1,15081,2:09,,False,CHA,2014
+18,"Sun, Dec 1, 2013",6:00p,,Box Score,@,Miami Heat,L,,98,99,8,10,L 1,19617,2:15,,False,CHA,2014
+19,"Tue, Dec 3, 2013",8:30p,,Box Score,@,Dallas Mavericks,L,,82,89,8,11,L 2,19612,2:14,,False,CHA,2014
+20,"Fri, Dec 6, 2013",7:00p,,Box Score,,Philadelphia 76ers,W,,105,88,9,11,W 1,14088,2:06,,False,CHA,2014
+21,"Mon, Dec 9, 2013",7:00p,,Box Score,,Golden State Warriors,W,,115,111,10,11,W 2,13129,2:11,,False,CHA,2014
+22,"Wed, Dec 11, 2013",7:00p,,Box Score,,Orlando Magic,L,,83,92,10,12,L 1,11377,2:07,,False,CHA,2014
+23,"Fri, Dec 13, 2013",7:00p,,Box Score,@,Indiana Pacers,L,,94,99,10,13,L 2,18165,2:10,,False,CHA,2014
+24,"Sat, Dec 14, 2013",7:00p,,Box Score,,Los Angeles Lakers,L,,85,88,10,14,L 3,17101,2:05,,False,CHA,2014
+25,"Tue, Dec 17, 2013",7:00p,,Box Score,,Sacramento Kings,W,,95,87,11,14,W 1,11339,2:20,,False,CHA,2014
+26,"Wed, Dec 18, 2013",7:00p,,Box Score,@,Toronto Raptors,W,OT,104,102,12,14,W 2,15201,2:40,,False,CHA,2014
+27,"Fri, Dec 20, 2013",7:30p,,Box Score,@,Detroit Pistons,W,,116,106,13,14,W 3,12453,2:10,,False,CHA,2014
+28,"Sat, Dec 21, 2013",7:30p,,Box Score,,Utah Jazz,L,,85,88,13,15,L 1,18078,2:03,,False,CHA,2014
+29,"Mon, Dec 23, 2013",7:00p,,Box Score,,Milwaukee Bucks,W,OT,111,110,14,15,W 1,13534,2:27,,False,CHA,2014
+30,"Fri, Dec 27, 2013",7:00p,,Box Score,,Oklahoma City Thunder,L,,85,89,14,16,L 1,18129,2:12,,False,CHA,2014
+31,"Sat, Dec 28, 2013",7:30p,,Box Score,@,Atlanta Hawks,L,OT,116,118,14,17,L 2,15180,2:26,,False,CHA,2014
+32,"Mon, Dec 30, 2013",9:00p,,Box Score,@,Utah Jazz,L,,80,83,14,18,L 3,19125,2:00,,False,CHA,2014
+33,"Wed, Jan 1, 2014",9:30p,,Box Score,@,Los Angeles Clippers,L,,85,112,14,19,L 4,19160,2:05,,False,CHA,2014
+34,"Thu, Jan 2, 2014",10:00p,,Box Score,@,Portland Trail Blazers,L,,104,134,14,20,L 5,20014,2:01,,False,CHA,2014
+35,"Sat, Jan 4, 2014",10:00p,,Box Score,@,Sacramento Kings,W,,113,103,15,20,W 1,16410,2:11,,False,CHA,2014
+36,"Tue, Jan 7, 2014",7:00p,,Box Score,,Washington Wizards,L,,83,97,15,21,L 1,12079,2:06,,False,CHA,2014
+37,"Fri, Jan 10, 2014",8:00p,,Box Score,@,Minnesota Timberwolves,L,,92,119,15,22,L 2,13767,1:55,,False,CHA,2014
+38,"Sat, Jan 11, 2014",8:00p,,Box Score,@,Chicago Bulls,L,,97,103,15,23,L 3,21413,2:10,,False,CHA,2014
+39,"Tue, Jan 14, 2014",7:00p,,Box Score,,New York Knicks,W,,108,98,16,23,W 1,15156,2:10,,False,CHA,2014
+40,"Wed, Jan 15, 2014",7:00p,,Box Score,@,Philadelphia 76ers,L,,92,95,16,24,L 1,10106,2:16,,False,CHA,2014
+41,"Fri, Jan 17, 2014",7:00p,,Box Score,@,Orlando Magic,W,,111,101,17,24,W 1,16164,2:16,,False,CHA,2014
+42,"Sat, Jan 18, 2014",7:30p,,Box Score,,Miami Heat,L,OT,96,104,17,25,L 1,19631,2:30,,False,CHA,2014
+43,"Mon, Jan 20, 2014",2:00p,,Box Score,,Toronto Raptors,W,,100,95,18,25,W 1,14929,2:07,,False,CHA,2014
+44,"Wed, Jan 22, 2014",7:00p,,Box Score,,Los Angeles Clippers,W,,95,91,19,25,W 2,14760,2:08,,False,CHA,2014
+45,"Fri, Jan 24, 2014",7:30p,,Box Score,@,New York Knicks,L,,96,125,19,26,L 1,19812,2:07,,False,CHA,2014
+46,"Sat, Jan 25, 2014",7:00p,,Box Score,,Chicago Bulls,L,,87,89,19,27,L 2,18252,2:08,,False,CHA,2014
+47,"Wed, Jan 29, 2014",9:00p,,Box Score,@,Denver Nuggets,W,,101,98,20,27,W 1,16151,2:18,,False,CHA,2014
+48,"Fri, Jan 31, 2014",10:30p,,Box Score,@,Los Angeles Lakers,W,,110,100,21,27,W 2,18997,2:03,,False,CHA,2014
+49,"Sat, Feb 1, 2014",9:00p,,Box Score,@,Phoenix Suns,L,,95,105,21,28,L 1,16248,2:06,,False,CHA,2014
+50,"Tue, Feb 4, 2014",10:30p,,Box Score,@,Golden State Warriors,W,,91,75,22,28,W 1,19596,2:07,,False,CHA,2014
+51,"Sat, Feb 8, 2014",7:00p,,Box Score,,San Antonio Spurs,L,,100,104,22,29,L 1,19084,2:12,,False,CHA,2014
+52,"Tue, Feb 11, 2014",7:00p,,Box Score,,Dallas Mavericks,W,,114,89,23,29,W 1,11467,2:03,,False,CHA,2014
+53,"Wed, Feb 12, 2014",7:30p,,Box Score,@,Brooklyn Nets,L,,89,105,23,30,L 1,16862,1:58,,False,CHA,2014
+54,"Tue, Feb 18, 2014",7:30p,,Box Score,@,Detroit Pistons,W,,108,96,24,30,W 1,11285,2:08,,False,CHA,2014
+55,"Wed, Feb 19, 2014",7:00p,,Box Score,,Detroit Pistons,W,,116,98,25,30,W 2,14400,2:09,,False,CHA,2014
+56,"Fri, Feb 21, 2014",7:00p,,Box Score,,New Orleans Pelicans,W,,90,87,26,30,W 3,15867,2:19,,False,CHA,2014
+57,"Sat, Feb 22, 2014",7:00p,,Box Score,,Memphis Grizzlies,W,,92,89,27,30,W 4,18317,2:17,,False,CHA,2014
+58,"Fri, Feb 28, 2014",8:30p,,Box Score,@,San Antonio Spurs,L,,82,92,27,31,L 1,18581,2:07,,False,CHA,2014
+59,"Sun, Mar 2, 2014",7:00p,,Box Score,@,Oklahoma City Thunder,L,,99,116,27,32,L 2,18203,2:19,,False,CHA,2014
+60,"Mon, Mar 3, 2014",7:30p,,Box Score,@,Miami Heat,L,,107,124,27,33,L 3,19727,2:10,,False,CHA,2014
+61,"Wed, Mar 5, 2014",7:00p,,Box Score,,Indiana Pacers,W,,109,87,28,33,W 1,15372,2:08,,False,CHA,2014
+62,"Fri, Mar 7, 2014",7:00p,,Box Score,,Cleveland Cavaliers,W,,101,92,29,33,W 2,15688,2:11,,False,CHA,2014
+63,"Sat, Mar 8, 2014",8:00p,,Box Score,@,Memphis Grizzlies,L,,89,111,29,34,L 1,17298,2:06,,False,CHA,2014
+64,"Mon, Mar 10, 2014",7:00p,,Box Score,,Denver Nuggets,W,,105,98,30,34,W 1,14312,2:14,,False,CHA,2014
+65,"Wed, Mar 12, 2014",7:00p,,Box Score,@,Washington Wizards,W,,98,85,31,34,W 2,17220,2:04,,False,CHA,2014
+66,"Fri, Mar 14, 2014",7:00p,,Box Score,,Minnesota Timberwolves,W,,105,93,32,34,W 3,16983,2:01,,False,CHA,2014
+67,"Sun, Mar 16, 2014",1:00p,,Box Score,@,Milwaukee Bucks,W,,101,92,33,34,W 4,14536,2:05,,False,CHA,2014
+68,"Mon, Mar 17, 2014",7:00p,,Box Score,,Atlanta Hawks,L,,83,97,33,35,L 1,14419,1:57,,False,CHA,2014
+69,"Wed, Mar 19, 2014",7:30p,,Box Score,@,Brooklyn Nets,L,,99,104,33,36,L 2,17222,2:09,,False,CHA,2014
+70,"Sat, Mar 22, 2014",7:00p,,Box Score,,Portland Trail Blazers,W,,124,94,34,36,W 1,18706,2:01,,False,CHA,2014
+71,"Mon, Mar 24, 2014",7:00p,,Box Score,,Houston Rockets,L,,89,100,34,37,L 1,15511,2:07,,False,CHA,2014
+72,"Wed, Mar 26, 2014",7:00p,,Box Score,,Brooklyn Nets,W,OT,116,111,35,37,W 1,15943,2:24,,False,CHA,2014
+73,"Fri, Mar 28, 2014",7:00p,,Box Score,@,Orlando Magic,L,OT,105,110,35,38,L 1,16003,2:35,,False,CHA,2014
+74,"Mon, Mar 31, 2014",7:00p,,Box Score,,Washington Wizards,W,,100,94,36,38,W 1,14894,2:07,,False,CHA,2014
+75,"Wed, Apr 2, 2014",7:00p,,Box Score,@,Philadelphia 76ers,W,,123,93,37,38,W 2,12136,2:11,,False,CHA,2014
+76,"Fri, Apr 4, 2014",7:00p,,Box Score,,Orlando Magic,W,,91,80,38,38,W 3,17708,2:06,,False,CHA,2014
+77,"Sat, Apr 5, 2014",7:30p,,Box Score,@,Cleveland Cavaliers,W,OT,96,94,39,38,W 4,18179,2:33,,False,CHA,2014
+78,"Wed, Apr 9, 2014",7:00p,,Box Score,@,Washington Wizards,W,OT,94,88,40,38,W 5,17784,2:14,,False,CHA,2014
+79,"Fri, Apr 11, 2014",7:30p,,Box Score,@,Boston Celtics,L,,103,106,40,39,L 1,18624,2:05,,False,CHA,2014
+80,"Sat, Apr 12, 2014",7:00p,,Box Score,,Philadelphia 76ers,W,,111,105,41,39,W 1,17140,2:22,,False,CHA,2014
+81,"Mon, Apr 14, 2014",7:30p,,Box Score,@,Atlanta Hawks,W,,95,93,42,39,W 2,11918,2:15,,False,CHA,2014
+82,"Wed, Apr 16, 2014",7:00p,,Box Score,,Chicago Bulls,W,OT,91,86,43,39,W 3,17627,2:24,,False,CHA,2014
+1,"Sun, Apr 20, 2014",3:30p,,Box Score,@,Miami Heat,L,,88,99,0,1,L 1,19640,2:18,,True,CHA,2014
+2,"Wed, Apr 23, 2014",7:00p,,Box Score,@,Miami Heat,L,,97,101,0,2,L 2,19603,2:32,,True,CHA,2014
+3,"Sat, Apr 26, 2014",7:00p,,Box Score,,Miami Heat,L,,85,98,0,3,L 3,19633,2:29,,True,CHA,2014
+4,"Mon, Apr 28, 2014",7:00p,,Box Score,,Miami Heat,L,,98,109,0,4,L 4,19092,2:29,,True,CHA,2014

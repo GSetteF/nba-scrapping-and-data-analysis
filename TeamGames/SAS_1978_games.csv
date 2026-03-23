@@ -1,0 +1,89 @@
+G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Opponent,Unnamed: 6,Unnamed: 7,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Wed, Oct 19, 1977",,Box Score,,Boston Celtics,W,,114,109,1,0,W 1,10466,,,False,SAS,1978
+2,"Fri, Oct 21, 1977",,Box Score,@,Golden State Warriors,L,,117,122,1,1,L 1,,,,False,SAS,1978
+3,"Sat, Oct 22, 1977",,Box Score,@,Portland Trail Blazers,L,,115,130,1,2,L 2,,,,False,SAS,1978
+4,"Sun, Oct 23, 1977",,Box Score,@,Seattle SuperSonics,W,,112,94,2,2,W 1,,,,False,SAS,1978
+5,"Tue, Oct 25, 1977",,Box Score,@,Los Angeles Lakers,L,,107,109,2,3,L 1,,,,False,SAS,1978
+6,"Sat, Oct 29, 1977",,Box Score,,Los Angeles Lakers,W,,129,118,3,3,W 1,,,,False,SAS,1978
+7,"Mon, Oct 31, 1977",,Box Score,@,Phoenix Suns,W,,145,143,4,3,W 2,,,,False,SAS,1978
+8,"Tue, Nov 1, 1977",,Box Score,,Golden State Warriors,L,,97,108,4,4,L 1,,,,False,SAS,1978
+9,"Thu, Nov 3, 1977",,Box Score,,Phoenix Suns,L,,89,110,4,5,L 2,,,,False,SAS,1978
+10,"Sat, Nov 5, 1977",,Box Score,@,Buffalo Braves,W,,111,101,5,5,W 1,,,,False,SAS,1978
+11,"Tue, Nov 8, 1977",,Box Score,@,New York Knicks,L,,117,123,5,6,L 1,,,,False,SAS,1978
+12,"Wed, Nov 9, 1977",,Box Score,@,Boston Celtics,W,,129,114,6,6,W 1,11268,,,False,SAS,1978
+13,"Fri, Nov 11, 1977",,Box Score,@,Detroit Pistons,W,,107,104,7,6,W 2,,,,False,SAS,1978
+14,"Sat, Nov 12, 1977",,Box Score,,Atlanta Hawks,W,,116,99,8,6,W 3,,,,False,SAS,1978
+15,"Tue, Nov 15, 1977",,Box Score,,Kansas City Kings,W,,113,107,9,6,W 4,,,,False,SAS,1978
+16,"Thu, Nov 17, 1977",,Box Score,,Buffalo Braves,W,,111,108,10,6,W 5,,,,False,SAS,1978
+17,"Fri, Nov 18, 1977",,Box Score,@,Denver Nuggets,L,,94,105,10,7,L 1,,,,False,SAS,1978
+18,"Sun, Nov 20, 1977",,Box Score,@,Phoenix Suns,L,,112,134,10,8,L 2,,,,False,SAS,1978
+19,"Wed, Nov 23, 1977",,Box Score,,New Jersey Nets,W,,132,119,11,8,W 1,,,,False,SAS,1978
+20,"Sat, Nov 26, 1977",,Box Score,,Milwaukee Bucks,W,,129,107,12,8,W 2,,,,False,SAS,1978
+21,"Tue, Nov 29, 1977",,Box Score,,Philadelphia 76ers,L,,117,129,12,9,L 1,,,,False,SAS,1978
+22,"Wed, Nov 30, 1977",,Box Score,@,Washington Bullets,L,,105,116,12,10,L 2,,,,False,SAS,1978
+23,"Thu, Dec 1, 1977",,Box Score,,New York Knicks,W,,120,116,13,10,W 1,,,,False,SAS,1978
+24,"Sat, Dec 3, 1977",,Box Score,,New Orleans Jazz,W,,133,118,14,10,W 2,,,,False,SAS,1978
+25,"Wed, Dec 7, 1977",,Box Score,@,New Jersey Nets,W,,125,122,15,10,W 3,,,,False,SAS,1978
+26,"Fri, Dec 9, 1977",,Box Score,@,Philadelphia 76ers,L,,116,120,15,11,L 1,,,,False,SAS,1978
+27,"Sat, Dec 10, 1977",,Box Score,@,Chicago Bulls,L,,119,121,15,12,L 2,,,,False,SAS,1978
+28,"Wed, Dec 14, 1977",,Box Score,,Chicago Bulls,W,,116,108,16,12,W 1,,,,False,SAS,1978
+29,"Fri, Dec 16, 1977",,Box Score,@,Atlanta Hawks,L,,99,115,16,13,L 1,,,,False,SAS,1978
+30,"Tue, Dec 20, 1977",,Box Score,,Detroit Pistons,L,,117,118,16,14,L 2,,,,False,SAS,1978
+31,"Wed, Dec 21, 1977",,Box Score,@,Milwaukee Bucks,L,,92,116,16,15,L 3,,,,False,SAS,1978
+32,"Fri, Dec 23, 1977",,Box Score,,Houston Rockets,W,,107,101,17,15,W 1,,,,False,SAS,1978
+33,"Sun, Dec 25, 1977",,Box Score,@,New Orleans Jazz,W,,115,105,18,15,W 2,,,,False,SAS,1978
+34,"Tue, Dec 27, 1977",,Box Score,,Indiana Pacers,L,,89,96,18,16,L 1,,,,False,SAS,1978
+35,"Fri, Dec 30, 1977",,Box Score,,Cleveland Cavaliers,W,,122,101,19,16,W 1,,,,False,SAS,1978
+36,"Wed, Jan 4, 1978",,Box Score,,Denver Nuggets,L,,114,119,19,17,L 1,,,,False,SAS,1978
+37,"Fri, Jan 6, 1978",,Box Score,@,New Jersey Nets,W,,110,105,20,17,W 1,,,,False,SAS,1978
+38,"Sat, Jan 7, 1978",,Box Score,@,Cleveland Cavaliers,W,OT,109,107,21,17,W 2,,,,False,SAS,1978
+39,"Wed, Jan 11, 1978",,Box Score,,Milwaukee Bucks,W,,130,106,22,17,W 3,,,,False,SAS,1978
+40,"Fri, Jan 13, 1978",,Box Score,@,Atlanta Hawks,W,,98,92,23,17,W 4,,,,False,SAS,1978
+41,"Sat, Jan 14, 1978",,Box Score,@,Houston Rockets,L,,93,104,23,18,L 1,,,,False,SAS,1978
+42,"Tue, Jan 17, 1978",,Box Score,,Seattle SuperSonics,W,,119,113,24,18,W 1,,,,False,SAS,1978
+43,"Wed, Jan 18, 1978",,Box Score,@,Indiana Pacers,W,,109,96,25,18,W 2,,,,False,SAS,1978
+44,"Fri, Jan 20, 1978",,Box Score,,Indiana Pacers,W,,112,82,26,18,W 3,,,,False,SAS,1978
+45,"Sun, Jan 22, 1978",,Box Score,,Portland Trail Blazers,W,,106,95,27,18,W 4,,,,False,SAS,1978
+46,"Wed, Jan 25, 1978",,Box Score,,Boston Celtics,W,,113,103,28,18,W 5,10381,,,False,SAS,1978
+47,"Sun, Jan 29, 1978",,Box Score,@,Kansas City Kings,W,,127,113,29,18,W 6,,,,False,SAS,1978
+48,"Tue, Jan 31, 1978",,Box Score,,Washington Bullets,W,,129,109,30,18,W 7,,,,False,SAS,1978
+49,"Thu, Feb 2, 1978",,Box Score,,New York Knicks,W,,123,113,31,18,W 8,,,,False,SAS,1978
+50,"Fri, Feb 3, 1978",,Box Score,@,Chicago Bulls,L,,107,110,31,19,L 1,,,,False,SAS,1978
+51,"Thu, Feb 9, 1978",,Box Score,,Houston Rockets,W,,104,94,32,19,W 1,,,,False,SAS,1978
+52,"Fri, Feb 10, 1978",,Box Score,@,Houston Rockets,W,,125,114,33,19,W 2,,,,False,SAS,1978
+53,"Sat, Feb 11, 1978",,Box Score,@,Golden State Warriors,W,OT,131,122,34,19,W 3,,,,False,SAS,1978
+54,"Tue, Feb 14, 1978",,Box Score,@,Los Angeles Lakers,L,,114,128,34,20,L 1,,,,False,SAS,1978
+55,"Fri, Feb 17, 1978",,Box Score,@,Philadelphia 76ers,L,,116,125,34,21,L 2,,,,False,SAS,1978
+56,"Sat, Feb 18, 1978",,Box Score,,Chicago Bulls,W,,124,103,35,21,W 1,,,,False,SAS,1978
+57,"Tue, Feb 21, 1978",,Box Score,,Portland Trail Blazers,L,OT,114,118,35,22,L 1,,,,False,SAS,1978
+58,"Thu, Feb 23, 1978",,Box Score,,Atlanta Hawks,W,,118,105,36,22,W 1,,,,False,SAS,1978
+59,"Sat, Feb 25, 1978",,Box Score,,Cleveland Cavaliers,W,,112,108,37,22,W 2,,,,False,SAS,1978
+60,"Tue, Feb 28, 1978",,Box Score,@,New York Knicks,L,,123,138,37,23,L 1,,,,False,SAS,1978
+61,"Wed, Mar 1, 1978",,Box Score,@,Washington Bullets,L,,110,125,37,24,L 2,,,,False,SAS,1978
+62,"Thu, Mar 2, 1978",,Box Score,,Buffalo Braves,W,,128,107,38,24,W 1,,,,False,SAS,1978
+63,"Sun, Mar 5, 1978",,Box Score,,New Orleans Jazz,W,,98,97,39,24,W 2,,,,False,SAS,1978
+64,"Tue, Mar 7, 1978",,Box Score,,New Jersey Nets,W,,129,98,40,24,W 3,,,,False,SAS,1978
+65,"Wed, Mar 8, 1978",,Box Score,,Seattle SuperSonics,L,,94,95,40,25,L 1,,,,False,SAS,1978
+66,"Sat, Mar 11, 1978",,Box Score,,Washington Bullets,W,,116,101,41,25,W 1,,,,False,SAS,1978
+67,"Tue, Mar 14, 1978",,Box Score,@,Buffalo Braves,L,OT,115,123,41,26,L 1,,,,False,SAS,1978
+68,"Wed, Mar 15, 1978",,Box Score,@,Detroit Pistons,W,,135,106,42,26,W 1,,,,False,SAS,1978
+69,"Fri, Mar 17, 1978",,Box Score,@,Portland Trail Blazers,W,,118,99,43,26,W 2,,,,False,SAS,1978
+70,"Sun, Mar 19, 1978",,Box Score,@,Seattle SuperSonics,L,,98,116,43,27,L 1,,,,False,SAS,1978
+71,"Tue, Mar 21, 1978",,Box Score,,Los Angeles Lakers,W,,109,105,44,27,W 1,,,,False,SAS,1978
+72,"Thu, Mar 23, 1978",,Box Score,,Denver Nuggets,W,,123,106,45,27,W 2,,,,False,SAS,1978
+73,"Sat, Mar 25, 1978",,Box Score,@,Kansas City Kings,W,,132,130,46,27,W 3,,,,False,SAS,1978
+74,"Tue, Mar 28, 1978",,Box Score,,Golden State Warriors,L,,94,108,46,28,L 1,,,,False,SAS,1978
+75,"Wed, Mar 29, 1978",,Box Score,@,Indiana Pacers,W,,106,91,47,28,W 1,,,,False,SAS,1978
+76,"Thu, Mar 30, 1978",,Box Score,@,Cleveland Cavaliers,W,,99,95,48,28,W 2,,,,False,SAS,1978
+77,"Fri, Mar 31, 1978",,Box Score,@,Boston Celtics,W,,120,117,49,28,W 3,13584,,,False,SAS,1978
+78,"Sun, Apr 2, 1978",,Box Score,,Philadelphia 76ers,W,,111,107,50,28,W 4,,,,False,SAS,1978
+79,"Tue, Apr 4, 1978",,Box Score,,Phoenix Suns,W,,125,119,51,28,W 5,,,,False,SAS,1978
+80,"Thu, Apr 6, 1978",,Box Score,,Kansas City Kings,W,,123,116,52,28,W 6,,,,False,SAS,1978
+81,"Fri, Apr 7, 1978",,Box Score,@,Milwaukee Bucks,L,,102,108,52,29,L 1,,,,False,SAS,1978
+82,"Sun, Apr 9, 1978",,Box Score,@,New Orleans Jazz,L,,132,153,52,30,L 2,,,,False,SAS,1978
+1,"Sun, Apr 16, 1978",,Box Score,,Washington Bullets,W,,114,103,1,0,W 1,,,,True,SAS,1978
+2,"Tue, Apr 18, 1978",,Box Score,,Washington Bullets,L,,117,121,1,1,L 1,,,,True,SAS,1978
+3,"Fri, Apr 21, 1978",,Box Score,@,Washington Bullets,L,,105,118,1,2,L 2,,,,True,SAS,1978
+4,"Sun, Apr 23, 1978",,Box Score,@,Washington Bullets,L,,95,98,1,3,L 3,,,,True,SAS,1978
+5,"Tue, Apr 25, 1978",,Box Score,,Washington Bullets,W,,116,105,2,3,W 1,,,,True,SAS,1978
+6,"Fri, Apr 28, 1978",,Box Score,@,Washington Bullets,L,,100,103,2,4,L 1,,,,True,SAS,1978

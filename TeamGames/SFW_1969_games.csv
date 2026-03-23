@@ -1,0 +1,89 @@
+G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Opponent,Unnamed: 6,Unnamed: 7,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Fri, Oct 18, 1968",,Box Score,,San Diego Rockets,L,,108,123,0,1,L 1,,,,False,SFW,1969
+2,"Sat, Oct 19, 1968",,Box Score,@,Seattle SuperSonics,W,,107,95,1,1,W 1,,,,False,SFW,1969
+3,"Tue, Oct 22, 1968",,Box Score,,Phoenix Suns,W,,109,101,2,1,W 2,,,,False,SFW,1969
+4,"Sat, Oct 26, 1968",,Box Score,,Baltimore Bullets,W,,107,106,3,1,W 3,,,,False,SFW,1969
+5,"Tue, Oct 29, 1968",,Box Score,@,New York Knicks,L,,97,110,3,2,L 1,,,,False,SFW,1969
+6,"Wed, Oct 30, 1968",,Box Score,@,Baltimore Bullets,L,OT,110,112,3,3,L 2,,,,False,SFW,1969
+7,"Fri, Nov 1, 1968",,Box Score,@,Atlanta Hawks,L,,105,109,3,4,L 3,,,,False,SFW,1969
+8,"Sat, Nov 2, 1968",,Box Score,@,Milwaukee Bucks,L,,101,102,3,5,L 4,,,,False,SFW,1969
+9,"Mon, Nov 4, 1968",,Box Score,@,Phoenix Suns,W,,119,108,4,5,W 1,,,,False,SFW,1969
+10,"Wed, Nov 6, 1968",,Box Score,,New York Knicks,W,,94,93,5,5,W 2,,,,False,SFW,1969
+11,"Fri, Nov 8, 1968",,Box Score,@,Detroit Pistons,L,OT,118,122,5,6,L 1,,,,False,SFW,1969
+12,"Sat, Nov 9, 1968",,Box Score,@,Atlanta Hawks,L,,106,113,5,7,L 2,,,,False,SFW,1969
+13,"Tue, Nov 12, 1968",,Box Score,,Atlanta Hawks,W,,123,108,6,7,W 1,,,,False,SFW,1969
+14,"Fri, Nov 15, 1968",,Box Score,,Detroit Pistons,W,,133,105,7,7,W 2,,,,False,SFW,1969
+15,"Sat, Nov 16, 1968",,Box Score,,Los Angeles Lakers,L,,112,119,7,8,L 1,,,,False,SFW,1969
+16,"Tue, Nov 19, 1968",,Box Score,@,Chicago Bulls,W,,121,109,8,8,W 1,,,,False,SFW,1969
+17,"Wed, Nov 20, 1968",,Box Score,@,Cincinnati Royals,L,,107,113,8,9,L 1,,,,False,SFW,1969
+18,"Fri, Nov 22, 1968",,Box Score,@,Los Angeles Lakers,W,,100,98,9,9,W 1,,,,False,SFW,1969
+19,"Sat, Nov 23, 1968",,Box Score,,Seattle SuperSonics,W,,132,119,10,9,W 2,,,,False,SFW,1969
+20,"Wed, Nov 27, 1968",,Box Score,,Chicago Bulls,L,,106,119,10,10,L 1,,,,False,SFW,1969
+21,"Fri, Nov 29, 1968",,Box Score,,Milwaukee Bucks,W,,140,119,11,10,W 1,,,,False,SFW,1969
+22,"Sat, Nov 30, 1968",,Box Score,,Milwaukee Bucks,L,,101,107,11,11,L 1,,,,False,SFW,1969
+23,"Sun, Dec 1, 1968",,Box Score,@,San Diego Rockets,L,,105,116,11,12,L 2,,,,False,SFW,1969
+24,"Tue, Dec 3, 1968",,Box Score,,Seattle SuperSonics,W,,127,122,12,12,W 1,,,,False,SFW,1969
+25,"Wed, Dec 4, 1968",,Box Score,@,Phoenix Suns,L,,97,126,12,13,L 1,,,,False,SFW,1969
+26,"Fri, Dec 6, 1968",,Box Score,@,Seattle SuperSonics,L,OT,100,109,12,14,L 2,,,,False,SFW,1969
+27,"Sat, Dec 7, 1968",,Box Score,,Seattle SuperSonics,L,,107,115,12,15,L 3,,,,False,SFW,1969
+28,"Tue, Dec 10, 1968",,Box Score,,Atlanta Hawks,L,,100,111,12,16,L 4,,,,False,SFW,1969
+29,"Wed, Dec 11, 1968",,Box Score,N,Milwaukee Bucks,L,,96,106,12,17,L 5,,,"at Madison, WI",False,SFW,1969
+30,"Fri, Dec 13, 1968",,Box Score,@,Boston Celtics,W,,108,98,13,17,W 1,11089,,,False,SFW,1969
+31,"Sat, Dec 14, 1968",,Box Score,@,Philadelphia 76ers,L,,91,137,13,18,L 1,,,,False,SFW,1969
+32,"Tue, Dec 17, 1968",,Box Score,@,New York Knicks,L,,99,114,13,19,L 2,,,,False,SFW,1969
+33,"Wed, Dec 18, 1968",,Box Score,@,Baltimore Bullets,L,,100,109,13,20,L 3,,,,False,SFW,1969
+34,"Fri, Dec 20, 1968",,Box Score,@,Los Angeles Lakers,L,,101,133,13,21,L 4,,,,False,SFW,1969
+35,"Sat, Dec 21, 1968",,Box Score,,Philadelphia 76ers,W,,109,94,14,21,W 1,,,,False,SFW,1969
+36,"Mon, Dec 23, 1968",,Box Score,@,San Diego Rockets,W,,125,95,15,21,W 2,,,,False,SFW,1969
+37,"Thu, Dec 26, 1968",,Box Score,,Phoenix Suns,W,,119,118,16,21,W 3,,,,False,SFW,1969
+38,"Sat, Dec 28, 1968",,Box Score,@,Detroit Pistons,L,,102,131,16,22,L 1,,,,False,SFW,1969
+39,"Mon, Dec 30, 1968",,Box Score,@,Chicago Bulls,L,,97,103,16,23,L 2,,,,False,SFW,1969
+40,"Wed, Jan 1, 1969",,Box Score,N,Cincinnati Royals,W,,106,101,17,23,W 1,,,"at Cleveland, OH",False,SFW,1969
+41,"Fri, Jan 3, 1969",,Box Score,,Boston Celtics,W,,104,102,18,23,W 2,8389,,,False,SFW,1969
+42,"Sun, Jan 5, 1969",,Box Score,,Boston Celtics,L,,86,134,18,24,L 1,6239,,,False,SFW,1969
+43,"Tue, Jan 7, 1969",,Box Score,,San Diego Rockets,L,,108,113,18,25,L 2,,,,False,SFW,1969
+44,"Sat, Jan 11, 1969",,Box Score,,New York Knicks,L,,77,85,18,26,L 3,,,,False,SFW,1969
+45,"Thu, Jan 16, 1969",,Box Score,@,Chicago Bulls,W,,112,99,19,26,W 1,,,,False,SFW,1969
+46,"Fri, Jan 17, 1969",,Box Score,@,Boston Celtics,L,,99,102,19,27,L 1,8228,,,False,SFW,1969
+47,"Sun, Jan 19, 1969",,Box Score,@,Philadelphia 76ers,W,,98,97,20,27,W 1,,,,False,SFW,1969
+48,"Tue, Jan 21, 1969",,Box Score,,Cincinnati Royals,L,OT,107,113,20,28,L 1,,,,False,SFW,1969
+49,"Fri, Jan 24, 1969",,Box Score,,San Diego Rockets,W,,114,107,21,28,W 1,,,,False,SFW,1969
+50,"Sun, Jan 26, 1969",,Box Score,@,Phoenix Suns,W,,117,93,22,28,W 2,,,,False,SFW,1969
+51,"Tue, Jan 28, 1969",,Box Score,@,Cincinnati Royals,W,,107,100,23,28,W 3,,,,False,SFW,1969
+52,"Wed, Jan 29, 1969",,Box Score,@,Detroit Pistons,W,,133,126,24,28,W 4,,,,False,SFW,1969
+53,"Thu, Jan 30, 1969",,Box Score,,Chicago Bulls,L,,101,111,24,29,L 1,,,,False,SFW,1969
+54,"Sat, Feb 1, 1969",,Box Score,,Los Angeles Lakers,L,OT,101,106,24,30,L 2,,,,False,SFW,1969
+55,"Sun, Feb 2, 1969",,Box Score,@,Los Angeles Lakers,W,3OT,122,117,25,30,W 1,,,,False,SFW,1969
+56,"Tue, Feb 4, 1969",,Box Score,,Seattle SuperSonics,L,,111,116,25,31,L 1,,,,False,SFW,1969
+57,"Sat, Feb 8, 1969",,Box Score,,Cincinnati Royals,L,,116,117,25,32,L 2,,,,False,SFW,1969
+58,"Sun, Feb 9, 1969",,Box Score,@,Seattle SuperSonics,W,,121,120,26,32,W 1,,,,False,SFW,1969
+59,"Tue, Feb 11, 1969",,Box Score,@,Atlanta Hawks,W,,92,87,27,32,W 2,,,,False,SFW,1969
+60,"Wed, Feb 12, 1969",,Box Score,@,Baltimore Bullets,L,,110,120,27,33,L 1,,,,False,SFW,1969
+61,"Fri, Feb 14, 1969",,Box Score,@,Philadelphia 76ers,W,,127,111,28,33,W 1,,,,False,SFW,1969
+62,"Sat, Feb 15, 1969",,Box Score,@,New York Knicks,L,,92,98,28,34,L 1,,,,False,SFW,1969
+63,"Sun, Feb 16, 1969",,Box Score,@,Atlanta Hawks,W,,113,106,29,34,W 1,,,,False,SFW,1969
+64,"Tue, Feb 18, 1969",,Box Score,,Detroit Pistons,W,,121,114,30,34,W 2,,,,False,SFW,1969
+65,"Wed, Feb 19, 1969",,Box Score,,Philadelphia 76ers,W,,134,117,31,34,W 3,,,,False,SFW,1969
+66,"Thu, Feb 20, 1969",,Box Score,@,San Diego Rockets,W,,128,118,32,34,W 4,,,,False,SFW,1969
+67,"Sat, Feb 22, 1969",,Box Score,,Philadelphia 76ers,L,,122,129,32,35,L 1,,,,False,SFW,1969
+68,"Mon, Feb 24, 1969",,Box Score,,Chicago Bulls,L,,108,119,32,36,L 2,,,,False,SFW,1969
+69,"Tue, Feb 25, 1969",,Box Score,,Chicago Bulls,W,,101,99,33,36,W 1,,,,False,SFW,1969
+70,"Fri, Feb 28, 1969",,Box Score,,Cincinnati Royals,W,,131,115,34,36,W 2,,,,False,SFW,1969
+71,"Sat, Mar 1, 1969",,Box Score,,Phoenix Suns,L,,118,119,34,37,L 1,,,,False,SFW,1969
+72,"Sun, Mar 2, 1969",,Box Score,@,Los Angeles Lakers,L,,92,107,34,38,L 2,,,,False,SFW,1969
+73,"Tue, Mar 4, 1969",,Box Score,,Boston Celtics,W,,99,95,35,38,W 1,7133,,,False,SFW,1969
+74,"Wed, Mar 5, 1969",,Box Score,,Baltimore Bullets,W,,114,107,36,38,W 2,,,,False,SFW,1969
+75,"Fri, Mar 7, 1969",,Box Score,,Baltimore Bullets,W,OT,135,130,37,38,W 3,,,,False,SFW,1969
+76,"Sun, Mar 9, 1969",,Box Score,@,Boston Celtics,L,,89,138,37,39,L 1,13555,,,False,SFW,1969
+77,"Mon, Mar 10, 1969",,Box Score,@,Milwaukee Bucks,W,,123,106,38,39,W 1,,,,False,SFW,1969
+78,"Wed, Mar 12, 1969",,Box Score,,Los Angeles Lakers,W,,97,85,39,39,W 2,,,,False,SFW,1969
+79,"Fri, Mar 14, 1969",,Box Score,,Detroit Pistons,W,,114,110,40,39,W 3,,,,False,SFW,1969
+80,"Tue, Mar 18, 1969",,Box Score,,Atlanta Hawks,L,,115,128,40,40,L 1,,,,False,SFW,1969
+81,"Fri, Mar 21, 1969",,Box Score,,Milwaukee Bucks,W,,103,100,41,40,W 1,,,,False,SFW,1969
+82,"Sat, Mar 22, 1969",,Box Score,,New York Knicks,L,,90,117,41,41,L 1,,,,False,SFW,1969
+1,"Wed, Mar 26, 1969",,Box Score,@,Los Angeles Lakers,W,,99,94,1,0,W 1,,,,True,SFW,1969
+2,"Fri, Mar 28, 1969",,Box Score,@,Los Angeles Lakers,W,,107,101,2,0,W 2,,,,True,SFW,1969
+3,"Mon, Mar 31, 1969",,Box Score,,Los Angeles Lakers,L,,98,115,2,1,L 1,,,,True,SFW,1969
+4,"Wed, Apr 2, 1969",,Box Score,,Los Angeles Lakers,L,,88,103,2,2,L 2,,,,True,SFW,1969
+5,"Fri, Apr 4, 1969",,Box Score,@,Los Angeles Lakers,L,,98,103,2,3,L 3,,,,True,SFW,1969
+6,"Sat, Apr 5, 1969",,Box Score,,Los Angeles Lakers,L,,78,118,2,4,L 4,,,,True,SFW,1969

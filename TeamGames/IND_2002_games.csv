@@ -1,0 +1,88 @@
+G,Date,Start (ET),Unnamed: 3,Unnamed: 4,Unnamed: 5,Opponent,Unnamed: 7,Unnamed: 8,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Tue, Oct 30, 2001",7:30p,,Box Score,@,New Jersey Nets,L,,97,103,0,1,L 1,8749,,,False,IND,2002
+2,"Wed, Oct 31, 2001",8:30p,,Box Score,@,Chicago Bulls,W,,98,73,1,1,W 1,18163,,,False,IND,2002
+3,"Fri, Nov 2, 2001",7:00p,,Box Score,,Orlando Magic,W,,117,107,2,1,W 2,18345,,,False,IND,2002
+4,"Sun, Nov 4, 2001",5:30p,,Box Score,@,Toronto Raptors,L,,100,113,2,2,L 1,18825,,,False,IND,2002
+5,"Tue, Nov 6, 2001",7:00p,,Box Score,@,Philadelphia 76ers,W,,87,77,3,2,W 1,20274,,,False,IND,2002
+6,"Wed, Nov 7, 2001",8:00p,,Box Score,,Sacramento Kings,W,,116,104,4,2,W 2,15309,,,False,IND,2002
+7,"Fri, Nov 9, 2001",7:00p,,Box Score,,New York Knicks,W,,103,95,5,2,W 3,16494,,,False,IND,2002
+8,"Sat, Nov 10, 2001",8:00p,,Box Score,,Portland Trail Blazers,W,,105,96,6,2,W 4,18345,,,False,IND,2002
+9,"Tue, Nov 13, 2001",7:00p,,Box Score,,New Jersey Nets,L,,82,91,6,3,L 1,15188,,,False,IND,2002
+10,"Wed, Nov 14, 2001",7:00p,,Box Score,@,Boston Celtics,L,,93,101,6,4,L 2,14081,2:08,,False,IND,2002
+11,"Fri, Nov 16, 2001",7:00p,,Box Score,,Minnesota Timberwolves,L,2OT,113,120,6,5,L 3,17097,,,False,IND,2002
+12,"Sat, Nov 17, 2001",7:30p,,Box Score,@,Detroit Pistons,L,,98,104,6,6,L 4,22076,,,False,IND,2002
+13,"Tue, Nov 20, 2001",7:00p,,Box Score,,Atlanta Hawks,W,,106,102,7,6,W 1,15278,,,False,IND,2002
+14,"Thu, Nov 22, 2001",8:00p,,Box Score,,Washington Wizards,W,,110,103,8,6,W 2,18345,,,False,IND,2002
+15,"Fri, Nov 23, 2001",8:00p,,Box Score,,San Antonio Spurs,L,,79,97,8,7,L 1,18345,,,False,IND,2002
+16,"Sun, Nov 25, 2001",7:00p,,Box Score,@,Seattle SuperSonics,L,,88,99,8,8,L 2,12695,,,False,IND,2002
+17,"Tue, Nov 27, 2001",10:00p,,Box Score,@,Portland Trail Blazers,L,,90,96,8,9,L 3,18511,,,False,IND,2002
+18,"Wed, Nov 28, 2001",9:00p,,Box Score,@,Denver Nuggets,W,,99,85,9,9,W 1,14542,,,False,IND,2002
+19,"Sat, Dec 1, 2001",9:00p,,Box Score,@,Utah Jazz,W,,100,97,10,9,W 2,17885,,,False,IND,2002
+20,"Sun, Dec 2, 2001",9:00p,,Box Score,@,Los Angeles Clippers,L,,72,103,10,10,L 1,16737,,,False,IND,2002
+21,"Tue, Dec 4, 2001",7:00p,,Box Score,,Denver Nuggets,W,,104,96,11,10,W 1,16340,,,False,IND,2002
+22,"Fri, Dec 7, 2001",7:00p,,Box Score,,Chicago Bulls,W,,98,83,12,10,W 2,16568,,,False,IND,2002
+23,"Sat, Dec 8, 2001",7:30p,,Box Score,@,New York Knicks,L,,99,101,12,11,L 1,19763,,,False,IND,2002
+24,"Thu, Dec 13, 2001",7:00p,,Box Score,,Houston Rockets,W,OT,108,106,13,11,W 1,15534,,,False,IND,2002
+25,"Sat, Dec 15, 2001",8:30p,,Box Score,@,Milwaukee Bucks,L,,95,115,13,12,L 1,18717,,,False,IND,2002
+26,"Tue, Dec 18, 2001",7:30p,,Box Score,@,Atlanta Hawks,W,,103,100,14,12,W 1,8898,,,False,IND,2002
+27,"Wed, Dec 19, 2001",8:00p,,Box Score,,Toronto Raptors,L,,90,102,14,13,L 1,16060,,,False,IND,2002
+28,"Fri, Dec 21, 2001",7:00p,,Box Score,,New Jersey Nets,W,,100,94,15,13,W 1,16219,,,False,IND,2002
+29,"Sat, Dec 22, 2001",7:30p,,Box Score,@,Cleveland Cavaliers,W,,109,103,16,13,W 2,12449,,,False,IND,2002
+30,"Wed, Dec 26, 2001",8:00p,,Box Score,@,Orlando Magic,W,,89,82,17,13,W 3,15039,,,False,IND,2002
+31,"Thu, Dec 27, 2001",7:00p,,Box Score,,Washington Wizards,W,,108,81,18,13,W 4,18345,,,False,IND,2002
+32,"Sat, Dec 29, 2001",7:30p,,Box Score,@,New Jersey Nets,L,OT,93,98,18,14,L 1,17023,,,False,IND,2002
+33,"Mon, Dec 31, 2001",7:00p,,Box Score,,Miami Heat,L,,87,89,18,15,L 2,16838,,,False,IND,2002
+34,"Fri, Jan 4, 2002",8:30p,,Box Score,@,San Antonio Spurs,W,,92,82,19,15,W 1,29243,,,False,IND,2002
+35,"Sat, Jan 5, 2002",8:30p,,Box Score,@,Houston Rockets,W,,81,79,20,15,W 2,12789,,,False,IND,2002
+36,"Wed, Jan 9, 2002",7:00p,,Box Score,,Los Angeles Lakers,L,,90,109,20,16,L 1,18345,,,False,IND,2002
+37,"Fri, Jan 11, 2002",7:00p,,Box Score,,Chicago Bulls,W,,97,90,21,16,W 1,16096,,,False,IND,2002
+38,"Sat, Jan 12, 2002",8:30p,,Box Score,@,Dallas Mavericks,L,,102,111,21,17,L 1,20071,,,False,IND,2002
+39,"Tue, Jan 15, 2002",7:00p,,Box Score,,Milwaukee Bucks,L,,102,106,21,18,L 2,16445,,,False,IND,2002
+40,"Wed, Jan 16, 2002",8:00p,,Box Score,@,Milwaukee Bucks,L,,100,105,21,19,L 3,17462,,,False,IND,2002
+41,"Fri, Jan 18, 2002",7:00p,,Box Score,,Detroit Pistons,L,,93,96,21,20,L 4,16565,,,False,IND,2002
+42,"Sat, Jan 19, 2002",9:00p,,Box Score,@,Miami Heat,L,,88,100,21,21,L 5,15689,,,False,IND,2002
+43,"Mon, Jan 21, 2002",3:30p,,Box Score,@,Chicago Bulls,W,,93,81,22,21,W 1,17248,,,False,IND,2002
+44,"Wed, Jan 23, 2002",7:00p,,Box Score,@,Boston Celtics,L,,94,98,22,22,L 1,14217,2:09,,False,IND,2002
+45,"Fri, Jan 25, 2002",7:00p,,Box Score,,Charlotte Hornets,W,,90,81,23,22,W 1,16012,,,False,IND,2002
+46,"Sat, Jan 26, 2002",8:00p,,Box Score,,Seattle SuperSonics,L,,86,95,23,23,L 1,17124,,,False,IND,2002
+47,"Wed, Jan 30, 2002",7:00p,,Box Score,,Memphis Grizzlies,W,,83,82,24,23,W 1,16445,,,False,IND,2002
+48,"Fri, Feb 1, 2002",7:00p,,Box Score,,New York Knicks,W,,92,87,25,23,W 2,18345,,,False,IND,2002
+49,"Sun, Feb 3, 2002",12:00p,,Box Score,@,Washington Wizards,L,,89,109,25,24,L 1,20674,,,False,IND,2002
+50,"Tue, Feb 5, 2002",8:00p,,Box Score,,Dallas Mavericks,L,2OT,140,141,25,25,L 2,15530,,,False,IND,2002
+51,"Tue, Feb 12, 2002",7:00p,,Box Score,,Utah Jazz,L,,82,98,25,26,L 3,16278,,,False,IND,2002
+52,"Fri, Feb 15, 2002",7:30p,,Box Score,@,Charlotte Hornets,L,,106,116,25,27,L 4,13732,,,False,IND,2002
+53,"Sun, Feb 17, 2002",2:00p,,Box Score,,Philadelphia 76ers,W,,86,76,26,27,W 1,18345,,,False,IND,2002
+54,"Fri, Feb 22, 2002",7:00p,,Box Score,,Cleveland Cavaliers,L,,93,103,26,28,L 1,16241,,,False,IND,2002
+55,"Sat, Feb 23, 2002",8:00p,,Box Score,,Los Angeles Clippers,W,,106,88,27,28,W 1,18345,,,False,IND,2002
+56,"Mon, Feb 25, 2002",10:30p,,Box Score,@,Golden State Warriors,W,OT,102,97,28,28,W 2,13122,,,False,IND,2002
+57,"Thu, Feb 28, 2002",9:00p,,Box Score,@,Phoenix Suns,L,OT,100,107,28,29,L 1,16095,,,False,IND,2002
+58,"Fri, Mar 1, 2002",10:30p,,Box Score,@,Los Angeles Lakers,L,,84,96,28,30,L 2,18897,,,False,IND,2002
+59,"Sun, Mar 3, 2002",6:00p,,Box Score,@,Sacramento Kings,W,,97,86,29,30,W 1,17317,,,False,IND,2002
+60,"Tue, Mar 5, 2002",8:00p,,Box Score,,Orlando Magic,W,,111,98,30,30,W 2,15697,,,False,IND,2002
+61,"Thu, Mar 7, 2002",8:00p,,Box Score,@,Memphis Grizzlies,L,,111,122,30,31,L 1,12234,,,False,IND,2002
+62,"Fri, Mar 8, 2002",7:00p,,Box Score,@,Philadelphia 76ers,L,,100,109,30,32,L 2,20773,,,False,IND,2002
+63,"Sun, Mar 10, 2002",3:00p,,Box Score,@,Detroit Pistons,W,,89,84,31,32,W 1,22076,,,False,IND,2002
+64,"Tue, Mar 12, 2002",7:00p,,Box Score,,Golden State Warriors,W,,115,101,32,32,W 2,16047,,,False,IND,2002
+65,"Fri, Mar 15, 2002",8:00p,,Box Score,@,Minnesota Timberwolves,W,,98,85,33,32,W 3,19143,,,False,IND,2002
+66,"Sun, Mar 17, 2002",2:30p,,Box Score,,Atlanta Hawks,W,,85,68,34,32,W 4,15701,,,False,IND,2002
+67,"Wed, Mar 20, 2002",7:00p,,Box Score,@,Charlotte Hornets,L,,88,94,34,33,L 1,6684,,,False,IND,2002
+68,"Fri, Mar 22, 2002",7:30p,,Box Score,@,Miami Heat,W,,104,94,35,33,W 1,15853,,,False,IND,2002
+69,"Sun, Mar 24, 2002",2:30p,,Box Score,,Charlotte Hornets,L,,84,99,35,34,L 1,16808,,,False,IND,2002
+70,"Tue, Mar 26, 2002",7:00p,,Box Score,,Detroit Pistons,L,,77,96,35,35,L 2,16127,,,False,IND,2002
+71,"Fri, Mar 29, 2002",7:30p,,Box Score,@,Orlando Magic,L,,106,114,35,36,L 3,17248,,,False,IND,2002
+72,"Sun, Mar 31, 2002",3:00p,,Box Score,,Miami Heat,W,,100,81,36,36,W 1,15382,,,False,IND,2002
+73,"Tue, Apr 2, 2002",7:00p,,Box Score,,Boston Celtics,L,,94,105,36,37,L 1,16890,2:19,,False,IND,2002
+74,"Thu, Apr 4, 2002",7:30p,,Box Score,@,Atlanta Hawks,L,,94,95,36,38,L 2,10634,,,False,IND,2002
+75,"Fri, Apr 5, 2002",7:00p,,Box Score,,Phoenix Suns,W,,97,87,37,38,W 1,16419,,,False,IND,2002
+76,"Sun, Apr 7, 2002",5:30p,,Box Score,@,Toronto Raptors,L,,84,94,37,39,L 1,19800,,,False,IND,2002
+77,"Mon, Apr 8, 2002",8:00p,,Box Score,,Cleveland Cavaliers,L,,99,111,37,40,L 2,15673,,,False,IND,2002
+78,"Wed, Apr 10, 2002",8:00p,,Box Score,,Toronto Raptors,W,,98,82,38,40,W 1,16337,,,False,IND,2002
+79,"Fri, Apr 12, 2002",8:00p,,Box Score,,Milwaukee Bucks,W,OT,112,107,39,40,W 2,18345,,,False,IND,2002
+80,"Sun, Apr 14, 2002",1:00p,,Box Score,@,Washington Wizards,W,,86,80,40,40,W 3,20674,,,False,IND,2002
+81,"Tue, Apr 16, 2002",7:00p,,Box Score,@,Cleveland Cavaliers,W,,99,95,41,40,W 4,16591,,,False,IND,2002
+82,"Wed, Apr 17, 2002",8:00p,,Box Score,,Philadelphia 76ers,W,,103,80,42,40,W 5,18345,,,False,IND,2002
+1,"Sat, Apr 20, 2002",12:30p,,Box Score,@,New Jersey Nets,W,,89,83,1,0,W 1,18555,,,True,IND,2002
+2,"Mon, Apr 22, 2002",7:00p,,Box Score,@,New Jersey Nets,L,,79,95,1,1,L 1,20049,,,True,IND,2002
+3,"Fri, Apr 26, 2002",8:30p,,Box Score,,New Jersey Nets,L,,84,85,1,2,L 2,18345,,,True,IND,2002
+4,"Tue, Apr 30, 2002",9:30p,,Box Score,,New Jersey Nets,W,,97,74,2,2,W 1,18345,,,True,IND,2002
+5,"Thu, May 2, 2002",7:00p,,Box Score,@,New Jersey Nets,L,2OT,109,120,2,3,L 1,20049,,,True,IND,2002

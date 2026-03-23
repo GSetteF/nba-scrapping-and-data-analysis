@@ -1,0 +1,92 @@
+G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Opponent,Unnamed: 6,Unnamed: 7,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Tue, Oct 18, 1977",,Box Score,,Los Angeles Lakers,W,,117,112,1,0,W 1,,,,False,MIL,1978
+2,"Wed, Oct 19, 1977",,Box Score,@,Denver Nuggets,L,,115,133,1,1,L 1,,,,False,MIL,1978
+3,"Sat, Oct 22, 1977",,Box Score,,Chicago Bulls,W,,113,95,2,1,W 1,,,,False,MIL,1978
+4,"Thu, Oct 27, 1977",,Box Score,@,Houston Rockets,L,,110,133,2,2,L 1,,,,False,MIL,1978
+5,"Sun, Oct 30, 1977",,Box Score,,Seattle SuperSonics,W,,108,95,3,2,W 1,,,,False,MIL,1978
+6,"Tue, Nov 1, 1977",,Box Score,,Kansas City Kings,W,,115,95,4,2,W 2,,,,False,MIL,1978
+7,"Thu, Nov 3, 1977",,Box Score,@,Cleveland Cavaliers,L,,91,100,4,3,L 1,,,,False,MIL,1978
+8,"Fri, Nov 4, 1977",,Box Score,,Houston Rockets,W,,110,108,5,3,W 1,,,,False,MIL,1978
+9,"Tue, Nov 8, 1977",,Box Score,,Denver Nuggets,L,,101,111,5,4,L 1,,,,False,MIL,1978
+10,"Thu, Nov 10, 1977",,Box Score,@,Washington Bullets,W,,106,103,6,4,W 1,,,,False,MIL,1978
+11,"Fri, Nov 11, 1977",,Box Score,,Cleveland Cavaliers,L,,82,88,6,5,L 1,,,,False,MIL,1978
+12,"Sun, Nov 13, 1977",,Box Score,,Boston Celtics,L,OT,119,127,6,6,L 2,10938,,,False,MIL,1978
+13,"Tue, Nov 15, 1977",,Box Score,,Portland Trail Blazers,L,,106,109,6,7,L 3,,,,False,MIL,1978
+14,"Wed, Nov 16, 1977",,Box Score,@,New Jersey Nets,W,,116,106,7,7,W 1,,,,False,MIL,1978
+15,"Sat, Nov 19, 1977",,Box Score,@,Philadelphia 76ers,L,,100,111,7,8,L 1,,,,False,MIL,1978
+16,"Tue, Nov 22, 1977",,Box Score,,Golden State Warriors,W,,109,88,8,8,W 1,,,,False,MIL,1978
+17,"Wed, Nov 23, 1977",,Box Score,@,Kansas City Kings,W,,122,116,9,8,W 2,,,,False,MIL,1978
+18,"Fri, Nov 25, 1977",,Box Score,@,Atlanta Hawks,W,,117,115,10,8,W 3,,,,False,MIL,1978
+19,"Sat, Nov 26, 1977",,Box Score,@,San Antonio Spurs,L,,107,129,10,9,L 1,,,,False,MIL,1978
+20,"Tue, Nov 29, 1977",,Box Score,,Detroit Pistons,L,,99,100,10,10,L 2,,,,False,MIL,1978
+21,"Wed, Nov 30, 1977",,Box Score,@,Indiana Pacers,W,,120,113,11,10,W 1,,,,False,MIL,1978
+22,"Fri, Dec 2, 1977",,Box Score,,Washington Bullets,L,,95,108,11,11,L 1,,,,False,MIL,1978
+23,"Sat, Dec 3, 1977",,Box Score,@,New York Knicks,W,,115,108,12,11,W 1,,,,False,MIL,1978
+24,"Sun, Dec 4, 1977",,Box Score,,New Jersey Nets,W,OT,134,118,13,11,W 2,,,,False,MIL,1978
+25,"Tue, Dec 6, 1977",,Box Score,@,Los Angeles Lakers,L,,108,109,13,12,L 1,,,,False,MIL,1978
+26,"Thu, Dec 8, 1977",,Box Score,@,Golden State Warriors,W,,117,116,14,12,W 1,,,,False,MIL,1978
+27,"Fri, Dec 9, 1977",,Box Score,@,Seattle SuperSonics,L,,123,136,14,13,L 1,,,,False,MIL,1978
+28,"Sat, Dec 10, 1977",,Box Score,@,Denver Nuggets,L,,111,118,14,14,L 2,,,,False,MIL,1978
+29,"Tue, Dec 13, 1977",,Box Score,,Philadelphia 76ers,W,,129,117,15,14,W 1,,,,False,MIL,1978
+30,"Fri, Dec 16, 1977",,Box Score,,New York Knicks,W,3OT,152,150,16,14,W 2,,,,False,MIL,1978
+31,"Sun, Dec 18, 1977",,Box Score,,Buffalo Braves,W,,111,100,17,14,W 3,,,,False,MIL,1978
+32,"Wed, Dec 21, 1977",,Box Score,,San Antonio Spurs,W,,116,92,18,14,W 4,,,,False,MIL,1978
+33,"Thu, Dec 22, 1977",,Box Score,@,Detroit Pistons,L,,102,118,18,15,L 1,,,,False,MIL,1978
+34,"Fri, Dec 23, 1977",,Box Score,,Atlanta Hawks,L,,93,109,18,16,L 2,,,,False,MIL,1978
+35,"Sun, Dec 25, 1977",,Box Score,@,Kansas City Kings,W,,131,122,19,16,W 1,,,,False,MIL,1978
+36,"Tue, Dec 27, 1977",,Box Score,@,Buffalo Braves,W,,108,105,20,16,W 2,,,,False,MIL,1978
+37,"Thu, Dec 29, 1977",,Box Score,,Boston Celtics,L,,115,124,20,17,L 1,10938,,,False,MIL,1978
+38,"Tue, Jan 3, 1978",,Box Score,,Phoenix Suns,L,,103,125,20,18,L 2,,,,False,MIL,1978
+39,"Thu, Jan 5, 1978",,Box Score,,New Orleans Jazz,L,,109,116,20,19,L 3,,,,False,MIL,1978
+40,"Fri, Jan 6, 1978",,Box Score,@,Houston Rockets,W,,103,101,21,19,W 1,,,,False,MIL,1978
+41,"Sun, Jan 8, 1978",,Box Score,,Kansas City Kings,W,,133,123,22,19,W 2,,,,False,MIL,1978
+42,"Tue, Jan 10, 1978",,Box Score,,Indiana Pacers,W,,125,103,23,19,W 3,,,,False,MIL,1978
+43,"Wed, Jan 11, 1978",,Box Score,@,San Antonio Spurs,L,,106,130,23,20,L 1,,,,False,MIL,1978
+44,"Fri, Jan 13, 1978",,Box Score,@,Chicago Bulls,L,,111,128,23,21,L 2,,,,False,MIL,1978
+45,"Tue, Jan 17, 1978",,Box Score,,New Jersey Nets,W,,119,109,24,21,W 1,,,,False,MIL,1978
+46,"Wed, Jan 18, 1978",,Box Score,@,Boston Celtics,L,,116,130,24,22,L 1,8565,,,False,MIL,1978
+47,"Thu, Jan 19, 1978",,Box Score,,Denver Nuggets,W,,114,109,25,22,W 1,,,,False,MIL,1978
+48,"Sun, Jan 22, 1978",,Box Score,,Chicago Bulls,W,,112,90,26,22,W 2,,,,False,MIL,1978
+49,"Fri, Jan 27, 1978",,Box Score,@,Los Angeles Lakers,L,,114,131,26,23,L 1,,,,False,MIL,1978
+50,"Sun, Jan 29, 1978",,Box Score,@,Seattle SuperSonics,L,,101,103,26,24,L 2,,,,False,MIL,1978
+51,"Tue, Jan 31, 1978",,Box Score,@,Portland Trail Blazers,L,,116,136,26,25,L 3,,,,False,MIL,1978
+52,"Thu, Feb 2, 1978",,Box Score,@,Golden State Warriors,L,,102,105,26,26,L 4,,,,False,MIL,1978
+53,"Fri, Feb 3, 1978",,Box Score,@,Phoenix Suns,L,,105,115,26,27,L 5,,,,False,MIL,1978
+54,"Wed, Feb 8, 1978",,Box Score,,Buffalo Braves,W,,104,103,27,27,W 1,,,,False,MIL,1978
+55,"Fri, Feb 10, 1978",,Box Score,,Cleveland Cavaliers,W,OT,108,98,28,27,W 2,,,,False,MIL,1978
+56,"Sat, Feb 11, 1978",,Box Score,@,New York Knicks,L,,122,133,28,28,L 1,,,,False,MIL,1978
+57,"Wed, Feb 15, 1978",,Box Score,,New Orleans Jazz,W,,112,99,29,28,W 1,,,,False,MIL,1978
+58,"Fri, Feb 17, 1978",,Box Score,,Houston Rockets,W,,115,98,30,28,W 2,,,,False,MIL,1978
+59,"Sun, Feb 19, 1978",,Box Score,,Seattle SuperSonics,L,,103,108,30,29,L 1,,,,False,MIL,1978
+60,"Fri, Feb 24, 1978",,Box Score,@,Chicago Bulls,W,OT,112,109,31,29,W 1,,,,False,MIL,1978
+61,"Sun, Feb 26, 1978",,Box Score,@,New Orleans Jazz,W,OT,122,120,32,29,W 2,,,,False,MIL,1978
+62,"Tue, Feb 28, 1978",,Box Score,,Washington Bullets,W,OT,136,135,33,29,W 3,,,,False,MIL,1978
+63,"Fri, Mar 3, 1978",,Box Score,@,Phoenix Suns,L,,126,132,33,30,L 1,,,,False,MIL,1978
+64,"Sun, Mar 5, 1978",,Box Score,@,Portland Trail Blazers,L,,88,126,33,31,L 2,,,,False,MIL,1978
+65,"Wed, Mar 8, 1978",,Box Score,,New York Knicks,W,2OT,127,125,34,31,W 1,,,,False,MIL,1978
+66,"Fri, Mar 10, 1978",,Box Score,,Golden State Warriors,L,,102,124,34,32,L 1,,,,False,MIL,1978
+67,"Sun, Mar 12, 1978",,Box Score,@,Atlanta Hawks,L,,93,98,34,33,L 2,,,,False,MIL,1978
+68,"Tue, Mar 14, 1978",,Box Score,,Phoenix Suns,W,,121,106,35,33,W 1,,,,False,MIL,1978
+69,"Fri, Mar 17, 1978",,Box Score,@,Buffalo Braves,L,,127,136,35,34,L 1,,,,False,MIL,1978
+70,"Sat, Mar 18, 1978",,Box Score,@,Indiana Pacers,W,,113,104,36,34,W 1,,,,False,MIL,1978
+71,"Sun, Mar 19, 1978",,Box Score,@,Washington Bullets,W,,117,106,37,34,W 2,,,,False,MIL,1978
+72,"Tue, Mar 21, 1978",,Box Score,,Atlanta Hawks,W,,100,86,38,34,W 3,,,,False,MIL,1978
+73,"Thu, Mar 23, 1978",,Box Score,,Portland Trail Blazers,W,,116,109,39,34,W 4,,,,False,MIL,1978
+74,"Fri, Mar 24, 1978",,Box Score,@,Philadelphia 76ers,L,,122,131,39,35,L 1,,,,False,MIL,1978
+75,"Sun, Mar 26, 1978",,Box Score,,Detroit Pistons,W,OT,110,109,40,35,W 1,,,,False,MIL,1978
+76,"Thu, Mar 30, 1978",,Box Score,,Indiana Pacers,W,,105,100,41,35,W 2,,,,False,MIL,1978
+77,"Fri, Mar 31, 1978",,Box Score,@,New Jersey Nets,L,,114,122,41,36,L 1,,,,False,MIL,1978
+78,"Sun, Apr 2, 1978",,Box Score,@,Detroit Pistons,W,,129,121,42,36,W 1,,,,False,MIL,1978
+79,"Tue, Apr 4, 1978",,Box Score,,Los Angeles Lakers,L,,102,103,42,37,L 1,,,,False,MIL,1978
+80,"Thu, Apr 6, 1978",,Box Score,@,Cleveland Cavaliers,L,,105,117,42,38,L 2,,,,False,MIL,1978
+81,"Fri, Apr 7, 1978",,Box Score,,San Antonio Spurs,W,,108,102,43,38,W 1,,,,False,MIL,1978
+82,"Sat, Apr 8, 1978",,Box Score,@,Boston Celtics,W,,123,111,44,38,W 2,14172,,,False,MIL,1978
+1,"Tue, Apr 11, 1978",,Box Score,@,Phoenix Suns,W,,111,103,1,0,W 1,,,,True,MIL,1978
+2,"Fri, Apr 14, 1978",,Box Score,,Phoenix Suns,W,,94,90,2,0,W 2,,,,True,MIL,1978
+3,"Tue, Apr 18, 1978",,Box Score,@,Denver Nuggets,L,,103,119,2,1,L 1,,,,True,MIL,1978
+4,"Fri, Apr 21, 1978",,Box Score,@,Denver Nuggets,L,,111,127,2,2,L 2,,,,True,MIL,1978
+5,"Sun, Apr 23, 1978",,Box Score,,Denver Nuggets,W,,143,112,3,2,W 1,,,,True,MIL,1978
+6,"Tue, Apr 25, 1978",,Box Score,,Denver Nuggets,L,,104,118,3,3,L 1,,,,True,MIL,1978
+7,"Fri, Apr 28, 1978",,Box Score,@,Denver Nuggets,W,,117,112,4,3,W 1,,,,True,MIL,1978
+8,"Sun, Apr 30, 1978",,Box Score,,Denver Nuggets,W,,119,91,5,3,W 2,,,,True,MIL,1978
+9,"Wed, May 3, 1978",,Box Score,@,Denver Nuggets,L,,110,116,5,4,L 1,,,,True,MIL,1978

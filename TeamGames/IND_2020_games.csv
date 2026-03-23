@@ -1,0 +1,78 @@
+G,Date,Start (ET),Unnamed: 3,Unnamed: 4,Unnamed: 5,Opponent,Unnamed: 7,Unnamed: 8,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Wed, Oct 23, 2019",7:00p,,Box Score,,Detroit Pistons,L,,110,119,0,1,L 1,17923,2:22,,False,IND,2020
+2,"Sat, Oct 26, 2019",8:00p,,Box Score,@,Cleveland Cavaliers,L,,99,110,0,2,L 2,19432,2:20,,False,IND,2020
+3,"Mon, Oct 28, 2019",7:00p,,Box Score,@,Detroit Pistons,L,,94,96,0,3,L 3,13565,2:10,,False,IND,2020
+4,"Wed, Oct 30, 2019",7:30p,,Box Score,@,Brooklyn Nets,W,,118,108,1,3,W 1,17083,2:16,,False,IND,2020
+5,"Fri, Nov 1, 2019",7:00p,,Box Score,,Cleveland Cavaliers,W,,102,95,2,3,W 2,16079,2:19,,False,IND,2020
+6,"Sun, Nov 3, 2019",5:00p,,Box Score,,Chicago Bulls,W,,108,95,3,3,W 3,17073,2:13,,False,IND,2020
+7,"Tue, Nov 5, 2019",7:00p,,Box Score,@,Charlotte Hornets,L,OT,120,122,3,4,L 1,13341,2:35,,False,IND,2020
+8,"Wed, Nov 6, 2019",7:00p,,Box Score,,Washington Wizards,W,,121,106,4,4,W 1,16171,2:15,,False,IND,2020
+9,"Fri, Nov 8, 2019",7:00p,,Box Score,,Detroit Pistons,W,,112,106,5,4,W 2,15544,2:15,,False,IND,2020
+10,"Sun, Nov 10, 2019",6:00p,,Box Score,@,Orlando Magic,W,,109,102,6,4,W 3,17118,1:55,,False,IND,2020
+11,"Tue, Nov 12, 2019",7:00p,,Box Score,,Oklahoma City Thunder,W,,111,85,7,4,W 4,15838,2:02,,False,IND,2020
+12,"Fri, Nov 15, 2019",8:00p,,Box Score,@,Houston Rockets,L,,102,111,7,5,L 1,18055,2:16,,False,IND,2020
+13,"Sat, Nov 16, 2019",7:00p,,Box Score,,Milwaukee Bucks,L,,83,102,7,6,L 2,17024,1:54,,False,IND,2020
+14,"Mon, Nov 18, 2019",7:30p,,Box Score,@,Brooklyn Nets,W,,115,86,8,6,W 1,14140,2:12,,False,IND,2020
+15,"Sat, Nov 23, 2019",7:00p,,Box Score,,Orlando Magic,W,,111,106,9,6,W 2,16446,2:05,,False,IND,2020
+16,"Mon, Nov 25, 2019",7:00p,,Box Score,,Memphis Grizzlies,W,,126,114,10,6,W 3,15141,1:58,,False,IND,2020
+17,"Wed, Nov 27, 2019",7:00p,,Box Score,,Utah Jazz,W,,121,102,11,6,W 4,17027,2:09,,False,IND,2020
+18,"Fri, Nov 29, 2019",8:00p,,Box Score,,Atlanta Hawks,W,OT,105,104,12,6,W 5,15827,2:26,,False,IND,2020
+19,"Sat, Nov 30, 2019",7:00p,,Box Score,@,Philadelphia 76ers,L,,116,119,12,7,L 1,20517,2:17,,False,IND,2020
+20,"Mon, Dec 2, 2019",8:00p,,Box Score,@,Memphis Grizzlies,W,,117,104,13,7,W 1,11919,2:06,,False,IND,2020
+21,"Wed, Dec 4, 2019",8:00p,,Box Score,@,Oklahoma City Thunder,W,,107,100,14,7,W 2,18203,2:06,,False,IND,2020
+22,"Fri, Dec 6, 2019",7:00p,,Box Score,@,Detroit Pistons,L,,101,108,14,8,L 1,14894,2:11,,False,IND,2020
+23,"Sat, Dec 7, 2019",7:30p,,Box Score,@,New York Knicks,W,,104,103,15,8,W 1,19110,2:06,,False,IND,2020
+24,"Mon, Dec 9, 2019",7:00p,,Box Score,,Los Angeles Clippers,L,,99,110,15,9,L 1,14644,2:16,,False,IND,2020
+25,"Wed, Dec 11, 2019",7:00p,,Box Score,,Boston Celtics,W,,122,117,16,9,W 1,15637,2:20,,False,IND,2020
+26,"Fri, Dec 13, 2019",7:30p,,Box Score,@,Atlanta Hawks,W,,110,100,17,9,W 2,15121,2:13,,False,IND,2020
+27,"Sun, Dec 15, 2019",5:00p,,Box Score,,Charlotte Hornets,W,,107,85,18,9,W 3,16061,2:06,,False,IND,2020
+28,"Tue, Dec 17, 2019",7:00p,,Box Score,,Los Angeles Lakers,W,,105,102,19,9,W 4,17923,2:13,,False,IND,2020
+29,"Fri, Dec 20, 2019",7:00p,,Box Score,,Sacramento Kings,W,,119,105,20,9,W 5,14649,2:01,,False,IND,2020
+30,"Sun, Dec 22, 2019",7:00p,,Box Score,@,Milwaukee Bucks,L,,89,117,20,10,L 1,18029,1:56,,False,IND,2020
+31,"Mon, Dec 23, 2019",7:00p,,Box Score,,Toronto Raptors,W,OT,120,115,21,10,W 1,17164,2:28,,False,IND,2020
+32,"Fri, Dec 27, 2019",8:00p,,Box Score,@,Miami Heat,L,,112,113,21,11,L 1,19767,2:02,,False,IND,2020
+33,"Sat, Dec 28, 2019",7:00p,,Box Score,@,New Orleans Pelicans,L,,98,120,21,12,L 2,15391,2:03,,False,IND,2020
+34,"Tue, Dec 31, 2019",3:00p,,Box Score,,Philadelphia 76ers,W,,115,97,22,12,W 1,17923,2:08,,False,IND,2020
+35,"Thu, Jan 2, 2020",7:00p,,Box Score,,Denver Nuggets,L,,116,124,22,13,L 1,16688,2:15,,False,IND,2020
+36,"Sat, Jan 4, 2020",7:30p,,Box Score,@,Atlanta Hawks,L,,111,116,22,14,L 2,16420,2:31,,False,IND,2020
+37,"Mon, Jan 6, 2020",7:00p,,Box Score,@,Charlotte Hornets,W,,115,104,23,14,W 1,13009,2:03,,False,IND,2020
+38,"Wed, Jan 8, 2020",7:00p,,Box Score,,Miami Heat,L,,108,122,23,15,L 1,17040,2:10,,False,IND,2020
+39,"Fri, Jan 10, 2020",8:00p,,Box Score,@,Chicago Bulls,W,,116,105,24,15,W 1,20229,2:00,,False,IND,2020
+40,"Mon, Jan 13, 2020",7:00p,,Box Score,,Philadelphia 76ers,W,,101,95,25,15,W 2,15257,2:08,,False,IND,2020
+41,"Wed, Jan 15, 2020",8:00p,,Box Score,@,Minnesota Timberwolves,W,,104,99,26,15,W 3,12648,2:06,,False,IND,2020
+42,"Fri, Jan 17, 2020",7:00p,,Box Score,,Minnesota Timberwolves,W,,116,114,27,15,W 4,16248,2:15,,False,IND,2020
+43,"Sun, Jan 19, 2020",8:00p,,Box Score,@,Denver Nuggets,W,,115,107,28,15,W 5,19520,2:13,,False,IND,2020
+44,"Mon, Jan 20, 2020",9:00p,,Box Score,@,Utah Jazz,L,,88,118,28,16,L 1,18306,1:57,,False,IND,2020
+45,"Wed, Jan 22, 2020",9:00p,,Box Score,@,Phoenix Suns,W,,112,87,29,16,W 1,14691,2:12,,False,IND,2020
+46,"Fri, Jan 24, 2020",10:30p,,Box Score,@,Golden State Warriors,W,,129,118,30,16,W 2,18064,2:09,,False,IND,2020
+47,"Sun, Jan 26, 2020",9:00p,,Box Score,@,Portland Trail Blazers,L,,129,139,30,17,L 1,19663,2:05,,False,IND,2020
+48,"Wed, Jan 29, 2020",7:00p,,Box Score,,Chicago Bulls,W,OT,115,106,31,17,W 1,17923,2:20,,False,IND,2020
+49,"Sat, Feb 1, 2020",7:00p,,Box Score,,New York Knicks,L,,85,92,31,18,L 1,17923,2:12,,False,IND,2020
+50,"Mon, Feb 3, 2020",7:00p,,Box Score,,Dallas Mavericks,L,,103,112,31,19,L 2,15086,2:05,,False,IND,2020
+51,"Wed, Feb 5, 2020",7:30p,,Box Score,@,Toronto Raptors,L,,118,119,31,20,L 3,19800,2:11,,False,IND,2020
+52,"Fri, Feb 7, 2020",8:00p,,Box Score,,Toronto Raptors,L,,106,115,31,21,L 4,17028,2:11,,False,IND,2020
+53,"Sat, Feb 8, 2020",7:30p,,Box Score,,New Orleans Pelicans,L,,117,124,31,22,L 5,17923,2:11,,False,IND,2020
+54,"Mon, Feb 10, 2020",7:00p,,Box Score,,Brooklyn Nets,L,,105,106,31,23,L 6,16761,2:11,,False,IND,2020
+55,"Wed, Feb 12, 2020",7:30p,,Box Score,,Milwaukee Bucks,W,,118,111,32,23,W 1,17018,2:19,,False,IND,2020
+56,"Fri, Feb 21, 2020",7:30p,,Box Score,@,New York Knicks,W,,106,98,33,23,W 2,19812,2:18,,False,IND,2020
+57,"Sun, Feb 23, 2020",6:00p,,Box Score,@,Toronto Raptors,L,,81,127,33,24,L 1,19800,2:03,,False,IND,2020
+58,"Tue, Feb 25, 2020",7:00p,,Box Score,,Charlotte Hornets,W,,119,80,34,24,W 1,16088,1:55,,False,IND,2020
+59,"Thu, Feb 27, 2020",8:00p,,Box Score,,Portland Trail Blazers,W,,106,100,35,24,W 2,16872,2:13,,False,IND,2020
+60,"Sat, Feb 29, 2020",8:00p,,Box Score,@,Cleveland Cavaliers,W,,113,104,36,24,W 3,19432,2:03,,False,IND,2020
+61,"Mon, Mar 2, 2020",8:30p,,Box Score,@,San Antonio Spurs,W,,116,111,37,24,W 4,17635,2:12,,False,IND,2020
+62,"Wed, Mar 4, 2020",7:00p,,Box Score,@,Milwaukee Bucks,L,,100,119,37,25,L 1,17695,2:09,,False,IND,2020
+63,"Fri, Mar 6, 2020",8:00p,,Box Score,@,Chicago Bulls,W,,108,102,38,25,W 1,20229,2:10,,False,IND,2020
+64,"Sun, Mar 8, 2020",7:00p,,Box Score,@,Dallas Mavericks,W,,112,109,39,25,W 2,20324,2:11,,False,IND,2020
+65,"Tue, Mar 10, 2020",7:00p,,Box Score,,Boston Celtics,L,,111,114,39,26,L 1,17053,2:07,,False,IND,2020
+66,"Sat, Aug 1, 2020",7:00p,,Box Score,,Philadelphia 76ers,W,,127,121,40,26,W 1,,2:24,,False,IND,2020
+67,"Mon, Aug 3, 2020",4:00p,,Box Score,@,Washington Wizards,W,,111,100,41,26,W 2,,2:13,,False,IND,2020
+68,"Tue, Aug 4, 2020",6:00p,,Box Score,,Orlando Magic,W,,120,109,42,26,W 3,,2:09,,False,IND,2020
+69,"Thu, Aug 6, 2020",4:00p,,Box Score,@,Phoenix Suns,L,,99,114,42,27,L 1,,2:09,,False,IND,2020
+70,"Sat, Aug 8, 2020",6:00p,,Box Score,,Los Angeles Lakers,W,,116,111,43,27,W 1,,2:21,,False,IND,2020
+71,"Mon, Aug 10, 2020",8:00p,,Box Score,@,Miami Heat,L,,92,114,43,28,L 1,,2:08,,False,IND,2020
+72,"Wed, Aug 12, 2020",4:00p,,Box Score,@,Houston Rockets,W,,108,104,44,28,W 1,,2:17,,False,IND,2020
+73,"Fri, Aug 14, 2020",4:00p,,Box Score,,Miami Heat,W,,109,92,45,28,W 2,,2:18,,False,IND,2020
+1,"Tue, Aug 18, 2020",4:00p,,Box Score,,Miami Heat,L,,101,113,0,1,L 1,,2:20,,True,IND,2020
+2,"Thu, Aug 20, 2020",1:00p,,Box Score,,Miami Heat,L,,100,109,0,2,L 2,,2:22,,True,IND,2020
+3,"Sat, Aug 22, 2020",3:30p,,Box Score,@,Miami Heat,L,,115,124,0,3,L 3,,2:38,,True,IND,2020
+4,"Mon, Aug 24, 2020",6:30p,,Box Score,@,Miami Heat,L,,87,99,0,4,L 4,,2:21,,True,IND,2020

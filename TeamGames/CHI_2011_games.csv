@@ -1,0 +1,99 @@
+G,Date,Start (ET),Unnamed: 3,Unnamed: 4,Unnamed: 5,Opponent,Unnamed: 7,Unnamed: 8,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Wed, Oct 27, 2010",8:00p,,Box Score,@,Oklahoma City Thunder,L,,95,106,0,1,L 1,18203,2:40,,False,CHI,2011
+2,"Sat, Oct 30, 2010",8:00p,,Box Score,,Detroit Pistons,W,,101,91,1,1,W 1,21038,2:30,,False,CHI,2011
+3,"Mon, Nov 1, 2010",8:00p,,Box Score,,Portland Trail Blazers,W,,110,98,2,1,W 2,21057,2:25,,False,CHI,2011
+4,"Thu, Nov 4, 2010",8:00p,,Box Score,,New York Knicks,L,,112,120,2,2,L 1,21203,2:32,,False,CHI,2011
+5,"Fri, Nov 5, 2010",8:00p,,Box Score,@,Boston Celtics,L,OT,105,110,2,3,L 2,18624,2:48,,False,CHI,2011
+6,"Mon, Nov 8, 2010",8:00p,,Box Score,,Denver Nuggets,W,,94,92,3,3,W 1,21355,2:27,,False,CHI,2011
+7,"Thu, Nov 11, 2010",8:00p,,Box Score,,Golden State Warriors,W,,120,90,4,3,W 2,21140,2:04,,False,CHI,2011
+8,"Sat, Nov 13, 2010",8:00p,,Box Score,,Washington Wizards,W,,103,96,5,3,W 3,21610,2:21,,False,CHI,2011
+9,"Tue, Nov 16, 2010",8:30p,,Box Score,@,Houston Rockets,W,,95,92,6,3,W 4,18158,2:25,,False,CHI,2011
+10,"Wed, Nov 17, 2010",9:30p,,Box Score,@,San Antonio Spurs,L,,94,103,6,4,L 1,18581,2:28,,False,CHI,2011
+11,"Fri, Nov 19, 2010",9:30p,,Box Score,@,Dallas Mavericks,W,,88,83,7,4,W 1,20133,2:39,,False,CHI,2011
+12,"Tue, Nov 23, 2010",10:30p,,Box Score,@,Los Angeles Lakers,L,,91,98,7,5,L 1,18997,2:19,,False,CHI,2011
+13,"Wed, Nov 24, 2010",9:00p,,Box Score,@,Phoenix Suns,W,2OT,123,115,8,5,W 1,18422,3:01,,False,CHI,2011
+14,"Fri, Nov 26, 2010",9:00p,,Box Score,@,Denver Nuggets,L,,97,98,8,6,L 1,19155,2:31,,False,CHI,2011
+15,"Sat, Nov 27, 2010",10:00p,,Box Score,@,Sacramento Kings,W,,96,85,9,6,W 1,13504,2:13,,False,CHI,2011
+16,"Wed, Dec 1, 2010",8:00p,,Box Score,,Orlando Magic,L,,78,107,9,7,L 1,21435,2:14,,False,CHI,2011
+17,"Fri, Dec 3, 2010",8:00p,,Box Score,@,Boston Celtics,L,,92,104,9,8,L 2,18624,2:30,,False,CHI,2011
+18,"Sat, Dec 4, 2010",8:00p,,Box Score,,Houston Rockets,W,OT,119,116,10,8,W 1,21232,2:29,,False,CHI,2011
+19,"Mon, Dec 6, 2010",8:00p,,Box Score,,Oklahoma City Thunder,W,,99,90,11,8,W 2,21184,2:26,,False,CHI,2011
+20,"Wed, Dec 8, 2010",7:00p,,Box Score,@,Cleveland Cavaliers,W,,88,83,12,8,W 3,20562,2:16,,False,CHI,2011
+21,"Fri, Dec 10, 2010",8:00p,,Box Score,,Los Angeles Lakers,W,,88,84,13,8,W 4,22760,2:26,,False,CHI,2011
+22,"Sat, Dec 11, 2010",8:00p,,Box Score,,Minnesota Timberwolves,W,,113,82,14,8,W 5,21102,2:13,,False,CHI,2011
+23,"Mon, Dec 13, 2010",8:00p,,Box Score,,Indiana Pacers,W,,92,73,15,8,W 6,21287,2:04,,False,CHI,2011
+24,"Wed, Dec 15, 2010",7:00p,,Box Score,@,Toronto Raptors,W,,110,93,16,8,W 7,17750,2:11,,False,CHI,2011
+25,"Sat, Dec 18, 2010",8:00p,,Box Score,,Los Angeles Clippers,L,,99,100,16,9,L 1,21760,2:33,,False,CHI,2011
+26,"Tue, Dec 21, 2010",8:00p,,Box Score,,Philadelphia 76ers,W,,121,76,17,9,W 1,21521,2:06,,False,CHI,2011
+27,"Wed, Dec 22, 2010",7:00p,,Box Score,@,Washington Wizards,W,,87,80,18,9,W 2,18011,2:23,,False,CHI,2011
+28,"Sat, Dec 25, 2010",12:00p,,Box Score,@,New York Knicks,L,,95,103,18,10,L 1,19763,2:24,,False,CHI,2011
+29,"Sun, Dec 26, 2010",6:00p,,Box Score,@,Detroit Pistons,W,OT,95,92,19,10,W 1,20765,2:36,,False,CHI,2011
+30,"Tue, Dec 28, 2010",8:00p,,Box Score,,Milwaukee Bucks,W,,90,77,20,10,W 2,22091,2:10,,False,CHI,2011
+31,"Fri, Dec 31, 2010",3:00p,,Box Score,,New Jersey Nets,W,,90,81,21,10,W 3,21792,2:18,,False,CHI,2011
+32,"Sat, Jan 1, 2011",7:00p,,Box Score,,Cleveland Cavaliers,W,,100,91,22,10,W 4,21416,2:15,,False,CHI,2011
+33,"Tue, Jan 4, 2011",8:00p,,Box Score,,Toronto Raptors,W,,111,91,23,10,W 5,21290,2:16,,False,CHI,2011
+34,"Wed, Jan 5, 2011",7:00p,,Box Score,@,New Jersey Nets,L,,94,96,23,11,L 1,15025,2:26,,False,CHI,2011
+35,"Fri, Jan 7, 2011",7:00p,,Box Score,@,Philadelphia 76ers,L,,99,105,23,12,L 2,15303,2:20,,False,CHI,2011
+36,"Sat, Jan 8, 2011",8:00p,,Box Score,,Boston Celtics,W,,90,79,24,12,W 1,22663,2:18,,False,CHI,2011
+37,"Mon, Jan 10, 2011",8:00p,,Box Score,,Detroit Pistons,W,,95,82,25,12,W 2,21407,2:10,,False,CHI,2011
+38,"Wed, Jan 12, 2011",7:00p,,Box Score,@,Charlotte Bobcats,L,,91,96,25,13,L 1,12468,2:24,,False,CHI,2011
+39,"Fri, Jan 14, 2011",7:00p,,Box Score,@,Indiana Pacers,W,,99,86,26,13,W 1,18165,2:04,,False,CHI,2011
+40,"Sat, Jan 15, 2011",8:00p,,Box Score,,Miami Heat,W,,99,96,27,13,W 2,23017,2:25,,False,CHI,2011
+41,"Mon, Jan 17, 2011",1:00p,,Box Score,@,Memphis Grizzlies,W,,96,84,28,13,W 3,18119,2:25,,False,CHI,2011
+42,"Tue, Jan 18, 2011",8:00p,,Box Score,,Charlotte Bobcats,L,,82,83,28,14,L 1,21263,2:14,,False,CHI,2011
+43,"Thu, Jan 20, 2011",8:00p,,Box Score,,Dallas Mavericks,W,,82,77,29,14,W 1,21397,2:26,,False,CHI,2011
+44,"Sat, Jan 22, 2011",8:00p,,Box Score,,Cleveland Cavaliers,W,,92,79,30,14,W 2,21389,2:18,,False,CHI,2011
+45,"Mon, Jan 24, 2011",8:00p,,Box Score,,Milwaukee Bucks,W,,92,83,31,14,W 3,21126,2:05,,False,CHI,2011
+46,"Fri, Jan 28, 2011",8:00p,,Box Score,,Orlando Magic,W,,99,90,32,14,W 4,21676,2:24,,False,CHI,2011
+47,"Sat, Jan 29, 2011",8:00p,,Box Score,,Indiana Pacers,W,,110,89,33,14,W 5,21611,2:12,,False,CHI,2011
+48,"Wed, Feb 2, 2011",10:30p,,Box Score,@,Los Angeles Clippers,W,,106,88,34,14,W 6,19368,2:13,,False,CHI,2011
+49,"Sat, Feb 5, 2011",10:30p,,Box Score,@,Golden State Warriors,L,,90,101,34,15,L 1,19596,2:14,,False,CHI,2011
+50,"Mon, Feb 7, 2011",10:00p,,Box Score,@,Portland Trail Blazers,L,,103,109,34,16,L 2,20534,2:29,,False,CHI,2011
+51,"Wed, Feb 9, 2011",9:00p,,Box Score,@,Utah Jazz,W,,91,86,35,16,W 1,19911,2:15,,False,CHI,2011
+52,"Sat, Feb 12, 2011",8:00p,,Box Score,@,New Orleans Hornets,W,,97,88,36,16,W 2,17831,2:20,,False,CHI,2011
+53,"Tue, Feb 15, 2011",8:00p,,Box Score,,Charlotte Bobcats,W,,106,94,37,16,W 3,21391,2:14,,False,CHI,2011
+54,"Thu, Feb 17, 2011",8:00p,,Box Score,,San Antonio Spurs,W,,109,99,38,16,W 4,22172,2:20,,False,CHI,2011
+55,"Wed, Feb 23, 2011",7:00p,,Box Score,@,Toronto Raptors,L,,113,118,38,17,L 1,18105,2:25,,False,CHI,2011
+56,"Thu, Feb 24, 2011",8:00p,,Box Score,,Miami Heat,W,,93,89,39,17,W 1,23024,2:37,,False,CHI,2011
+57,"Sat, Feb 26, 2011",8:30p,,Box Score,@,Milwaukee Bucks,W,,83,75,40,17,W 2,18717,2:08,,False,CHI,2011
+58,"Mon, Feb 28, 2011",7:00p,,Box Score,@,Washington Wizards,W,,105,77,41,17,W 3,17873,2:06,,False,CHI,2011
+59,"Wed, Mar 2, 2011",7:00p,,Box Score,@,Atlanta Hawks,L,,80,83,41,18,L 1,16928,2:14,,False,CHI,2011
+60,"Fri, Mar 4, 2011",7:00p,,Box Score,@,Orlando Magic,W,,89,81,42,18,W 1,19207,2:32,,False,CHI,2011
+61,"Sun, Mar 6, 2011",1:00p,,Box Score,@,Miami Heat,W,,87,86,43,18,W 2,19763,2:28,,False,CHI,2011
+62,"Mon, Mar 7, 2011",8:00p,,Box Score,,New Orleans Hornets,W,,85,77,44,18,W 3,21997,2:11,,False,CHI,2011
+63,"Wed, Mar 9, 2011",7:00p,,Box Score,@,Charlotte Bobcats,W,,101,84,45,18,W 4,15286,2:02,,False,CHI,2011
+64,"Fri, Mar 11, 2011",8:00p,,Box Score,,Atlanta Hawks,W,,94,76,46,18,W 5,22123,2:02,,False,CHI,2011
+65,"Sat, Mar 12, 2011",8:00p,,Box Score,,Utah Jazz,W,,118,100,47,18,W 6,22885,2:21,,False,CHI,2011
+66,"Tue, Mar 15, 2011",8:00p,,Box Score,,Washington Wizards,W,,98,79,48,18,W 7,22103,2:12,,False,CHI,2011
+67,"Thu, Mar 17, 2011",7:00p,,Box Score,@,New Jersey Nets,W,,84,73,49,18,W 8,18351,2:12,,False,CHI,2011
+68,"Fri, Mar 18, 2011",7:00p,,Box Score,@,Indiana Pacers,L,OT,108,115,49,19,L 1,18165,2:47,,False,CHI,2011
+69,"Mon, Mar 21, 2011",8:00p,,Box Score,,Sacramento Kings,W,,132,92,50,19,W 1,21873,2:11,,False,CHI,2011
+70,"Tue, Mar 22, 2011",8:00p,,Box Score,@,Atlanta Hawks,W,,114,81,51,19,W 2,18203,2:20,,False,CHI,2011
+71,"Fri, Mar 25, 2011",8:00p,,Box Score,,Memphis Grizzlies,W,,99,96,52,19,W 3,22274,2:24,,False,CHI,2011
+72,"Sat, Mar 26, 2011",8:30p,,Box Score,@,Milwaukee Bucks,W,,95,87,53,19,W 4,18717,2:11,,False,CHI,2011
+73,"Mon, Mar 28, 2011",8:00p,,Box Score,,Philadelphia 76ers,L,,85,97,53,20,L 1,22210,2:15,,False,CHI,2011
+74,"Wed, Mar 30, 2011",8:00p,,Box Score,@,Minnesota Timberwolves,W,,108,91,54,20,W 1,19207,2:07,,False,CHI,2011
+75,"Fri, Apr 1, 2011",7:30p,,Box Score,@,Detroit Pistons,W,,101,96,55,20,W 2,22076,2:43,,False,CHI,2011
+76,"Sat, Apr 2, 2011",8:00p,,Box Score,,Toronto Raptors,W,,113,106,56,20,W 3,22228,2:18,,False,CHI,2011
+77,"Tue, Apr 5, 2011",8:00p,,Box Score,,Phoenix Suns,W,,97,94,57,20,W 4,21873,2:18,,False,CHI,2011
+78,"Thu, Apr 7, 2011",8:00p,,Box Score,,Boston Celtics,W,,97,81,58,20,W 5,23067,2:18,,False,CHI,2011
+79,"Fri, Apr 8, 2011",7:30p,,Box Score,@,Cleveland Cavaliers,W,,93,82,59,20,W 6,20562,2:03,,False,CHI,2011
+80,"Sun, Apr 10, 2011",1:00p,,Box Score,@,Orlando Magic,W,,102,99,60,20,W 7,19181,2:32,,False,CHI,2011
+81,"Tue, Apr 12, 2011",8:00p,,Box Score,@,New York Knicks,W,,103,90,61,20,W 8,19763,2:25,,False,CHI,2011
+82,"Wed, Apr 13, 2011",8:00p,,Box Score,,New Jersey Nets,W,,97,92,62,20,W 9,22420,2:22,,False,CHI,2011
+1,"Sat, Apr 16, 2011",1:00p,,Box Score,,Indiana Pacers,W,,104,99,1,0,W 1,22986,2:31,,True,CHI,2011
+2,"Mon, Apr 18, 2011",9:30p,,Box Score,,Indiana Pacers,W,,96,90,2,0,W 2,22480,2:46,,True,CHI,2011
+3,"Thu, Apr 21, 2011",7:00p,,Box Score,@,Indiana Pacers,W,,88,84,3,0,W 3,18165,2:21,,True,CHI,2011
+4,"Sat, Apr 23, 2011",2:30p,,Box Score,@,Indiana Pacers,L,,84,89,3,1,L 1,18165,2:40,,True,CHI,2011
+5,"Tue, Apr 26, 2011",8:00p,,Box Score,,Indiana Pacers,W,,116,89,4,1,W 1,22822,2:32,,True,CHI,2011
+6,"Mon, May 2, 2011",8:00p,,Box Score,,Atlanta Hawks,L,,95,103,4,2,L 1,22890,2:21,,True,CHI,2011
+7,"Wed, May 4, 2011",8:00p,,Box Score,,Atlanta Hawks,W,,86,73,5,2,W 1,22872,2:17,,True,CHI,2011
+8,"Fri, May 6, 2011",7:00p,,Box Score,@,Atlanta Hawks,W,,99,82,6,2,W 2,19521,2:20,,True,CHI,2011
+9,"Sun, May 8, 2011",8:00p,,Box Score,@,Atlanta Hawks,L,,88,100,6,3,L 1,19263,2:34,,True,CHI,2011
+10,"Tue, May 10, 2011",8:00p,,Box Score,,Atlanta Hawks,W,,95,83,7,3,W 1,22980,2:27,,True,CHI,2011
+11,"Thu, May 12, 2011",8:00p,,Box Score,@,Atlanta Hawks,W,,93,73,8,3,W 2,19378,2:20,,True,CHI,2011
+12,"Sun, May 15, 2011",8:00p,,Box Score,,Miami Heat,W,,103,82,9,3,W 3,22874,2:22,,True,CHI,2011
+13,"Wed, May 18, 2011",8:30p,,Box Score,,Miami Heat,L,,75,85,9,4,L 1,23007,2:35,,True,CHI,2011
+14,"Sun, May 22, 2011",8:30p,,Box Score,@,Miami Heat,L,,85,96,9,5,L 2,20123,2:28,,True,CHI,2011
+15,"Tue, May 24, 2011",8:30p,,Box Score,@,Miami Heat,L,OT,93,101,9,6,L 3,20125,3:00,,True,CHI,2011
+16,"Thu, May 26, 2011",8:30p,,Box Score,,Miami Heat,L,,80,83,9,7,L 4,23057,2:40,,True,CHI,2011

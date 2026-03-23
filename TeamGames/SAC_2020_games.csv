@@ -1,0 +1,73 @@
+G,Date,Start (ET),Unnamed: 3,Unnamed: 4,Unnamed: 5,Opponent,Unnamed: 7,Unnamed: 8,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Wed, Oct 23, 2019",10:00p,,Box Score,@,Phoenix Suns,L,,95,124,0,1,L 1,18055,2:19,,False,SAC,2020
+2,"Fri, Oct 25, 2019",10:00p,,Box Score,,Portland Trail Blazers,L,,112,122,0,2,L 2,17583,2:16,,False,SAC,2020
+3,"Sat, Oct 26, 2019",9:00p,,Box Score,@,Utah Jazz,L,,81,113,0,3,L 3,18306,2:03,,False,SAC,2020
+4,"Mon, Oct 28, 2019",10:00p,,Box Score,,Denver Nuggets,L,,94,101,0,4,L 4,15870,2:16,,False,SAC,2020
+5,"Wed, Oct 30, 2019",10:00p,,Box Score,,Charlotte Hornets,L,,111,118,0,5,L 5,15416,2:03,,False,SAC,2020
+6,"Fri, Nov 1, 2019",10:00p,,Box Score,,Utah Jazz,W,,102,101,1,5,W 1,16273,2:15,,False,SAC,2020
+7,"Sun, Nov 3, 2019",6:00p,,Box Score,@,New York Knicks,W,,113,92,2,5,W 2,19812,2:24,,False,SAC,2020
+8,"Wed, Nov 6, 2019",7:30p,,Box Score,@,Toronto Raptors,L,,120,124,2,6,L 1,19800,2:25,,False,SAC,2020
+9,"Fri, Nov 8, 2019",7:30p,,Box Score,@,Atlanta Hawks,W,,121,109,3,6,W 1,16447,2:06,,False,SAC,2020
+10,"Tue, Nov 12, 2019",10:00p,,Box Score,,Portland Trail Blazers,W,,107,99,4,6,W 2,16358,2:16,,False,SAC,2020
+11,"Fri, Nov 15, 2019",10:30p,,Box Score,@,Los Angeles Lakers,L,,97,99,4,7,L 1,18997,2:16,,False,SAC,2020
+12,"Sun, Nov 17, 2019",3:30p,,Box Score,,Boston Celtics,W,,100,99,5,7,W 1,16633,2:13,,False,SAC,2020
+13,"Tue, Nov 19, 2019",10:00p,,Box Score,,Phoenix Suns,W,,120,116,6,7,W 2,16732,2:21,,False,SAC,2020
+14,"Fri, Nov 22, 2019",7:30p,,Box Score,@,Brooklyn Nets,L,,97,116,6,8,L 1,15619,2:12,,False,SAC,2020
+15,"Sun, Nov 24, 2019",6:00p,,Box Score,@,Washington Wizards,W,,113,106,7,8,W 1,15885,2:08,,False,SAC,2020
+16,"Mon, Nov 25, 2019",7:30p,,Box Score,@,Boston Celtics,L,,102,103,7,9,L 1,19156,2:13,,False,SAC,2020
+17,"Wed, Nov 27, 2019",7:00p,,Box Score,@,Philadelphia 76ers,L,,91,97,7,10,L 2,20592,2:07,,False,SAC,2020
+18,"Sat, Nov 30, 2019",5:00p,,Box Score,,Denver Nuggets,W,OT,100,97,8,10,W 1,17583,2:28,,False,SAC,2020
+19,"Mon, Dec 2, 2019",10:00p,,Box Score,,Chicago Bulls,L,,106,113,8,11,L 1,17257,2:14,,False,SAC,2020
+20,"Wed, Dec 4, 2019",10:00p,,Box Score,@,Portland Trail Blazers,L,,116,127,8,12,L 2,19393,2:07,,False,SAC,2020
+21,"Fri, Dec 6, 2019",8:30p,,Box Score,@,San Antonio Spurs,L,OT,104,105,8,13,L 3,18354,2:34,,False,SAC,2020
+22,"Sun, Dec 8, 2019",7:00p,,Box Score,@,Dallas Mavericks,W,,110,106,9,13,W 1,19566,2:04,,False,SAC,2020
+23,"Mon, Dec 9, 2019",8:00p,,Box Score,@,Houston Rockets,W,,119,118,10,13,W 2,18055,2:17,,False,SAC,2020
+24,"Wed, Dec 11, 2019",10:00p,,Box Score,,Oklahoma City Thunder,W,,94,93,11,13,W 3,16723,2:08,,False,SAC,2020
+25,"Fri, Dec 13, 2019",10:00p,,Box Score,,New York Knicks,L,,101,103,11,14,L 1,17583,2:12,,False,SAC,2020
+26,"Sun, Dec 15, 2019",8:30p,,Box Score,@,Golden State Warriors,W,,100,79,12,14,W 1,18064,2:10,,False,SAC,2020
+27,"Tue, Dec 17, 2019",7:00p,,Box Score,@,Charlotte Hornets,L,,102,110,12,15,L 1,13229,2:11,,False,SAC,2020
+28,"Fri, Dec 20, 2019",7:00p,,Box Score,@,Indiana Pacers,L,,105,119,12,16,L 2,14649,2:01,,False,SAC,2020
+29,"Sat, Dec 21, 2019",8:00p,,Box Score,@,Memphis Grizzlies,L,,115,119,12,17,L 3,15603,2:13,,False,SAC,2020
+30,"Mon, Dec 23, 2019",10:00p,,Box Score,,Houston Rockets,L,,104,113,12,18,L 4,17583,2:08,,False,SAC,2020
+31,"Thu, Dec 26, 2019",10:00p,,Box Score,,Minnesota Timberwolves,L,2OT,104,105,12,19,L 5,17583,2:43,,False,SAC,2020
+32,"Sat, Dec 28, 2019",9:00p,,Box Score,,Phoenix Suns,L,,110,112,12,20,L 6,17583,2:14,,False,SAC,2020
+33,"Sun, Dec 29, 2019",8:00p,,Box Score,@,Denver Nuggets,L,,115,120,12,21,L 7,19520,2:19,,False,SAC,2020
+34,"Tue, Dec 31, 2019",5:00p,,Box Score,,Los Angeles Clippers,L,,87,105,12,22,L 8,16231,2:10,,False,SAC,2020
+35,"Thu, Jan 2, 2020",10:00p,,Box Score,,Memphis Grizzlies,W,,128,123,13,22,W 1,17351,2:15,,False,SAC,2020
+36,"Sat, Jan 4, 2020",10:00p,,Box Score,,New Orleans Pelicans,L,,115,117,13,23,L 1,16808,2:29,,False,SAC,2020
+37,"Mon, Jan 6, 2020",10:00p,,Box Score,,Golden State Warriors,W,,111,98,14,23,W 1,15819,2:13,,False,SAC,2020
+38,"Tue, Jan 7, 2020",9:00p,,Box Score,@,Phoenix Suns,W,,114,103,15,23,W 2,14134,2:21,,False,SAC,2020
+39,"Fri, Jan 10, 2020",10:00p,,Box Score,,Milwaukee Bucks,L,,106,127,15,24,L 1,17583,2:09,,False,SAC,2020
+40,"Mon, Jan 13, 2020",10:00p,,Box Score,,Orlando Magic,L,,112,114,15,25,L 2,16299,2:12,,False,SAC,2020
+41,"Wed, Jan 15, 2020",10:00p,,Box Score,,Dallas Mavericks,L,,123,127,15,26,L 3,17029,2:16,,False,SAC,2020
+42,"Sat, Jan 18, 2020",9:00p,,Box Score,@,Utah Jazz,L,,101,123,15,27,L 4,18306,2:05,,False,SAC,2020
+43,"Mon, Jan 20, 2020",5:00p,,Box Score,@,Miami Heat,L,OT,113,118,15,28,L 5,19600,2:35,,False,SAC,2020
+44,"Wed, Jan 22, 2020",7:00p,,Box Score,@,Detroit Pistons,L,,106,127,15,29,L 6,13972,2:15,,False,SAC,2020
+45,"Fri, Jan 24, 2020",8:00p,,Box Score,@,Chicago Bulls,W,,98,81,16,29,W 1,17661,2:07,,False,SAC,2020
+46,"Mon, Jan 27, 2020",8:00p,,Box Score,@,Minnesota Timberwolves,W,OT,133,129,17,29,W 2,13449,2:47,,False,SAC,2020
+47,"Wed, Jan 29, 2020",10:00p,,Box Score,,Oklahoma City Thunder,L,,100,120,17,30,L 1,16935,2:09,,False,SAC,2020
+48,"Thu, Jan 30, 2020",10:30p,,Box Score,@,Los Angeles Clippers,W,,124,103,18,30,W 1,19068,2:11,,False,SAC,2020
+49,"Sat, Feb 1, 2020",10:00p,,Box Score,,Los Angeles Lakers,L,,113,129,18,31,L 1,17583,2:13,,False,SAC,2020
+50,"Mon, Feb 3, 2020",10:00p,,Box Score,,Minnesota Timberwolves,W,,113,109,19,31,W 1,15819,2:23,,False,SAC,2020
+51,"Fri, Feb 7, 2020",10:00p,,Box Score,,Miami Heat,W,,105,97,20,31,W 2,16760,2:14,,False,SAC,2020
+52,"Sat, Feb 8, 2020",10:00p,,Box Score,,San Antonio Spurs,W,,122,102,21,31,W 3,16756,2:05,,False,SAC,2020
+53,"Mon, Feb 10, 2020",8:00p,,Box Score,@,Milwaukee Bucks,L,,111,123,21,32,L 1,17463,2:10,,False,SAC,2020
+54,"Wed, Feb 12, 2020",8:30p,,Box Score,@,Dallas Mavericks,L,,111,130,21,33,L 2,19842,2:10,,False,SAC,2020
+55,"Thu, Feb 20, 2020",10:00p,,Box Score,,Memphis Grizzlies,W,,129,125,22,33,W 1,17078,2:29,,False,SAC,2020
+56,"Sat, Feb 22, 2020",3:30p,,Box Score,@,Los Angeles Clippers,W,,112,103,23,33,W 2,19068,2:17,,False,SAC,2020
+57,"Tue, Feb 25, 2020",10:30p,,Box Score,@,Golden State Warriors,W,,112,94,24,33,W 3,18064,2:20,,False,SAC,2020
+58,"Thu, Feb 27, 2020",8:00p,,Box Score,@,Oklahoma City Thunder,L,,108,112,24,34,L 1,18203,2:22,,False,SAC,2020
+59,"Fri, Feb 28, 2020",8:00p,,Box Score,@,Memphis Grizzlies,W,,104,101,25,34,W 1,17794,2:19,,False,SAC,2020
+60,"Sun, Mar 1, 2020",6:00p,,Box Score,,Detroit Pistons,W,,106,100,26,34,W 2,17499,2:19,,False,SAC,2020
+61,"Tue, Mar 3, 2020",10:00p,,Box Score,,Washington Wizards,W,,133,126,27,34,W 3,16419,2:15,,False,SAC,2020
+62,"Thu, Mar 5, 2020",10:00p,,Box Score,,Philadelphia 76ers,L,,108,125,27,35,L 1,15485,2:04,,False,SAC,2020
+63,"Sat, Mar 7, 2020",10:00p,,Box Score,@,Portland Trail Blazers,W,,123,111,28,35,W 1,19691,2:09,,False,SAC,2020
+64,"Sun, Mar 8, 2020",9:00p,,Box Score,,Toronto Raptors,L,,113,118,28,36,L 1,16449,2:24,,False,SAC,2020
+65,"Fri, Jul 31, 2020",8:00p,,Box Score,@,San Antonio Spurs,L,,120,129,28,37,L 2,,2:23,,False,SAC,2020
+66,"Sun, Aug 2, 2020",6:00p,,Box Score,@,Orlando Magic,L,,116,132,28,38,L 3,,2:20,,False,SAC,2020
+67,"Tue, Aug 4, 2020",2:30p,,Box Score,,Dallas Mavericks,L,OT,110,114,28,39,L 4,,2:43,,False,SAC,2020
+68,"Thu, Aug 6, 2020",1:30p,,Box Score,,New Orleans Pelicans,W,,140,125,29,39,W 1,,2:16,,False,SAC,2020
+69,"Fri, Aug 7, 2020",5:00p,,Box Score,@,Brooklyn Nets,L,,106,119,29,40,L 1,,2:15,,False,SAC,2020
+70,"Sun, Aug 9, 2020",8:00p,,Box Score,,Houston Rockets,L,,112,129,29,41,L 2,,2:11,,False,SAC,2020
+71,"Tue, Aug 11, 2020",9:00p,,Box Score,,New Orleans Pelicans,W,,112,106,30,41,W 1,,2:16,,False,SAC,2020
+72,"Thu, Aug 13, 2020",1:30p,,Box Score,@,Los Angeles Lakers,W,,136,122,31,41,W 2,,2:04,,False,SAC,2020

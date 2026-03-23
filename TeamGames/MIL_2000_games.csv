@@ -1,0 +1,88 @@
+G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Opponent,Unnamed: 6,Unnamed: 7,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Tue, Nov 2, 1999",,Box Score,@,Houston Rockets,W,,98,93,1,0,W 1,14491,,,False,MIL,2000
+2,"Thu, Nov 4, 1999",,Box Score,@,Atlanta Hawks,W,,119,109,2,0,W 2,18514,,,False,MIL,2000
+3,"Sat, Nov 6, 1999",,Box Score,,Detroit Pistons,W,,121,111,3,0,W 3,18374,,,False,MIL,2000
+4,"Mon, Nov 8, 1999",,Box Score,@,New York Knicks,L,OT,101,111,3,1,L 1,19763,,,False,MIL,2000
+5,"Wed, Nov 10, 1999",,Box Score,@,Charlotte Hornets,L,,111,117,3,2,L 2,15769,,,False,MIL,2000
+6,"Fri, Nov 12, 1999",,Box Score,,Phoenix Suns,W,,107,92,4,2,W 1,16137,,,False,MIL,2000
+7,"Sat, Nov 13, 1999",,Box Score,@,Cleveland Cavaliers,L,,112,117,4,3,L 1,18640,,,False,MIL,2000
+8,"Tue, Nov 16, 1999",,Box Score,,Los Angeles Clippers,W,,101,93,5,3,W 1,12465,,,False,MIL,2000
+9,"Thu, Nov 18, 1999",,Box Score,,San Antonio Spurs,W,,99,88,6,3,W 2,15184,,,False,MIL,2000
+10,"Sat, Nov 20, 1999",,Box Score,,Utah Jazz,L,,100,111,6,4,L 1,18027,,,False,MIL,2000
+11,"Sun, Nov 21, 1999",,Box Score,@,Detroit Pistons,L,,94,113,6,5,L 2,13163,,,False,MIL,2000
+12,"Wed, Nov 24, 1999",,Box Score,,Chicago Bulls,W,,102,95,7,5,W 1,14209,,,False,MIL,2000
+13,"Fri, Nov 26, 1999",,Box Score,@,Boston Celtics,W,,114,112,8,5,W 2,18027,2:13,,False,MIL,2000
+14,"Sat, Nov 27, 1999",,Box Score,,Philadelphia 76ers,L,,79,82,8,6,L 1,15216,,,False,MIL,2000
+15,"Thu, Dec 2, 1999",,Box Score,,New York Knicks,L,,80,84,8,7,L 2,14365,,,False,MIL,2000
+16,"Sat, Dec 4, 1999",,Box Score,@,Chicago Bulls,W,,92,91,9,7,W 1,22188,,,False,MIL,2000
+17,"Sun, Dec 5, 1999",,Box Score,,Dallas Mavericks,W,,103,97,10,7,W 2,12214,,,False,MIL,2000
+18,"Tue, Dec 7, 1999",,Box Score,,Detroit Pistons,L,,112,116,10,8,L 1,12847,,,False,MIL,2000
+19,"Wed, Dec 8, 1999",,Box Score,@,New Jersey Nets,L,,90,107,10,9,L 2,12366,,,False,MIL,2000
+20,"Fri, Dec 10, 1999",,Box Score,@,Toronto Raptors,W,,107,91,11,9,W 1,17963,,,False,MIL,2000
+21,"Sat, Dec 11, 1999",,Box Score,,Denver Nuggets,L,,99,101,11,10,L 1,15862,,,False,MIL,2000
+22,"Wed, Dec 15, 1999",,Box Score,@,Orlando Magic,W,,116,99,12,10,W 1,12308,,,False,MIL,2000
+23,"Thu, Dec 16, 1999",,Box Score,@,Miami Heat,W,,96,95,13,10,W 2,14503,,,False,MIL,2000
+24,"Sat, Dec 18, 1999",,Box Score,,Indiana Pacers,W,,109,95,14,10,W 3,15236,,,False,MIL,2000
+25,"Mon, Dec 20, 1999",,Box Score,@,Phoenix Suns,L,,101,108,14,11,L 1,18656,,,False,MIL,2000
+26,"Tue, Dec 21, 1999",,Box Score,@,Sacramento Kings,L,,95,108,14,12,L 2,17317,,,False,MIL,2000
+27,"Thu, Dec 23, 1999",,Box Score,@,San Antonio Spurs,W,,94,91,15,12,W 1,22581,,,False,MIL,2000
+28,"Sun, Dec 26, 1999",,Box Score,,Miami Heat,W,,93,85,16,12,W 2,15075,,,False,MIL,2000
+29,"Wed, Dec 29, 1999",,Box Score,@,Charlotte Hornets,L,,105,109,16,13,L 1,17134,,,False,MIL,2000
+30,"Thu, Dec 30, 1999",,Box Score,,Cleveland Cavaliers,W,,91,90,17,13,W 1,16329,,,False,MIL,2000
+31,"Mon, Jan 3, 2000",,Box Score,@,Philadelphia 76ers,L,OT,120,124,17,14,L 1,14886,,,False,MIL,2000
+32,"Tue, Jan 4, 2000",,Box Score,,Atlanta Hawks,W,,116,113,18,14,W 1,12739,,,False,MIL,2000
+33,"Thu, Jan 6, 2000",,Box Score,@,Detroit Pistons,L,,95,101,18,15,L 1,14233,,,False,MIL,2000
+34,"Sat, Jan 8, 2000",,Box Score,,Washington Wizards,W,2OT,130,129,19,15,W 1,15612,,,False,MIL,2000
+35,"Mon, Jan 10, 2000",,Box Score,,Charlotte Hornets,W,,137,87,20,15,W 2,13159,,,False,MIL,2000
+36,"Wed, Jan 12, 2000",,Box Score,,Los Angeles Lakers,L,,94,103,20,16,L 1,18717,,,False,MIL,2000
+37,"Fri, Jan 14, 2000",,Box Score,@,Toronto Raptors,L,,110,115,20,17,L 2,19246,,,False,MIL,2000
+38,"Sat, Jan 15, 2000",,Box Score,,Toronto Raptors,W,,118,97,21,17,W 1,18717,,,False,MIL,2000
+39,"Mon, Jan 17, 2000",,Box Score,@,Atlanta Hawks,W,,107,101,22,17,W 2,19261,,,False,MIL,2000
+40,"Wed, Jan 19, 2000",,Box Score,@,Indiana Pacers,L,,84,106,22,18,L 1,18345,,,False,MIL,2000
+41,"Thu, Jan 20, 2000",,Box Score,,Seattle SuperSonics,L,,96,104,22,19,L 2,14087,,,False,MIL,2000
+42,"Wed, Jan 26, 2000",,Box Score,,Sacramento Kings,W,,112,104,23,19,W 1,16931,,,False,MIL,2000
+43,"Fri, Jan 28, 2000",,Box Score,@,Los Angeles Lakers,L,,89,117,23,20,L 1,18997,,,False,MIL,2000
+44,"Sat, Jan 29, 2000",,Box Score,@,Seattle SuperSonics,W,,101,99,24,20,W 1,15839,,,False,MIL,2000
+45,"Mon, Jan 31, 2000",,Box Score,@,Vancouver Grizzlies,W,,92,87,25,20,W 2,12398,,,False,MIL,2000
+46,"Wed, Feb 2, 2000",,Box Score,@,Denver Nuggets,L,,112,135,25,21,L 1,12365,,,False,MIL,2000
+47,"Thu, Feb 3, 2000",,Box Score,@,Utah Jazz,W,,102,99,26,21,W 1,19871,,,False,MIL,2000
+48,"Sat, Feb 5, 2000",,Box Score,,Toronto Raptors,L,,95,98,26,22,L 1,18717,,,False,MIL,2000
+49,"Mon, Feb 7, 2000",,Box Score,,Portland Trail Blazers,L,,111,115,26,23,L 2,15389,,,False,MIL,2000
+50,"Wed, Feb 9, 2000",,Box Score,,New York Knicks,L,,103,109,26,24,L 3,15347,,,False,MIL,2000
+51,"Tue, Feb 15, 2000",,Box Score,@,Dallas Mavericks,W,,112,99,27,24,W 1,11912,,,False,MIL,2000
+52,"Thu, Feb 17, 2000",,Box Score,,Indiana Pacers,L,,90,92,27,25,L 1,14376,,,False,MIL,2000
+53,"Sat, Feb 19, 2000",,Box Score,,Vancouver Grizzlies,L,,100,111,27,26,L 2,17109,,,False,MIL,2000
+54,"Tue, Feb 22, 2000",,Box Score,@,Washington Wizards,L,,101,126,27,27,L 3,11413,,,False,MIL,2000
+55,"Wed, Feb 23, 2000",,Box Score,,Golden State Warriors,L,,86,91,27,28,L 4,12864,,,False,MIL,2000
+56,"Fri, Feb 25, 2000",,Box Score,,Philadelphia 76ers,L,,83,97,27,29,L 5,15672,,,False,MIL,2000
+57,"Sun, Feb 27, 2000",,Box Score,,Orlando Magic,W,,102,95,28,29,W 1,15726,,,False,MIL,2000
+58,"Thu, Mar 2, 2000",,Box Score,@,New York Knicks,L,,94,109,28,30,L 1,19763,,,False,MIL,2000
+59,"Sat, Mar 4, 2000",,Box Score,,Minnesota Timberwolves,L,,84,91,28,31,L 2,17632,,,False,MIL,2000
+60,"Mon, Mar 6, 2000",,Box Score,,Atlanta Hawks,W,,111,78,29,31,W 1,12365,,,False,MIL,2000
+61,"Wed, Mar 8, 2000",,Box Score,@,Boston Celtics,L,,101,112,29,32,L 1,15860,2:10,,False,MIL,2000
+62,"Fri, Mar 10, 2000",,Box Score,,New Jersey Nets,L,,80,108,29,33,L 2,13962,,,False,MIL,2000
+63,"Sun, Mar 12, 2000",,Box Score,,Cleveland Cavaliers,W,,103,72,30,33,W 1,14016,,,False,MIL,2000
+64,"Tue, Mar 14, 2000",,Box Score,@,Miami Heat,L,,104,108,30,34,L 1,15836,,,False,MIL,2000
+65,"Thu, Mar 16, 2000",,Box Score,,Houston Rockets,W,,106,96,31,34,W 1,13658,,,False,MIL,2000
+66,"Sat, Mar 18, 2000",,Box Score,@,New Jersey Nets,L,OT,90,92,31,35,L 1,16519,,,False,MIL,2000
+67,"Sun, Mar 19, 2000",,Box Score,@,Minnesota Timberwolves,L,,82,109,31,36,L 2,15551,,,False,MIL,2000
+68,"Thu, Mar 23, 2000",,Box Score,@,Indiana Pacers,W,,105,84,32,36,W 1,18345,,,False,MIL,2000
+69,"Fri, Mar 24, 2000",,Box Score,,Miami Heat,L,,87,99,32,37,L 1,17597,,,False,MIL,2000
+70,"Sun, Mar 26, 2000",,Box Score,,Boston Celtics,W,,99,84,33,37,W 1,16567,2:04,,False,MIL,2000
+71,"Thu, Mar 30, 2000",,Box Score,@,Los Angeles Clippers,W,,104,85,34,37,W 2,10854,,,False,MIL,2000
+72,"Sat, Apr 1, 2000",,Box Score,@,Portland Trail Blazers,L,,79,113,34,38,L 1,20390,,,False,MIL,2000
+73,"Sun, Apr 2, 2000",,Box Score,@,Golden State Warriors,W,,117,113,35,38,W 1,10002,,,False,MIL,2000
+74,"Tue, Apr 4, 2000",,Box Score,,Chicago Bulls,W,,92,73,36,38,W 2,14064,,,False,MIL,2000
+75,"Thu, Apr 6, 2000",,Box Score,@,Chicago Bulls,L,,88,90,36,39,L 1,21841,,,False,MIL,2000
+76,"Sat, Apr 8, 2000",,Box Score,,New Jersey Nets,W,,109,101,37,39,W 1,17365,,,False,MIL,2000
+77,"Mon, Apr 10, 2000",,Box Score,,Orlando Magic,W,,104,87,38,39,W 2,13964,,,False,MIL,2000
+78,"Wed, Apr 12, 2000",,Box Score,@,Cleveland Cavaliers,W,,101,100,39,39,W 3,13240,,,False,MIL,2000
+79,"Fri, Apr 14, 2000",,Box Score,,Charlotte Hornets,L,OT,106,109,39,40,L 1,15839,,,False,MIL,2000
+80,"Sat, Apr 15, 2000",,Box Score,@,Washington Wizards,W,OT,120,116,40,40,W 1,18702,,,False,MIL,2000
+81,"Mon, Apr 17, 2000",,Box Score,@,Orlando Magic,W,,85,83,41,40,W 2,17248,,,False,MIL,2000
+82,"Wed, Apr 19, 2000",,Box Score,,Washington Wizards,W,,110,105,42,40,W 3,14874,,,False,MIL,2000
+1,"Sun, Apr 23, 2000",,Box Score,@,Indiana Pacers,L,,85,88,0,1,L 1,18345,,,True,MIL,2000
+2,"Thu, Apr 27, 2000",,Box Score,@,Indiana Pacers,W,,104,91,1,1,W 1,18345,,,True,MIL,2000
+3,"Sat, Apr 29, 2000",,Box Score,,Indiana Pacers,L,,96,109,1,2,L 1,18717,,,True,MIL,2000
+4,"Mon, May 1, 2000",,Box Score,,Indiana Pacers,W,,100,87,2,2,W 1,18072,,,True,MIL,2000
+5,"Thu, May 4, 2000",,Box Score,@,Indiana Pacers,L,,95,96,2,3,L 1,18345,,,True,MIL,2000

@@ -1,0 +1,83 @@
+G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Opponent,Unnamed: 6,Unnamed: 7,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Fri, Nov 3, 1995",,Box Score,,Milwaukee Bucks,L,,100,101,0,1,L 1,16321,2:15,,False,BOS,1996
+2,"Sat, Nov 4, 1995",,Box Score,@,Chicago Bulls,L,,85,107,0,2,L 2,23608,2:10,,False,BOS,1996
+3,"Wed, Nov 8, 1995",,Box Score,,Phoenix Suns,W,,113,109,1,2,W 1,17848,2:13,,False,BOS,1996
+4,"Fri, Nov 10, 1995",,Box Score,,Orlando Magic,L,,94,110,1,3,L 1,18624,2:12,,False,BOS,1996
+5,"Wed, Nov 15, 1995",,Box Score,,Utah Jazz,L,,90,102,1,4,L 2,17607,2:00,,False,BOS,1996
+6,"Fri, Nov 17, 1995",,Box Score,,Washington Bullets,W,,110,100,2,4,W 1,17592,2:04,,False,BOS,1996
+7,"Sat, Nov 18, 1995",,Box Score,@,Milwaukee Bucks,W,,99,93,3,4,W 2,18633,2:12,,False,BOS,1996
+8,"Mon, Nov 20, 1995",,Box Score,,Houston Rockets,L,,93,98,3,5,L 1,18250,2:05,,False,BOS,1996
+9,"Wed, Nov 22, 1995",,Box Score,@,Charlotte Hornets,W,,129,124,4,5,W 1,24042,2:26,,False,BOS,1996
+10,"Fri, Nov 24, 1995",,Box Score,,Golden State Warriors,L,,94,101,4,6,L 1,18624,2:08,,False,BOS,1996
+11,"Sun, Nov 26, 1995",,Box Score,,Charlotte Hornets,L,,109,111,4,7,L 2,17215,2:19,,False,BOS,1996
+12,"Wed, Nov 29, 1995",,Box Score,,Detroit Pistons,W,,100,96,5,7,W 1,17163,2:12,,False,BOS,1996
+13,"Fri, Dec 1, 1995",,Box Score,,New Jersey Nets,L,OT,123,131,5,8,L 1,16294,2:31,,False,BOS,1996
+14,"Sat, Dec 2, 1995",,Box Score,@,Washington Bullets,L,,107,135,5,9,L 2,12756,2:11,"at Baltimore, MD",False,BOS,1996
+15,"Mon, Dec 4, 1995",,Box Score,,Miami Heat,W,2OT,121,120,6,9,W 1,17540,3:20,,False,BOS,1996
+16,"Wed, Dec 6, 1995",,Box Score,@,Miami Heat,W,,105,101,7,9,W 2,15200,2:24,,False,BOS,1996
+17,"Sat, Dec 9, 1995",,Box Score,@,Philadelphia 76ers,W,,124,98,8,9,W 3,10134,2:14,,False,BOS,1996
+18,"Sun, Dec 10, 1995",,Box Score,,Atlanta Hawks,L,,103,108,8,10,L 1,16828,2:05,,False,BOS,1996
+19,"Tue, Dec 12, 1995",,Box Score,@,Toronto Raptors,W,,116,96,9,10,W 1,21875,2:13,,False,BOS,1996
+20,"Wed, Dec 13, 1995",,Box Score,,Philadelphia 76ers,W,,111,100,10,10,W 2,16504,2:20,,False,BOS,1996
+21,"Fri, Dec 15, 1995",,Box Score,,Toronto Raptors,W,,122,103,11,10,W 3,17580,2:07,,False,BOS,1996
+22,"Mon, Dec 18, 1995",,Box Score,,Chicago Bulls,L,,114,123,11,11,L 1,18624,2:16,,False,BOS,1996
+23,"Thu, Dec 21, 1995",,Box Score,@,Charlotte Hornets,L,,97,107,11,12,L 2,24042,2:16,,False,BOS,1996
+24,"Fri, Dec 22, 1995",,Box Score,,Minnesota Timberwolves,W,,114,113,12,12,W 1,18400,2:28,,False,BOS,1996
+25,"Tue, Dec 26, 1995",,Box Score,@,Los Angeles Lakers,L,,91,102,12,13,L 1,14324,2:04,,False,BOS,1996
+26,"Wed, Dec 27, 1995",,Box Score,@,Portland Trail Blazers,L,,109,135,12,14,L 2,21401,2:04,,False,BOS,1996
+27,"Fri, Dec 29, 1995",,Box Score,@,Seattle SuperSonics,L,,85,124,12,15,L 3,17072,2:25,,False,BOS,1996
+28,"Sat, Dec 30, 1995",,Box Score,@,Vancouver Grizzlies,L,,95,103,12,16,L 4,19193,2:26,,False,BOS,1996
+29,"Wed, Jan 3, 1996",,Box Score,,Portland Trail Blazers,L,OT,110,114,12,17,L 5,18153,2:34,,False,BOS,1996
+30,"Fri, Jan 5, 1996",,Box Score,,Cleveland Cavaliers,W,,93,77,13,17,W 1,18028,2:03,,False,BOS,1996
+31,"Sun, Jan 7, 1996",,Box Score,,Dallas Mavericks,L,,96,117,13,18,L 1,18246,2:08,,False,BOS,1996
+32,"Tue, Jan 9, 1996",,Box Score,@,New York Knicks,L,,93,98,13,19,L 2,19763,2:00,,False,BOS,1996
+33,"Wed, Jan 10, 1996",,Box Score,,Sacramento Kings,W,,113,104,14,19,W 1,17156,2:15,,False,BOS,1996
+34,"Fri, Jan 12, 1996",,Box Score,,New York Knicks,L,,92,105,14,20,L 1,18624,2:03,,False,BOS,1996
+35,"Sat, Jan 13, 1996",,Box Score,@,Atlanta Hawks,L,,105,108,14,21,L 2,12865,2:10,,False,BOS,1996
+36,"Tue, Jan 16, 1996",,Box Score,@,San Antonio Spurs,L,,97,121,14,22,L 3,15599,1:56,,False,BOS,1996
+37,"Thu, Jan 18, 1996",,Box Score,@,Houston Rockets,W,,108,106,15,22,W 1,16285,2:09,,False,BOS,1996
+38,"Fri, Jan 19, 1996",,Box Score,@,Dallas Mavericks,L,,124,129,15,23,L 1,17502,2:13,,False,BOS,1996
+39,"Sun, Jan 21, 1996",,Box Score,@,Toronto Raptors,L,,95,97,15,24,L 2,24334,2:08,,False,BOS,1996
+40,"Wed, Jan 24, 1996",,Box Score,,Los Angeles Lakers,L,,107,124,15,25,L 3,18624,2:00,,False,BOS,1996
+41,"Fri, Jan 26, 1996",,Box Score,,Indiana Pacers,L,,90,107,15,26,L 4,18624,2:08,,False,BOS,1996
+42,"Tue, Jan 30, 1996",,Box Score,@,Orlando Magic,L,,99,104,15,27,L 5,17248,2:15,,False,BOS,1996
+43,"Wed, Jan 31, 1996",,Box Score,,Vancouver Grizzlies,W,,131,98,16,27,W 1,17025,2:11,,False,BOS,1996
+44,"Fri, Feb 2, 1996",,Box Score,@,Indiana Pacers,L,,108,116,16,28,L 1,16579,2:08,,False,BOS,1996
+45,"Sat, Feb 3, 1996",,Box Score,@,Miami Heat,W,,100,99,17,28,W 1,14755,2:17,,False,BOS,1996
+46,"Tue, Feb 6, 1996",,Box Score,@,Cleveland Cavaliers,L,,73,91,17,29,L 1,15778,1:59,,False,BOS,1996
+47,"Wed, Feb 7, 1996",,Box Score,,San Antonio Spurs,L,,89,99,17,30,L 2,18624,1:55,,False,BOS,1996
+48,"Tue, Feb 13, 1996",,Box Score,@,Los Angeles Clippers,W,,108,94,18,30,W 1,6641,2:07,,False,BOS,1996
+49,"Wed, Feb 14, 1996",,Box Score,@,Golden State Warriors,L,,103,106,18,31,L 1,15025,2:03,,False,BOS,1996
+50,"Fri, Feb 16, 1996",,Box Score,@,Sacramento Kings,W,,130,102,19,31,W 1,17317,2:16,,False,BOS,1996
+51,"Sun, Feb 18, 1996",,Box Score,@,Denver Nuggets,L,,93,117,19,32,L 1,17171,2:09,,False,BOS,1996
+52,"Tue, Feb 20, 1996",,Box Score,@,Utah Jazz,L,,98,112,19,33,L 2,19911,1:58,,False,BOS,1996
+53,"Wed, Feb 21, 1996",,Box Score,@,Phoenix Suns,L,,107,120,19,34,L 3,19023,2:07,,False,BOS,1996
+54,"Sun, Feb 25, 1996",,Box Score,@,New Jersey Nets,L,,105,111,19,35,L 4,18052,2:17,,False,BOS,1996
+55,"Mon, Feb 26, 1996",,Box Score,,Indiana Pacers,L,OT,119,122,19,36,L 5,17703,2:58,,False,BOS,1996
+56,"Wed, Feb 28, 1996",,Box Score,,Charlotte Hornets,W,OT,121,116,20,36,W 1,18005,2:41,,False,BOS,1996
+57,"Fri, Mar 1, 1996",,Box Score,,Seattle SuperSonics,L,,96,106,20,37,L 1,18624,2:09,,False,BOS,1996
+58,"Sat, Mar 2, 1996",,Box Score,@,Chicago Bulls,L,,75,107,20,38,L 2,23721,1:54,,False,BOS,1996
+59,"Mon, Mar 4, 1996",,Box Score,,Milwaukee Bucks,W,,105,98,21,38,W 1,16061,2:13,,False,BOS,1996
+60,"Wed, Mar 6, 1996",,Box Score,,Los Angeles Clippers,W,,110,97,22,38,W 2,16379,2:09,,False,BOS,1996
+61,"Fri, Mar 8, 1996",,Box Score,,Cleveland Cavaliers,L,,91,96,22,39,L 1,18308,2:09,,False,BOS,1996
+62,"Sun, Mar 10, 1996",,Box Score,@,Milwaukee Bucks,W,,110,103,23,39,W 1,16222,2:07,,False,BOS,1996
+63,"Wed, Mar 13, 1996",,Box Score,,Philadelphia 76ers,W,,110,100,24,39,W 2,17676,2:13,,False,BOS,1996
+64,"Thu, Mar 14, 1996",,Box Score,@,Cleveland Cavaliers,L,,73,98,24,40,L 1,16471,1:50,,False,BOS,1996
+65,"Sun, Mar 17, 1996",,Box Score,,New Jersey Nets,W,2OT,107,106,25,40,W 1,17427,2:55,,False,BOS,1996
+66,"Wed, Mar 20, 1996",,Box Score,,Orlando Magic,L,,90,112,25,41,L 1,18624,1:59,,False,BOS,1996
+67,"Fri, Mar 22, 1996",,Box Score,,Denver Nuggets,W,,99,98,26,41,W 1,18034,2:23,,False,BOS,1996
+68,"Sun, Mar 24, 1996",,Box Score,,Miami Heat,L,,95,111,26,42,L 1,18159,2:07,,False,BOS,1996
+69,"Tue, Mar 26, 1996",,Box Score,@,Indiana Pacers,L,,96,103,26,43,L 2,16610,2:10,,False,BOS,1996
+70,"Wed, Mar 27, 1996",,Box Score,@,Minnesota Timberwolves,W,,121,116,27,43,W 1,12693,2:14,,False,BOS,1996
+71,"Fri, Mar 29, 1996",,Box Score,@,Philadelphia 76ers,W,,101,95,28,43,W 2,11899,2:10,,False,BOS,1996
+72,"Sun, Mar 31, 1996",,Box Score,,Atlanta Hawks,L,,92,93,28,44,L 1,18443,2:04,,False,BOS,1996
+73,"Tue, Apr 2, 1996",,Box Score,@,Atlanta Hawks,L,,89,109,28,45,L 2,12303,1:53,,False,BOS,1996
+74,"Thu, Apr 4, 1996",,Box Score,@,Orlando Magic,W,,100,98,29,45,W 1,17248,2:10,,False,BOS,1996
+75,"Sun, Apr 7, 1996",,Box Score,,Detroit Pistons,W,,98,97,30,45,W 2,18624,2:13,,False,BOS,1996
+76,"Tue, Apr 9, 1996",,Box Score,@,New York Knicks,L,,93,97,30,46,L 1,19763,2:03,,False,BOS,1996
+77,"Wed, Apr 10, 1996",,Box Score,,Washington Bullets,L,,108,122,30,47,L 2,18102,2:05,,False,BOS,1996
+78,"Fri, Apr 12, 1996",,Box Score,,Toronto Raptors,W,,136,108,31,47,W 1,17930,2:04,,False,BOS,1996
+79,"Sun, Apr 14, 1996",,Box Score,@,Detroit Pistons,L,OT,96,105,31,48,L 1,16522,2:24,,False,BOS,1996
+80,"Wed, Apr 17, 1996",,Box Score,@,Washington Bullets,W,,121,106,32,48,W 1,18756,2:06,,False,BOS,1996
+81,"Fri, Apr 19, 1996",,Box Score,@,New Jersey Nets,W,,112,106,33,48,W 2,17776,2:11,,False,BOS,1996
+82,"Sun, Apr 21, 1996",,Box Score,,New York Knicks,L,,111,122,33,49,L 1,18624,2:01,,False,BOS,1996

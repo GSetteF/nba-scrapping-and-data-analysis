@@ -1,0 +1,95 @@
+G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Opponent,Unnamed: 6,Unnamed: 7,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Sat, Oct 21, 1961",,Box Score,,Detroit Pistons,W,,137,102,1,0,W 1,8003,,,False,BOS,1962
+2,"Sat, Oct 28, 1961",,Box Score,,New York Knicks,W,,132,102,2,0,W 2,5032,,,False,BOS,1962
+3,"Fri, Nov 3, 1961",,Box Score,@,Philadelphia Warriors,W,,112,98,3,0,W 3,7657,,,False,BOS,1962
+4,"Sat, Nov 4, 1961",,Box Score,,Syracuse Nationals,W,,127,107,4,0,W 4,2482,,,False,BOS,1962
+5,"Thu, Nov 9, 1961",,Box Score,N,Detroit Pistons,L,,110,116,4,1,L 1,4911,,"at Philadelphia, PA",False,BOS,1962
+6,"Sat, Nov 11, 1961",,Box Score,,Philadelphia Warriors,W,,128,125,5,1,W 1,13909,,,False,BOS,1962
+7,"Sun, Nov 12, 1961",,Box Score,@,Chicago Packers,W,,112,96,6,1,W 2,4684,,,False,BOS,1962
+8,"Tue, Nov 14, 1961",,Box Score,@,St. Louis Hawks,W,,119,117,7,1,W 3,7296,,,False,BOS,1962
+9,"Thu, Nov 16, 1961",,Box Score,@,Cincinnati Royals,W,,127,121,8,1,W 4,5671,,,False,BOS,1962
+10,"Fri, Nov 17, 1961",,Box Score,@,New York Knicks,W,,104,100,9,1,W 5,6973,,,False,BOS,1962
+11,"Sat, Nov 18, 1961",,Box Score,,Los Angeles Lakers,L,,101,103,9,2,L 1,7853,,,False,BOS,1962
+12,"Wed, Nov 22, 1961",,Box Score,,St. Louis Hawks,W,,141,121,10,2,W 1,6197,,,False,BOS,1962
+13,"Thu, Nov 23, 1961",,Box Score,@,Philadelphia Warriors,W,,119,106,11,2,W 2,8125,,,False,BOS,1962
+14,"Sat, Nov 25, 1961",,Box Score,,New York Knicks,W,,116,96,12,2,W 3,4111,,,False,BOS,1962
+15,"Sun, Nov 26, 1961",,Box Score,@,Detroit Pistons,W,,107,101,13,2,W 4,4217,,,False,BOS,1962
+16,"Tue, Nov 28, 1961",,Box Score,N,Detroit Pistons,W,,116,108,14,2,W 5,9837,,"at New York, NY",False,BOS,1962
+17,"Thu, Nov 30, 1961",,Box Score,N,Cincinnati Royals,L,,130,133,14,3,L 1,3408,,"at Providence, RI",False,BOS,1962
+18,"Fri, Dec 1, 1961",,Box Score,,Chicago Packers,W,,140,121,15,3,W 1,2372,,,False,BOS,1962
+19,"Sun, Dec 3, 1961",,Box Score,@,Cincinnati Royals,W,,119,96,16,3,W 2,7653,,,False,BOS,1962
+20,"Wed, Dec 6, 1961",,Box Score,N,Cincinnati Royals,W,,103,102,17,3,W 3,6148,,"at Philadelphia, PA",False,BOS,1962
+21,"Fri, Dec 8, 1961",,Box Score,,Syracuse Nationals,W,,123,111,18,3,W 4,2843,,,False,BOS,1962
+22,"Sat, Dec 9, 1961",,Box Score,@,Syracuse Nationals,W,,106,102,19,3,W 5,3156,,,False,BOS,1962
+23,"Wed, Dec 13, 1961",,Box Score,,Philadelphia Warriors,W,,123,113,20,3,W 6,6879,,,False,BOS,1962
+24,"Thu, Dec 14, 1961",,Box Score,N,Chicago Packers,W,,123,108,21,3,W 7,2891,,"at Philadelphia, PA",False,BOS,1962
+25,"Sat, Dec 16, 1961",,Box Score,,St. Louis Hawks,W,,130,113,22,3,W 8,3873,,,False,BOS,1962
+26,"Sun, Dec 17, 1961",,Box Score,@,New York Knicks,W,,117,109,23,3,W 9,6122,,,False,BOS,1962
+27,"Tue, Dec 19, 1961",,Box Score,@,Los Angeles Lakers,L,,101,104,23,4,L 1,14569,,,False,BOS,1962
+28,"Thu, Dec 21, 1961",,Box Score,N,New York Knicks,W,,122,103,24,4,W 1,4500,,"at Providence, RI",False,BOS,1962
+29,"Sat, Dec 23, 1961",,Box Score,,New York Knicks,W,,122,111,25,4,W 2,4473,,,False,BOS,1962
+30,"Mon, Dec 25, 1961",,Box Score,@,Syracuse Nationals,W,,127,122,26,4,W 3,3420,,,False,BOS,1962
+31,"Tue, Dec 26, 1961",,Box Score,,Los Angeles Lakers,W,,129,117,27,4,W 4,13909,,,False,BOS,1962
+32,"Thu, Dec 28, 1961",,Box Score,@,St. Louis Hawks,W,,117,109,28,4,W 5,8110,,,False,BOS,1962
+33,"Fri, Dec 29, 1961",,Box Score,@,New York Knicks,L,,100,110,28,5,L 1,15473,,,False,BOS,1962
+34,"Sat, Dec 30, 1961",,Box Score,@,Philadelphia Warriors,W,OT,116,111,29,5,W 1,9537,,,False,BOS,1962
+35,"Tue, Jan 2, 1962",,Box Score,N,St. Louis Hawks,W,,136,99,30,5,W 2,8264,,"at New York, NY",False,BOS,1962
+36,"Wed, Jan 3, 1962",,Box Score,@,Detroit Pistons,L,,103,112,30,6,L 1,5043,,,False,BOS,1962
+37,"Fri, Jan 5, 1962",,Box Score,@,Cincinnati Royals,W,,124,103,31,6,W 1,6169,,,False,BOS,1962
+38,"Sun, Jan 7, 1962",,Box Score,@,Los Angeles Lakers,W,,118,95,32,6,W 2,8965,,,False,BOS,1962
+39,"Wed, Jan 10, 1962",,Box Score,@,Chicago Packers,L,,90,103,32,7,L 1,2248,,,False,BOS,1962
+40,"Fri, Jan 12, 1962",,Box Score,,Cincinnati Royals,W,,141,125,33,7,W 1,10223,,,False,BOS,1962
+41,"Sat, Jan 13, 1962",,Box Score,N,Syracuse Nationals,L,,117,127,33,8,L 1,5860,,"at Rochester, NY",False,BOS,1962
+42,"Sun, Jan 14, 1962",,Box Score,,Philadelphia Warriors,W,,145,136,34,8,W 1,7601,,,False,BOS,1962
+43,"Wed, Jan 17, 1962",,Box Score,@,Detroit Pistons,W,,126,116,35,8,W 2,8379,,,False,BOS,1962
+44,"Fri, Jan 19, 1962",,Box Score,,Syracuse Nationals,W,,128,103,36,8,W 3,8304,,,False,BOS,1962
+45,"Sat, Jan 20, 1962",,Box Score,@,Syracuse Nationals,W,,107,101,37,8,W 4,5348,,,False,BOS,1962
+46,"Sun, Jan 21, 1962",,Box Score,,Detroit Pistons,L,,120,124,37,9,L 1,3537,,,False,BOS,1962
+47,"Tue, Jan 23, 1962",,Box Score,N,Los Angeles Lakers,W,,118,103,38,9,W 1,13895,,"at New York, NY",False,BOS,1962
+48,"Wed, Jan 24, 1962",,Box Score,,St. Louis Hawks,L,,123,135,38,10,L 1,7138,,,False,BOS,1962
+49,"Fri, Jan 26, 1962",,Box Score,@,New York Knicks,L,,121,129,38,11,L 2,7143,,,False,BOS,1962
+50,"Sat, Jan 27, 1962",,Box Score,@,Philadelphia Warriors,L,,106,131,38,12,L 3,7582,,,False,BOS,1962
+51,"Sun, Jan 28, 1962",,Box Score,,Philadelphia Warriors,L,OT,129,133,38,13,L 4,6033,,,False,BOS,1962
+52,"Wed, Jan 31, 1962",,Box Score,@,Chicago Packers,W,,122,115,39,13,W 1,3112,,,False,BOS,1962
+53,"Thu, Feb 1, 1962",,Box Score,N,Los Angeles Lakers,W,,130,115,40,13,W 2,13200,,"at College Park, MD",False,BOS,1962
+54,"Fri, Feb 2, 1962",,Box Score,,Cincinnati Royals,W,,143,124,41,13,W 3,8789,,,False,BOS,1962
+55,"Sun, Feb 4, 1962",,Box Score,,New York Knicks,W,,130,114,42,13,W 4,4319,,,False,BOS,1962
+56,"Mon, Feb 5, 1962",,Box Score,@,Chicago Packers,W,,127,111,43,13,W 5,3126,,,False,BOS,1962
+57,"Tue, Feb 6, 1962",,Box Score,@,St. Louis Hawks,W,,129,114,44,13,W 6,5894,,,False,BOS,1962
+58,"Thu, Feb 8, 1962",,Box Score,@,Syracuse Nationals,L,,110,122,44,14,L 1,7192,,,False,BOS,1962
+59,"Fri, Feb 9, 1962",,Box Score,,Philadelphia Warriors,L,,124,126,44,15,L 2,6038,,,False,BOS,1962
+60,"Sat, Feb 10, 1962",,Box Score,@,Philadelphia Warriors,L,,106,107,44,16,L 3,10741,,,False,BOS,1962
+61,"Sun, Feb 11, 1962",,Box Score,,Chicago Packers,W,,148,115,45,16,W 1,9024,,,False,BOS,1962
+62,"Tue, Feb 13, 1962",,Box Score,N,Chicago Packers,W,,138,117,46,16,W 2,2233,,"at Providence, RI",False,BOS,1962
+63,"Wed, Feb 14, 1962",,Box Score,@,New York Knicks,L,,112,125,46,17,L 1,5126,,,False,BOS,1962
+64,"Fri, Feb 16, 1962",,Box Score,N,New York Knicks,W,,127,104,47,17,W 1,6437,,"at Philadelphia, PA",False,BOS,1962
+65,"Sun, Feb 18, 1962",,Box Score,@,Los Angeles Lakers,L,,99,125,47,18,L 1,8686,,,False,BOS,1962
+66,"Tue, Feb 20, 1962",,Box Score,@,Los Angeles Lakers,W,,115,96,48,18,W 1,10188,,,False,BOS,1962
+67,"Thu, Feb 22, 1962",,Box Score,N,Syracuse Nationals,W,,134,106,49,18,W 2,3006,,"at Providence, RI",False,BOS,1962
+68,"Fri, Feb 23, 1962",,Box Score,,Syracuse Nationals,W,,121,107,50,18,W 3,12236,,,False,BOS,1962
+69,"Sat, Feb 24, 1962",,Box Score,@,Philadelphia Warriors,W,,109,86,51,18,W 4,8624,,,False,BOS,1962
+70,"Sun, Feb 25, 1962",,Box Score,@,Syracuse Nationals,W,,110,106,52,18,W 5,4105,,,False,BOS,1962
+71,"Tue, Feb 27, 1962",,Box Score,N,Chicago Packers,W,,115,100,53,18,W 6,7875,,"at St. Louis, MO",False,BOS,1962
+72,"Wed, Feb 28, 1962",,Box Score,@,Cincinnati Royals,W,OT,129,123,54,18,W 7,5133,,,False,BOS,1962
+73,"Fri, Mar 2, 1962",,Box Score,@,St. Louis Hawks,L,,120,138,54,19,L 1,10310,,,False,BOS,1962
+74,"Sun, Mar 4, 1962",,Box Score,,St. Louis Hawks,W,,123,120,55,19,W 1,5498,,,False,BOS,1962
+75,"Tue, Mar 6, 1962",,Box Score,@,New York Knicks,L,,106,113,55,20,L 1,6984,,,False,BOS,1962
+76,"Wed, Mar 7, 1962",,Box Score,,Philadelphia Warriors,W,,153,102,56,20,W 1,7102,,,False,BOS,1962
+77,"Thu, Mar 8, 1962",,Box Score,@,Chicago Packers,W,,108,102,57,20,W 2,2780,,,False,BOS,1962
+78,"Fri, Mar 9, 1962",,Box Score,@,Detroit Pistons,W,,130,111,58,20,W 3,6428,,,False,BOS,1962
+79,"Sun, Mar 11, 1962",,Box Score,,Los Angeles Lakers,W,,119,105,59,20,W 4,8866,,,False,BOS,1962
+80,"Tue, Mar 13, 1962",,Box Score,,Syracuse Nationals,W,,142,110,60,20,W 5,4651,,,False,BOS,1962
+1,"Sat, Mar 24, 1962",,Box Score,,Philadelphia Warriors,W,,117,89,1,0,W 1,10274,,,True,BOS,1962
+2,"Tue, Mar 27, 1962",,Box Score,@,Philadelphia Warriors,L,,106,113,1,1,L 1,10474,,,True,BOS,1962
+3,"Wed, Mar 28, 1962",,Box Score,,Philadelphia Warriors,W,,129,114,2,1,W 1,13909,,,True,BOS,1962
+4,"Sat, Mar 31, 1962",,Box Score,@,Philadelphia Warriors,L,,106,110,2,2,L 1,6118,,,True,BOS,1962
+5,"Sun, Apr 1, 1962",,Box Score,,Philadelphia Warriors,W,,119,104,3,2,W 1,13496,,,True,BOS,1962
+6,"Tue, Apr 3, 1962",,Box Score,@,Philadelphia Warriors,L,,99,109,3,3,L 1,11588,,,True,BOS,1962
+7,"Thu, Apr 5, 1962",,Box Score,,Philadelphia Warriors,W,,109,107,4,3,W 1,13909,,,True,BOS,1962
+8,"Sat, Apr 7, 1962",,Box Score,,Los Angeles Lakers,W,,122,108,5,3,W 2,7467,,,True,BOS,1962
+9,"Sun, Apr 8, 1962",,Box Score,,Los Angeles Lakers,L,,122,129,5,4,L 1,12364,,,True,BOS,1962
+10,"Tue, Apr 10, 1962",,Box Score,@,Los Angeles Lakers,L,,115,117,5,5,L 2,15180,,,True,BOS,1962
+11,"Wed, Apr 11, 1962",,Box Score,@,Los Angeles Lakers,W,,115,103,6,5,W 1,15104,,,True,BOS,1962
+12,"Sat, Apr 14, 1962",,Box Score,,Los Angeles Lakers,L,,121,126,6,6,L 1,13909,,,True,BOS,1962
+13,"Mon, Apr 16, 1962",,Box Score,@,Los Angeles Lakers,W,,119,105,7,6,W 1,14030,,,True,BOS,1962
+14,"Wed, Apr 18, 1962",,Box Score,,Los Angeles Lakers,W,OT,110,107,8,6,W 2,13909,,,True,BOS,1962

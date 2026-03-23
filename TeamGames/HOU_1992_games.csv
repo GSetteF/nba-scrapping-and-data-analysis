@@ -1,0 +1,83 @@
+G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Opponent,Unnamed: 6,Unnamed: 7,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Fri, Nov 1, 1991",,Box Score,,Los Angeles Lakers,W,2OT,126,121,1,0,W 1,16611,,,False,HOU,1992
+2,"Sat, Nov 2, 1991",,Box Score,@,Denver Nuggets,L,OT,101,109,1,1,L 1,7692,,,False,HOU,1992
+3,"Tue, Nov 5, 1991",,Box Score,,Portland Trail Blazers,W,,106,99,2,1,W 1,12814,,,False,HOU,1992
+4,"Thu, Nov 7, 1991",,Box Score,,Cleveland Cavaliers,W,,105,86,3,1,W 2,13011,,,False,HOU,1992
+5,"Sat, Nov 9, 1991",,Box Score,,Phoenix Suns,W,,96,95,4,1,W 3,15506,,,False,HOU,1992
+6,"Tue, Nov 12, 1991",,Box Score,@,Dallas Mavericks,W,,98,92,5,1,W 4,14658,,,False,HOU,1992
+7,"Fri, Nov 15, 1991",,Box Score,@,Los Angeles Lakers,L,,74,86,5,2,L 1,16956,,,False,HOU,1992
+8,"Sat, Nov 16, 1991",,Box Score,@,Sacramento Kings,W,,102,93,6,2,W 1,17014,,,False,HOU,1992
+9,"Tue, Nov 19, 1991",,Box Score,,New York Knicks,W,,90,79,7,2,W 2,15021,2:03,,False,HOU,1992
+10,"Thu, Nov 21, 1991",,Box Score,,Minnesota Timberwolves,W,,106,102,8,2,W 3,12902,,,False,HOU,1992
+11,"Sat, Nov 23, 1991",,Box Score,@,Minnesota Timberwolves,L,,89,102,8,3,L 1,19006,,,False,HOU,1992
+12,"Tue, Nov 26, 1991",,Box Score,,New Jersey Nets,W,,118,109,9,3,W 1,14006,,,False,HOU,1992
+13,"Fri, Nov 29, 1991",,Box Score,@,Indiana Pacers,L,,121,141,9,4,L 1,15308,,,False,HOU,1992
+14,"Sun, Dec 1, 1991",,Box Score,@,Detroit Pistons,L,,87,94,9,5,L 2,21454,,,False,HOU,1992
+15,"Tue, Dec 3, 1991",,Box Score,,Denver Nuggets,L,,100,110,9,6,L 3,13023,,,False,HOU,1992
+16,"Thu, Dec 5, 1991",,Box Score,,Atlanta Hawks,L,,97,109,9,7,L 4,13040,,,False,HOU,1992
+17,"Sat, Dec 7, 1991",,Box Score,,Utah Jazz,L,,91,96,9,8,L 5,14501,,,False,HOU,1992
+18,"Tue, Dec 10, 1991",,Box Score,@,Portland Trail Blazers,W,,108,106,10,8,W 1,12888,,,False,HOU,1992
+19,"Thu, Dec 12, 1991",,Box Score,@,Golden State Warriors,W,,99,96,11,8,W 2,15025,,,False,HOU,1992
+20,"Sat, Dec 14, 1991",,Box Score,,San Antonio Spurs,L,,100,107,11,9,L 1,16027,,,False,HOU,1992
+21,"Tue, Dec 17, 1991",,Box Score,,Washington Bullets,W,,100,97,12,9,W 1,13013,,,False,HOU,1992
+22,"Thu, Dec 19, 1991",,Box Score,,Sacramento Kings,W,,109,102,13,9,W 2,13113,,,False,HOU,1992
+23,"Fri, Dec 20, 1991",,Box Score,@,Charlotte Hornets,W,,99,95,14,9,W 3,23698,,,False,HOU,1992
+24,"Sun, Dec 22, 1991",,Box Score,@,Orlando Magic,W,,99,94,15,9,W 4,15151,,,False,HOU,1992
+25,"Mon, Dec 23, 1991",,Box Score,,Dallas Mavericks,L,,85,105,15,10,L 1,15508,,,False,HOU,1992
+26,"Thu, Dec 26, 1991",,Box Score,@,New Jersey Nets,L,,93,99,15,11,L 2,11606,,,False,HOU,1992
+27,"Fri, Dec 27, 1991",,Box Score,@,Washington Bullets,W,,107,100,16,11,W 1,14617,,,False,HOU,1992
+28,"Sun, Dec 29, 1991",,Box Score,@,Milwaukee Bucks,L,,100,110,16,12,L 1,15178,,,False,HOU,1992
+29,"Mon, Dec 30, 1991",,Box Score,@,Cleveland Cavaliers,L,,89,121,16,13,L 2,19304,,,False,HOU,1992
+30,"Thu, Jan 2, 1992",,Box Score,,Detroit Pistons,L,,83,106,16,14,L 3,16027,,,False,HOU,1992
+31,"Sat, Jan 4, 1992",,Box Score,@,San Antonio Spurs,W,2OT,112,110,17,14,W 1,16057,,,False,HOU,1992
+32,"Mon, Jan 6, 1992",,Box Score,@,Atlanta Hawks,L,,97,109,17,15,L 1,9574,,,False,HOU,1992
+33,"Wed, Jan 8, 1992",,Box Score,@,Philadelphia 76ers,L,,104,114,17,16,L 2,13766,,,False,HOU,1992
+34,"Fri, Jan 10, 1992",,Box Score,@,Miami Heat,W,OT,111,107,18,16,W 1,15008,,,False,HOU,1992
+35,"Sat, Jan 11, 1992",,Box Score,,Seattle SuperSonics,W,,119,115,19,16,W 2,15458,,,False,HOU,1992
+36,"Tue, Jan 14, 1992",,Box Score,,Denver Nuggets,W,,111,94,20,16,W 3,13789,,,False,HOU,1992
+37,"Thu, Jan 16, 1992",,Box Score,,Golden State Warriors,L,,91,98,20,17,L 1,14001,,,False,HOU,1992
+38,"Sat, Jan 18, 1992",,Box Score,@,Utah Jazz,L,,80,108,20,18,L 2,19911,,,False,HOU,1992
+39,"Tue, Jan 21, 1992",,Box Score,,Milwaukee Bucks,W,,117,107,21,18,W 1,12989,,,False,HOU,1992
+40,"Thu, Jan 23, 1992",,Box Score,,Los Angeles Clippers,W,,109,96,22,18,W 2,13883,,,False,HOU,1992
+41,"Sat, Jan 25, 1992",,Box Score,@,Chicago Bulls,L,,100,114,22,19,L 1,18676,,,False,HOU,1992
+42,"Tue, Jan 28, 1992",,Box Score,,Minnesota Timberwolves,W,,111,102,23,19,W 1,13338,,,False,HOU,1992
+43,"Thu, Jan 30, 1992",,Box Score,,Chicago Bulls,W,,105,102,24,19,W 2,16611,,,False,HOU,1992
+44,"Sat, Feb 1, 1992",,Box Score,@,Phoenix Suns,L,,92,106,24,20,L 1,14496,,,False,HOU,1992
+45,"Mon, Feb 3, 1992",,Box Score,,Indiana Pacers,W,,122,111,25,20,W 1,13581,,,False,HOU,1992
+46,"Wed, Feb 5, 1992",,Box Score,@,Boston Celtics,L,,85,98,25,21,L 1,14890,2:06,,False,HOU,1992
+47,"Thu, Feb 6, 1992",,Box Score,@,New York Knicks,L,,85,102,25,22,L 2,17987,1:58,,False,HOU,1992
+48,"Tue, Feb 11, 1992",,Box Score,@,Seattle SuperSonics,L,,99,105,25,23,L 3,12676,,,False,HOU,1992
+49,"Wed, Feb 12, 1992",,Box Score,@,Los Angeles Clippers,L,,95,97,25,24,L 4,10267,,,False,HOU,1992
+50,"Fri, Feb 14, 1992",,Box Score,,Boston Celtics,W,,105,99,26,24,W 1,16611,2:02,,False,HOU,1992
+51,"Sat, Feb 15, 1992",,Box Score,@,Dallas Mavericks,L,,99,103,26,25,L 1,17247,,,False,HOU,1992
+52,"Mon, Feb 17, 1992",,Box Score,,Minnesota Timberwolves,L,OT,122,124,26,26,L 2,13605,,,False,HOU,1992
+53,"Thu, Feb 20, 1992",,Box Score,,Philadelphia 76ers,W,,110,101,27,26,W 1,14088,,,False,HOU,1992
+54,"Fri, Feb 21, 1992",,Box Score,@,Utah Jazz,L,,97,124,27,27,L 1,19911,,,False,HOU,1992
+55,"Sun, Feb 23, 1992",,Box Score,,San Antonio Spurs,W,,90,83,28,27,W 1,15021,,,False,HOU,1992
+56,"Wed, Feb 26, 1992",,Box Score,,Golden State Warriors,W,,118,116,29,27,W 2,14030,,,False,HOU,1992
+57,"Fri, Feb 28, 1992",,Box Score,@,Denver Nuggets,W,,84,81,30,27,W 3,16206,,,False,HOU,1992
+58,"Sun, Mar 1, 1992",,Box Score,@,Los Angeles Lakers,W,,105,97,31,27,W 4,16908,,,False,HOU,1992
+59,"Tue, Mar 3, 1992",,Box Score,@,Phoenix Suns,L,OT,107,112,31,28,L 1,14496,,,False,HOU,1992
+60,"Thu, Mar 5, 1992",,Box Score,,Miami Heat,W,,114,93,32,28,W 1,13884,,,False,HOU,1992
+61,"Sat, Mar 7, 1992",,Box Score,@,Golden State Warriors,L,,100,110,32,29,L 1,15025,,,False,HOU,1992
+62,"Sun, Mar 8, 1992",,Box Score,@,Sacramento Kings,W,,109,108,33,29,W 1,17014,,,False,HOU,1992
+63,"Tue, Mar 10, 1992",,Box Score,,Dallas Mavericks,W,,116,93,34,29,W 2,14002,,,False,HOU,1992
+64,"Thu, Mar 12, 1992",,Box Score,@,San Antonio Spurs,L,,98,104,34,30,L 1,16057,,,False,HOU,1992
+65,"Fri, Mar 13, 1992",,Box Score,,Charlotte Hornets,W,,118,100,35,30,W 1,16266,,,False,HOU,1992
+66,"Sun, Mar 15, 1992",,Box Score,,Utah Jazz,W,,106,97,36,30,W 2,15003,,,False,HOU,1992
+67,"Tue, Mar 17, 1992",,Box Score,,Los Angeles Clippers,W,,100,92,37,30,W 3,14805,,,False,HOU,1992
+68,"Thu, Mar 19, 1992",,Box Score,,Seattle SuperSonics,L,,91,112,37,31,L 1,15122,,,False,HOU,1992
+69,"Sat, Mar 21, 1992",,Box Score,,Sacramento Kings,L,,97,100,37,32,L 2,16276,,,False,HOU,1992
+70,"Tue, Mar 24, 1992",,Box Score,@,Seattle SuperSonics,L,,106,128,37,33,L 3,11377,,,False,HOU,1992
+71,"Thu, Mar 26, 1992",,Box Score,@,Los Angeles Clippers,L,,95,109,37,34,L 4,12827,,,False,HOU,1992
+72,"Sat, Mar 28, 1992",,Box Score,@,Portland Trail Blazers,L,,95,115,37,35,L 5,12888,,,False,HOU,1992
+73,"Tue, Mar 31, 1992",,Box Score,,Los Angeles Lakers,L,,101,107,37,36,L 6,15068,,,False,HOU,1992
+74,"Thu, Apr 2, 1992",,Box Score,,Denver Nuggets,W,,137,114,38,36,W 1,13651,,,False,HOU,1992
+75,"Sat, Apr 4, 1992",,Box Score,,Orlando Magic,W,,110,101,39,36,W 2,14344,,,False,HOU,1992
+76,"Tue, Apr 7, 1992",,Box Score,@,San Antonio Spurs,W,,95,92,40,36,W 3,16057,,,False,HOU,1992
+77,"Thu, Apr 9, 1992",,Box Score,@,Minnesota Timberwolves,W,,117,102,41,36,W 4,18167,,,False,HOU,1992
+78,"Sat, Apr 11, 1992",,Box Score,,Dallas Mavericks,L,,92,99,41,37,L 1,14501,,,False,HOU,1992
+79,"Tue, Apr 14, 1992",,Box Score,,Portland Trail Blazers,W,,108,96,42,37,W 1,14438,,,False,HOU,1992
+80,"Wed, Apr 15, 1992",,Box Score,@,Utah Jazz,L,,98,130,42,38,L 1,19911,,,False,HOU,1992
+81,"Fri, Apr 17, 1992",,Box Score,@,Dallas Mavericks,L,,106,109,42,39,L 2,17502,,,False,HOU,1992
+82,"Sun, Apr 19, 1992",,Box Score,,Phoenix Suns,L,,97,100,42,40,L 3,14302,,,False,HOU,1992

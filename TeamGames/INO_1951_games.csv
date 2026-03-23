@@ -1,0 +1,72 @@
+G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Opponent,Unnamed: 6,Unnamed: 7,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Wed, Nov 1, 1950",,Box Score,@,Washington Capitols,L,,84,100,0,1,L 1,,,,False,INO,1951
+2,"Sat, Nov 4, 1950",,Box Score,@,Baltimore Bullets,L,,86,102,0,2,L 2,,,,False,INO,1951
+3,"Sun, Nov 5, 1950",,Box Score,@,Fort Wayne Pistons,L,,63,68,0,3,L 3,,,,False,INO,1951
+4,"Tue, Nov 7, 1950",,Box Score,,New York Knicks,W,,86,73,1,3,W 1,,,,False,INO,1951
+5,"Thu, Nov 9, 1950",,Box Score,@,New York Knicks,W,,85,73,2,3,W 2,,,,False,INO,1951
+6,"Sun, Nov 12, 1950",,Box Score,@,Boston Celtics,L,,75,78,2,4,L 1,5137,,,False,INO,1951
+7,"Tue, Nov 14, 1950",,Box Score,,Syracuse Nationals,W,,108,78,3,4,W 1,,,,False,INO,1951
+8,"Thu, Nov 16, 1950",,Box Score,@,Philadelphia Warriors,L,,67,84,3,5,L 1,,,,False,INO,1951
+9,"Sat, Nov 18, 1950",,Box Score,,Tri-Cities Blackhawks,W,,74,67,4,5,W 1,,,,False,INO,1951
+10,"Sun, Nov 19, 1950",,Box Score,@,Tri-Cities Blackhawks,L,,81,104,4,6,L 1,,,,False,INO,1951
+11,"Tue, Nov 21, 1950",,Box Score,,Rochester Royals,W,,91,79,5,6,W 1,,,,False,INO,1951
+12,"Thu, Nov 23, 1950",,Box Score,@,Syracuse Nationals,W,,92,85,6,6,W 2,,,,False,INO,1951
+13,"Sat, Nov 25, 1950",,Box Score,,Baltimore Bullets,W,,92,81,7,6,W 3,,,,False,INO,1951
+14,"Sun, Nov 26, 1950",,Box Score,@,Fort Wayne Pistons,L,,70,79,7,7,L 1,,,,False,INO,1951
+15,"Tue, Nov 28, 1950",,Box Score,,Fort Wayne Pistons,W,,90,66,8,7,W 1,,,,False,INO,1951
+16,"Fri, Dec 1, 1950",,Box Score,,Minneapolis Lakers,W,,66,65,9,7,W 2,,,,False,INO,1951
+17,"Sat, Dec 2, 1950",,Box Score,@,Rochester Royals,L,,72,94,9,8,L 1,,,,False,INO,1951
+18,"Sun, Dec 3, 1950",,Box Score,@,Syracuse Nationals,L,,81,84,9,9,L 2,,,,False,INO,1951
+19,"Tue, Dec 5, 1950",,Box Score,,New York Knicks,W,,95,89,10,9,W 1,,,,False,INO,1951
+20,"Wed, Dec 6, 1950",,Box Score,@,Washington Capitols,W,,101,79,11,9,W 2,,,,False,INO,1951
+21,"Thu, Dec 7, 1950",,Box Score,@,Philadelphia Warriors,L,,73,102,11,10,L 1,,,,False,INO,1951
+22,"Sun, Dec 10, 1950",,Box Score,@,New York Knicks,L,,84,106,11,11,L 2,,,,False,INO,1951
+23,"Tue, Dec 12, 1950",,Box Score,,Tri-Cities Blackhawks,W,,75,74,12,11,W 1,,,,False,INO,1951
+24,"Fri, Dec 15, 1950",,Box Score,,Minneapolis Lakers,L,,71,82,12,12,L 1,,,,False,INO,1951
+25,"Sun, Dec 17, 1950",,Box Score,@,Minneapolis Lakers,L,,60,79,12,13,L 2,,,,False,INO,1951
+26,"Tue, Dec 19, 1950",,Box Score,,Fort Wayne Pistons,L,,92,93,12,14,L 3,,,,False,INO,1951
+27,"Sat, Dec 23, 1950",,Box Score,@,Washington Capitols,W,OT,87,79,13,14,W 1,,,,False,INO,1951
+28,"Tue, Dec 26, 1950",,Box Score,,Washington Capitols,L,,81,88,13,15,L 1,,,,False,INO,1951
+29,"Fri, Dec 29, 1950",,Box Score,,Tri-Cities Blackhawks,W,,112,81,14,15,W 1,,,,False,INO,1951
+30,"Tue, Jan 2, 1951",,Box Score,,Philadelphia Warriors,L,OT,86,87,14,16,L 1,,,,False,INO,1951
+31,"Thu, Jan 4, 1951",,Box Score,@,Fort Wayne Pistons,W,,94,83,15,16,W 1,,,,False,INO,1951
+32,"Sat, Jan 6, 1951",,Box Score,@,Rochester Royals,W,6OT,75,73,16,16,W 2,,,,False,INO,1951
+33,"Sun, Jan 7, 1951",,Box Score,@,Tri-Cities Blackhawks,L,,79,83,16,17,L 1,,,,False,INO,1951
+34,"Tue, Jan 9, 1951",,Box Score,,Rochester Royals,L,,59,77,16,18,L 2,,,,False,INO,1951
+35,"Fri, Jan 12, 1951",,Box Score,,Fort Wayne Pistons,L,,81,89,16,19,L 3,,,,False,INO,1951
+36,"Sun, Jan 14, 1951",,Box Score,@,Minneapolis Lakers,L,OT,84,86,16,20,L 4,,,,False,INO,1951
+37,"Tue, Jan 16, 1951",,Box Score,,Minneapolis Lakers,W,,82,68,17,20,W 1,,,,False,INO,1951
+38,"Thu, Jan 18, 1951",,Box Score,@,Philadelphia Warriors,L,,80,114,17,21,L 1,,,,False,INO,1951
+39,"Sat, Jan 20, 1951",,Box Score,@,Baltimore Bullets,L,,63,102,17,22,L 2,,,,False,INO,1951
+40,"Tue, Jan 23, 1951",,Box Score,,Boston Celtics,L,OT,79,83,17,23,L 3,4347,,,False,INO,1951
+41,"Fri, Jan 26, 1951",,Box Score,,Philadelphia Warriors,W,,78,75,18,23,W 1,,,,False,INO,1951
+42,"Sun, Jan 28, 1951",,Box Score,@,Minneapolis Lakers,L,,75,101,18,24,L 1,,,,False,INO,1951
+43,"Mon, Jan 29, 1951",,Box Score,N,Tri-Cities Blackhawks,W,,87,85,19,24,W 1,,,"at Jeffersonville, IN",False,INO,1951
+44,"Wed, Jan 31, 1951",,Box Score,,Rochester Royals,W,,68,63,20,24,W 2,,,,False,INO,1951
+45,"Sat, Feb 3, 1951",,Box Score,,Minneapolis Lakers,L,,84,89,20,25,L 1,,,,False,INO,1951
+46,"Sun, Feb 4, 1951",,Box Score,@,New York Knicks,W,,105,83,21,25,W 1,,,,False,INO,1951
+47,"Mon, Feb 5, 1951",,Box Score,N,Boston Celtics,L,,57,70,21,26,L 1,2900,,"at Cincinnati, OH",False,INO,1951
+48,"Tue, Feb 6, 1951",,Box Score,,Rochester Royals,W,,78,76,22,26,W 1,,,,False,INO,1951
+49,"Sat, Feb 10, 1951",,Box Score,,Philadelphia Warriors,L,,78,88,22,27,L 1,,,,False,INO,1951
+50,"Sun, Feb 11, 1951",,Box Score,@,Minneapolis Lakers,L,,78,91,22,28,L 2,,,,False,INO,1951
+51,"Tue, Feb 13, 1951",,Box Score,,Fort Wayne Pistons,W,,80,78,23,28,W 1,,,,False,INO,1951
+52,"Wed, Feb 14, 1951",,Box Score,@,Tri-Cities Blackhawks,L,,91,98,23,29,L 1,,,,False,INO,1951
+53,"Thu, Feb 15, 1951",,Box Score,N,Baltimore Bullets,W,,69,60,24,29,W 1,,,"at Cincinnati, OH",False,INO,1951
+54,"Fri, Feb 16, 1951",,Box Score,,Minneapolis Lakers,L,,71,76,24,30,L 1,,,,False,INO,1951
+55,"Sun, Feb 18, 1951",,Box Score,@,Boston Celtics,L,,75,78,24,31,L 2,5563,,,False,INO,1951
+56,"Tue, Feb 20, 1951",,Box Score,,Syracuse Nationals,L,,79,81,24,32,L 3,,,,False,INO,1951
+57,"Sun, Feb 25, 1951",,Box Score,@,Minneapolis Lakers,W,,75,73,25,32,W 1,,,,False,INO,1951
+58,"Tue, Feb 27, 1951",,Box Score,,Baltimore Bullets,W,,96,74,26,32,W 2,,,,False,INO,1951
+59,"Sun, Mar 4, 1951",,Box Score,@,Tri-Cities Blackhawks,L,,72,87,26,33,L 1,,,,False,INO,1951
+60,"Tue, Mar 6, 1951",,Box Score,,Boston Celtics,W,,75,73,27,33,W 1,3337,,,False,INO,1951
+61,"Thu, Mar 8, 1951",,Box Score,@,Syracuse Nationals,L,,97,121,27,34,L 1,,,,False,INO,1951
+62,"Fri, Mar 9, 1951",,Box Score,,Rochester Royals,L,,84,91,27,35,L 2,,,,False,INO,1951
+63,"Sun, Mar 11, 1951",,Box Score,@,Rochester Royals,W,,95,88,28,35,W 1,,,,False,INO,1951
+64,"Tue, Mar 13, 1951",,Box Score,,Syracuse Nationals,W,,98,93,29,35,W 2,,,,False,INO,1951
+65,"Wed, Mar 14, 1951",,Box Score,@,Fort Wayne Pistons,L,,109,115,29,36,L 1,,,,False,INO,1951
+66,"Thu, Mar 15, 1951",,Box Score,,New York Knicks,W,,74,70,30,36,W 1,,,,False,INO,1951
+67,"Sat, Mar 17, 1951",,Box Score,@,Baltimore Bullets,W,,92,91,31,36,W 2,,,,False,INO,1951
+68,"Sun, Mar 18, 1951",,Box Score,@,Rochester Royals,L,,79,91,31,37,L 1,,,,False,INO,1951
+1,"Wed, Mar 21, 1951",,Box Score,@,Minneapolis Lakers,L,,81,95,0,1,L 1,,,,True,INO,1951
+2,"Fri, Mar 23, 1951",,Box Score,,Minneapolis Lakers,W,,108,88,1,1,W 1,,,,True,INO,1951
+3,"Sun, Mar 25, 1951",,Box Score,@,Minneapolis Lakers,L,,80,85,1,2,L 1,,,,True,INO,1951

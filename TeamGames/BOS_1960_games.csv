@@ -1,0 +1,89 @@
+G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Opponent,Unnamed: 6,Unnamed: 7,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Sat, Oct 17, 1959",,Box Score,,Cincinnati Royals,W,,129,125,1,0,W 1,3341,,,False,BOS,1960
+2,"Sat, Oct 24, 1959",,Box Score,@,Syracuse Nationals,W,,121,109,2,0,W 2,4803,,,False,BOS,1960
+3,"Sat, Oct 31, 1959",,Box Score,@,New York Knicks,W,,123,109,3,0,W 3,13357,,,False,BOS,1960
+4,"Sun, Nov 1, 1959",,Box Score,@,Cincinnati Royals,W,,124,109,4,0,W 4,2800,,,False,BOS,1960
+5,"Tue, Nov 3, 1959",,Box Score,@,St. Louis Hawks,W,,103,98,5,0,W 5,8826,,,False,BOS,1960
+6,"Sat, Nov 7, 1959",,Box Score,,Philadelphia Warriors,W,,115,106,6,0,W 6,13909,,,False,BOS,1960
+7,"Sun, Nov 8, 1959",,Box Score,@,Minneapolis Lakers,L,,115,136,6,1,L 1,2001,,,False,BOS,1960
+8,"Tue, Nov 10, 1959",,Box Score,N,Detroit Pistons,W,,128,109,7,1,W 1,8646,,"at St. Louis, MO",False,BOS,1960
+9,"Wed, Nov 11, 1959",,Box Score,,Cincinnati Royals,W,,151,118,8,1,W 2,6788,,,False,BOS,1960
+10,"Sat, Nov 14, 1959",,Box Score,,St. Louis Hawks,W,,113,111,9,1,W 3,7246,,,False,BOS,1960
+11,"Sun, Nov 15, 1959",,Box Score,@,Cincinnati Royals,W,,134,128,10,1,W 4,2156,,,False,BOS,1960
+12,"Tue, Nov 17, 1959",,Box Score,@,Detroit Pistons,W,2OT,132,129,11,1,W 5,5207,,,False,BOS,1960
+13,"Wed, Nov 18, 1959",,Box Score,@,Syracuse Nationals,L,,103,138,11,2,L 1,2310,,,False,BOS,1960
+14,"Fri, Nov 20, 1959",,Box Score,,Syracuse Nationals,W,,114,101,12,2,W 1,5135,,,False,BOS,1960
+15,"Sat, Nov 21, 1959",,Box Score,@,New York Knicks,W,,128,127,13,2,W 2,12826,,,False,BOS,1960
+16,"Wed, Nov 25, 1959",,Box Score,,Philadelphia Warriors,L,,113,123,13,3,L 1,11683,,,False,BOS,1960
+17,"Thu, Nov 26, 1959",,Box Score,@,Philadelphia Warriors,L,,130,143,13,4,L 2,12343,,,False,BOS,1960
+18,"Sat, Nov 28, 1959",,Box Score,,Detroit Pistons,W,,136,110,14,4,W 1,4275,,,False,BOS,1960
+19,"Sun, Nov 29, 1959",,Box Score,N,Minneapolis Lakers,W,,109,93,15,4,W 2,3073,,"at Saint Paul, MN",False,BOS,1960
+20,"Thu, Dec 3, 1959",,Box Score,N,Cincinnati Royals,W,,114,111,16,4,W 3,8732,,"at Philadelphia, PA",False,BOS,1960
+21,"Fri, Dec 4, 1959",,Box Score,,New York Knicks,W,,122,107,17,4,W 4,4123,,,False,BOS,1960
+22,"Sun, Dec 6, 1959",,Box Score,@,Minneapolis Lakers,W,,121,104,18,4,W 5,3105,,,False,BOS,1960
+23,"Tue, Dec 8, 1959",,Box Score,@,New York Knicks,W,,121,105,19,4,W 6,14364,,,False,BOS,1960
+24,"Wed, Dec 9, 1959",,Box Score,,Philadelphia Warriors,W,,137,116,20,4,W 7,8702,,,False,BOS,1960
+25,"Fri, Dec 11, 1959",,Box Score,,St. Louis Hawks,W,,122,99,21,4,W 8,4706,,,False,BOS,1960
+26,"Sat, Dec 12, 1959",,Box Score,@,Philadelphia Warriors,W,,126,117,22,4,W 9,9671,,,False,BOS,1960
+27,"Thu, Dec 17, 1959",,Box Score,N,New York Knicks,W,,137,126,23,4,W 10,3743,,"at Providence, RI",False,BOS,1960
+28,"Sat, Dec 19, 1959",,Box Score,,New York Knicks,W,,119,116,24,4,W 11,7014,,,False,BOS,1960
+29,"Sun, Dec 20, 1959",,Box Score,@,Syracuse Nationals,W,,132,127,25,4,W 12,3904,,,False,BOS,1960
+30,"Tue, Dec 22, 1959",,Box Score,@,Detroit Pistons,W,,136,104,26,4,W 13,6123,,,False,BOS,1960
+31,"Fri, Dec 25, 1959",,Box Score,@,New York Knicks,W,,123,119,27,4,W 14,14870,,,False,BOS,1960
+32,"Sun, Dec 27, 1959",,Box Score,@,Cincinnati Royals,W,,122,111,28,4,W 15,2502,,,False,BOS,1960
+33,"Mon, Dec 28, 1959",,Box Score,,Minneapolis Lakers,W,,107,104,29,4,W 16,13292,,,False,BOS,1960
+34,"Wed, Dec 30, 1959",,Box Score,@,St. Louis Hawks,W,,96,82,30,4,W 17,11084,,,False,BOS,1960
+35,"Fri, Jan 1, 1960",,Box Score,N,Cincinnati Royals,L,,115,128,30,5,L 1,7985,,"at Detroit, MI",False,BOS,1960
+36,"Sat, Jan 2, 1960",,Box Score,@,Philadelphia Warriors,L,,117,118,30,6,L 2,10688,,,False,BOS,1960
+37,"Sun, Jan 3, 1960",,Box Score,@,Syracuse Nationals,L,,113,114,30,7,L 3,4781,,,False,BOS,1960
+38,"Mon, Jan 4, 1960",,Box Score,,Syracuse Nationals,W,,127,120,31,7,W 1,11000,,,False,BOS,1960
+39,"Tue, Jan 5, 1960",,Box Score,N,Syracuse Nationals,L,OT,143,145,31,8,L 1,4063,,"at Providence, RI",False,BOS,1960
+40,"Sat, Jan 9, 1960",,Box Score,@,Detroit Pistons,W,,126,103,32,8,W 1,6125,,,False,BOS,1960
+41,"Sun, Jan 10, 1960",,Box Score,@,St. Louis Hawks,L,,111,121,32,9,L 1,8428,,,False,BOS,1960
+42,"Tue, Jan 12, 1960",,Box Score,N,Syracuse Nationals,L,,120,127,32,10,L 2,11344,,"at Philadelphia, PA",False,BOS,1960
+43,"Wed, Jan 13, 1960",,Box Score,,St. Louis Hawks,W,,134,112,33,10,W 1,12187,,,False,BOS,1960
+44,"Fri, Jan 15, 1960",,Box Score,@,Philadelphia Warriors,W,,124,112,34,10,W 2,10434,,,False,BOS,1960
+45,"Sun, Jan 17, 1960",,Box Score,,Philadelphia Warriors,W,,129,123,35,10,W 3,13057,,,False,BOS,1960
+46,"Wed, Jan 20, 1960",,Box Score,,New York Knicks,W,,144,126,36,10,W 4,4008,,,False,BOS,1960
+47,"Sat, Jan 23, 1960",,Box Score,,Syracuse Nationals,W,,130,121,37,10,W 5,6296,,,False,BOS,1960
+48,"Sun, Jan 24, 1960",,Box Score,@,Syracuse Nationals,W,,131,110,38,10,W 6,4844,,,False,BOS,1960
+49,"Wed, Jan 27, 1960",,Box Score,,St. Louis Hawks,W,,127,114,39,10,W 7,10837,,,False,BOS,1960
+50,"Fri, Jan 29, 1960",,Box Score,@,Philadelphia Warriors,L,,116,124,39,11,L 1,12559,,,False,BOS,1960
+51,"Sat, Jan 30, 1960",,Box Score,N,Cincinnati Royals,W,,129,107,40,11,W 1,4299,,"at Providence, RI",False,BOS,1960
+52,"Sun, Jan 31, 1960",,Box Score,,Detroit Pistons,W,,146,128,41,11,W 2,6249,,,False,BOS,1960
+53,"Tue, Feb 2, 1960",,Box Score,N,St. Louis Hawks,L,,113,114,41,12,L 1,16133,,"at New York, NY",False,BOS,1960
+54,"Wed, Feb 3, 1960",,Box Score,,Minneapolis Lakers,W,,128,108,42,12,W 1,5277,,,False,BOS,1960
+55,"Fri, Feb 5, 1960",,Box Score,,Syracuse Nationals,W,,124,100,43,12,W 2,5518,,,False,BOS,1960
+56,"Sat, Feb 6, 1960",,Box Score,@,New York Knicks,W,,143,117,44,12,W 3,11000,,,False,BOS,1960
+57,"Sun, Feb 7, 1960",,Box Score,,New York Knicks,L,,135,142,44,13,L 1,10934,,,False,BOS,1960
+58,"Tue, Feb 9, 1960",,Box Score,N,Minneapolis Lakers,W,,129,90,45,13,W 1,8130,,"at St. Louis, MO",False,BOS,1960
+59,"Wed, Feb 10, 1960",,Box Score,N,Detroit Pistons,W,,153,121,46,13,W 2,2037,,"at Providence, RI",False,BOS,1960
+60,"Sat, Feb 13, 1960",,Box Score,,Philadelphia Warriors,W,,122,120,47,13,W 3,11553,,,False,BOS,1960
+61,"Sun, Feb 14, 1960",,Box Score,@,Philadelphia Warriors,W,,125,115,48,13,W 4,8322,,,False,BOS,1960
+62,"Tue, Feb 16, 1960",,Box Score,N,Minneapolis Lakers,W,,130,122,49,13,W 5,9147,,"at New York, NY",False,BOS,1960
+63,"Thu, Feb 18, 1960",,Box Score,N,New York Knicks,W,,109,104,50,13,W 6,8571,,"at Syracuse, NY",False,BOS,1960
+64,"Fri, Feb 19, 1960",,Box Score,@,Detroit Pistons,W,,136,116,51,13,W 7,6197,,,False,BOS,1960
+65,"Sat, Feb 20, 1960",,Box Score,@,St. Louis Hawks,L,,105,121,51,14,L 1,10336,,,False,BOS,1960
+66,"Sun, Feb 21, 1960",,Box Score,@,Cincinnati Royals,W,,115,108,52,14,W 1,2647,,,False,BOS,1960
+67,"Tue, Feb 23, 1960",,Box Score,N,Philadelphia Warriors,L,,108,126,52,15,L 1,18496,,"at New York, NY",False,BOS,1960
+68,"Wed, Feb 24, 1960",,Box Score,N,Minneapolis Lakers,W,,131,110,53,15,W 1,13581,,"at College Park, MD",False,BOS,1960
+69,"Thu, Feb 25, 1960",,Box Score,N,Detroit Pistons,W,,121,107,54,15,W 2,4045,,"at Providence, RI",False,BOS,1960
+70,"Fri, Feb 26, 1960",,Box Score,,Minneapolis Lakers,W,,128,111,55,15,W 3,5000,,,False,BOS,1960
+71,"Sun, Feb 28, 1960",,Box Score,@,New York Knicks,W,,129,125,56,15,W 4,8267,,,False,BOS,1960
+72,"Wed, Mar 2, 1960",,Box Score,,Philadelphia Warriors,W,,133,119,57,15,W 5,8572,,,False,BOS,1960
+73,"Thu, Mar 3, 1960",,Box Score,@,Syracuse Nationals,L,,108,149,57,16,L 1,1676,,,False,BOS,1960
+74,"Sun, Mar 6, 1960",,Box Score,,Syracuse Nationals,W,,126,117,58,16,W 1,5793,,,False,BOS,1960
+75,"Wed, Mar 9, 1960",,Box Score,,New York Knicks,W,,148,128,59,16,W 2,3921,,,False,BOS,1960
+1,"Wed, Mar 16, 1960",,Box Score,,Philadelphia Warriors,W,,111,105,1,0,W 1,12102,,,True,BOS,1960
+2,"Fri, Mar 18, 1960",,Box Score,@,Philadelphia Warriors,L,,110,115,1,1,L 1,12581,,,True,BOS,1960
+3,"Sat, Mar 19, 1960",,Box Score,,Philadelphia Warriors,W,,120,90,2,1,W 1,12178,,,True,BOS,1960
+4,"Sun, Mar 20, 1960",,Box Score,@,Philadelphia Warriors,W,,112,104,3,1,W 2,11337,,,True,BOS,1960
+5,"Tue, Mar 22, 1960",,Box Score,,Philadelphia Warriors,L,,107,128,3,2,L 1,12218,,,True,BOS,1960
+6,"Thu, Mar 24, 1960",,Box Score,@,Philadelphia Warriors,W,,119,117,4,2,W 1,12661,,,True,BOS,1960
+7,"Sun, Mar 27, 1960",,Box Score,,St. Louis Hawks,W,,140,122,5,2,W 2,10002,,,True,BOS,1960
+8,"Tue, Mar 29, 1960",,Box Score,,St. Louis Hawks,L,,103,113,5,3,L 1,13909,,,True,BOS,1960
+9,"Sat, Apr 2, 1960",,Box Score,@,St. Louis Hawks,W,,102,86,6,3,W 1,10612,,,True,BOS,1960
+10,"Sun, Apr 3, 1960",,Box Score,@,St. Louis Hawks,L,,96,106,6,4,L 1,10612,,,True,BOS,1960
+11,"Tue, Apr 5, 1960",,Box Score,,St. Louis Hawks,W,,127,102,7,4,W 1,13909,,,True,BOS,1960
+12,"Thu, Apr 7, 1960",,Box Score,@,St. Louis Hawks,L,,102,105,7,5,L 1,10612,,,True,BOS,1960
+13,"Sat, Apr 9, 1960",,Box Score,,St. Louis Hawks,W,,122,103,8,5,W 1,13909,,,True,BOS,1960

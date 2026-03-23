@@ -1,0 +1,80 @@
+G,Date,Start (ET),Unnamed: 3,Unnamed: 4,Unnamed: 5,Opponent,Unnamed: 7,Unnamed: 8,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Wed, Oct 23, 2019",9:00p,,Box Score,,Oklahoma City Thunder,W,,100,95,1,0,W 1,18306,2:24,,False,UTA,2020
+2,"Fri, Oct 25, 2019",10:30p,,Box Score,@,Los Angeles Lakers,L,,86,95,1,1,L 1,18997,2:21,,False,UTA,2020
+3,"Sat, Oct 26, 2019",9:00p,,Box Score,,Sacramento Kings,W,,113,81,2,1,W 1,18306,2:03,,False,UTA,2020
+4,"Mon, Oct 28, 2019",10:00p,,Box Score,@,Phoenix Suns,W,,96,95,3,1,W 2,14805,2:30,,False,UTA,2020
+5,"Wed, Oct 30, 2019",10:00p,,Box Score,,Los Angeles Clippers,W,,110,96,4,1,W 3,18306,2:16,,False,UTA,2020
+6,"Fri, Nov 1, 2019",10:00p,,Box Score,@,Sacramento Kings,L,,101,102,4,2,L 1,16273,2:15,,False,UTA,2020
+7,"Sun, Nov 3, 2019",9:00p,,Box Score,@,Los Angeles Clippers,L,,94,105,4,3,L 2,19068,2:21,,False,UTA,2020
+8,"Wed, Nov 6, 2019",9:00p,,Box Score,,Philadelphia 76ers,W,,106,104,5,3,W 1,18306,2:20,,False,UTA,2020
+9,"Fri, Nov 8, 2019",9:00p,,Box Score,,Milwaukee Bucks,W,,103,100,6,3,W 2,18306,2:33,,False,UTA,2020
+10,"Mon, Nov 11, 2019",10:30p,,Box Score,@,Golden State Warriors,W,,122,108,7,3,W 3,18064,2:15,,False,UTA,2020
+11,"Tue, Nov 12, 2019",9:00p,,Box Score,,Brooklyn Nets,W,,119,114,8,3,W 4,18306,2:26,,False,UTA,2020
+12,"Fri, Nov 15, 2019",8:00p,,Box Score,@,Memphis Grizzlies,L,,106,107,8,4,L 1,16422,2:17,,False,UTA,2020
+13,"Mon, Nov 18, 2019",9:00p,,Box Score,,Minnesota Timberwolves,L,,102,112,8,5,L 2,18306,2:18,,False,UTA,2020
+14,"Wed, Nov 20, 2019",8:00p,,Box Score,@,Minnesota Timberwolves,W,,103,95,9,5,W 1,13177,2:13,,False,UTA,2020
+15,"Fri, Nov 22, 2019",9:00p,,Box Score,,Golden State Warriors,W,,113,109,10,5,W 2,18306,2:14,,False,UTA,2020
+16,"Sat, Nov 23, 2019",9:00p,,Box Score,,New Orleans Pelicans,W,,128,120,11,5,W 3,18306,2:16,,False,UTA,2020
+17,"Mon, Nov 25, 2019",8:00p,,Box Score,@,Milwaukee Bucks,L,,118,122,11,6,L 1,17385,2:14,,False,UTA,2020
+18,"Wed, Nov 27, 2019",7:00p,,Box Score,@,Indiana Pacers,L,,102,121,11,7,L 2,17027,2:09,,False,UTA,2020
+19,"Fri, Nov 29, 2019",8:00p,,Box Score,@,Memphis Grizzlies,W,,103,94,12,7,W 1,16605,2:02,,False,UTA,2020
+20,"Sun, Dec 1, 2019",6:00p,,Box Score,@,Toronto Raptors,L,,110,130,12,8,L 1,18132,2:07,,False,UTA,2020
+21,"Mon, Dec 2, 2019",7:00p,,Box Score,@,Philadelphia 76ers,L,,94,103,12,9,L 2,20208,2:18,,False,UTA,2020
+22,"Wed, Dec 4, 2019",9:00p,,Box Score,,Los Angeles Lakers,L,,96,121,12,10,L 3,18306,2:11,,False,UTA,2020
+23,"Sat, Dec 7, 2019",10:00p,,Box Score,,Memphis Grizzlies,W,,126,112,13,10,W 1,18306,2:07,,False,UTA,2020
+24,"Mon, Dec 9, 2019",9:00p,,Box Score,,Oklahoma City Thunder,L,,90,104,13,11,L 1,18306,2:07,,False,UTA,2020
+25,"Wed, Dec 11, 2019",8:00p,,Box Score,@,Minnesota Timberwolves,W,,127,116,14,11,W 1,12369,2:16,,False,UTA,2020
+26,"Fri, Dec 13, 2019",9:00p,,Box Score,,Golden State Warriors,W,,114,106,15,11,W 2,18306,2:18,,False,UTA,2020
+27,"Tue, Dec 17, 2019",9:00p,,Box Score,,Orlando Magic,W,,109,102,16,11,W 3,18306,2:07,,False,UTA,2020
+28,"Thu, Dec 19, 2019",7:30p,,Box Score,@,Atlanta Hawks,W,,111,106,17,11,W 4,16739,2:16,,False,UTA,2020
+29,"Sat, Dec 21, 2019",5:00p,,Box Score,@,Charlotte Hornets,W,,114,107,18,11,W 5,16187,2:17,,False,UTA,2020
+30,"Mon, Dec 23, 2019",7:30p,,Box Score,@,Miami Heat,L,,104,107,18,12,L 1,19890,2:22,,False,UTA,2020
+31,"Thu, Dec 26, 2019",10:30p,,Box Score,,Portland Trail Blazers,W,,121,115,19,12,W 1,18306,2:19,,False,UTA,2020
+32,"Sat, Dec 28, 2019",10:30p,,Box Score,@,Los Angeles Clippers,W,,120,107,20,12,W 2,19068,2:09,,False,UTA,2020
+33,"Mon, Dec 30, 2019",9:00p,,Box Score,,Detroit Pistons,W,,104,81,21,12,W 3,18306,2:09,,False,UTA,2020
+34,"Thu, Jan 2, 2020",8:00p,,Box Score,@,Chicago Bulls,W,,102,98,22,12,W 4,19398,2:13,,False,UTA,2020
+35,"Sat, Jan 4, 2020",7:00p,,Box Score,@,Orlando Magic,W,,109,96,23,12,W 5,16913,1:59,,False,UTA,2020
+36,"Mon, Jan 6, 2020",8:00p,,Box Score,@,New Orleans Pelicans,W,,128,126,24,12,W 6,14138,2:14,,False,UTA,2020
+37,"Wed, Jan 8, 2020",9:00p,,Box Score,,New York Knicks,W,,128,104,25,12,W 7,18306,1:58,,False,UTA,2020
+38,"Fri, Jan 10, 2020",9:00p,,Box Score,,Charlotte Hornets,W,,109,92,26,12,W 8,18306,2:01,,False,UTA,2020
+39,"Sun, Jan 12, 2020",3:30p,,Box Score,@,Washington Wizards,W,,127,116,27,12,W 9,15953,2:12,,False,UTA,2020
+40,"Tue, Jan 14, 2020",7:30p,,Box Score,@,Brooklyn Nets,W,,118,107,28,12,W 10,15381,2:07,,False,UTA,2020
+41,"Thu, Jan 16, 2020",8:00p,,Box Score,@,New Orleans Pelicans,L,OT,132,138,28,13,L 1,16717,2:47,,False,UTA,2020
+42,"Sat, Jan 18, 2020",9:00p,,Box Score,,Sacramento Kings,W,,123,101,29,13,W 1,18306,2:05,,False,UTA,2020
+43,"Mon, Jan 20, 2020",9:00p,,Box Score,,Indiana Pacers,W,,118,88,30,13,W 2,18306,1:57,,False,UTA,2020
+44,"Wed, Jan 22, 2020",10:00p,,Box Score,@,Golden State Warriors,W,,129,96,31,13,W 3,18064,2:04,,False,UTA,2020
+45,"Sat, Jan 25, 2020",5:00p,,Box Score,,Dallas Mavericks,W,,112,107,32,13,W 4,18306,2:15,,False,UTA,2020
+46,"Mon, Jan 27, 2020",9:00p,,Box Score,,Houston Rockets,L,,117,126,32,14,L 1,18306,2:33,,False,UTA,2020
+47,"Wed, Jan 29, 2020",8:30p,,Box Score,@,San Antonio Spurs,L,,120,127,32,15,L 2,17887,2:26,,False,UTA,2020
+48,"Thu, Jan 30, 2020",10:30p,,Box Score,@,Denver Nuggets,L,,100,106,32,16,L 3,19520,2:18,,False,UTA,2020
+49,"Sat, Feb 1, 2020",10:30p,,Box Score,@,Portland Trail Blazers,L,,107,124,32,17,L 4,19603,2:08,,False,UTA,2020
+50,"Wed, Feb 5, 2020",9:00p,,Box Score,,Denver Nuggets,L,,95,98,32,18,L 5,18306,2:08,,False,UTA,2020
+51,"Fri, Feb 7, 2020",10:30p,,Box Score,,Portland Trail Blazers,W,,117,114,33,18,W 1,18306,2:22,,False,UTA,2020
+52,"Sun, Feb 9, 2020",7:00p,,Box Score,@,Houston Rockets,W,,114,113,34,18,W 2,18055,2:10,,False,UTA,2020
+53,"Mon, Feb 10, 2020",8:30p,,Box Score,@,Dallas Mavericks,W,,123,119,35,18,W 3,19793,2:22,,False,UTA,2020
+54,"Wed, Feb 12, 2020",9:00p,,Box Score,,Miami Heat,W,,116,101,36,18,W 4,18306,2:11,,False,UTA,2020
+55,"Fri, Feb 21, 2020",9:00p,,Box Score,,San Antonio Spurs,L,,104,113,36,19,L 1,18306,2:09,,False,UTA,2020
+56,"Sat, Feb 22, 2020",9:00p,,Box Score,,Houston Rockets,L,,110,120,36,20,L 2,18306,2:09,,False,UTA,2020
+57,"Mon, Feb 24, 2020",9:00p,,Box Score,,Phoenix Suns,L,,111,131,36,21,L 3,18306,2:19,,False,UTA,2020
+58,"Wed, Feb 26, 2020",10:30p,,Box Score,,Boston Celtics,L,,103,114,36,22,L 4,18306,2:09,,False,UTA,2020
+59,"Fri, Feb 28, 2020",9:00p,,Box Score,,Washington Wizards,W,,129,119,37,22,W 1,18306,2:13,,False,UTA,2020
+60,"Mon, Mar 2, 2020",7:00p,,Box Score,@,Cleveland Cavaliers,W,,126,113,38,22,W 2,15453,2:01,,False,UTA,2020
+61,"Wed, Mar 4, 2020",7:30p,,Box Score,@,New York Knicks,W,,112,104,39,22,W 3,16588,2:07,,False,UTA,2020
+62,"Fri, Mar 6, 2020",8:00p,,Box Score,@,Boston Celtics,W,,99,94,40,22,W 4,19156,2:10,,False,UTA,2020
+63,"Sat, Mar 7, 2020",7:00p,,Box Score,@,Detroit Pistons,W,,111,105,41,22,W 5,16590,2:17,,False,UTA,2020
+64,"Mon, Mar 9, 2020",9:00p,,Box Score,,Toronto Raptors,L,,92,101,41,23,L 1,18306,2:20,,False,UTA,2020
+65,"Thu, Jul 30, 2020",6:30p,,Box Score,@,New Orleans Pelicans,W,,106,104,42,23,W 1,,2:25,,False,UTA,2020
+66,"Sat, Aug 1, 2020",3:30p,,Box Score,@,Oklahoma City Thunder,L,,94,110,42,24,L 1,,2:21,,False,UTA,2020
+67,"Mon, Aug 3, 2020",9:00p,,Box Score,,Los Angeles Lakers,L,,108,116,42,25,L 2,,2:33,,False,UTA,2020
+68,"Wed, Aug 5, 2020",2:30p,,Box Score,,Memphis Grizzlies,W,,124,115,43,25,W 1,,2:35,,False,UTA,2020
+69,"Fri, Aug 7, 2020",1:00p,,Box Score,@,San Antonio Spurs,L,,111,119,43,26,L 1,,2:13,,False,UTA,2020
+70,"Sat, Aug 8, 2020",3:30p,,Box Score,@,Denver Nuggets,L,2OT,132,134,43,27,L 2,,3:13,,False,UTA,2020
+71,"Mon, Aug 10, 2020",3:00p,,Box Score,,Dallas Mavericks,L,,114,122,43,28,L 3,,2:13,,False,UTA,2020
+72,"Thu, Aug 13, 2020",6:30p,,Box Score,,San Antonio Spurs,W,,118,112,44,28,W 1,,2:16,,False,UTA,2020
+1,"Mon, Aug 17, 2020",1:30p,,Box Score,@,Denver Nuggets,L,OT,125,135,0,1,L 1,,2:33,,True,UTA,2020
+2,"Wed, Aug 19, 2020",4:00p,,Box Score,@,Denver Nuggets,W,,124,105,1,1,W 1,,2:15,,True,UTA,2020
+3,"Fri, Aug 21, 2020",4:00p,,Box Score,,Denver Nuggets,W,,124,87,2,1,W 2,,2:14,,True,UTA,2020
+4,"Sun, Aug 23, 2020",9:00p,,Box Score,,Denver Nuggets,W,,129,127,3,1,W 3,,2:30,,True,UTA,2020
+5,"Tue, Aug 25, 2020",6:30p,,Box Score,@,Denver Nuggets,L,,107,117,3,2,L 1,,2:25,,True,UTA,2020
+6,"Sun, Aug 30, 2020",8:30p,,Box Score,,Denver Nuggets,L,,107,119,3,3,L 2,,2:25,,True,UTA,2020
+7,"Tue, Sep 1, 2020",8:30p,,Box Score,@,Denver Nuggets,L,,78,80,3,4,L 3,,2:13,,True,UTA,2020

@@ -1,0 +1,83 @@
+G,Date,Start (ET),Unnamed: 3,Unnamed: 4,Unnamed: 5,Opponent,Unnamed: 7,Unnamed: 8,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Wed, Oct 29, 2003",9:00p,,Box Score,@,Utah Jazz,L,,92,99,0,1,L 1,17306,,,False,POR,2004
+2,"Sat, Nov 1, 2003",10:00p,,Box Score,,Cleveland Cavaliers,W,,104,85,1,1,W 1,20610,,,False,POR,2004
+3,"Mon, Nov 3, 2003",10:00p,,Box Score,,Philadelphia 76ers,L,,83,94,1,2,L 1,16218,,,False,POR,2004
+4,"Wed, Nov 5, 2003",10:30p,,Box Score,,Memphis Grizzlies,W,,93,87,2,2,W 1,14634,,,False,POR,2004
+5,"Fri, Nov 7, 2003",10:30p,,Box Score,@,Seattle SuperSonics,L,,82,100,2,3,L 1,17072,,,False,POR,2004
+6,"Sat, Nov 8, 2003",10:00p,,Box Score,,Atlanta Hawks,W,,90,83,3,3,W 1,16170,,,False,POR,2004
+7,"Tue, Nov 11, 2003",10:00p,,Box Score,,Toronto Raptors,W,,83,80,4,3,W 2,14082,,,False,POR,2004
+8,"Thu, Nov 13, 2003",10:00p,,Box Score,,Sacramento Kings,W,OT,112,110,5,3,W 3,17422,,,False,POR,2004
+9,"Sat, Nov 15, 2003",8:00p,,Box Score,@,New Orleans Hornets,L,,79,101,5,4,L 1,12483,,,False,POR,2004
+10,"Mon, Nov 17, 2003",8:30p,,Box Score,@,Dallas Mavericks,L,,98,105,5,5,L 2,19471,,,False,POR,2004
+11,"Wed, Nov 19, 2003",10:00p,,Box Score,,Miami Heat,W,,94,93,6,5,W 1,15503,,,False,POR,2004
+12,"Fri, Nov 21, 2003",10:30p,,Box Score,,Houston Rockets,W,,85,78,7,5,W 2,16898,,,False,POR,2004
+13,"Sun, Nov 23, 2003",9:00p,,Box Score,@,Golden State Warriors,L,,72,78,7,6,L 1,14332,,,False,POR,2004
+14,"Tue, Nov 25, 2003",10:00p,,Box Score,,Washington Wizards,L,,80,81,7,7,L 2,14487,,,False,POR,2004
+15,"Fri, Nov 28, 2003",10:00p,,Box Score,,New Jersey Nets,W,,97,93,8,7,W 1,16349,,,False,POR,2004
+16,"Wed, Dec 3, 2003",10:00p,,Box Score,,Indiana Pacers,W,OT,97,95,9,7,W 2,14442,,,False,POR,2004
+17,"Fri, Dec 5, 2003",10:00p,,Box Score,,New York Knicks,W,,88,81,10,7,W 3,14570,,,False,POR,2004
+18,"Sun, Dec 7, 2003",4:00p,,Box Score,@,Memphis Grizzlies,L,,79,93,10,8,L 1,11538,,,False,POR,2004
+19,"Tue, Dec 9, 2003",8:30p,,Box Score,@,Houston Rockets,L,,91,93,10,9,L 2,10679,,,False,POR,2004
+20,"Wed, Dec 10, 2003",8:30p,,Box Score,@,San Antonio Spurs,L,,77,102,10,10,L 3,15131,,,False,POR,2004
+21,"Sat, Dec 13, 2003",10:00p,,Box Score,,Los Angeles Lakers,W,,112,108,11,10,W 1,20630,,,False,POR,2004
+22,"Tue, Dec 16, 2003",10:00p,,Box Score,,Milwaukee Bucks,L,,99,106,11,11,L 1,14396,,,False,POR,2004
+23,"Thu, Dec 18, 2003",10:00p,,Box Score,,Phoenix Suns,W,,101,94,12,11,W 1,16576,,,False,POR,2004
+24,"Sat, Dec 20, 2003",10:00p,,Box Score,,San Antonio Spurs,L,,91,101,12,12,L 1,15010,,,False,POR,2004
+25,"Sun, Dec 21, 2003",9:00p,,Box Score,@,Sacramento Kings,L,,98,117,12,13,L 2,17317,,,False,POR,2004
+26,"Tue, Dec 23, 2003",10:00p,,Box Score,,Dallas Mavericks,W,,97,88,13,13,W 1,14556,,,False,POR,2004
+27,"Fri, Dec 26, 2003",10:30p,,Box Score,,Minnesota Timberwolves,W,,101,92,14,13,W 2,17237,,,False,POR,2004
+28,"Sun, Dec 28, 2003",7:00p,,Box Score,@,Cleveland Cavaliers,L,,74,86,14,14,L 1,18109,,,False,POR,2004
+29,"Mon, Dec 29, 2003",7:30p,,Box Score,@,New Jersey Nets,W,,91,87,15,14,W 1,16941,,,False,POR,2004
+30,"Wed, Dec 31, 2003",4:00p,,Box Score,@,Detroit Pistons,L,,71,78,15,15,L 1,20458,,,False,POR,2004
+31,"Fri, Jan 2, 2004",10:00p,,Box Score,,Denver Nuggets,L,,96,106,15,16,L 2,17316,,,False,POR,2004
+32,"Mon, Jan 5, 2004",10:00p,,Box Score,@,Seattle SuperSonics,L,OT,108,119,15,17,L 3,14371,,,False,POR,2004
+33,"Thu, Jan 8, 2004",9:30p,,Box Score,@,Minnesota Timberwolves,L,,75,96,15,18,L 4,15599,,,False,POR,2004
+34,"Fri, Jan 9, 2004",8:30p,,Box Score,@,Chicago Bulls,W,,87,78,16,18,W 1,19491,,,False,POR,2004
+35,"Sun, Jan 11, 2004",1:00p,,Box Score,@,Toronto Raptors,L,,72,83,16,19,L 1,18906,,,False,POR,2004
+36,"Tue, Jan 13, 2004",10:30p,,Box Score,@,Los Angeles Clippers,L,OT,96,103,16,20,L 2,12394,,,False,POR,2004
+37,"Thu, Jan 15, 2004",10:00p,,Box Score,,Phoenix Suns,L,,96,105,16,21,L 3,14202,,,False,POR,2004
+38,"Sat, Jan 17, 2004",10:00p,,Box Score,,Dallas Mavericks,L,,104,108,16,22,L 4,19018,,,False,POR,2004
+39,"Sun, Jan 18, 2004",8:00p,,Box Score,@,Phoenix Suns,L,,92,96,16,23,L 5,15131,,,False,POR,2004
+40,"Tue, Jan 20, 2004",10:00p,,Box Score,@,Sacramento Kings,W,OT,109,104,17,23,W 1,17317,,,False,POR,2004
+41,"Sat, Jan 24, 2004",3:30p,,Box Score,,Golden State Warriors,L,,87,105,17,24,L 1,14325,,,False,POR,2004
+42,"Mon, Jan 26, 2004",7:00p,,Box Score,@,Washington Wizards,W,,94,83,18,24,W 1,14236,,,False,POR,2004
+43,"Wed, Jan 28, 2004",8:00p,,Box Score,@,Memphis Grizzlies,W,,88,76,19,24,W 2,11472,,,False,POR,2004
+44,"Thu, Jan 29, 2004",7:30p,,Box Score,@,Atlanta Hawks,W,,93,85,20,24,W 3,11227,,,False,POR,2004
+45,"Sat, Jan 31, 2004",10:00p,,Box Score,,Chicago Bulls,W,OT,102,95,21,24,W 4,17577,,,False,POR,2004
+46,"Mon, Feb 2, 2004",9:00p,,Box Score,@,Denver Nuggets,L,,97,116,21,25,L 1,15866,,,False,POR,2004
+47,"Wed, Feb 4, 2004",9:00p,,Box Score,@,Phoenix Suns,W,,101,97,22,25,W 1,14121,,,False,POR,2004
+48,"Fri, Feb 6, 2004",9:00p,,Box Score,@,Utah Jazz,W,,87,73,23,25,W 2,19911,,,False,POR,2004
+49,"Sun, Feb 8, 2004",3:00p,,Box Score,,Seattle SuperSonics,W,,95,85,24,25,W 3,16996,,,False,POR,2004
+50,"Tue, Feb 10, 2004",10:00p,,Box Score,,Utah Jazz,L,,81,86,24,26,L 1,14201,,,False,POR,2004
+51,"Thu, Feb 12, 2004",10:00p,,Box Score,,Denver Nuggets,L,,98,107,24,27,L 2,16384,,,False,POR,2004
+52,"Tue, Feb 17, 2004",10:30p,,Box Score,@,Los Angeles Lakers,L,,86,89,24,28,L 3,18997,,,False,POR,2004
+53,"Wed, Feb 18, 2004",10:00p,,Box Score,,Los Angeles Clippers,W,,101,86,25,28,W 1,15012,,,False,POR,2004
+54,"Fri, Feb 20, 2004",10:30p,,Box Score,@,Golden State Warriors,W,,94,93,26,28,W 2,15273,,,False,POR,2004
+55,"Sat, Feb 21, 2004",10:00p,,Box Score,,Boston Celtics,W,,105,84,27,28,W 3,19011,2:09,,False,POR,2004
+56,"Mon, Feb 23, 2004",7:30p,,Box Score,@,Miami Heat,W,,89,81,28,28,W 4,14474,,,False,POR,2004
+57,"Tue, Feb 24, 2004",7:00p,,Box Score,@,Orlando Magic,W,OT,94,91,29,28,W 5,14081,,,False,POR,2004
+58,"Fri, Feb 27, 2004",8:30p,,Box Score,@,Houston Rockets,L,,85,89,29,29,L 1,18145,,,False,POR,2004
+59,"Sat, Feb 28, 2004",8:30p,,Box Score,@,Dallas Mavericks,L,,91,111,29,30,L 2,20358,,,False,POR,2004
+60,"Wed, Mar 3, 2004",10:00p,,Box Score,,Memphis Grizzlies,L,,88,97,29,31,L 3,16511,,,False,POR,2004
+61,"Thu, Mar 4, 2004",10:00p,,Box Score,,Detroit Pistons,L,,68,83,29,32,L 4,20243,,,False,POR,2004
+62,"Sat, Mar 6, 2004",10:00p,,Box Score,,Utah Jazz,W,,91,70,30,32,W 1,16216,,,False,POR,2004
+63,"Sun, Mar 7, 2004",9:30p,,Box Score,@,Los Angeles Clippers,L,,71,91,30,33,L 1,15733,,,False,POR,2004
+64,"Wed, Mar 10, 2004",10:00p,,Box Score,,Minnesota Timberwolves,W,,92,79,31,33,W 1,15456,,,False,POR,2004
+65,"Fri, Mar 12, 2004",10:00p,,Box Score,,Sacramento Kings,W,,83,81,32,33,W 2,20308,,,False,POR,2004
+66,"Sun, Mar 14, 2004",3:30p,,Box Score,@,Minnesota Timberwolves,W,,92,83,33,33,W 3,18787,,,False,POR,2004
+67,"Tue, Mar 16, 2004",8:00p,,Box Score,@,Milwaukee Bucks,W,,100,99,34,33,W 4,14736,,,False,POR,2004
+68,"Wed, Mar 17, 2004",7:00p,,Box Score,@,Indiana Pacers,L,,71,80,34,34,L 1,15617,,,False,POR,2004
+69,"Sat, Mar 20, 2004",10:00p,,Box Score,,Orlando Magic,W,,92,73,35,34,W 1,16693,,,False,POR,2004
+70,"Mon, Mar 22, 2004",10:00p,,Box Score,,Houston Rockets,L,OT,85,93,35,35,L 1,18083,,,False,POR,2004
+71,"Wed, Mar 24, 2004",10:00p,,Box Score,,Los Angeles Clippers,W,,91,85,36,35,W 1,14211,,,False,POR,2004
+72,"Sat, Mar 27, 2004",10:00p,,Box Score,,Seattle SuperSonics,W,OT,115,108,37,35,W 2,18554,,,False,POR,2004
+73,"Mon, Mar 29, 2004",7:30p,,Box Score,@,New York Knicks,L,,91,92,37,36,L 1,19763,,,False,POR,2004
+74,"Wed, Mar 31, 2004",7:00p,,Box Score,@,Boston Celtics,W,,105,98,38,36,W 1,15423,2:06,,False,POR,2004
+75,"Thu, Apr 1, 2004",7:00p,,Box Score,@,Philadelphia 76ers,W,,88,82,39,36,W 2,17738,,,False,POR,2004
+76,"Sat, Apr 3, 2004",10:00p,,Box Score,,New Orleans Hornets,L,,81,94,39,37,L 1,18603,,,False,POR,2004
+77,"Tue, Apr 6, 2004",10:00p,,Box Score,@,Los Angeles Lakers,W,,91,80,40,37,W 1,18997,,,False,POR,2004
+78,"Wed, Apr 7, 2004",10:00p,,Box Score,,Golden State Warriors,W,,87,81,41,37,W 2,15722,,,False,POR,2004
+79,"Fri, Apr 9, 2004",8:30p,,Box Score,@,San Antonio Spurs,L,,74,84,41,38,L 1,18797,,,False,POR,2004
+80,"Sat, Apr 10, 2004",9:00p,,Box Score,@,Denver Nuggets,L,OT,100,110,41,39,L 2,19794,,,False,POR,2004
+81,"Mon, Apr 12, 2004",10:00p,,Box Score,,San Antonio Spurs,L,,66,78,41,40,L 3,18997,,,False,POR,2004
+82,"Wed, Apr 14, 2004",10:00p,,Box Score,,Los Angeles Lakers,L,2OT,104,105,41,41,L 4,20609,,,False,POR,2004

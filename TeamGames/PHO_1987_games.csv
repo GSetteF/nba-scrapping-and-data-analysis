@@ -1,0 +1,83 @@
+G,Date,Start (ET),Unnamed: 3,Unnamed: 4,Unnamed: 5,Opponent,Unnamed: 7,Unnamed: 8,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Fri, Oct 31, 1986",,,Box Score,,Golden State Warriors,W,,127,123,1,0,W 1,11615,,,False,PHO,1987
+2,"Sat, Nov 1, 1986",,,Box Score,@,Los Angeles Clippers,L,,111,117,1,1,L 1,7805,,,False,PHO,1987
+3,"Tue, Nov 4, 1986",,,Box Score,,Portland Trail Blazers,W,,126,120,2,1,W 1,11624,,,False,PHO,1987
+4,"Fri, Nov 7, 1986",,,Box Score,@,Atlanta Hawks,L,,86,106,2,2,L 1,7061,,,False,PHO,1987
+5,"Sat, Nov 8, 1986",,,Box Score,@,Chicago Bulls,L,,96,101,2,3,L 2,15122,,,False,PHO,1987
+6,"Tue, Nov 11, 1986",,,Box Score,@,New York Knicks,L,,105,111,2,4,L 3,10987,,,False,PHO,1987
+7,"Wed, Nov 12, 1986",,,Box Score,@,Detroit Pistons,L,,100,108,2,5,L 4,10366,,,False,PHO,1987
+8,"Fri, Nov 14, 1986",,,Box Score,,Philadelphia 76ers,W,,127,97,3,5,W 1,14519,,,False,PHO,1987
+9,"Sat, Nov 15, 1986",,,Box Score,@,San Antonio Spurs,W,,116,109,4,5,W 2,6640,,,False,PHO,1987
+10,"Wed, Nov 19, 1986",,,Box Score,,New Jersey Nets,W,,111,101,5,5,W 3,9651,,,False,PHO,1987
+11,"Fri, Nov 21, 1986",,,Box Score,,Dallas Mavericks,L,OT,122,130,5,6,L 1,10182,,,False,PHO,1987
+12,"Sat, Nov 22, 1986",,,Box Score,@,Denver Nuggets,L,,120,132,5,7,L 2,12817,,,False,PHO,1987
+13,"Tue, Nov 25, 1986",,,Box Score,@,Sacramento Kings,L,,102,123,5,8,L 3,10333,,,False,PHO,1987
+14,"Wed, Nov 26, 1986",,,Box Score,,Atlanta Hawks,W,,120,106,6,8,W 1,11123,,,False,PHO,1987
+15,"Fri, Nov 28, 1986",,,Box Score,,Seattle SuperSonics,L,,104,117,6,9,L 1,10462,,,False,PHO,1987
+16,"Tue, Dec 2, 1986",,,Box Score,,New York Knicks,W,,124,100,7,9,W 1,10284,,,False,PHO,1987
+17,"Fri, Dec 5, 1986",,,Box Score,,Chicago Bulls,W,,114,112,8,9,W 2,14519,,,False,PHO,1987
+18,"Sat, Dec 6, 1986",,,Box Score,@,Los Angeles Clippers,W,,111,109,9,9,W 3,6296,,,False,PHO,1987
+19,"Tue, Dec 9, 1986",,,Box Score,@,Golden State Warriors,W,,109,94,10,9,W 4,7059,,,False,PHO,1987
+20,"Wed, Dec 10, 1986",,,Box Score,,Houston Rockets,L,,109,117,10,10,L 1,10535,,,False,PHO,1987
+21,"Fri, Dec 12, 1986",,,Box Score,@,Denver Nuggets,L,,116,128,10,11,L 2,9382,,,False,PHO,1987
+22,"Sat, Dec 13, 1986",,,Box Score,,Denver Nuggets,W,,123,110,11,11,W 1,11076,,,False,PHO,1987
+23,"Tue, Dec 16, 1986",,,Box Score,@,Houston Rockets,W,,106,102,12,11,W 2,16016,,,False,PHO,1987
+24,"Wed, Dec 17, 1986",,,Box Score,@,San Antonio Spurs,L,,81,94,12,12,L 1,4754,,,False,PHO,1987
+25,"Fri, Dec 19, 1986",,,Box Score,,Seattle SuperSonics,L,,106,108,12,13,L 2,10433,,,False,PHO,1987
+26,"Sat, Dec 20, 1986",,,Box Score,@,Sacramento Kings,L,,114,122,12,14,L 3,10333,,,False,PHO,1987
+27,"Tue, Dec 23, 1986",,,Box Score,,Dallas Mavericks,W,,120,119,13,14,W 1,10123,,,False,PHO,1987
+28,"Fri, Dec 26, 1986",,,Box Score,,Boston Celtics,L,,112,122,13,15,L 1,14519,2:00,,False,PHO,1987
+29,"Sat, Dec 27, 1986",,,Box Score,@,Dallas Mavericks,L,,97,123,13,16,L 2,17007,,,False,PHO,1987
+30,"Tue, Dec 30, 1986",,,Box Score,@,Portland Trail Blazers,L,,105,120,13,17,L 3,12666,,,False,PHO,1987
+31,"Fri, Jan 2, 1987",,,Box Score,@,Los Angeles Lakers,L,,118,155,13,18,L 4,17505,,,False,PHO,1987
+32,"Sun, Jan 4, 1987",,,Box Score,@,Golden State Warriors,W,,104,101,14,18,W 1,6266,,,False,PHO,1987
+33,"Tue, Jan 6, 1987",,,Box Score,@,Seattle SuperSonics,L,,108,138,14,19,L 1,5764,,,False,PHO,1987
+34,"Fri, Jan 9, 1987",,,Box Score,,San Antonio Spurs,L,,100,115,14,20,L 2,,,,False,PHO,1987
+35,"Sat, Jan 10, 1987",,,Box Score,@,Denver Nuggets,L,OT,120,127,14,21,L 3,13661,,,False,PHO,1987
+36,"Tue, Jan 13, 1987",,,Box Score,@,Houston Rockets,L,,100,118,14,22,L 4,16016,,,False,PHO,1987
+37,"Thu, Jan 15, 1987",,,Box Score,,Utah Jazz,W,,123,107,15,22,W 1,10712,,,False,PHO,1987
+38,"Sat, Jan 17, 1987",,,Box Score,,Los Angeles Clippers,W,,132,101,16,22,W 2,11372,,,False,PHO,1987
+39,"Mon, Jan 19, 1987",,,Box Score,@,Philadelphia 76ers,L,,104,107,16,23,L 1,13525,,,False,PHO,1987
+40,"Wed, Jan 21, 1987",7:41p,,Box Score,@,New Jersey Nets,L,,114,120,16,24,L 2,7463,2:18,,False,PHO,1987
+41,"Fri, Jan 23, 1987",,,Box Score,@,Washington Bullets,L,,90,109,16,25,L 3,6525,,,False,PHO,1987
+42,"Sat, Jan 24, 1987",,,Box Score,@,Indiana Pacers,W,,104,103,17,25,W 1,10750,,,False,PHO,1987
+43,"Mon, Jan 26, 1987",,,Box Score,,Detroit Pistons,W,OT,120,118,18,25,W 2,10756,,,False,PHO,1987
+44,"Wed, Jan 28, 1987",,,Box Score,,Golden State Warriors,W,,131,104,19,25,W 3,9939,,,False,PHO,1987
+45,"Fri, Jan 30, 1987",,,Box Score,,Los Angeles Lakers,L,,102,114,19,26,L 1,14471,,,False,PHO,1987
+46,"Sat, Jan 31, 1987",,,Box Score,@,Seattle SuperSonics,L,OT,112,118,19,27,L 2,9344,,,False,PHO,1987
+47,"Tue, Feb 3, 1987",,,Box Score,@,Portland Trail Blazers,L,,103,117,19,28,L 3,12666,,,False,PHO,1987
+48,"Thu, Feb 5, 1987",,,Box Score,,Denver Nuggets,W,,113,100,20,28,W 1,10529,,,False,PHO,1987
+49,"Tue, Feb 10, 1987",,,Box Score,@,Utah Jazz,W,,102,98,21,28,W 2,12212,,,False,PHO,1987
+50,"Wed, Feb 11, 1987",,,Box Score,,Indiana Pacers,L,,105,121,21,29,L 1,10378,,,False,PHO,1987
+51,"Fri, Feb 13, 1987",,,Box Score,,Utah Jazz,W,,105,98,22,29,W 1,12375,,,False,PHO,1987
+52,"Mon, Feb 16, 1987",,,Box Score,,Washington Bullets,L,,110,124,22,30,L 1,11533,,,False,PHO,1987
+53,"Thu, Feb 19, 1987",,,Box Score,,Portland Trail Blazers,L,,108,124,22,31,L 2,10651,,,False,PHO,1987
+54,"Sat, Feb 21, 1987",,,Box Score,,Milwaukee Bucks,L,,107,115,22,32,L 3,14471,,,False,PHO,1987
+55,"Tue, Feb 24, 1987",,,Box Score,,Los Angeles Lakers,L,,93,97,22,33,L 4,12686,,,False,PHO,1987
+56,"Wed, Feb 25, 1987",,,Box Score,@,Los Angeles Lakers,L,,91,99,22,34,L 5,16416,,,False,PHO,1987
+57,"Sat, Feb 28, 1987",,,Box Score,,Seattle SuperSonics,L,,105,112,22,35,L 6,13338,,,False,PHO,1987
+58,"Mon, Mar 2, 1987",,,Box Score,@,Dallas Mavericks,L,,112,135,22,36,L 7,17007,,,False,PHO,1987
+59,"Thu, Mar 5, 1987",,,Box Score,,Cleveland Cavaliers,W,,126,102,23,36,W 1,11163,,,False,PHO,1987
+60,"Sat, Mar 7, 1987",,,Box Score,,Sacramento Kings,W,,105,102,24,36,W 2,12037,,,False,PHO,1987
+61,"Mon, Mar 9, 1987",,,Box Score,@,Milwaukee Bucks,L,,110,118,24,37,L 1,11052,,,False,PHO,1987
+62,"Wed, Mar 11, 1987",,,Box Score,@,Boston Celtics,L,,109,118,24,38,L 2,14890,1:56,,False,PHO,1987
+63,"Thu, Mar 12, 1987",,,Box Score,@,Cleveland Cavaliers,L,,109,116,24,39,L 3,6643,,,False,PHO,1987
+64,"Sat, Mar 14, 1987",,,Box Score,@,San Antonio Spurs,L,,108,121,24,40,L 4,7791,,,False,PHO,1987
+65,"Wed, Mar 18, 1987",,,Box Score,,Houston Rockets,L,,91,113,24,41,L 5,11971,,,False,PHO,1987
+66,"Fri, Mar 20, 1987",,,Box Score,@,Portland Trail Blazers,L,,105,134,24,42,L 6,12666,,,False,PHO,1987
+67,"Sat, Mar 21, 1987",,,Box Score,,Golden State Warriors,L,,102,105,24,43,L 7,13060,,,False,PHO,1987
+68,"Tue, Mar 24, 1987",,,Box Score,,Los Angeles Lakers,W,,108,93,25,43,W 1,12907,,,False,PHO,1987
+69,"Thu, Mar 26, 1987",,,Box Score,@,Sacramento Kings,L,,115,124,25,44,L 1,10333,,,False,PHO,1987
+70,"Fri, Mar 27, 1987",,,Box Score,,Los Angeles Clippers,W,,130,117,26,44,W 1,10153,,,False,PHO,1987
+71,"Tue, Mar 31, 1987",,,Box Score,@,Utah Jazz,L,,95,110,26,45,L 1,12212,,,False,PHO,1987
+72,"Wed, Apr 1, 1987",,,Box Score,,Houston Rockets,W,,117,104,27,45,W 1,11122,,,False,PHO,1987
+73,"Fri, Apr 3, 1987",,,Box Score,,Utah Jazz,W,,112,98,28,45,W 2,10326,,,False,PHO,1987
+74,"Sat, Apr 4, 1987",,,Box Score,@,Los Angeles Clippers,W,OT,128,123,29,45,W 3,8305,,,False,PHO,1987
+75,"Mon, Apr 6, 1987",,,Box Score,,Dallas Mavericks,W,OT,118,110,30,45,W 4,9752,,,False,PHO,1987
+76,"Tue, Apr 7, 1987",,,Box Score,@,Seattle SuperSonics,W,OT,127,125,31,45,W 5,6585,,,False,PHO,1987
+77,"Thu, Apr 9, 1987",,,Box Score,,Portland Trail Blazers,W,,128,122,32,45,W 6,9438,,,False,PHO,1987
+78,"Sat, Apr 11, 1987",,,Box Score,,San Antonio Spurs,W,,136,116,33,45,W 7,10595,,,False,PHO,1987
+79,"Sun, Apr 12, 1987",,,Box Score,@,Los Angeles Lakers,L,,104,119,33,46,L 1,17505,,,False,PHO,1987
+80,"Tue, Apr 14, 1987",,,Box Score,,Sacramento Kings,W,,132,123,34,46,W 1,11369,,,False,PHO,1987
+81,"Wed, Apr 15, 1987",,,Box Score,@,Golden State Warriors,W,,119,116,35,46,W 2,6688,,,False,PHO,1987
+82,"Sat, Apr 18, 1987",,,Box Score,,Los Angeles Clippers,W,,121,106,36,46,W 3,10578,,,False,PHO,1987

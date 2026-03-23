@@ -1,0 +1,83 @@
+G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Opponent,Unnamed: 6,Unnamed: 7,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Sun, Oct 24, 1976",,Box Score,,New York Nets,W,,104,93,1,0,W 1,,,,False,SEA,1977
+2,"Tue, Oct 26, 1976",,Box Score,@,Indiana Pacers,L,,90,120,1,1,L 1,,,,False,SEA,1977
+3,"Wed, Oct 27, 1976",,Box Score,@,Detroit Pistons,L,,92,106,1,2,L 2,,,,False,SEA,1977
+4,"Fri, Oct 29, 1976",,Box Score,,Detroit Pistons,W,,106,103,2,2,W 1,,,,False,SEA,1977
+5,"Sun, Oct 31, 1976",,Box Score,,Atlanta Hawks,W,,126,112,3,2,W 2,,,,False,SEA,1977
+6,"Tue, Nov 2, 1976",,Box Score,@,Milwaukee Bucks,L,,113,125,3,3,L 1,,,,False,SEA,1977
+7,"Wed, Nov 3, 1976",,Box Score,@,Kansas City Kings,L,,106,126,3,4,L 2,,,,False,SEA,1977
+8,"Fri, Nov 5, 1976",,Box Score,,Phoenix Suns,W,,88,84,4,4,W 1,,,,False,SEA,1977
+9,"Sun, Nov 7, 1976",,Box Score,,Philadelphia 76ers,W,,98,91,5,4,W 2,,,,False,SEA,1977
+10,"Tue, Nov 9, 1976",,Box Score,@,San Antonio Spurs,L,,114,138,5,5,L 1,,,,False,SEA,1977
+11,"Wed, Nov 10, 1976",,Box Score,@,Houston Rockets,L,,97,99,5,6,L 2,,,,False,SEA,1977
+12,"Fri, Nov 12, 1976",,Box Score,,Kansas City Kings,W,,102,97,6,6,W 1,,,,False,SEA,1977
+13,"Sun, Nov 14, 1976",,Box Score,,Indiana Pacers,W,,121,118,7,6,W 2,,,,False,SEA,1977
+14,"Tue, Nov 16, 1976",,Box Score,@,Golden State Warriors,L,,102,110,7,7,L 1,,,,False,SEA,1977
+15,"Wed, Nov 17, 1976",,Box Score,,Cleveland Cavaliers,W,,92,78,8,7,W 1,,,,False,SEA,1977
+16,"Fri, Nov 19, 1976",,Box Score,,Buffalo Braves,W,,130,101,9,7,W 2,,,,False,SEA,1977
+17,"Sun, Nov 21, 1976",,Box Score,,Milwaukee Bucks,W,,115,106,10,7,W 3,,,,False,SEA,1977
+18,"Fri, Nov 26, 1976",,Box Score,,Chicago Bulls,W,,101,97,11,7,W 4,,,,False,SEA,1977
+19,"Sat, Nov 27, 1976",,Box Score,@,Phoenix Suns,L,,107,119,11,8,L 1,,,,False,SEA,1977
+20,"Sun, Nov 28, 1976",,Box Score,,Washington Bullets,W,,117,116,12,8,W 1,,,,False,SEA,1977
+21,"Tue, Nov 30, 1976",,Box Score,@,Buffalo Braves,L,,114,119,12,9,L 1,,,,False,SEA,1977
+22,"Wed, Dec 1, 1976",,Box Score,@,Boston Celtics,L,,103,107,12,10,L 2,8133,,,False,SEA,1977
+23,"Fri, Dec 3, 1976",,Box Score,@,Philadelphia 76ers,W,,121,112,13,10,W 1,,,,False,SEA,1977
+24,"Sat, Dec 4, 1976",,Box Score,@,New York Knicks,L,,96,103,13,11,L 1,,,,False,SEA,1977
+25,"Tue, Dec 7, 1976",,Box Score,@,New Orleans Jazz,L,,98,110,13,12,L 2,,,,False,SEA,1977
+26,"Wed, Dec 8, 1976",,Box Score,@,Washington Bullets,W,,109,99,14,12,W 1,,,,False,SEA,1977
+27,"Fri, Dec 10, 1976",,Box Score,,Golden State Warriors,W,,99,93,15,12,W 2,,,,False,SEA,1977
+28,"Sun, Dec 12, 1976",,Box Score,,Houston Rockets,L,,92,96,15,13,L 1,,,,False,SEA,1977
+29,"Wed, Dec 15, 1976",,Box Score,,Denver Nuggets,L,,103,117,15,14,L 2,,,,False,SEA,1977
+30,"Sun, Dec 19, 1976",,Box Score,,Buffalo Braves,L,,98,99,15,15,L 3,,,,False,SEA,1977
+31,"Tue, Dec 21, 1976",,Box Score,@,Chicago Bulls,L,2OT,101,103,15,16,L 4,,,,False,SEA,1977
+32,"Thu, Dec 23, 1976",,Box Score,@,Denver Nuggets,L,,95,123,15,17,L 5,,,,False,SEA,1977
+33,"Sat, Dec 25, 1976",,Box Score,@,Portland Trail Blazers,L,,95,110,15,18,L 6,,,,False,SEA,1977
+34,"Sun, Dec 26, 1976",,Box Score,,Portland Trail Blazers,W,,89,87,16,18,W 1,,,,False,SEA,1977
+35,"Tue, Dec 28, 1976",,Box Score,@,Atlanta Hawks,W,,120,119,17,18,W 2,,,,False,SEA,1977
+36,"Wed, Dec 29, 1976",,Box Score,@,New York Nets,W,,102,96,18,18,W 3,,,,False,SEA,1977
+37,"Thu, Dec 30, 1976",,Box Score,@,Cleveland Cavaliers,L,,100,105,18,19,L 1,,,,False,SEA,1977
+38,"Sun, Jan 2, 1977",,Box Score,,Chicago Bulls,W,,83,79,19,19,W 1,,,,False,SEA,1977
+39,"Wed, Jan 5, 1977",,Box Score,,Boston Celtics,W,,94,93,20,19,W 2,10026,,,False,SEA,1977
+40,"Fri, Jan 7, 1977",,Box Score,,San Antonio Spurs,W,,131,124,21,19,W 3,,,,False,SEA,1977
+41,"Sun, Jan 9, 1977",,Box Score,,New Orleans Jazz,W,,92,76,22,19,W 4,,,,False,SEA,1977
+42,"Wed, Jan 12, 1977",,Box Score,,Detroit Pistons,W,,121,99,23,19,W 5,,,,False,SEA,1977
+43,"Fri, Jan 14, 1977",,Box Score,,New York Knicks,W,,127,107,24,19,W 6,,,,False,SEA,1977
+44,"Sun, Jan 16, 1977",,Box Score,,Denver Nuggets,L,,101,109,24,20,L 1,,,,False,SEA,1977
+45,"Wed, Jan 19, 1977",,Box Score,,Indiana Pacers,W,,109,102,25,20,W 1,,,,False,SEA,1977
+46,"Fri, Jan 21, 1977",,Box Score,@,Denver Nuggets,L,,106,120,25,21,L 1,,,,False,SEA,1977
+47,"Sun, Jan 23, 1977",,Box Score,@,Phoenix Suns,L,,88,98,25,22,L 2,,,,False,SEA,1977
+48,"Tue, Jan 25, 1977",,Box Score,@,Los Angeles Lakers,L,,109,120,25,23,L 3,,,,False,SEA,1977
+49,"Wed, Jan 26, 1977",,Box Score,,Los Angeles Lakers,W,,118,103,26,23,W 1,,,,False,SEA,1977
+50,"Sun, Jan 30, 1977",,Box Score,,San Antonio Spurs,L,OT,118,126,26,24,L 1,,,,False,SEA,1977
+51,"Wed, Feb 2, 1977",,Box Score,,New Orleans Jazz,W,,120,95,27,24,W 1,,,,False,SEA,1977
+52,"Fri, Feb 4, 1977",,Box Score,,Washington Bullets,L,,106,109,27,25,L 1,,,,False,SEA,1977
+53,"Sun, Feb 6, 1977",,Box Score,,Milwaukee Bucks,W,,107,99,28,25,W 1,,,,False,SEA,1977
+54,"Wed, Feb 9, 1977",,Box Score,,Atlanta Hawks,L,,98,99,28,26,L 1,,,,False,SEA,1977
+55,"Fri, Feb 11, 1977",,Box Score,,Golden State Warriors,W,OT,114,107,29,26,W 1,,,,False,SEA,1977
+56,"Tue, Feb 15, 1977",,Box Score,@,San Antonio Spurs,L,OT,106,109,29,27,L 1,,,,False,SEA,1977
+57,"Wed, Feb 16, 1977",,Box Score,@,Houston Rockets,L,,95,124,29,28,L 2,,,,False,SEA,1977
+58,"Fri, Feb 18, 1977",,Box Score,@,New York Nets,W,,93,88,30,28,W 1,,,,False,SEA,1977
+59,"Sat, Feb 19, 1977",,Box Score,@,Buffalo Braves,L,,100,103,30,29,L 1,,,,False,SEA,1977
+60,"Sun, Feb 20, 1977",,Box Score,@,Indiana Pacers,L,,115,135,30,30,L 2,,,,False,SEA,1977
+61,"Wed, Feb 23, 1977",,Box Score,@,Kansas City Kings,W,,94,93,31,30,W 1,,,,False,SEA,1977
+62,"Fri, Feb 25, 1977",,Box Score,,Boston Celtics,L,,92,102,31,31,L 1,14098,,,False,SEA,1977
+63,"Sun, Feb 27, 1977",,Box Score,,Philadelphia 76ers,L,,85,93,31,32,L 2,,,,False,SEA,1977
+64,"Wed, Mar 2, 1977",,Box Score,,Cleveland Cavaliers,L,,85,105,31,33,L 3,,,,False,SEA,1977
+65,"Sat, Mar 5, 1977",,Box Score,@,Portland Trail Blazers,L,,104,134,31,34,L 4,,,,False,SEA,1977
+66,"Tue, Mar 8, 1977",,Box Score,@,New Orleans Jazz,W,,96,91,32,34,W 1,,,,False,SEA,1977
+67,"Wed, Mar 9, 1977",,Box Score,@,Boston Celtics,W,,114,86,33,34,W 2,14692,,,False,SEA,1977
+68,"Fri, Mar 11, 1977",,Box Score,@,Philadelphia 76ers,L,,122,126,33,35,L 1,,,,False,SEA,1977
+69,"Sat, Mar 12, 1977",,Box Score,@,New York Knicks,W,,91,88,34,35,W 1,,,,False,SEA,1977
+70,"Wed, Mar 16, 1977",,Box Score,@,Washington Bullets,W,,100,96,35,35,W 2,,,,False,SEA,1977
+71,"Fri, Mar 18, 1977",,Box Score,@,Detroit Pistons,W,,105,104,36,35,W 3,,,,False,SEA,1977
+72,"Sat, Mar 19, 1977",,Box Score,@,Chicago Bulls,L,,92,104,36,36,L 1,,,,False,SEA,1977
+73,"Sun, Mar 20, 1977",,Box Score,@,Milwaukee Bucks,W,,110,107,37,36,W 1,,,,False,SEA,1977
+74,"Tue, Mar 22, 1977",,Box Score,@,Cleveland Cavaliers,L,,104,108,37,37,L 1,,,,False,SEA,1977
+75,"Sun, Mar 27, 1977",,Box Score,,Phoenix Suns,L,,100,121,37,38,L 2,,,,False,SEA,1977
+76,"Tue, Mar 29, 1977",,Box Score,@,Los Angeles Lakers,L,,97,100,37,39,L 3,,,,False,SEA,1977
+77,"Wed, Mar 30, 1977",,Box Score,,Houston Rockets,W,,111,105,38,39,W 1,,,,False,SEA,1977
+78,"Sat, Apr 2, 1977",,Box Score,@,Golden State Warriors,W,,109,102,39,39,W 2,,,,False,SEA,1977
+79,"Sun, Apr 3, 1977",,Box Score,,Portland Trail Blazers,L,,104,119,39,40,L 1,,,,False,SEA,1977
+80,"Tue, Apr 5, 1977",,Box Score,,New York Nets,L,,86,88,39,41,L 2,,,,False,SEA,1977
+81,"Fri, Apr 8, 1977",,Box Score,,Kansas City Kings,W,,112,105,40,41,W 1,,,,False,SEA,1977
+82,"Sun, Apr 10, 1977",,Box Score,,Los Angeles Lakers,L,,104,113,40,42,L 1,,,,False,SEA,1977

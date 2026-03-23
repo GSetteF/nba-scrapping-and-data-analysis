@@ -1,0 +1,86 @@
+G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Opponent,Unnamed: 6,Unnamed: 7,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Fri, Nov 5, 1993",,Box Score,@,San Antonio Spurs,L,,85,91,0,1,L 1,36523,,,False,GSW,1994
+2,"Sat, Nov 6, 1993",,Box Score,@,Dallas Mavericks,W,,93,89,1,1,W 1,13195,,,False,GSW,1994
+3,"Tue, Nov 9, 1993",,Box Score,,Houston Rockets,L,,93,102,1,2,L 1,15025,,,False,GSW,1994
+4,"Fri, Nov 12, 1993",,Box Score,,Cleveland Cavaliers,L,,93,102,1,3,L 2,15025,,,False,GSW,1994
+5,"Sat, Nov 13, 1993",,Box Score,@,Denver Nuggets,W,,106,98,2,3,W 1,17171,,,False,GSW,1994
+6,"Tue, Nov 16, 1993",,Box Score,,Phoenix Suns,L,,104,116,2,4,L 1,15025,,,False,GSW,1994
+7,"Thu, Nov 18, 1993",,Box Score,,Los Angeles Lakers,W,,103,76,3,4,W 1,15025,,,False,GSW,1994
+8,"Sat, Nov 20, 1993",,Box Score,,Seattle SuperSonics,L,,97,112,3,5,L 1,15025,,,False,GSW,1994
+9,"Tue, Nov 23, 1993",,Box Score,@,Orlando Magic,L,,107,120,3,6,L 2,15291,,,False,GSW,1994
+10,"Wed, Nov 24, 1993",,Box Score,@,Miami Heat,W,,108,102,4,6,W 1,15002,,,False,GSW,1994
+11,"Fri, Nov 26, 1993",,Box Score,@,Philadelphia 76ers,W,,100,88,5,6,W 2,18168,,,False,GSW,1994
+12,"Sun, Nov 28, 1993",,Box Score,@,Detroit Pistons,W,,91,88,6,6,W 3,21454,,,False,GSW,1994
+13,"Tue, Nov 30, 1993",,Box Score,,Dallas Mavericks,W,,103,91,7,6,W 4,15025,,,False,GSW,1994
+14,"Thu, Dec 2, 1993",,Box Score,,Minnesota Timberwolves,L,,91,103,7,7,L 1,15025,,,False,GSW,1994
+15,"Sat, Dec 4, 1993",,Box Score,,Indiana Pacers,W,,99,92,8,7,W 1,15025,,,False,GSW,1994
+16,"Tue, Dec 7, 1993",,Box Score,,Denver Nuggets,W,,95,90,9,7,W 2,15025,,,False,GSW,1994
+17,"Thu, Dec 9, 1993",,Box Score,,New York Knicks,L,,81,94,9,8,L 1,15025,2:05,,False,GSW,1994
+18,"Sat, Dec 11, 1993",,Box Score,,Utah Jazz,W,OT,115,112,10,8,W 1,15025,,,False,GSW,1994
+19,"Sun, Dec 12, 1993",,Box Score,@,Los Angeles Lakers,W,,100,97,11,8,W 2,11477,,,False,GSW,1994
+20,"Wed, Dec 15, 1993",,Box Score,@,Phoenix Suns,L,,104,110,11,9,L 1,19023,,,False,GSW,1994
+21,"Fri, Dec 17, 1993",,Box Score,@,Sacramento Kings,W,,109,94,12,9,W 1,17317,,,False,GSW,1994
+22,"Sat, Dec 18, 1993",,Box Score,@,Seattle SuperSonics,L,,111,126,12,10,L 1,14813,,,False,GSW,1994
+23,"Tue, Dec 21, 1993",,Box Score,,Portland Trail Blazers,L,,98,100,12,11,L 2,15025,,,False,GSW,1994
+24,"Thu, Dec 23, 1993",,Box Score,,Los Angeles Clippers,W,,141,95,13,11,W 1,15025,,,False,GSW,1994
+25,"Sun, Dec 26, 1993",,Box Score,@,Portland Trail Blazers,W,OT,108,106,14,11,W 2,12888,,,False,GSW,1994
+26,"Tue, Dec 28, 1993",,Box Score,,Philadelphia 76ers,L,,90,107,14,12,L 1,15025,,,False,GSW,1994
+27,"Thu, Dec 30, 1993",,Box Score,@,Denver Nuggets,L,,96,101,14,13,L 2,17171,,,False,GSW,1994
+28,"Tue, Jan 4, 1994",,Box Score,,Sacramento Kings,W,,115,112,15,13,W 1,15025,,,False,GSW,1994
+29,"Thu, Jan 6, 1994",,Box Score,,San Antonio Spurs,W,,102,98,16,13,W 2,15025,,,False,GSW,1994
+30,"Sun, Jan 9, 1994",,Box Score,@,Phoenix Suns,L,,107,122,16,14,L 1,19023,,,False,GSW,1994
+31,"Tue, Jan 11, 1994",,Box Score,@,Los Angeles Lakers,W,,122,117,17,14,W 1,11735,,,False,GSW,1994
+32,"Wed, Jan 12, 1994",,Box Score,,Miami Heat,W,,100,92,18,14,W 2,15025,,,False,GSW,1994
+33,"Fri, Jan 14, 1994",,Box Score,,Seattle SuperSonics,W,,121,100,19,14,W 3,15025,,,False,GSW,1994
+34,"Mon, Jan 17, 1994",,Box Score,,Phoenix Suns,W,,104,99,20,14,W 4,15025,,,False,GSW,1994
+35,"Wed, Jan 19, 1994",,Box Score,@,Atlanta Hawks,W,,120,119,21,14,W 5,10970,,,False,GSW,1994
+36,"Fri, Jan 21, 1994",,Box Score,@,Boston Celtics,L,,116,124,21,15,L 1,14890,2:13,,False,GSW,1994
+37,"Sat, Jan 22, 1994",,Box Score,@,New Jersey Nets,L,,98,124,21,16,L 2,20049,,,False,GSW,1994
+38,"Wed, Jan 26, 1994",,Box Score,,Detroit Pistons,W,,108,92,22,16,W 1,15025,,,False,GSW,1994
+39,"Fri, Jan 28, 1994",,Box Score,@,Utah Jazz,L,,91,119,22,17,L 1,19911,,,False,GSW,1994
+40,"Sat, Jan 29, 1994",,Box Score,,New Jersey Nets,L,,106,120,22,18,L 2,15025,,,False,GSW,1994
+41,"Mon, Jan 31, 1994",,Box Score,@,Los Angeles Clippers,W,,110,96,23,18,W 1,9281,,,False,GSW,1994
+42,"Wed, Feb 2, 1994",,Box Score,,Denver Nuggets,W,,97,84,24,18,W 2,15025,,,False,GSW,1994
+43,"Fri, Feb 4, 1994",,Box Score,,Chicago Bulls,L,,99,101,24,19,L 1,15025,,,False,GSW,1994
+44,"Sun, Feb 6, 1994",,Box Score,@,Washington Bullets,W,,106,84,25,19,W 1,18756,,,False,GSW,1994
+45,"Mon, Feb 7, 1994",,Box Score,@,Indiana Pacers,L,,99,104,25,20,L 1,12003,,,False,GSW,1994
+46,"Wed, Feb 9, 1994",,Box Score,@,Charlotte Hornets,W,,126,116,26,20,W 1,23689,,,False,GSW,1994
+47,"Thu, Feb 10, 1994",,Box Score,@,New York Knicks,W,,113,105,27,20,W 2,19763,2:12,,False,GSW,1994
+48,"Tue, Feb 15, 1994",,Box Score,,Sacramento Kings,W,,123,113,28,20,W 3,15025,,,False,GSW,1994
+49,"Thu, Feb 17, 1994",,Box Score,,Atlanta Hawks,W,,119,115,29,20,W 4,15025,,,False,GSW,1994
+50,"Sat, Feb 19, 1994",,Box Score,,Boston Celtics,W,,101,90,30,20,W 5,15025,1:55,,False,GSW,1994
+51,"Tue, Feb 22, 1994",,Box Score,@,Milwaukee Bucks,W,,117,113,31,20,W 6,13945,,,False,GSW,1994
+52,"Wed, Feb 23, 1994",,Box Score,@,Chicago Bulls,L,,100,123,31,21,L 1,18442,,,False,GSW,1994
+53,"Fri, Feb 25, 1994",,Box Score,@,Cleveland Cavaliers,L,,97,107,31,22,L 2,19021,,,False,GSW,1994
+54,"Sun, Feb 27, 1994",,Box Score,@,Minnesota Timberwolves,L,,100,107,31,23,L 3,18263,,,False,GSW,1994
+55,"Tue, Mar 1, 1994",,Box Score,,Los Angeles Clippers,W,,114,109,32,23,W 1,15025,,,False,GSW,1994
+56,"Thu, Mar 3, 1994",,Box Score,,Phoenix Suns,W,,120,107,33,23,W 2,15025,,,False,GSW,1994
+57,"Sat, Mar 5, 1994",,Box Score,,Charlotte Hornets,W,,129,112,34,23,W 3,15025,,,False,GSW,1994
+58,"Mon, Mar 7, 1994",,Box Score,@,Portland Trail Blazers,L,,108,137,34,24,L 1,12888,,,False,GSW,1994
+59,"Tue, Mar 8, 1994",,Box Score,@,Seattle SuperSonics,L,,98,113,34,25,L 2,14624,,,False,GSW,1994
+60,"Thu, Mar 10, 1994",,Box Score,,Portland Trail Blazers,W,,100,97,35,25,W 1,15025,,,False,GSW,1994
+61,"Sun, Mar 13, 1994",,Box Score,@,Los Angeles Clippers,L,OT,117,120,35,26,L 1,10086,,,False,GSW,1994
+62,"Tue, Mar 15, 1994",,Box Score,,Washington Bullets,W,,123,93,36,26,W 1,15025,,,False,GSW,1994
+63,"Thu, Mar 17, 1994",,Box Score,@,Houston Rockets,L,,99,112,36,27,L 1,14707,,,False,GSW,1994
+64,"Sat, Mar 19, 1994",,Box Score,@,Dallas Mavericks,W,,116,107,37,27,W 1,16101,,,False,GSW,1994
+65,"Tue, Mar 22, 1994",,Box Score,,Orlando Magic,W,,117,116,38,27,W 2,15025,,,False,GSW,1994
+66,"Thu, Mar 24, 1994",,Box Score,,Milwaukee Bucks,W,,114,112,39,27,W 3,15025,,,False,GSW,1994
+67,"Sat, Mar 26, 1994",,Box Score,,San Antonio Spurs,L,,101,112,39,28,L 1,15025,,,False,GSW,1994
+68,"Tue, Mar 29, 1994",,Box Score,@,Utah Jazz,W,,116,113,40,28,W 1,19911,,,False,GSW,1994
+69,"Wed, Mar 30, 1994",,Box Score,,Houston Rockets,L,,104,114,40,29,L 1,15025,,,False,GSW,1994
+70,"Fri, Apr 1, 1994",,Box Score,,Minnesota Timberwolves,W,,146,109,41,29,W 1,15025,,,False,GSW,1994
+71,"Sat, Apr 2, 1994",,Box Score,@,Seattle SuperSonics,L,,109,119,41,30,L 1,14812,,,False,GSW,1994
+72,"Tue, Apr 5, 1994",,Box Score,@,San Antonio Spurs,W,,106,101,42,30,W 1,18769,,,False,GSW,1994
+73,"Thu, Apr 7, 1994",,Box Score,@,Houston Rockets,L,,102,134,42,31,L 1,15914,,,False,GSW,1994
+74,"Sat, Apr 9, 1994",,Box Score,@,Minnesota Timberwolves,W,,117,105,43,31,W 1,17878,,,False,GSW,1994
+75,"Mon, Apr 11, 1994",,Box Score,,Dallas Mavericks,W,,122,108,44,31,W 2,15025,,,False,GSW,1994
+76,"Tue, Apr 12, 1994",,Box Score,@,Los Angeles Lakers,W,,128,117,45,31,W 3,13302,,,False,GSW,1994
+77,"Thu, Apr 14, 1994",,Box Score,,Portland Trail Blazers,W,,113,108,46,31,W 4,15025,,,False,GSW,1994
+78,"Sat, Apr 16, 1994",,Box Score,,Utah Jazz,W,,109,105,47,31,W 5,15025,,,False,GSW,1994
+79,"Mon, Apr 18, 1994",,Box Score,@,Los Angeles Clippers,W,OT,134,131,48,31,W 6,10969,,,False,GSW,1994
+80,"Thu, Apr 21, 1994",,Box Score,,Sacramento Kings,W,,121,96,49,31,W 7,15025,,,False,GSW,1994
+81,"Sat, Apr 23, 1994",,Box Score,,Los Angeles Lakers,W,,126,91,50,31,W 8,15025,,,False,GSW,1994
+82,"Sun, Apr 24, 1994",,Box Score,@,Sacramento Kings,L,,97,105,50,32,L 1,17317,,,False,GSW,1994
+1,"Fri, Apr 29, 1994",,Box Score,@,Phoenix Suns,L,,104,111,0,1,L 1,19023,,,True,GSW,1994
+2,"Sun, May 1, 1994",,Box Score,@,Phoenix Suns,L,,111,117,0,2,L 2,19023,,,True,GSW,1994
+3,"Wed, May 4, 1994",,Box Score,,Phoenix Suns,L,,133,140,0,3,L 3,15025,,,True,GSW,1994

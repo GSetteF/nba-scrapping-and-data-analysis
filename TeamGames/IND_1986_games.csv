@@ -1,0 +1,83 @@
+G,Date,Start (ET),Unnamed: 3,Unnamed: 4,Unnamed: 5,Opponent,Unnamed: 7,Unnamed: 8,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Sat, Oct 26, 1985",,,Box Score,,New Jersey Nets,W,,119,92,1,0,W 1,15856,2:09,,False,IND,1986
+2,"Wed, Oct 30, 1985",7:40p,,Box Score,@,New Jersey Nets,L,3OT,138,147,1,1,L 1,8027,3:03,,False,IND,1986
+3,"Fri, Nov 1, 1985",,,Box Score,@,Detroit Pistons,L,,116,124,1,2,L 2,10464,2:16,,False,IND,1986
+4,"Sat, Nov 2, 1985",,,Box Score,,Detroit Pistons,L,,117,128,1,3,L 3,16904,2:01,,False,IND,1986
+5,"Wed, Nov 6, 1985",,,Box Score,@,Philadelphia 76ers,L,,97,105,1,4,L 4,10121,2:03,,False,IND,1986
+6,"Sat, Nov 9, 1985",,,Box Score,,Phoenix Suns,W,,127,105,2,4,W 1,10168,2:09,,False,IND,1986
+7,"Wed, Nov 13, 1985",,,Box Score,@,Boston Celtics,L,,114,118,2,5,L 1,14890,2:08,,False,IND,1986
+8,"Thu, Nov 14, 1985",,,Box Score,,Cleveland Cavaliers,L,,104,112,2,6,L 2,7575,2:00,,False,IND,1986
+9,"Sat, Nov 16, 1985",,,Box Score,,Boston Celtics,W,,111,109,3,6,W 1,16904,2:02,,False,IND,1986
+10,"Tue, Nov 19, 1985",,,Box Score,@,Chicago Bulls,L,,114,121,3,7,L 1,10433,2:04,,False,IND,1986
+11,"Wed, Nov 20, 1985",,,Box Score,@,Houston Rockets,L,,97,126,3,8,L 2,13883,2:00,,False,IND,1986
+12,"Fri, Nov 22, 1985",,,Box Score,@,San Antonio Spurs,L,,96,108,3,9,L 3,7054,2:07,,False,IND,1986
+13,"Sat, Nov 23, 1985",,,Box Score,@,Dallas Mavericks,L,,104,117,3,10,L 4,17007,2:09,,False,IND,1986
+14,"Mon, Nov 25, 1985",,,Box Score,,Utah Jazz,L,,101,102,3,11,L 5,6597,2:02,,False,IND,1986
+15,"Wed, Nov 27, 1985",,,Box Score,,New York Knicks,L,,77,80,3,12,L 6,10008,2:05,,False,IND,1986
+16,"Fri, Nov 29, 1985",,,Box Score,,Philadelphia 76ers,L,,100,110,3,13,L 7,16904,2:05,,False,IND,1986
+17,"Sat, Nov 30, 1985",,,Box Score,@,Milwaukee Bucks,L,,94,111,3,14,L 8,10781,2:07,,False,IND,1986
+18,"Tue, Dec 3, 1985",,,Box Score,@,Cleveland Cavaliers,W,,98,84,4,14,W 1,6070,2:05,,False,IND,1986
+19,"Wed, Dec 4, 1985",,,Box Score,,Denver Nuggets,L,,105,119,4,15,L 1,11838,2:00,,False,IND,1986
+20,"Fri, Dec 6, 1985",,,Box Score,,New York Knicks,W,,107,83,5,15,W 1,12001,2:05,,False,IND,1986
+21,"Tue, Dec 10, 1985",,,Box Score,@,New York Knicks,L,,64,82,5,16,L 1,11442,2:04,,False,IND,1986
+22,"Wed, Dec 11, 1985",,,Box Score,,San Antonio Spurs,W,,114,101,6,16,W 1,6605,2:10,,False,IND,1986
+23,"Fri, Dec 13, 1985",,,Box Score,,Atlanta Hawks,W,,109,89,7,16,W 2,10725,2:08,,False,IND,1986
+24,"Sat, Dec 14, 1985",7:39p,,Box Score,@,New Jersey Nets,L,,99,105,7,17,L 1,9334,2:11,,False,IND,1986
+25,"Tue, Dec 17, 1985",,,Box Score,,Philadelphia 76ers,L,,96,102,7,18,L 2,11127,2:09,,False,IND,1986
+26,"Fri, Dec 20, 1985",,,Box Score,,Milwaukee Bucks,W,,114,102,8,18,W 1,8017,2:11,,False,IND,1986
+27,"Sat, Dec 21, 1985",,,Box Score,,New Jersey Nets,L,,98,102,8,19,L 1,8160,2:14,,False,IND,1986
+28,"Thu, Dec 26, 1985",,,Box Score,@,Milwaukee Bucks,L,,87,105,8,20,L 2,11052,2:12,,False,IND,1986
+29,"Sat, Dec 28, 1985",,,Box Score,@,Chicago Bulls,L,,104,108,8,21,L 3,7124,2:13,,False,IND,1986
+30,"Mon, Dec 30, 1985",,,Box Score,@,Washington Bullets,W,,97,80,9,21,W 1,4303,1:59,,False,IND,1986
+31,"Thu, Jan 2, 1986",,,Box Score,,Boston Celtics,L,,104,122,9,22,L 1,14974,2:00,,False,IND,1986
+32,"Sat, Jan 4, 1986",,,Box Score,,Los Angeles Clippers,W,,106,77,10,22,W 1,8503,1:56,,False,IND,1986
+33,"Tue, Jan 7, 1986",,,Box Score,@,New York Knicks,L,,85,93,10,23,L 1,12210,2:15,,False,IND,1986
+34,"Wed, Jan 8, 1986",,,Box Score,,Sacramento Kings,L,,87,88,10,24,L 2,6557,2:03,,False,IND,1986
+35,"Fri, Jan 10, 1986",,,Box Score,@,Los Angeles Lakers,L,,102,124,10,25,L 3,17505,2:08,,False,IND,1986
+36,"Sat, Jan 11, 1986",,,Box Score,@,Phoenix Suns,L,,99,128,10,26,L 4,11175,2:07,,False,IND,1986
+37,"Mon, Jan 13, 1986",,,Box Score,@,Golden State Warriors,L,,108,119,10,27,L 5,7199,2:12,,False,IND,1986
+38,"Wed, Jan 15, 1986",,,Box Score,,Portland Trail Blazers,L,,104,109,10,28,L 6,7220,2:05,,False,IND,1986
+39,"Fri, Jan 17, 1986",,,Box Score,,Boston Celtics,L,,105,123,10,29,L 7,16904,1:54,,False,IND,1986
+40,"Sat, Jan 18, 1986",,,Box Score,@,Cleveland Cavaliers,L,,95,108,10,30,L 8,9021,2:01,,False,IND,1986
+41,"Mon, Jan 20, 1986",,,Box Score,,Detroit Pistons,W,,105,99,11,30,W 1,12002,2:06,,False,IND,1986
+42,"Fri, Jan 24, 1986",,,Box Score,,Milwaukee Bucks,L,,92,117,11,31,L 1,11202,2:06,,False,IND,1986
+43,"Sat, Jan 25, 1986",,,Box Score,,Golden State Warriors,W,,124,101,12,31,W 1,11441,2:05,,False,IND,1986
+44,"Tue, Jan 28, 1986",,,Box Score,@,Atlanta Hawks,L,,92,123,12,32,L 1,4678,2:02,,False,IND,1986
+45,"Wed, Jan 29, 1986",,,Box Score,,Washington Bullets,W,,92,88,13,32,W 1,7232,2:04,,False,IND,1986
+46,"Fri, Jan 31, 1986",,,Box Score,,Seattle SuperSonics,W,,101,94,14,32,W 2,10757,2:12,,False,IND,1986
+47,"Sun, Feb 2, 1986",,,Box Score,,Chicago Bulls,W,,131,106,15,32,W 3,10911,2:05,,False,IND,1986
+48,"Tue, Feb 4, 1986",,,Box Score,,New Jersey Nets,W,,117,101,16,32,W 4,7674,2:10,,False,IND,1986
+49,"Thu, Feb 6, 1986",,,Box Score,,Atlanta Hawks,L,,85,100,16,33,L 1,10424,1:58,,False,IND,1986
+50,"Tue, Feb 11, 1986",,,Box Score,@,Cleveland Cavaliers,L,,97,119,16,34,L 2,6213,2:04,,False,IND,1986
+51,"Wed, Feb 12, 1986",,,Box Score,,Milwaukee Bucks,L,,97,103,16,35,L 3,7565,2:15,,False,IND,1986
+52,"Fri, Feb 14, 1986",,,Box Score,@,Chicago Bulls,W,,104,88,17,35,W 1,10346,1:47,,False,IND,1986
+53,"Sat, Feb 15, 1986",,,Box Score,,Cleveland Cavaliers,W,,105,99,18,35,W 2,11201,2:17,,False,IND,1986
+54,"Mon, Feb 17, 1986",,,Box Score,,Chicago Bulls,W,,124,110,19,35,W 3,11306,2:16,,False,IND,1986
+55,"Wed, Feb 19, 1986",,,Box Score,,Los Angeles Lakers,L,,81,90,19,36,L 1,16904,2:02,,False,IND,1986
+56,"Fri, Feb 21, 1986",,,Box Score,@,Atlanta Hawks,L,,98,106,19,37,L 2,9148,2:08,,False,IND,1986
+57,"Sun, Feb 23, 1986",,,Box Score,@,Boston Celtics,L,,98,113,19,38,L 3,15124,1:57,"at Hartford, CT",False,IND,1986
+58,"Tue, Feb 25, 1986",,,Box Score,,Washington Bullets,W,,100,87,20,38,W 1,9365,2:00,,False,IND,1986
+59,"Thu, Feb 27, 1986",,,Box Score,@,Utah Jazz,L,,92,109,20,39,L 1,10561,2:07,,False,IND,1986
+60,"Fri, Feb 28, 1986",,,Box Score,@,Sacramento Kings,L,,100,121,20,40,L 2,10333,2:03,,False,IND,1986
+61,"Sun, Mar 2, 1986",,,Box Score,@,Los Angeles Clippers,W,,129,112,21,40,W 1,6106,2:03,,False,IND,1986
+62,"Tue, Mar 4, 1986",,,Box Score,@,Portland Trail Blazers,L,,99,102,21,41,L 1,12666,2:09,,False,IND,1986
+63,"Wed, Mar 5, 1986",,,Box Score,@,Seattle SuperSonics,W,,120,112,22,41,W 1,5177,2:09,,False,IND,1986
+64,"Fri, Mar 7, 1986",,,Box Score,@,Denver Nuggets,L,,117,134,22,42,L 1,13360,2:10,,False,IND,1986
+65,"Sun, Mar 9, 1986",,,Box Score,@,Philadelphia 76ers,L,,102,120,22,43,L 2,16841,2:12,,False,IND,1986
+66,"Tue, Mar 11, 1986",,,Box Score,,Philadelphia 76ers,L,,91,101,22,44,L 3,13539,2:05,,False,IND,1986
+67,"Wed, Mar 12, 1986",,,Box Score,@,Detroit Pistons,L,,101,111,22,45,L 4,11663,2:00,,False,IND,1986
+68,"Fri, Mar 14, 1986",,,Box Score,@,Milwaukee Bucks,W,,114,104,23,45,W 1,11052,2:05,,False,IND,1986
+69,"Sat, Mar 15, 1986",,,Box Score,,Washington Bullets,W,,105,100,24,45,W 2,11426,2:06,,False,IND,1986
+70,"Mon, Mar 17, 1986",,,Box Score,,New York Knicks,W,,112,92,25,45,W 3,11215,1:59,,False,IND,1986
+71,"Wed, Mar 19, 1986",,,Box Score,@,Boston Celtics,L,,108,127,25,46,L 1,14890,1:57,,False,IND,1986
+72,"Sat, Mar 22, 1986",,,Box Score,@,Washington Bullets,L,,110,111,25,47,L 2,7865,2:14,,False,IND,1986
+73,"Mon, Mar 24, 1986",,,Box Score,,Dallas Mavericks,L,,120,126,25,48,L 3,14353,2:05,,False,IND,1986
+74,"Wed, Mar 26, 1986",,,Box Score,,Houston Rockets,L,,101,110,25,49,L 4,11827,2:05,,False,IND,1986
+75,"Fri, Mar 28, 1986",,,Box Score,,Atlanta Hawks,L,,92,100,25,50,L 5,11642,2:12,,False,IND,1986
+76,"Tue, Apr 1, 1986",,,Box Score,@,Detroit Pistons,L,,108,116,25,51,L 6,25816,2:05,,False,IND,1986
+77,"Thu, Apr 3, 1986",,,Box Score,,Chicago Bulls,L,,108,109,25,52,L 7,11599,2:04,,False,IND,1986
+78,"Sat, Apr 5, 1986",,,Box Score,,Detroit Pistons,L,,106,115,25,53,L 8,13837,2:05,,False,IND,1986
+79,"Mon, Apr 7, 1986",,,Box Score,@,New York Knicks,L,,104,106,25,54,L 9,11282,2:11,,False,IND,1986
+80,"Tue, Apr 8, 1986",,,Box Score,@,Washington Bullets,W,,111,104,26,54,W 1,4043,2:02,,False,IND,1986
+81,"Fri, Apr 11, 1986",,,Box Score,@,Philadelphia 76ers,L,,122,130,26,55,L 1,15177,2:08,,False,IND,1986
+82,"Sat, Apr 12, 1986",,,Box Score,@,Atlanta Hawks,L,,91,108,26,56,L 2,9846,2:10,,False,IND,1986

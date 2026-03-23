@@ -1,0 +1,104 @@
+G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Opponent,Unnamed: 6,Unnamed: 7,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Fri, Oct 10, 1980",,Box Score,@,San Diego Clippers,L,,104,120,0,1,L 1,5623,,,False,HOU,1981
+2,"Sun, Oct 12, 1980",,Box Score,@,Los Angeles Lakers,L,,103,114,0,2,L 2,11142,,,False,HOU,1981
+3,"Wed, Oct 15, 1980",,Box Score,,Seattle SuperSonics,W,,103,100,1,2,W 1,6127,,,False,HOU,1981
+4,"Fri, Oct 17, 1980",,Box Score,@,Portland Trail Blazers,W,,102,99,2,2,W 2,12666,,,False,HOU,1981
+5,"Sat, Oct 18, 1980",,Box Score,@,Golden State Warriors,L,,101,108,2,3,L 1,7696,,,False,HOU,1981
+6,"Tue, Oct 21, 1980",,Box Score,@,Denver Nuggets,W,,119,117,3,3,W 1,7711,,,False,HOU,1981
+7,"Thu, Oct 23, 1980",,Box Score,,Kansas City Kings,L,,96,105,3,4,L 1,7227,,,False,HOU,1981
+8,"Sat, Oct 25, 1980",,Box Score,,Detroit Pistons,L,,109,112,3,5,L 2,6595,,,False,HOU,1981
+9,"Wed, Oct 29, 1980",,Box Score,,Dallas Mavericks,W,,109,103,4,5,W 1,6123,,,False,HOU,1981
+10,"Wed, Nov 5, 1980",,Box Score,,San Diego Clippers,L,,104,111,4,6,L 1,6186,,,False,HOU,1981
+11,"Sat, Nov 8, 1980",,Box Score,,Phoenix Suns,L,,115,116,4,7,L 2,8208,,,False,HOU,1981
+12,"Tue, Nov 11, 1980",,Box Score,@,Dallas Mavericks,W,,105,94,5,7,W 1,5472,,,False,HOU,1981
+13,"Wed, Nov 12, 1980",,Box Score,,Los Angeles Lakers,W,,107,104,6,7,W 2,11527,,,False,HOU,1981
+14,"Fri, Nov 14, 1980",,Box Score,@,Utah Jazz,L,,115,117,6,8,L 1,10161,,,False,HOU,1981
+15,"Sat, Nov 15, 1980",,Box Score,@,Seattle SuperSonics,L,OT,139,143,6,9,L 2,16417,,,False,HOU,1981
+16,"Tue, Nov 18, 1980",,Box Score,,Seattle SuperSonics,W,,138,118,7,9,W 1,7257,,,False,HOU,1981
+17,"Thu, Nov 20, 1980",,Box Score,@,Cleveland Cavaliers,W,,117,114,8,9,W 2,3844,,,False,HOU,1981
+18,"Fri, Nov 21, 1980",,Box Score,@,New Jersey Nets,W,,116,108,9,9,W 3,7161,,,False,HOU,1981
+19,"Sat, Nov 22, 1980",,Box Score,@,Indiana Pacers,L,,120,129,9,10,L 1,7357,,,False,HOU,1981
+20,"Mon, Nov 24, 1980",,Box Score,@,New York Knicks,L,OT,110,113,9,11,L 2,9074,,,False,HOU,1981
+21,"Wed, Nov 26, 1980",,Box Score,,Philadelphia 76ers,L,,100,101,9,12,L 3,13361,,,False,HOU,1981
+22,"Fri, Nov 28, 1980",,Box Score,@,San Antonio Spurs,W,,124,115,10,12,W 1,12636,,,False,HOU,1981
+23,"Sat, Nov 29, 1980",,Box Score,,Dallas Mavericks,W,,115,90,11,12,W 2,8123,,,False,HOU,1981
+24,"Sun, Nov 30, 1980",,Box Score,@,Phoenix Suns,L,,114,117,11,13,L 1,11163,,,False,HOU,1981
+25,"Wed, Dec 3, 1980",,Box Score,,Cleveland Cavaliers,W,,118,109,12,13,W 1,6887,,,False,HOU,1981
+26,"Fri, Dec 5, 1980",,Box Score,@,Kansas City Kings,L,,100,108,12,14,L 1,6982,,,False,HOU,1981
+27,"Sat, Dec 6, 1980",,Box Score,,Denver Nuggets,W,,111,108,13,14,W 1,8234,,,False,HOU,1981
+28,"Wed, Dec 10, 1980",,Box Score,,Los Angeles Lakers,L,,108,109,13,15,L 1,10632,,,False,HOU,1981
+29,"Fri, Dec 12, 1980",,Box Score,@,Portland Trail Blazers,L,,100,106,13,16,L 2,12666,,,False,HOU,1981
+30,"Sat, Dec 13, 1980",,Box Score,@,Golden State Warriors,W,,99,97,14,16,W 1,7362,,,False,HOU,1981
+31,"Wed, Dec 17, 1980",,Box Score,,San Antonio Spurs,L,,107,113,14,17,L 1,8349,,,False,HOU,1981
+32,"Fri, Dec 19, 1980",,Box Score,@,Boston Celtics,L,,119,133,14,18,L 2,14570,1:59,,False,HOU,1981
+33,"Sat, Dec 20, 1980",,Box Score,@,Chicago Bulls,L,,109,133,14,19,L 3,5189,,,False,HOU,1981
+34,"Sun, Dec 21, 1980",,Box Score,@,Milwaukee Bucks,L,,91,123,14,20,L 4,11052,,,False,HOU,1981
+35,"Tue, Dec 23, 1980",,Box Score,,Golden State Warriors,L,,99,114,14,21,L 5,6697,,,False,HOU,1981
+36,"Fri, Dec 26, 1980",,Box Score,@,Detroit Pistons,W,,114,94,15,21,W 1,5157,,,False,HOU,1981
+37,"Sat, Dec 27, 1980",,Box Score,@,Washington Bullets,L,,97,115,15,22,L 1,6721,,,False,HOU,1981
+38,"Tue, Dec 30, 1980",,Box Score,,San Diego Clippers,W,,104,98,16,22,W 1,8102,,,False,HOU,1981
+39,"Thu, Jan 1, 1981",,Box Score,,Utah Jazz,W,,117,103,17,22,W 2,7136,,,False,HOU,1981
+40,"Fri, Jan 2, 1981",,Box Score,@,Dallas Mavericks,W,OT,124,120,18,22,W 3,7872,,,False,HOU,1981
+41,"Sat, Jan 3, 1981",,Box Score,,Denver Nuggets,L,,132,134,18,23,L 1,8160,,,False,HOU,1981
+42,"Wed, Jan 7, 1981",,Box Score,,Kansas City Kings,L,,108,114,18,24,L 2,8220,,,False,HOU,1981
+43,"Fri, Jan 9, 1981",,Box Score,@,Philadelphia 76ers,L,,94,107,18,25,L 3,11432,,,False,HOU,1981
+44,"Sat, Jan 10, 1981",,Box Score,,Portland Trail Blazers,W,,106,105,19,25,W 1,8642,,,False,HOU,1981
+45,"Wed, Jan 14, 1981",,Box Score,,Chicago Bulls,W,,109,105,20,25,W 2,7261,,,False,HOU,1981
+46,"Fri, Jan 16, 1981",,Box Score,@,Phoenix Suns,L,,89,92,20,26,L 1,11396,1:56,,False,HOU,1981
+47,"Sat, Jan 17, 1981",,Box Score,,New York Knicks,L,,98,99,20,27,L 2,11359,,,False,HOU,1981
+48,"Sun, Jan 18, 1981",,Box Score,@,Denver Nuggets,W,,98,97,21,27,W 1,11261,,,False,HOU,1981
+49,"Wed, Jan 21, 1981",,Box Score,,Phoenix Suns,W,,106,100,22,27,W 2,8325,,,False,HOU,1981
+50,"Fri, Jan 23, 1981",,Box Score,@,Kansas City Kings,L,,107,113,22,28,L 1,7290,,,False,HOU,1981
+51,"Sat, Jan 24, 1981",,Box Score,,Utah Jazz,W,,106,91,23,28,W 1,8871,,,False,HOU,1981
+52,"Wed, Jan 28, 1981",,Box Score,,New Jersey Nets,W,,111,99,24,28,W 2,8294,,,False,HOU,1981
+53,"Thu, Jan 29, 1981",,Box Score,@,Utah Jazz,L,,97,99,24,29,L 1,6657,,,False,HOU,1981
+54,"Tue, Feb 3, 1981",,Box Score,,Denver Nuggets,W,OT,135,128,25,29,W 1,9578,,,False,HOU,1981
+55,"Wed, Feb 4, 1981",,Box Score,,Dallas Mavericks,W,,116,68,26,29,W 2,8353,,,False,HOU,1981
+56,"Fri, Feb 6, 1981",,Box Score,@,Phoenix Suns,L,,99,112,26,30,L 1,12090,,,False,HOU,1981
+57,"Sat, Feb 7, 1981",,Box Score,,Atlanta Hawks,W,,87,81,27,30,W 1,8723,,,False,HOU,1981
+58,"Wed, Feb 11, 1981",,Box Score,,San Antonio Spurs,W,,108,89,28,30,W 2,8295,,,False,HOU,1981
+59,"Fri, Feb 13, 1981",,Box Score,,Los Angeles Lakers,L,,105,114,28,31,L 1,13985,,,False,HOU,1981
+60,"Sat, Feb 14, 1981",,Box Score,,Milwaukee Bucks,L,,112,117,28,32,L 2,10568,,,False,HOU,1981
+61,"Thu, Feb 19, 1981",,Box Score,@,San Diego Clippers,L,,99,116,28,33,L 3,5787,,,False,HOU,1981
+62,"Fri, Feb 20, 1981",,Box Score,@,Los Angeles Lakers,W,,110,107,29,33,W 1,14470,,,False,HOU,1981
+63,"Sun, Feb 22, 1981",,Box Score,@,Seattle SuperSonics,W,,111,96,30,33,W 2,18529,,,False,HOU,1981
+64,"Mon, Feb 23, 1981",,Box Score,@,Utah Jazz,W,,106,102,31,33,W 3,6147,,,False,HOU,1981
+65,"Wed, Feb 25, 1981",,Box Score,,Indiana Pacers,W,,101,100,32,33,W 4,13121,,,False,HOU,1981
+66,"Fri, Feb 27, 1981",,Box Score,,Seattle SuperSonics,W,,96,92,33,33,W 5,13947,,,False,HOU,1981
+67,"Sat, Feb 28, 1981",,Box Score,,San Diego Clippers,L,,103,104,33,34,L 1,10383,,,False,HOU,1981
+68,"Sun, Mar 1, 1981",,Box Score,@,San Antonio Spurs,L,,86,102,33,35,L 2,11245,,,False,HOU,1981
+69,"Wed, Mar 4, 1981",,Box Score,,Boston Celtics,L,,101,108,33,36,L 3,13985,1:59,,False,HOU,1981
+70,"Fri, Mar 6, 1981",,Box Score,,Washington Bullets,L,,104,105,33,37,L 4,10583,,,False,HOU,1981
+71,"Sat, Mar 7, 1981",,Box Score,@,Atlanta Hawks,L,,108,114,33,38,L 5,7926,,,False,HOU,1981
+72,"Wed, Mar 11, 1981",,Box Score,,Golden State Warriors,W,,109,92,34,38,W 1,8197,,,False,HOU,1981
+73,"Fri, Mar 13, 1981",,Box Score,,Portland Trail Blazers,W,,126,104,35,38,W 2,10247,,,False,HOU,1981
+74,"Sat, Mar 14, 1981",,Box Score,,Utah Jazz,W,,101,82,36,38,W 3,9879,,,False,HOU,1981
+75,"Sun, Mar 15, 1981",,Box Score,@,Denver Nuggets,L,,127,138,36,39,L 1,11082,,,False,HOU,1981
+76,"Wed, Mar 18, 1981",,Box Score,@,Golden State Warriors,L,,117,118,36,40,L 2,13239,,,False,HOU,1981
+77,"Fri, Mar 20, 1981",,Box Score,@,Portland Trail Blazers,L,,103,107,36,41,L 3,12666,,,False,HOU,1981
+78,"Sun, Mar 22, 1981",,Box Score,@,Kansas City Kings,W,,114,108,37,41,W 1,7942,,,False,HOU,1981
+79,"Tue, Mar 24, 1981",,Box Score,@,Dallas Mavericks,W,OT,114,111,38,41,W 2,7162,,,False,HOU,1981
+80,"Wed, Mar 25, 1981",,Box Score,,San Antonio Spurs,W,,117,111,39,41,W 3,13931,,,False,HOU,1981
+81,"Fri, Mar 27, 1981",,Box Score,,Kansas City Kings,W,,91,84,40,41,W 4,15676,,,False,HOU,1981
+82,"Sun, Mar 29, 1981",,Box Score,@,San Antonio Spurs,L,,109,135,40,42,L 1,11543,,,False,HOU,1981
+1,"Wed, Apr 1, 1981",,Box Score,@,Los Angeles Lakers,W,,111,107,1,0,W 1,15517,,,True,HOU,1981
+2,"Fri, Apr 3, 1981",,Box Score,,Los Angeles Lakers,L,,106,111,1,1,L 1,16121,,,True,HOU,1981
+3,"Sun, Apr 5, 1981",,Box Score,@,Los Angeles Lakers,W,,89,86,2,1,W 1,14813,,,True,HOU,1981
+4,"Tue, Apr 7, 1981",,Box Score,@,San Antonio Spurs,W,,107,98,3,1,W 2,13319,,,True,HOU,1981
+5,"Wed, Apr 8, 1981",,Box Score,@,San Antonio Spurs,L,,113,125,3,2,L 1,12128,,,True,HOU,1981
+6,"Fri, Apr 10, 1981",,Box Score,,San Antonio Spurs,W,,112,99,4,2,W 1,16121,,,True,HOU,1981
+7,"Sun, Apr 12, 1981",,Box Score,,San Antonio Spurs,L,,112,114,4,3,L 1,16121,,,True,HOU,1981
+8,"Tue, Apr 14, 1981",,Box Score,@,San Antonio Spurs,W,,123,117,5,3,W 1,16114,,,True,HOU,1981
+9,"Wed, Apr 15, 1981",,Box Score,,San Antonio Spurs,L,,96,101,5,4,L 1,16121,,,True,HOU,1981
+10,"Fri, Apr 17, 1981",,Box Score,@,San Antonio Spurs,W,,105,100,6,4,W 1,16114,,,True,HOU,1981
+11,"Tue, Apr 21, 1981",,Box Score,@,Kansas City Kings,W,,97,78,7,4,W 2,13885,,,True,HOU,1981
+12,"Wed, Apr 22, 1981",,Box Score,@,Kansas City Kings,L,,79,88,7,5,L 1,14326,,,True,HOU,1981
+13,"Fri, Apr 24, 1981",,Box Score,,Kansas City Kings,W,,92,88,8,5,W 1,16121,,,True,HOU,1981
+14,"Sun, Apr 26, 1981",,Box Score,,Kansas City Kings,W,,100,89,9,5,W 2,16121,,,True,HOU,1981
+15,"Wed, Apr 29, 1981",,Box Score,@,Kansas City Kings,W,,97,88,10,5,W 3,14640,,,True,HOU,1981
+16,"Tue, May 5, 1981",,Box Score,@,Boston Celtics,L,,95,98,10,6,L 1,15320,2:14,,True,HOU,1981
+17,"Thu, May 7, 1981",,Box Score,@,Boston Celtics,W,,92,90,11,6,W 1,15320,2:25,,True,HOU,1981
+18,"Sat, May 9, 1981",,Box Score,,Boston Celtics,L,,71,94,11,7,L 1,16121,2:11,,True,HOU,1981
+19,"Sun, May 10, 1981",,Box Score,,Boston Celtics,W,,91,86,12,7,W 1,16121,,,True,HOU,1981
+20,"Tue, May 12, 1981",,Box Score,@,Boston Celtics,L,,80,109,12,8,L 1,15320,2:23,,True,HOU,1981
+21,"Thu, May 14, 1981",,Box Score,,Boston Celtics,L,,91,102,12,9,L 2,16121,2:17,,True,HOU,1981

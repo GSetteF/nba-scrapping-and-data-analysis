@@ -1,0 +1,88 @@
+G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Opponent,Unnamed: 6,Unnamed: 7,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Sun, Oct 15, 1978",,Box Score,@,Seattle SuperSonics,L,,105,115,0,1,L 1,,,,False,KCK,1979
+2,"Tue, Oct 17, 1978",,Box Score,@,Portland Trail Blazers,L,,112,115,0,2,L 2,,,,False,KCK,1979
+3,"Thu, Oct 19, 1978",,Box Score,,Houston Rockets,W,,108,103,1,2,W 1,,,,False,KCK,1979
+4,"Sat, Oct 21, 1978",,Box Score,,Milwaukee Bucks,L,,99,103,1,3,L 1,,,,False,KCK,1979
+5,"Tue, Oct 24, 1978",,Box Score,@,Chicago Bulls,W,,123,117,2,3,W 1,,,,False,KCK,1979
+6,"Wed, Oct 25, 1978",,Box Score,,New Orleans Jazz,W,,114,109,3,3,W 2,,,,False,KCK,1979
+7,"Fri, Oct 27, 1978",,Box Score,@,Detroit Pistons,L,,102,107,3,4,L 1,,,,False,KCK,1979
+8,"Sat, Oct 28, 1978",,Box Score,,Phoenix Suns,W,,112,102,4,4,W 1,,,,False,KCK,1979
+9,"Tue, Oct 31, 1978",,Box Score,@,Milwaukee Bucks,L,,112,114,4,5,L 1,,,,False,KCK,1979
+10,"Wed, Nov 1, 1978",,Box Score,,Cleveland Cavaliers,W,,122,107,5,5,W 1,,,,False,KCK,1979
+11,"Fri, Nov 3, 1978",,Box Score,@,Indiana Pacers,L,,108,115,5,6,L 1,,,,False,KCK,1979
+12,"Sat, Nov 4, 1978",,Box Score,,Denver Nuggets,W,,109,107,6,6,W 1,,,,False,KCK,1979
+13,"Wed, Nov 8, 1978",,Box Score,@,Golden State Warriors,W,,105,97,7,6,W 2,,,,False,KCK,1979
+14,"Fri, Nov 10, 1978",,Box Score,@,Los Angeles Lakers,L,,127,136,7,7,L 1,,,,False,KCK,1979
+15,"Sat, Nov 11, 1978",,Box Score,@,Denver Nuggets,W,,117,113,8,7,W 1,,,,False,KCK,1979
+16,"Wed, Nov 15, 1978",,Box Score,,Atlanta Hawks,W,,109,100,9,7,W 2,,,,False,KCK,1979
+17,"Sat, Nov 18, 1978",,Box Score,,New Jersey Nets,W,,114,100,10,7,W 3,,,,False,KCK,1979
+18,"Wed, Nov 22, 1978",,Box Score,,Portland Trail Blazers,W,,115,96,11,7,W 4,,,,False,KCK,1979
+19,"Sat, Nov 25, 1978",,Box Score,,San Diego Clippers,L,,86,87,11,8,L 1,,,,False,KCK,1979
+20,"Thu, Nov 30, 1978",,Box Score,,Boston Celtics,W,,108,94,12,8,W 1,10435,1:59,,False,KCK,1979
+21,"Sat, Dec 2, 1978",,Box Score,@,Washington Bullets,W,,110,109,13,8,W 2,,,,False,KCK,1979
+22,"Tue, Dec 5, 1978",,Box Score,@,New York Knicks,W,,105,92,14,8,W 3,,,,False,KCK,1979
+23,"Wed, Dec 6, 1978",,Box Score,,Philadelphia 76ers,L,,106,114,14,9,L 1,,,,False,KCK,1979
+24,"Sat, Dec 9, 1978",,Box Score,,Detroit Pistons,W,,132,108,15,9,W 1,,,,False,KCK,1979
+25,"Wed, Dec 13, 1978",,Box Score,@,Philadelphia 76ers,L,,100,120,15,10,L 1,,,,False,KCK,1979
+26,"Fri, Dec 15, 1978",,Box Score,@,Boston Celtics,W,,105,101,16,10,W 1,10171,2:08,,False,KCK,1979
+27,"Sat, Dec 16, 1978",,Box Score,,New Orleans Jazz,W,,128,100,17,10,W 2,,,,False,KCK,1979
+28,"Wed, Dec 20, 1978",,Box Score,,Seattle SuperSonics,W,,114,95,18,10,W 3,,,,False,KCK,1979
+29,"Fri, Dec 22, 1978",,Box Score,@,Phoenix Suns,L,,103,123,18,11,L 1,,,,False,KCK,1979
+30,"Sat, Dec 23, 1978",,Box Score,@,Milwaukee Bucks,W,OT,122,117,19,11,W 1,,,,False,KCK,1979
+31,"Tue, Dec 26, 1978",,Box Score,,Houston Rockets,L,,102,109,19,12,L 1,,,,False,KCK,1979
+32,"Wed, Dec 27, 1978",,Box Score,,Boston Celtics,L,,103,112,19,13,L 2,14442,1:55,"at St. Louis, MO",False,KCK,1979
+33,"Fri, Dec 29, 1978",,Box Score,@,New Jersey Nets,W,,137,126,20,13,W 1,,,,False,KCK,1979
+34,"Sat, Dec 30, 1978",,Box Score,@,New York Knicks,L,,108,112,20,14,L 1,,,,False,KCK,1979
+35,"Tue, Jan 2, 1979",,Box Score,,Denver Nuggets,L,,97,99,20,15,L 2,,,,False,KCK,1979
+36,"Wed, Jan 3, 1979",,Box Score,@,Denver Nuggets,W,,108,101,21,15,W 1,,,,False,KCK,1979
+37,"Thu, Jan 4, 1979",,Box Score,,San Diego Clippers,W,,108,99,22,15,W 2,,,,False,KCK,1979
+38,"Sat, Jan 6, 1979",,Box Score,,Indiana Pacers,W,,120,99,23,15,W 3,,,,False,KCK,1979
+39,"Tue, Jan 9, 1979",,Box Score,@,Houston Rockets,L,,110,126,23,16,L 1,,,,False,KCK,1979
+40,"Thu, Jan 11, 1979",,Box Score,,Golden State Warriors,W,,94,89,24,16,W 1,,,,False,KCK,1979
+41,"Sun, Jan 14, 1979",,Box Score,,New York Knicks,W,,124,104,25,16,W 2,,,,False,KCK,1979
+42,"Tue, Jan 16, 1979",,Box Score,@,Cleveland Cavaliers,W,,86,79,26,16,W 3,,,,False,KCK,1979
+43,"Wed, Jan 17, 1979",,Box Score,@,Boston Celtics,W,,120,99,27,16,W 4,6583,1:55,,False,KCK,1979
+44,"Fri, Jan 19, 1979",,Box Score,,San Antonio Spurs,W,,115,113,28,16,W 5,,,,False,KCK,1979
+45,"Sat, Jan 20, 1979",,Box Score,@,Detroit Pistons,L,,110,122,28,17,L 1,,,,False,KCK,1979
+46,"Tue, Jan 23, 1979",,Box Score,@,New Orleans Jazz,L,,116,118,28,18,L 2,,,,False,KCK,1979
+47,"Wed, Jan 24, 1979",,Box Score,@,San Antonio Spurs,L,,95,124,28,19,L 3,,,,False,KCK,1979
+48,"Fri, Jan 26, 1979",,Box Score,,Washington Bullets,W,,142,128,29,19,W 1,,,,False,KCK,1979
+49,"Sun, Jan 28, 1979",,Box Score,,Cleveland Cavaliers,W,,137,109,30,19,W 2,,,,False,KCK,1979
+50,"Wed, Jan 31, 1979",,Box Score,@,Atlanta Hawks,L,,118,130,30,20,L 1,,,,False,KCK,1979
+51,"Fri, Feb 2, 1979",,Box Score,,Detroit Pistons,W,,130,114,31,20,W 1,,,,False,KCK,1979
+52,"Wed, Feb 7, 1979",,Box Score,,Atlanta Hawks,W,,124,108,32,20,W 2,,,,False,KCK,1979
+53,"Fri, Feb 9, 1979",,Box Score,@,Chicago Bulls,W,,124,114,33,20,W 3,,,,False,KCK,1979
+54,"Sun, Feb 11, 1979",,Box Score,,Los Angeles Lakers,W,,104,103,34,20,W 4,14541,,,False,KCK,1979
+55,"Tue, Feb 13, 1979",,Box Score,@,New Jersey Nets,L,,102,111,34,21,L 1,,,,False,KCK,1979
+56,"Wed, Feb 14, 1979",,Box Score,@,Philadelphia 76ers,W,,108,106,35,21,W 1,,,,False,KCK,1979
+57,"Fri, Feb 16, 1979",,Box Score,,Philadelphia 76ers,W,,119,104,36,21,W 2,,,"at St. Louis, MO",False,KCK,1979
+58,"Sun, Feb 18, 1979",,Box Score,,Chicago Bulls,W,,130,107,37,21,W 3,,,,False,KCK,1979
+59,"Wed, Feb 21, 1979",,Box Score,,Milwaukee Bucks,W,,133,117,38,21,W 4,,,,False,KCK,1979
+60,"Thu, Feb 22, 1979",,Box Score,@,Cleveland Cavaliers,L,,107,111,38,22,L 1,,,,False,KCK,1979
+61,"Fri, Feb 23, 1979",,Box Score,,Phoenix Suns,W,,121,112,39,22,W 1,,,,False,KCK,1979
+62,"Sun, Feb 25, 1979",,Box Score,,Seattle SuperSonics,W,,114,106,40,22,W 2,,,,False,KCK,1979
+63,"Tue, Feb 27, 1979",,Box Score,@,Los Angeles Lakers,L,,114,122,40,23,L 1,,,,False,KCK,1979
+64,"Wed, Feb 28, 1979",,Box Score,@,San Diego Clippers,L,,120,122,40,24,L 2,,,,False,KCK,1979
+65,"Fri, Mar 2, 1979",,Box Score,@,San Antonio Spurs,L,OT,125,129,40,25,L 3,,,,False,KCK,1979
+66,"Sun, Mar 4, 1979",,Box Score,,Golden State Warriors,L,OT,110,111,40,26,L 4,,,,False,KCK,1979
+67,"Wed, Mar 7, 1979",,Box Score,@,Atlanta Hawks,L,OT,120,122,40,27,L 5,,,,False,KCK,1979
+68,"Fri, Mar 9, 1979",,Box Score,,Washington Bullets,W,,121,116,41,27,W 1,,,,False,KCK,1979
+69,"Sun, Mar 11, 1979",,Box Score,,Portland Trail Blazers,L,,100,115,41,28,L 1,,,,False,KCK,1979
+70,"Wed, Mar 14, 1979",,Box Score,@,Houston Rockets,L,,107,129,41,29,L 2,,,,False,KCK,1979
+71,"Fri, Mar 16, 1979",,Box Score,@,New Orleans Jazz,W,,120,112,42,29,W 1,,,,False,KCK,1979
+72,"Sun, Mar 18, 1979",,Box Score,,Chicago Bulls,W,,114,103,43,29,W 2,,,,False,KCK,1979
+73,"Wed, Mar 21, 1979",,Box Score,,San Antonio Spurs,L,,116,123,43,30,L 1,,,,False,KCK,1979
+74,"Fri, Mar 23, 1979",,Box Score,@,Phoenix Suns,L,,107,126,43,31,L 2,,,,False,KCK,1979
+75,"Sat, Mar 24, 1979",,Box Score,@,Portland Trail Blazers,L,,98,100,43,32,L 3,,,,False,KCK,1979
+76,"Sun, Mar 25, 1979",,Box Score,@,Seattle SuperSonics,L,,101,111,43,33,L 4,,,,False,KCK,1979
+77,"Wed, Mar 28, 1979",,Box Score,@,Golden State Warriors,L,OT,122,132,43,34,L 5,,,,False,KCK,1979
+78,"Thu, Mar 29, 1979",,Box Score,@,San Diego Clippers,W,,116,111,44,34,W 1,,,,False,KCK,1979
+79,"Sat, Mar 31, 1979",,Box Score,,Indiana Pacers,W,,126,101,45,34,W 2,,,"at St. Louis, MO",False,KCK,1979
+80,"Wed, Apr 4, 1979",,Box Score,,Los Angeles Lakers,W,OT,115,111,46,34,W 3,,,,False,KCK,1979
+81,"Fri, Apr 6, 1979",,Box Score,,New Jersey Nets,W,OT,117,114,47,34,W 4,,,,False,KCK,1979
+82,"Sun, Apr 8, 1979",,Box Score,@,Indiana Pacers,W,,107,101,48,34,W 5,,,,False,KCK,1979
+1,"Tue, Apr 17, 1979",,Box Score,@,Phoenix Suns,L,,99,102,0,1,L 1,,,,True,KCK,1979
+2,"Fri, Apr 20, 1979",,Box Score,,Phoenix Suns,W,,111,91,1,1,W 1,,,,True,KCK,1979
+3,"Sun, Apr 22, 1979",,Box Score,@,Phoenix Suns,L,,93,108,1,2,L 1,,,"at Tempe, AZ",True,KCK,1979
+4,"Wed, Apr 25, 1979",,Box Score,,Phoenix Suns,L,,94,108,1,3,L 2,,,,True,KCK,1979
+5,"Fri, Apr 27, 1979",,Box Score,@,Phoenix Suns,L,,99,120,1,4,L 3,,,,True,KCK,1979

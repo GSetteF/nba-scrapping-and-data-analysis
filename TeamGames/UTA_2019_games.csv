@@ -1,0 +1,88 @@
+G,Date,Start (ET),Unnamed: 3,Unnamed: 4,Unnamed: 5,Opponent,Unnamed: 7,Unnamed: 8,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Wed, Oct 17, 2018",10:00p,,Box Score,@,Sacramento Kings,W,,123,117,1,0,W 1,17583,2:21,,False,UTA,2019
+2,"Fri, Oct 19, 2018",10:30p,,Box Score,,Golden State Warriors,L,,123,124,1,1,L 1,18306,2:28,,False,UTA,2019
+3,"Mon, Oct 22, 2018",9:00p,,Box Score,,Memphis Grizzlies,L,,84,92,1,2,L 2,18306,2:24,,False,UTA,2019
+4,"Wed, Oct 24, 2018",8:00p,,Box Score,@,Houston Rockets,W,,100,89,2,2,W 1,18055,2:07,,False,UTA,2019
+5,"Sat, Oct 27, 2018",7:00p,,Box Score,@,New Orleans Pelicans,W,,132,111,3,2,W 2,16373,2:20,,False,UTA,2019
+6,"Sun, Oct 28, 2018",7:00p,,Box Score,@,Dallas Mavericks,W,,113,104,4,2,W 3,19571,2:23,,False,UTA,2019
+7,"Wed, Oct 31, 2018",8:00p,,Box Score,@,Minnesota Timberwolves,L,,125,128,4,3,L 1,10079,2:24,,False,UTA,2019
+8,"Fri, Nov 2, 2018",9:00p,,Box Score,,Memphis Grizzlies,L,,100,110,4,4,L 2,18306,2:21,,False,UTA,2019
+9,"Sat, Nov 3, 2018",9:00p,,Box Score,@,Denver Nuggets,L,,88,103,4,5,L 3,19520,2:20,,False,UTA,2019
+10,"Mon, Nov 5, 2018",9:00p,,Box Score,,Toronto Raptors,L,,111,124,4,6,L 4,18306,2:09,,False,UTA,2019
+11,"Wed, Nov 7, 2018",9:00p,,Box Score,,Dallas Mavericks,W,,117,102,5,6,W 1,18306,2:23,,False,UTA,2019
+12,"Fri, Nov 9, 2018",9:30p,,Box Score,,Boston Celtics,W,,123,115,6,6,W 2,18306,2:24,,False,UTA,2019
+13,"Mon, Nov 12, 2018",8:00p,,Box Score,@,Memphis Grizzlies,W,,96,88,7,6,W 3,13477,2:17,,False,UTA,2019
+14,"Wed, Nov 14, 2018",8:30p,,Box Score,@,Dallas Mavericks,L,,68,118,7,7,L 1,19371,2:12,,False,UTA,2019
+15,"Fri, Nov 16, 2018",7:00p,,Box Score,@,Philadelphia 76ers,L,,107,113,7,8,L 2,20485,2:27,,False,UTA,2019
+16,"Sat, Nov 17, 2018",7:30p,,Box Score,@,Boston Celtics,W,,98,86,8,8,W 1,18624,2:13,,False,UTA,2019
+17,"Mon, Nov 19, 2018",7:00p,,Box Score,@,Indiana Pacers,L,,94,121,8,9,L 1,17000,2:01,,False,UTA,2019
+18,"Wed, Nov 21, 2018",9:00p,,Box Score,,Sacramento Kings,L,,110,119,8,10,L 2,18306,2:20,,False,UTA,2019
+19,"Fri, Nov 23, 2018",10:30p,,Box Score,@,Los Angeles Lakers,L,,83,90,8,11,L 3,18997,2:11,,False,UTA,2019
+20,"Sun, Nov 25, 2018",8:00p,,Box Score,@,Sacramento Kings,W,,133,112,9,11,W 1,16048,2:14,,False,UTA,2019
+21,"Mon, Nov 26, 2018",9:00p,,Box Score,,Indiana Pacers,L,,88,121,9,12,L 1,18306,2:02,,False,UTA,2019
+22,"Wed, Nov 28, 2018",7:30p,,Box Score,@,Brooklyn Nets,W,,101,91,10,12,W 1,12928,2:13,,False,UTA,2019
+23,"Fri, Nov 30, 2018",7:00p,,Box Score,@,Charlotte Hornets,W,,119,111,11,12,W 2,15812,1:56,,False,UTA,2019
+24,"Sun, Dec 2, 2018",6:00p,,Box Score,@,Miami Heat,L,,100,102,11,13,L 1,19600,2:14,,False,UTA,2019
+25,"Tue, Dec 4, 2018",9:00p,,Box Score,,San Antonio Spurs,W,,139,105,12,13,W 1,18306,2:00,,False,UTA,2019
+26,"Thu, Dec 6, 2018",10:30p,,Box Score,,Houston Rockets,W,,118,91,13,13,W 2,18306,2:14,,False,UTA,2019
+27,"Sun, Dec 9, 2018",7:00p,,Box Score,@,San Antonio Spurs,L,,97,110,13,14,L 1,17834,2:01,,False,UTA,2019
+28,"Mon, Dec 10, 2018",8:00p,,Box Score,@,Oklahoma City Thunder,L,,113,122,13,15,L 2,18203,2:15,,False,UTA,2019
+29,"Wed, Dec 12, 2018",9:00p,,Box Score,,Miami Heat,W,,111,84,14,15,W 1,18306,2:03,,False,UTA,2019
+30,"Sat, Dec 15, 2018",5:00p,,Box Score,@,Orlando Magic,L,,89,96,14,16,L 1,20011,2:13,"at Mexico City, Mexico",False,UTA,2019
+31,"Mon, Dec 17, 2018",8:00p,,Box Score,@,Houston Rockets,L,,97,102,14,17,L 2,18055,2:17,,False,UTA,2019
+32,"Wed, Dec 19, 2018",9:00p,,Box Score,,Golden State Warriors,W,,108,103,15,17,W 1,18306,2:11,,False,UTA,2019
+33,"Fri, Dec 21, 2018",10:00p,,Box Score,@,Portland Trail Blazers,W,,120,90,16,17,W 2,19127,2:00,,False,UTA,2019
+34,"Sat, Dec 22, 2018",9:00p,,Box Score,,Oklahoma City Thunder,L,,106,107,16,18,L 1,18306,2:11,,False,UTA,2019
+35,"Tue, Dec 25, 2018",10:30p,,Box Score,,Portland Trail Blazers,W,,117,96,17,18,W 1,18306,2:14,,False,UTA,2019
+36,"Thu, Dec 27, 2018",10:30p,,Box Score,,Philadelphia 76ers,L,,97,114,17,19,L 1,18306,2:18,,False,UTA,2019
+37,"Sat, Dec 29, 2018",8:00p,,Box Score,,New York Knicks,W,,129,97,18,19,W 1,18306,2:01,,False,UTA,2019
+38,"Tue, Jan 1, 2019",7:30p,,Box Score,@,Toronto Raptors,L,,116,122,18,20,L 1,19800,2:19,,False,UTA,2019
+39,"Fri, Jan 4, 2019",7:30p,,Box Score,@,Cleveland Cavaliers,W,,117,91,19,20,W 1,19432,2:02,,False,UTA,2019
+40,"Sat, Jan 5, 2019",7:00p,,Box Score,@,Detroit Pistons,W,,110,105,20,20,W 2,17255,2:18,,False,UTA,2019
+41,"Mon, Jan 7, 2019",8:00p,,Box Score,@,Milwaukee Bucks,L,,102,114,20,21,L 1,17341,2:07,,False,UTA,2019
+42,"Wed, Jan 9, 2019",9:00p,,Box Score,,Orlando Magic,W,,106,93,21,21,W 1,18306,2:07,,False,UTA,2019
+43,"Fri, Jan 11, 2019",10:00p,,Box Score,,Los Angeles Lakers,W,,113,95,22,21,W 2,18306,2:25,,False,UTA,2019
+44,"Sat, Jan 12, 2019",10:00p,,Box Score,,Chicago Bulls,W,,110,102,23,21,W 3,18306,2:12,,False,UTA,2019
+45,"Mon, Jan 14, 2019",9:00p,,Box Score,,Detroit Pistons,W,,100,94,24,21,W 4,18306,2:15,,False,UTA,2019
+46,"Wed, Jan 16, 2019",10:30p,,Box Score,@,Los Angeles Clippers,W,,129,109,25,21,W 5,15535,2:06,,False,UTA,2019
+47,"Fri, Jan 18, 2019",9:00p,,Box Score,,Cleveland Cavaliers,W,,115,99,26,21,W 6,18306,2:05,,False,UTA,2019
+48,"Mon, Jan 21, 2019",9:00p,,Box Score,,Portland Trail Blazers,L,,104,109,26,22,L 1,18306,2:16,,False,UTA,2019
+49,"Wed, Jan 23, 2019",10:30p,,Box Score,,Denver Nuggets,W,,114,108,27,22,W 1,18306,2:26,,False,UTA,2019
+50,"Fri, Jan 25, 2019",9:00p,,Box Score,,Minnesota Timberwolves,W,,106,102,28,22,W 2,18306,2:12,,False,UTA,2019
+51,"Sun, Jan 27, 2019",7:00p,,Box Score,@,Minnesota Timberwolves,W,,125,111,29,22,W 3,14542,2:13,,False,UTA,2019
+52,"Wed, Jan 30, 2019",10:30p,,Box Score,@,Portland Trail Blazers,L,,105,132,29,23,L 1,19393,2:11,,False,UTA,2019
+53,"Fri, Feb 1, 2019",9:00p,,Box Score,,Atlanta Hawks,W,,128,112,30,23,W 1,18306,2:16,,False,UTA,2019
+54,"Sat, Feb 2, 2019",9:00p,,Box Score,,Houston Rockets,L,,98,125,30,24,L 1,18306,2:22,,False,UTA,2019
+55,"Wed, Feb 6, 2019",9:00p,,Box Score,,Phoenix Suns,W,,116,88,31,24,W 1,18306,2:05,,False,UTA,2019
+56,"Sat, Feb 9, 2019",5:00p,,Box Score,,San Antonio Spurs,W,,125,105,32,24,W 2,18306,2:08,,False,UTA,2019
+57,"Tue, Feb 12, 2019",10:30p,,Box Score,@,Golden State Warriors,L,,108,115,32,25,L 1,19596,2:14,,False,UTA,2019
+58,"Fri, Feb 22, 2019",9:30p,,Box Score,@,Oklahoma City Thunder,L,2OT,147,148,32,26,L 2,18203,2:53,,False,UTA,2019
+59,"Sat, Feb 23, 2019",10:00p,,Box Score,,Dallas Mavericks,W,,125,109,33,26,W 1,18306,2:12,,False,UTA,2019
+60,"Wed, Feb 27, 2019",9:00p,,Box Score,,Los Angeles Clippers,W,,111,105,34,26,W 2,18306,2:17,,False,UTA,2019
+61,"Thu, Feb 28, 2019",10:30p,,Box Score,@,Denver Nuggets,W,,111,104,35,26,W 3,19520,2:16,,False,UTA,2019
+62,"Sat, Mar 2, 2019",9:00p,,Box Score,,Milwaukee Bucks,W,,115,111,36,26,W 4,18306,2:20,,False,UTA,2019
+63,"Mon, Mar 4, 2019",9:00p,,Box Score,,New Orleans Pelicans,L,,112,115,36,27,L 1,18306,2:12,,False,UTA,2019
+64,"Wed, Mar 6, 2019",8:00p,,Box Score,@,New Orleans Pelicans,W,,114,104,37,27,W 1,14681,2:11,,False,UTA,2019
+65,"Fri, Mar 8, 2019",8:00p,,Box Score,@,Memphis Grizzlies,L,,104,114,37,28,L 1,15407,2:06,,False,UTA,2019
+66,"Mon, Mar 11, 2019",9:00p,,Box Score,,Oklahoma City Thunder,L,,89,98,37,29,L 2,18306,2:13,,False,UTA,2019
+67,"Wed, Mar 13, 2019",10:00p,,Box Score,@,Phoenix Suns,W,,114,97,38,29,W 1,18055,2:11,,False,UTA,2019
+68,"Thu, Mar 14, 2019",9:00p,,Box Score,,Minnesota Timberwolves,W,,120,100,39,29,W 2,18306,2:07,,False,UTA,2019
+69,"Sat, Mar 16, 2019",9:00p,,Box Score,,Brooklyn Nets,W,,114,98,40,29,W 3,18306,2:09,,False,UTA,2019
+70,"Mon, Mar 18, 2019",7:00p,,Box Score,@,Washington Wizards,W,,116,95,41,29,W 4,15637,2:02,,False,UTA,2019
+71,"Wed, Mar 20, 2019",7:30p,,Box Score,@,New York Knicks,W,,137,116,42,29,W 5,18530,2:04,,False,UTA,2019
+72,"Thu, Mar 21, 2019",7:30p,,Box Score,@,Atlanta Hawks,L,,114,117,42,30,L 1,15569,2:25,,False,UTA,2019
+73,"Sat, Mar 23, 2019",8:00p,,Box Score,@,Chicago Bulls,W,,114,83,43,30,W 1,20506,1:57,,False,UTA,2019
+74,"Mon, Mar 25, 2019",9:00p,,Box Score,,Phoenix Suns,W,,125,92,44,30,W 2,18306,2:14,,False,UTA,2019
+75,"Wed, Mar 27, 2019",10:30p,,Box Score,,Los Angeles Lakers,W,,115,100,45,30,W 3,18306,2:19,,False,UTA,2019
+76,"Fri, Mar 29, 2019",9:00p,,Box Score,,Washington Wizards,W,,128,124,46,30,W 4,18306,2:15,,False,UTA,2019
+77,"Mon, Apr 1, 2019",9:00p,,Box Score,,Charlotte Hornets,W,,111,102,47,30,W 5,18306,2:15,,False,UTA,2019
+78,"Wed, Apr 3, 2019",10:00p,,Box Score,@,Phoenix Suns,W,,118,97,48,30,W 6,15797,2:08,,False,UTA,2019
+79,"Fri, Apr 5, 2019",9:00p,,Box Score,,Sacramento Kings,W,,119,98,49,30,W 7,18306,2:10,,False,UTA,2019
+80,"Sun, Apr 7, 2019",9:30p,,Box Score,@,Los Angeles Lakers,L,,109,113,49,31,L 1,18997,2:14,,False,UTA,2019
+81,"Tue, Apr 9, 2019",9:00p,,Box Score,,Denver Nuggets,W,,118,108,50,31,W 1,18306,2:14,,False,UTA,2019
+82,"Wed, Apr 10, 2019",10:30p,,Box Score,@,Los Angeles Clippers,L,OT,137,143,50,32,L 1,17655,2:33,,False,UTA,2019
+1,"Sun, Apr 14, 2019",9:30p,,Box Score,@,Houston Rockets,L,,90,122,0,1,L 1,18055,2:16,,True,UTA,2019
+2,"Wed, Apr 17, 2019",9:30p,,Box Score,@,Houston Rockets,L,,98,118,0,2,L 2,18055,2:15,,True,UTA,2019
+3,"Sat, Apr 20, 2019",10:30p,,Box Score,,Houston Rockets,L,,101,104,0,3,L 3,18306,2:38,,True,UTA,2019
+4,"Mon, Apr 22, 2019",10:30p,,Box Score,,Houston Rockets,W,,107,91,1,3,W 1,18306,2:20,,True,UTA,2019
+5,"Wed, Apr 24, 2019",8:00p,,Box Score,@,Houston Rockets,L,,93,100,1,4,L 1,18055,2:14,,True,UTA,2019

@@ -1,0 +1,92 @@
+G,Date,Start (ET),Unnamed: 3,Unnamed: 4,Unnamed: 5,Opponent,Unnamed: 7,Unnamed: 8,Tm,Opp,W,L,Streak,Attend.,LOG,Notes,is_playoff,team,season
+1,"Wed, Oct 23, 2024",7:30p,,Box Score,@,Toronto Raptors,W,,136,106,1,0,W 1,19800,2:18,,False,CLE,2025
+2,"Fri, Oct 25, 2024",7:30p,,Box Score,,Detroit Pistons,W,,113,101,2,0,W 2,19432,2:10,,False,CLE,2025
+3,"Sat, Oct 26, 2024",7:00p,,Box Score,@,Washington Wizards,W,,135,116,3,0,W 3,15156,2:23,,False,CLE,2025
+4,"Mon, Oct 28, 2024",7:30p,,Box Score,@,New York Knicks,W,,110,104,4,0,W 4,19812,2:23,,False,CLE,2025
+5,"Wed, Oct 30, 2024",7:00p,,Box Score,,Los Angeles Lakers,W,,134,110,5,0,W 5,19432,2:07,,False,CLE,2025
+6,"Fri, Nov 1, 2024",7:00p,,Box Score,,Orlando Magic,W,,120,109,6,0,W 6,19432,2:20,,False,CLE,2025
+7,"Sat, Nov 2, 2024",8:00p,,Box Score,@,Milwaukee Bucks,W,,114,113,7,0,W 7,17341,2:15,,False,CLE,2025
+8,"Mon, Nov 4, 2024",7:00p,,Box Score,,Milwaukee Bucks,W,,116,114,8,0,W 8,19432,2:02,,False,CLE,2025
+9,"Wed, Nov 6, 2024",8:00p,,Box Score,@,New Orleans Pelicans,W,,131,122,9,0,W 9,15694,2:11,,False,CLE,2025
+10,"Fri, Nov 8, 2024",7:30p,,Box Score,,Golden State Warriors,W,,136,117,10,0,W 10,19432,2:10,,False,CLE,2025
+11,"Sat, Nov 9, 2024",7:30p,,Box Score,,Brooklyn Nets,W,,105,100,11,0,W 11,19432,2:17,,False,CLE,2025
+12,"Mon, Nov 11, 2024",8:00p,,Box Score,@,Chicago Bulls,W,,119,113,12,0,W 12,20560,2:06,,False,CLE,2025
+13,"Wed, Nov 13, 2024",7:30p,,Box Score,@,Philadelphia 76ers,W,,114,106,13,0,W 13,19777,1:59,,False,CLE,2025
+14,"Fri, Nov 15, 2024",7:30p,,Box Score,,Chicago Bulls,W,,144,126,14,0,W 14,19432,2:11,NBA Cup,False,CLE,2025
+15,"Sun, Nov 17, 2024",6:00p,,Box Score,,Charlotte Hornets,W,,128,114,15,0,W 15,19432,2:16,,False,CLE,2025
+16,"Tue, Nov 19, 2024",7:00p,,Box Score,@,Boston Celtics,L,,117,120,15,1,L 1,19156,2:16,NBA Cup,False,CLE,2025
+17,"Wed, Nov 20, 2024",7:30p,,Box Score,,New Orleans Pelicans,W,,128,100,16,1,W 1,19432,1:59,,False,CLE,2025
+18,"Sun, Nov 24, 2024",7:30p,,Box Score,,Toronto Raptors,W,,122,108,17,1,W 2,19432,2:17,,False,CLE,2025
+19,"Wed, Nov 27, 2024",7:00p,,Box Score,,Atlanta Hawks,L,,124,135,17,2,L 1,19432,2:18,,False,CLE,2025
+20,"Fri, Nov 29, 2024",2:30p,,Box Score,@,Atlanta Hawks,L,,101,117,17,3,L 2,17881,2:12,NBA Cup,False,CLE,2025
+21,"Sun, Dec 1, 2024",6:00p,,Box Score,,Boston Celtics,W,,115,111,18,3,W 1,19432,2:16,,False,CLE,2025
+22,"Tue, Dec 3, 2024",7:00p,,Box Score,,Washington Wizards,W,,118,87,19,3,W 2,19432,2:09,NBA Cup,False,CLE,2025
+23,"Thu, Dec 5, 2024",7:00p,,Box Score,,Denver Nuggets,W,,126,114,20,3,W 3,19432,2:05,,False,CLE,2025
+24,"Sat, Dec 7, 2024",1:00p,,Box Score,@,Charlotte Hornets,W,,116,102,21,3,W 4,18832,2:14,,False,CLE,2025
+25,"Sun, Dec 8, 2024",6:00p,,Box Score,@,Miami Heat,L,,113,122,21,4,L 1,19600,,,False,CLE,2025
+26,"Fri, Dec 13, 2024",7:00p,,Box Score,,Washington Wizards,W,,115,105,22,4,W 1,19432,2:15,,False,CLE,2025
+27,"Mon, Dec 16, 2024",7:30p,,Box Score,@,Brooklyn Nets,W,,130,101,23,4,W 2,16588,2:18,,False,CLE,2025
+28,"Fri, Dec 20, 2024",7:30p,,Box Score,,Milwaukee Bucks,W,,124,101,24,4,W 3,19432,2:03,,False,CLE,2025
+29,"Sat, Dec 21, 2024",8:00p,,Box Score,,Philadelphia 76ers,W,,126,99,25,4,W 4,19432,2:06,,False,CLE,2025
+30,"Mon, Dec 23, 2024",7:00p,,Box Score,,Utah Jazz,W,,124,113,26,4,W 5,19432,2:09,,False,CLE,2025
+31,"Fri, Dec 27, 2024",9:00p,,Box Score,@,Denver Nuggets,W,,149,135,27,4,W 6,19952,2:14,,False,CLE,2025
+32,"Mon, Dec 30, 2024",10:00p,,Box Score,@,Golden State Warriors,W,,113,95,28,4,W 7,18064,2:10,,False,CLE,2025
+33,"Tue, Dec 31, 2024",9:00p,,Box Score,@,Los Angeles Lakers,W,,122,110,29,4,W 8,18997,2:03,,False,CLE,2025
+34,"Fri, Jan 3, 2025",8:30p,,Box Score,@,Dallas Mavericks,W,,134,122,30,4,W 9,20231,2:10,,False,CLE,2025
+35,"Sun, Jan 5, 2025",6:00p,,Box Score,,Charlotte Hornets,W,,115,105,31,4,W 10,19432,2:06,,False,CLE,2025
+36,"Wed, Jan 8, 2025",7:00p,,Box Score,,Oklahoma City Thunder,W,,129,122,32,4,W 11,19432,2:19,,False,CLE,2025
+37,"Thu, Jan 9, 2025",7:00p,,Box Score,,Toronto Raptors,W,,132,126,33,4,W 12,19432,2:08,,False,CLE,2025
+38,"Sun, Jan 12, 2025",6:00p,,Box Score,,Indiana Pacers,L,,93,108,33,5,L 1,19432,2:08,,False,CLE,2025
+39,"Tue, Jan 14, 2025",7:00p,,Box Score,@,Indiana Pacers,W,,127,117,34,5,W 1,16035,2:26,,False,CLE,2025
+40,"Thu, Jan 16, 2025",7:30p,,Box Score,@,Oklahoma City Thunder,L,,114,134,34,6,L 1,18203,2:12,,False,CLE,2025
+41,"Sat, Jan 18, 2025",9:00p,,Box Score,@,Minnesota Timberwolves,W,,124,117,35,6,W 1,18978,2:16,,False,CLE,2025
+42,"Mon, Jan 20, 2025",3:30p,,Box Score,,Phoenix Suns,W,,118,92,36,6,W 2,19432,2:14,,False,CLE,2025
+43,"Wed, Jan 22, 2025",8:00p,,Box Score,@,Houston Rockets,L,,108,109,36,7,L 1,16719,2:16,,False,CLE,2025
+44,"Fri, Jan 24, 2025",7:00p,,Box Score,@,Philadelphia 76ers,L,,129,132,36,8,L 2,19760,2:25,,False,CLE,2025
+45,"Sat, Jan 25, 2025",7:30p,,Box Score,,Houston Rockets,L,,131,135,36,9,L 3,19432,2:24,,False,CLE,2025
+46,"Mon, Jan 27, 2025",7:00p,,Box Score,,Detroit Pistons,W,,110,91,37,9,W 1,19432,2:07,,False,CLE,2025
+47,"Wed, Jan 29, 2025",7:30p,,Box Score,@,Miami Heat,W,,126,106,38,9,W 2,19600,2:00,,False,CLE,2025
+48,"Thu, Jan 30, 2025",7:00p,,Box Score,,Atlanta Hawks,W,,137,115,39,9,W 3,19432,2:11,,False,CLE,2025
+49,"Sun, Feb 2, 2025",3:30p,,Box Score,,Dallas Mavericks,W,,144,101,40,9,W 4,19432,1:59,,False,CLE,2025
+50,"Tue, Feb 4, 2025",7:30p,,Box Score,,Boston Celtics,L,,105,112,40,10,L 1,19432,2:26,,False,CLE,2025
+51,"Wed, Feb 5, 2025",7:00p,,Box Score,@,Detroit Pistons,W,,118,115,41,10,W 1,18734,2:34,,False,CLE,2025
+52,"Fri, Feb 7, 2025",7:00p,,Box Score,@,Washington Wizards,W,,134,124,42,10,W 2,20385,2:19,,False,CLE,2025
+53,"Mon, Feb 10, 2025",7:00p,,Box Score,,Minnesota Timberwolves,W,,128,107,43,10,W 3,19432,2:13,,False,CLE,2025
+54,"Wed, Feb 12, 2025",7:30p,,Box Score,@,Toronto Raptors,W,,131,108,44,10,W 4,16549,2:05,,False,CLE,2025
+55,"Thu, Feb 20, 2025",7:30p,,Box Score,@,Brooklyn Nets,W,,110,97,45,10,W 5,17926,2:19,,False,CLE,2025
+56,"Fri, Feb 21, 2025",7:00p,,Box Score,,New York Knicks,W,,142,105,46,10,W 6,19432,2:09,,False,CLE,2025
+57,"Sun, Feb 23, 2025",7:00p,,Box Score,,Memphis Grizzlies,W,,129,123,47,10,W 7,19432,2:41,,False,CLE,2025
+58,"Tue, Feb 25, 2025",7:30p,,Box Score,@,Orlando Magic,W,,122,82,48,10,W 8,18846,2:07,,False,CLE,2025
+59,"Fri, Feb 28, 2025",7:30p,,Box Score,@,Boston Celtics,W,,123,116,49,10,W 9,19156,2:15,,False,CLE,2025
+60,"Sun, Mar 2, 2025",3:30p,,Box Score,,Portland Trail Blazers,W,OT,133,129,50,10,W 10,19432,2:51,,False,CLE,2025
+61,"Tue, Mar 4, 2025",8:00p,,Box Score,@,Chicago Bulls,W,,139,117,51,10,W 11,20943,2:21,,False,CLE,2025
+62,"Wed, Mar 5, 2025",7:00p,,Box Score,,Miami Heat,W,,112,107,52,10,W 12,19432,2:19,,False,CLE,2025
+63,"Fri, Mar 7, 2025",7:00p,,Box Score,@,Charlotte Hornets,W,,118,117,53,10,W 13,19296,2:34,,False,CLE,2025
+64,"Sun, Mar 9, 2025",8:00p,,Box Score,@,Milwaukee Bucks,W,,112,100,54,10,W 14,17355,2:12,,False,CLE,2025
+65,"Tue, Mar 11, 2025",7:00p,,Box Score,,Brooklyn Nets,W,,109,104,55,10,W 15,19432,2:13,,False,CLE,2025
+66,"Fri, Mar 14, 2025",8:00p,,Box Score,@,Memphis Grizzlies,W,,133,124,56,10,W 16,17051,2:19,,False,CLE,2025
+67,"Sun, Mar 16, 2025",1:00p,,Box Score,,Orlando Magic,L,,103,108,56,11,L 1,19432,2:22,,False,CLE,2025
+68,"Tue, Mar 18, 2025",10:30p,,Box Score,@,Los Angeles Clippers,L,,119,132,56,12,L 2,17927,2:22,,False,CLE,2025
+69,"Wed, Mar 19, 2025",10:00p,,Box Score,@,Sacramento Kings,L,,119,123,56,13,L 3,15919,2:10,,False,CLE,2025
+70,"Fri, Mar 21, 2025",10:00p,,Box Score,@,Phoenix Suns,L,,112,123,56,14,L 4,17071,1:57,,False,CLE,2025
+71,"Sun, Mar 23, 2025",3:30p,,Box Score,@,Utah Jazz,W,,120,91,57,14,W 1,18175,2:12,,False,CLE,2025
+72,"Tue, Mar 25, 2025",10:00p,,Box Score,@,Portland Trail Blazers,W,,122,111,58,14,W 2,19335,2:05,,False,CLE,2025
+73,"Thu, Mar 27, 2025",7:00p,,Box Score,,San Antonio Spurs,W,,124,116,59,14,W 3,19432,2:18,,False,CLE,2025
+74,"Fri, Mar 28, 2025",7:00p,,Box Score,@,Detroit Pistons,L,,122,133,59,15,L 1,20062,2:29,,False,CLE,2025
+75,"Sun, Mar 30, 2025",3:30p,,Box Score,,Los Angeles Clippers,W,,127,122,60,15,W 1,19432,2:14,,False,CLE,2025
+76,"Wed, Apr 2, 2025",7:00p,,Box Score,,New York Knicks,W,,124,105,61,15,W 2,19432,2:10,,False,CLE,2025
+77,"Fri, Apr 4, 2025",8:00p,,Box Score,@,San Antonio Spurs,W,,114,113,62,15,W 3,17819,2:04,,False,CLE,2025
+78,"Sun, Apr 6, 2025",6:00p,,Box Score,,Sacramento Kings,L,,113,120,62,16,L 1,19432,2:16,,False,CLE,2025
+79,"Tue, Apr 8, 2025",7:00p,,Box Score,,Chicago Bulls,W,,135,113,63,16,W 1,19432,2:01,,False,CLE,2025
+80,"Thu, Apr 10, 2025",7:00p,,Box Score,@,Indiana Pacers,L,,112,114,63,17,L 1,17020,2:21,,False,CLE,2025
+81,"Fri, Apr 11, 2025",7:30p,,Box Score,@,New York Knicks,W,,108,102,64,17,W 1,19812,2:18,,False,CLE,2025
+82,"Sun, Apr 13, 2025",1:00p,,Box Score,,Indiana Pacers,L,2OT,118,126,64,18,L 1,19432,2:48,,False,CLE,2025
+1,"Sun, Apr 20, 2025",7:00p,,Box Score,,Miami Heat,W,,121,100,1,0,W 1,19432,2:16,,True,CLE,2025
+2,"Wed, Apr 23, 2025",7:30p,,Box Score,,Miami Heat,W,,121,112,2,0,W 2,19432,2:24,,True,CLE,2025
+3,"Sat, Apr 26, 2025",1:00p,,Box Score,@,Miami Heat,W,,124,87,3,0,W 3,19600,2:14,,True,CLE,2025
+4,"Mon, Apr 28, 2025",7:30p,,Box Score,@,Miami Heat,W,,138,83,4,0,W 4,19600,2:18,,True,CLE,2025
+5,"Sun, May 4, 2025",6:00p,,Box Score,,Indiana Pacers,L,,112,121,4,1,L 1,19432,2:23,,True,CLE,2025
+6,"Tue, May 6, 2025",7:00p,,Box Score,,Indiana Pacers,L,,119,120,4,2,L 2,19432,2:40,,True,CLE,2025
+7,"Fri, May 9, 2025",7:30p,,Box Score,@,Indiana Pacers,W,,126,104,5,2,W 1,17274,2:42,,True,CLE,2025
+8,"Sun, May 11, 2025",8:00p,,Box Score,@,Indiana Pacers,L,,109,129,5,3,L 1,17274,2:36,,True,CLE,2025
+9,"Tue, May 13, 2025",7:00p,,Box Score,,Indiana Pacers,L,,105,114,5,4,L 2,19432,2:34,,True,CLE,2025
