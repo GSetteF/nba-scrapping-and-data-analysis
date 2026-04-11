@@ -4,7 +4,7 @@
 
 **Professor**: Yuri de Almeida Malheiros Barbosa 
 
-**Alunos**: Gabriel Sette de Figueirêdo, Jocyneide Bernardo da Silva e Milton Bezerra DO Vale Filho
+**Alunos**: Gabriel Sette de Figueirêdo, Jocyneide Bernardo da Silva e Milton Bezerra Do Vale Filho
 
 ---
 
