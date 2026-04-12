@@ -136,8 +136,17 @@ Limitações:
 
 ## 3. CONJUNTO DE DADOS
 
+Os quatro conjuntos de dados utilizados no projeto foram coletados via web scraping do Basketball Reference, cobrindo 76 temporadas (1950-2025). A tabela a seguir mostra um resumo de comparação:
+
+| Tabela | Registros | Cobertura temporal | Granularidade |
+|---|---|---|---|
+| `nba_trades_1950_2026` | 8.819 linhas | 1949–2026 | Um ativo por linha |
+| `team_season_outcomes` | 4.332 linhas | 1950–2025 | Um time por temporada |
+| `PlayerSeasonStats` | ~75 arquivos CSV | 1950–2025 | Um jogador por temporada |
+| `TeamGames` | ~1.800 arquivos CSV | 1950–2025 | Um jogo por linha |
+
 ### 3.1. Tabela: TeamGames
-Contém o histórico de todas as partidas disputadas pelas franquias.
+Contém o histórico de todas as partidas disputadas pelas franquias. Os dados são armazenados em arquivos individuais no formato ({sigla}_{ano}_games.csv), resultando em aproximadamente 1800 arquivos no total. 
 
 **Campos e Descrições:**
 * **G**: Número sequencial do jogo na temporada - Inteiro (int) 
@@ -173,7 +182,7 @@ Contém o histórico de todas as partidas disputadas pelas franquias.
 ---
 
 ### 3.2. Tabela: PlayerSeasonStats
-Reúne estatísticas gerais e métricas avançadas de performance individual dos jogadores ao longo das temporadas.
+Reúne estatísticas gerais e métricas avançadas de performance individual dos jogadores ao longo das temporadas. Os dados foram armazenados em arquivos que foram separados por temporada (ex: player_season_stats_2020.csv), tendo a flag (is_playoff) para diferenciar a temporada regular dos playoffs.
 
 **Campos e Descrições:**
 * **Rk**: Ranking do jogador na listagem da temporada - Inteiro (int) 
@@ -201,6 +210,8 @@ Reúne estatísticas gerais e métricas avançadas de performance individual dos
 * **BPM (Box Plus/Minus)**: Métrica de impacto total do jogador por 100 posses em relação à média da liga - Float 
 * **VORP (Value Over Replacement Player)**: Impacto total do jogador em relação a um jogador de nível reserva médio (substituição) - Float 
 
+**Observação**: estatísticas avançadas (PER, BPM, VORP) podem estar incompletas para temporadas anteriores a 1974, pois é um período com cobertura limitada no Basketball Reference.
+
 **Exemplo de Dados:**
 | Rk | Player | Pos | Age | Tm | G | MP | PER | TS% | 3PAr | FTr | ORB% | DRB% | TRB% | AST% | STL% | BLK% | TOV% | USG% | Unnamed: 19 | OWS | DWS | WS | WS/48 | Unnamed: 24 | OBPM | DBPM | BPM | VORP | season | is_playoff | 
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -214,7 +225,7 @@ Reúne estatísticas gerais e métricas avançadas de performance individual dos
 ---
 
 ### 3.3. Tabela: TeamSeasonOutcomes
-Consolida os resultados competitivos alcançados por cada time por ano.
+Consolida os resultados alcançados por cada time por ano, conta com `4332 registros` que cobrem `57 franquias` ao longo de 76 temporadas (1950-2025). Para as equipes que não participaram dos playoffs em uma temporada, os campos recebem o valor booleano 0, o que garante um dataset sem registros ausentes.
 
 **Campos e Descrições:**
 * **team**: Sigla identificadora do time - String 
@@ -237,7 +248,7 @@ Consolida os resultados competitivos alcançados por cada time por ano.
 ---
 
 ### 3.4. Tabela: nba_trades_1950_2026
-Dicionário estruturado de todas as movimentações de trocas entre franquias.
+Dicionário estruturado de todas as movimentações de trocas entre franquias, conta com `8819 registros`, sendo `6380 ativos do tipo player (72,3%)` e `2439 picks (27,7%)`, envolvendo `61 franquias` durante o período de setembro de 1949 a fevereiro de 2026.
 
 **Campos e Descrições:**
 * **operation_type**: Tipo da transação realizada (Ex: trade) - String 
@@ -267,5 +278,13 @@ Dicionário estruturado de todas as movimentações de trocas entre franquias.
 | trade | UTA | DAL | pick | 2025 2nd round draft pick | | | | True | 8492 | 2025-02-02  |
 
 **Legenda**: Troca entre três times da NBA: Los Angeles Lakers, Dallas Mavericks e Utah Jazz.
+
+### 3.5. Limitações e Considerações
+
+* **Escopo de ativos**: apenas trades com jogadores e picks foram mapeados. Operações envolvendo somente dinheiro (cash considerations) são subrepresentadas ou omitidas.
+* **Picks sem proteções**: as cláusulas de proteção (ex: "top-5 protected") estão presentes no campo `asset_name` como texto, mas não ffoi possível que fossem interpretadas semanticamente.
+* **Franquias históricas**: times extintos ou relocados (ex: Seattle SuperSonics, Vancouver Grizzlies) aparecem com suas siglas históricas, necessitando um mapeamento adicional em análises verticais.
+* **Estatísticas pré-1974**: campos como PER, BPM e VORP podem estar incompletos para temporadas antecedentes a esse período.
+* **Rate limiting**: pausas aleatórias e tratamento de erro HTTP 429 foram implementados para respeitar os limites do servidor, podendo ter gerado lacunas pontuais em temporadas específicas.
 
 **Todos os dados estão disponíveis nesse Repositório**
